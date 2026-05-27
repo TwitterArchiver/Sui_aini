@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988194404285509641"
+      ],
+      "media_source_tweet_id": [
+        "1988194607407263846"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988264920291725360",
+    "created_at": "2025-11-11T15:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988264920291725360"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "宮妃那",
+          "probability": 0.3765,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "HOOOOPE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638390439303839744",
+          "start": 3,
+          "username": "EXHOOOOPE"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「EXTEND STEP HOOOOPE!」は、新人声優４人が“JUMP”へつながる“STEP”となるよう、さまざまなことにチャレンジしながら、楽しい時間をお届けしていく番組です。4月からHOOOOPE!はタイトルを「EXTEND STEP HOOOOPE!」とあらためまして、YouTubeの文化放送エクステンド...",
+          "display_url": "youtube.com/live/o23sXn3lG…",
+          "end": 70,
+          "expanded_url": "https://www.youtube.com/live/o23sXn3lGY4",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 47,
+          "status": 200,
+          "title": "EXTEND STEP 羊宮妃那のHOOOOPE！#109 2025年11月11日(火)20時〜",
+          "unwound_url": "https://www.youtube.com/live/o23sXn3lGY4",
+          "url": "https://t.co/Dhto3HqOkJ"
+        },
+        {
+          "display_url": "pic.x.com/pVesgwCWNK",
+          "end": 94,
+          "expanded_url": "https://x.com/EXHOOOOPE/status/1988194607407263846/video/1",
+          "media_key": "13_1988194404285509641",
+          "start": 71,
+          "url": "https://t.co/pVesgwCWNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988264920291725360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988194607407263846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EXHOOOOPE: 【このあと20時から】🐑\n羊宮妃那の #HOOOOPE!生配信\nhttps://t.co/Dhto3HqOkJ https://t.co/pVesgwCWNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12312,
+        "height": 480,
+        "media_key": "13_1988194404285509641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988194404285509641/img/s1ppuOHHA83yyDrG.jpg",
+        "public_metrics": {
+          "view_count": 3483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988194404285509641/vid/avc1/480x270/Nfblxcm1mC_UfhhC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988194404285509641/vid/avc1/640x360/QfogAL5ygxRbCm6g.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988194404285509641/vid/avc1/854x480/tymyknVOc0MTlnha.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988194404285509641/pl/VGwDwwzdUzt9oVqy.m3u8?tag=14&v=024"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988194404285509641"
+          ],
+          "media_source_tweet_id": [
+            "1988194607407263846"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988264920291725360",
+        "created_at": "2025-11-11T15:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988264920291725360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "宮妃那",
+              "probability": 0.3765,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "HOOOOPE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638390439303839744",
+              "start": 3,
+              "username": "EXHOOOOPE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「EXTEND STEP HOOOOPE!」は、新人声優４人が“JUMP”へつながる“STEP”となるよう、さまざまなことにチャレンジしながら、楽しい時間をお届けしていく番組です。4月からHOOOOPE!はタイトルを「EXTEND STEP HOOOOPE!」とあらためまして、YouTubeの文化放送エクステンド...",
+              "display_url": "youtube.com/live/o23sXn3lG…",
+              "end": 70,
+              "expanded_url": "https://www.youtube.com/live/o23sXn3lGY4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "EXTEND STEP 羊宮妃那のHOOOOPE！#109 2025年11月11日(火)20時〜",
+              "unwound_url": "https://www.youtube.com/live/o23sXn3lGY4",
+              "url": "https://t.co/Dhto3HqOkJ"
+            },
+            {
+              "display_url": "pic.x.com/pVesgwCWNK",
+              "end": 94,
+              "expanded_url": "https://x.com/EXHOOOOPE/status/1988194607407263846/video/1",
+              "media_key": "13_1988194404285509641",
+              "start": 71,
+              "url": "https://t.co/pVesgwCWNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988264920291725360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988194607407263846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EXHOOOOPE: 【このあと20時から】🐑\n羊宮妃那の #HOOOOPE!生配信\nhttps://t.co/Dhto3HqOkJ https://t.co/pVesgwCWNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988194404285509641"
+          ]
+        },
+        "author_id": "1638390439303839744",
+        "conversation_id": "1988194607407263846",
+        "created_at": "2025-11-11T10:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988194607407263846"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "宮妃那",
+              "probability": 0.4006,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "HOOOOPE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「EXTEND STEP HOOOOPE!」は、新人声優４人が“JUMP”へつながる“STEP”となるよう、さまざまなことにチャレンジしながら、楽しい時間をお届けしていく番組です。4月からHOOOOPE!はタイトルを「EXTEND STEP HOOOOPE!」とあらためまして、YouTubeの文化放送エクステンド...",
+              "display_url": "youtube.com/live/o23sXn3lG…",
+              "end": 55,
+              "expanded_url": "https://www.youtube.com/live/o23sXn3lGY4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988194650013020160/zZbnifsb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "EXTEND STEP 羊宮妃那のHOOOOPE！#109 2025年11月11日(火)20時〜",
+              "unwound_url": "https://www.youtube.com/live/o23sXn3lGY4",
+              "url": "https://t.co/Dhto3HqOkJ"
+            },
+            {
+              "display_url": "pic.x.com/pVesgwCWNK",
+              "end": 79,
+              "expanded_url": "https://x.com/EXHOOOOPE/status/1988194607407263846/video/1",
+              "media_key": "13_1988194404285509641",
+              "start": 56,
+              "url": "https://t.co/pVesgwCWNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988194607407263846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 14219,
+          "like_count": 717,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "【このあと20時から】🐑\n羊宮妃那の #HOOOOPE!生配信\nhttps://t.co/Dhto3HqOkJ https://t.co/pVesgwCWNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 523,
+          "like_count": 2629,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2111
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T04:01:53.000Z",
+        "description": "YouTube「文化放送エクステンドチャンネル」にて各パーソナリティが月1で生配信！カルチェラにて会員限定動画も配信中！\n今後の飛躍が期待される4人のホープが色々なことにチャレンジしながら楽しい時間をお届けしていく番組です！\n#HOOOOPE #村上まなつ #羊宮妃那 #伊駒ゆりえ #水野朔\n※写真や動画の転載禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 113,
+                "tag": "HOOOOPE"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "村上まなつ"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "伊駒ゆりえ"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "水野朔"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/hoooope2f…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/hoooope2form/%E3%83%9B%E3%83%BC%E3%83%A0",
+                "start": 0,
+                "url": "https://t.co/YRjTERMIFE"
+              }
+            ]
+          }
+        },
+        "id": "1638390439303839744",
+        "name": "EXTEND STEP HOOOOPE！",
+        "pinned_tweet_id": "1987141179746738588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908105185446293505/hW0jPmwj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11899,
+          "following_count": 5,
+          "like_count": 545,
+          "listed_count": 92,
+          "media_count": 2705,
+          "tweet_count": 5682
+        },
+        "url": "https://t.co/YRjTERMIFE",
+        "username": "EXHOOOOPE",
+        "verified": false
+      }
+    ]
+  }
+}

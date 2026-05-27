@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927198209618673664"
+      ],
+      "media_source_tweet_id": [
+        "1927198221756928023"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1927216335043366917",
+    "created_at": "2025-05-27T04:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T05:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927216335043366917"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "長崎そよ生誕祭2025"
+        },
+        {
+          "end": 68,
+          "start": 56,
+          "tag": "長崎そよ誕生祭2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLKAexIpWa",
+          "end": 92,
+          "expanded_url": "https://x.com/kohinatamika/status/1927198221756928023/photo/1",
+          "media_key": "3_1927198209618673664",
+          "start": 69,
+          "url": "https://t.co/JLKAexIpWa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927216335043366917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 541
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927198221756928023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: そよちゃん、ミネストローネと紅茶だよ🍅☕️🫖\n\n#長崎そよ生誕祭2025 \n#長崎そよ誕生祭2025 https://t.co/JLKAexIpWa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927198209618673664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr7Ij5gXAAAmigw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927198209618673664"
+          ],
+          "media_source_tweet_id": [
+            "1927198221756928023"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927216335043366917",
+        "created_at": "2025-05-27T04:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T05:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927216335043366917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "長崎そよ生誕祭2025"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "長崎そよ誕生祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKAexIpWa",
+              "end": 92,
+              "expanded_url": "https://x.com/kohinatamika/status/1927198221756928023/photo/1",
+              "media_key": "3_1927198209618673664",
+              "start": 69,
+              "url": "https://t.co/JLKAexIpWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927216335043366917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 541
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927198221756928023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: そよちゃん、ミネストローネと紅茶だよ🍅☕️🫖\n\n#長崎そよ生誕祭2025 \n#長崎そよ誕生祭2025 https://t.co/JLKAexIpWa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927198209618673664"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1927198221756928023",
+        "created_at": "2025-05-27T03:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T04:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927198221756928023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "長崎そよ生誕祭2025"
+            },
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "長崎そよ誕生祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLKAexIpWa",
+              "end": 74,
+              "expanded_url": "https://x.com/kohinatamika/status/1927198221756928023/photo/1",
+              "media_key": "3_1927198209618673664",
+              "start": 51,
+              "url": "https://t.co/JLKAexIpWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927198221756928023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 24565,
+          "like_count": 2779,
+          "quote_count": 12,
+          "reply_count": 40,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "そよちゃん、ミネストローネと紅茶だよ🍅☕️🫖\n\n#長崎そよ生誕祭2025 \n#長崎そよ誕生祭2025 https://t.co/JLKAexIpWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1923408372054835553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 282,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 652
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "イマ2"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95967,
+          "following_count": 413,
+          "like_count": 5518,
+          "listed_count": 751,
+          "media_count": 1238,
+          "tweet_count": 4559
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947181042357481472",
+        "3_1947181042177359873"
+      ],
+      "media_source_tweet_id": [
+        "1947181057348165686",
+        "1947181057348165686"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947202002104332653",
+    "created_at": "2025-07-21T07:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T08:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947202002104332653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 50,
+          "id": "50280181",
+          "start": 43,
+          "username": "sketch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0oukOolCz",
+          "end": 132,
+          "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+          "media_key": "3_1947181042357481472",
+          "start": 109,
+          "url": "https://t.co/r0oukOolCz"
+        },
+        {
+          "display_url": "pic.x.com/r0oukOolCz",
+          "end": 132,
+          "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+          "media_key": "3_1947181042177359873",
+          "start": 109,
+          "url": "https://t.co/r0oukOolCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947202002104332653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947181057348165686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: [置顶]\n最近完全没有钱了所以继续开通🚪服务，用 @sketch 自制了个新置顶（自带备忘录截图太丑了）。总之欢迎各位点赞转发，更欢迎直接给我打钱让我能买新衣服拍好看照片，感激不尽 https://t.co/r0oukOolCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947181042357481472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXG12cXsAALTFJ.jpg",
+        "width": 1728
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947181042177359873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXG11xbQAEVnRn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947181042357481472",
+            "3_1947181042177359873"
+          ],
+          "media_source_tweet_id": [
+            "1947181057348165686",
+            "1947181057348165686"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1947202002104332653",
+        "created_at": "2025-07-21T07:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947202002104332653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 50,
+              "id": "50280181",
+              "start": 43,
+              "username": "sketch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0oukOolCz",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+              "media_key": "3_1947181042357481472",
+              "start": 109,
+              "url": "https://t.co/r0oukOolCz"
+            },
+            {
+              "display_url": "pic.x.com/r0oukOolCz",
+              "end": 132,
+              "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+              "media_key": "3_1947181042177359873",
+              "start": 109,
+              "url": "https://t.co/r0oukOolCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947202002104332653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947181057348165686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: [置顶]\n最近完全没有钱了所以继续开通🚪服务，用 @sketch 自制了个新置顶（自带备忘录截图太丑了）。总之欢迎各位点赞转发，更欢迎直接给我打钱让我能买新衣服拍好看照片，感激不尽 https://t.co/r0oukOolCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947181042357481472",
+            "3_1947181042177359873"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1947181057348165686",
+        "created_at": "2025-07-21T06:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T07:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947181057348165686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "50280181",
+              "start": 25,
+              "username": "sketch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0oukOolCz",
+              "end": 114,
+              "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+              "media_key": "3_1947181042357481472",
+              "start": 91,
+              "url": "https://t.co/r0oukOolCz"
+            },
+            {
+              "display_url": "pic.x.com/r0oukOolCz",
+              "end": 114,
+              "expanded_url": "https://x.com/amber_toffee/status/1947181057348165686/photo/1",
+              "media_key": "3_1947181042177359873",
+              "start": 91,
+              "url": "https://t.co/r0oukOolCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947181057348165686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6228,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "[置顶]\n最近完全没有钱了所以继续开通🚪服务，用 @sketch 自制了个新置顶（自带备忘录截图太丑了）。总之欢迎各位点赞转发，更欢迎直接给我打钱让我能买新衣服拍好看照片，感激不尽 https://t.co/r0oukOolCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 467,
+          "like_count": 1826,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 1589
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947181057348165686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12264,
+          "following_count": 2307,
+          "like_count": 32756,
+          "listed_count": 37,
+          "media_count": 518,
+          "tweet_count": 15499
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-24T11:31:43.000Z",
+        "description": "Designers, welcome home.\n\nNeed support? @SketchHelp have you covered.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "SketchHelp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sketch.com",
+                "end": 23,
+                "expanded_url": "https://sketch.com",
+                "start": 0,
+                "url": "https://t.co/77O81leLeg"
+              }
+            ]
+          }
+        },
+        "id": "50280181",
+        "location": "Remote",
+        "name": "Sketch",
+        "pinned_tweet_id": "1938199655994864052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858820941544869888/QHTakxOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162508,
+          "following_count": 144,
+          "like_count": 15955,
+          "listed_count": 2673,
+          "media_count": 2011,
+          "tweet_count": 50251
+        },
+        "url": "https://t.co/77O81leLeg",
+        "username": "sketch",
+        "verified": true
+      }
+    ]
+  }
+}

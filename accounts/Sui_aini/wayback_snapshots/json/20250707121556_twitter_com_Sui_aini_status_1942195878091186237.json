@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1942195878091186237",
+    "created_at": "2025-07-07T12:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942195878091186237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/danger474747/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/danger474747/status/1942072591356981714",
+          "start": 6,
+          "url": "https://t.co/xfKnaB5PyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942195878091186237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 33,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942072591356981714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爸爸级别的 https://t.co/xfKnaB5PyR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_1942072459965968384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOgnOBXMAAZDUC.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1942195878091186237",
+        "created_at": "2025-07-07T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942195878091186237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danger474747/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/danger474747/status/1942072591356981714",
+              "start": 6,
+              "url": "https://t.co/xfKnaB5PyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942195878091186237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942072591356981714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爸爸级别的 https://t.co/xfKnaB5PyR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942072459965968384"
+          ]
+        },
+        "author_id": "1605143399270842369",
+        "conversation_id": "1942072591356981714",
+        "created_at": "2025-07-07T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942072591356981714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yHM73hHpp9",
+              "end": 26,
+              "expanded_url": "https://x.com/danger474747/status/1942072591356981714/photo/1",
+              "media_key": "3_1942072459965968384",
+              "start": 3,
+              "url": "https://t.co/yHM73hHpp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942072591356981714",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 38854,
+          "like_count": 2704,
+          "quote_count": 23,
+          "reply_count": 3,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "🐺🔥 https://t.co/yHM73hHpp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 409,
+          "like_count": 1271,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1323
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T10:09:48.000Z",
+        "description": "its mygo!!!!!\nanon ♡ soyo\n🐑🪨🐤🍊🥁 ♡♡♡",
+        "id": "1605143399270842369",
+        "name": "ymyhtr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770295951598768128/Xq-TMVqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3228,
+          "following_count": 1189,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 1968,
+          "tweet_count": 14924
+        },
+        "username": "danger474747",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1927042113666961545",
+    "created_at": "2025-05-26T16:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927042113666961545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanaka_the/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/kanaka_the/status/1926905808522010898",
+          "start": 16,
+          "url": "https://t.co/3UXmopZRcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927042113666961545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926905808522010898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺便说一句我一直进男厕所男浴室 https://t.co/3UXmopZRcE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1927042113666961545",
+        "created_at": "2025-05-26T16:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927042113666961545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanaka_the/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/kanaka_the/status/1926905808522010898",
+              "start": 16,
+              "url": "https://t.co/3UXmopZRcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927042113666961545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926905808522010898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便说一句我一直进男厕所男浴室 https://t.co/3UXmopZRcE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492908723240837121",
+        "conversation_id": "1926873638180950144",
+        "created_at": "2025-05-26T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926905808522010898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957544663275028481",
+              "start": 0,
+              "username": "SuBanXia1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926905808522010898",
+        "in_reply_to_user_id": "957544663275028481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22704,
+          "like_count": 23,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926873638180950144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuBanXia1120 不是哥们，长这样非要去女厕所人家没报警已经很宽容了好吗？真不是我严格吧。你们这种吃点药就非要说自己是女人的人是在消费我们这些正经融入社会的ts好不好，顺便说一句我一直进男厕所男浴室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1923408372054835553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 282,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 649
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T17:09:27.000Z",
+        "description": "TS一枚常驻广州，可约可空降，门槛88¥，v：ling1999042 QQ：386379774 不发门槛不要加谢谢",
+        "id": "1492908723240837121",
+        "location": "广州",
+        "name": "广州TS铃铛兔❤️",
+        "pinned_tweet_id": "1919969574327337260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748657188099510272/xPDkN97K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7682,
+          "following_count": 79,
+          "like_count": 244,
+          "listed_count": 39,
+          "media_count": 92,
+          "tweet_count": 179
+        },
+        "username": "kanaka_the",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1929094768803385725",
+    "created_at": "2025-06-01T10:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929121908529795466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825991186701524992",
+          "start": 0,
+          "username": "Young2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929121908529795466",
+    "in_reply_to_user_id": "1825991186701524992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929094768803385725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Young2568 灭霸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1929094768803385725",
+        "created_at": "2025-06-01T10:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929121908529795466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825991186701524992",
+              "start": 0,
+              "username": "Young2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929121908529795466",
+        "in_reply_to_user_id": "1825991186701524992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929094768803385725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Young2568 灭霸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825991186701524992",
+        "conversation_id": "1929094768803385725",
+        "created_at": "2025-06-01T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929094768803385725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929094768803385725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求讓全人類在一秒鐘內集體消失教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 300,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 768
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T20:20:06.000Z",
+        "description": "「我就知道！什麼他爹的公司殖民主義，狗屁，你就是為了你那個果兒！」",
+        "id": "1825991186701524992",
+        "location": "月球上的小小愛之孤島",
+        "name": "AAA中央政治局常委批發🚌",
+        "pinned_tweet_id": "1893520953419932147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905919207617056768/I6CSeWzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 304,
+          "like_count": 23909,
+          "listed_count": 5,
+          "media_count": 725,
+          "tweet_count": 9029
+        },
+        "username": "Young2568",
+        "verified": false
+      }
+    ]
+  }
+}

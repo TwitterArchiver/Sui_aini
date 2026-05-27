@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021527180258480128"
+      ],
+      "media_source_tweet_id": [
+        "2021527193558679899"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2021631965334843840",
+    "created_at": "2026-02-11T17:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021631965334843840"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "山田",
+          "probability": 0.5422,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873647526232141824",
+          "start": 3,
+          "username": "Banae_bozaro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yOz1k5Ojk2",
+          "end": 55,
+          "expanded_url": "https://x.com/Banae_bozaro/status/2021527193558679899/photo/1",
+          "media_key": "3_2021527180258480128",
+          "start": 32,
+          "url": "https://t.co/yOz1k5Ojk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021631965334843840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021527193558679899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Banae_bozaro: お金持ちになる夢を見る山田 https://t.co/yOz1k5Ojk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2021527180258480128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3oQosakAAjYha.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527180258480128"
+          ],
+          "media_source_tweet_id": [
+            "2021527193558679899"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2021631965334843840",
+        "created_at": "2026-02-11T17:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021631965334843840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "山田",
+              "probability": 0.5422,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873647526232141824",
+              "start": 3,
+              "username": "Banae_bozaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOz1k5Ojk2",
+              "end": 55,
+              "expanded_url": "https://x.com/Banae_bozaro/status/2021527193558679899/photo/1",
+              "media_key": "3_2021527180258480128",
+              "start": 32,
+              "url": "https://t.co/yOz1k5Ojk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021631965334843840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021527193558679899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Banae_bozaro: お金持ちになる夢を見る山田 https://t.co/yOz1k5Ojk2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021527180258480128"
+          ]
+        },
+        "author_id": "1873647526232141824",
+        "conversation_id": "2021527193558679899",
+        "created_at": "2026-02-11T10:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021527193558679899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOz1k5Ojk2",
+              "end": 37,
+              "expanded_url": "https://x.com/Banae_bozaro/status/2021527193558679899/photo/1",
+              "media_key": "3_2021527180258480128",
+              "start": 14,
+              "url": "https://t.co/yOz1k5Ojk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021527193558679899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 18063,
+          "like_count": 1796,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "お金持ちになる夢を見る山田 https://t.co/yOz1k5Ojk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 554,
+          "like_count": 3231,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 2601
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T08:29:29.000Z",
+        "description": "ぼざろ大好きです‼️山田リョウ推し。",
+        "id": "1873647526232141824",
+        "name": "バナエ",
+        "pinned_tweet_id": "1968329108531929475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001263749773340672/3_zuII14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 525,
+          "like_count": 19486,
+          "listed_count": 4,
+          "media_count": 751,
+          "tweet_count": 7496
+        },
+        "username": "Banae_bozaro",
+        "verified": false
+      }
+    ]
+  }
+}

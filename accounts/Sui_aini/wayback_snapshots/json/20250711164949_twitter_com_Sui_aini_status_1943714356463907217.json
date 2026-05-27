@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1943710572253491274",
+    "created_at": "2025-07-11T16:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943714356463907217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689250197724094464",
+          "start": 0,
+          "username": "miaomonika8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943714356463907217",
+    "in_reply_to_user_id": "1689250197724094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943714242768605336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomonika8 应该（?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1943710572253491274",
+        "created_at": "2025-07-11T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943714356463907217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689250197724094464",
+              "start": 0,
+              "username": "miaomonika8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943714356463907217",
+        "in_reply_to_user_id": "1689250197724094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943714242768605336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomonika8 应该（?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689250197724094464",
+        "conversation_id": "1943710572253491274",
+        "created_at": "2025-07-11T16:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943714242768605336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943714242768605336",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943710572253491274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini ohno，还能洗吧…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943714290071986176/7NtAF1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 438,
+          "like_count": 1501,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 1426
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:20:16.000Z",
+        "description": "中国人です、今日本語を勉強しています、よろしくお願いします\nヽ(=^･ω･^=)",
+        "id": "1689250197724094464",
+        "name": "Monika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821108601928245248/Jd36XMqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 241,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "miaomonika8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1942664974758994225",
+    "created_at": "2025-07-08T19:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942667332486402322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889235272560488448",
+          "start": 0,
+          "username": "Ookura_Atore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942667332486402322",
+    "in_reply_to_user_id": "1889235272560488448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942667038591479942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ookura_Atore 呃啊！我没订他家的，我买的是基沃托斯的，好丑！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1942664974758994225",
+        "created_at": "2025-07-08T19:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942667332486402322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889235272560488448",
+              "start": 0,
+              "username": "Ookura_Atore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942667332486402322",
+        "in_reply_to_user_id": "1889235272560488448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942667038591479942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ookura_Atore 呃啊！我没订他家的，我买的是基沃托斯的，好丑！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889235272560488448",
+        "conversation_id": "1942664974758994225",
+        "created_at": "2025-07-08T19:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942667038591479942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942667038591479942",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942666881451843679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini hbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 418,
+          "like_count": 1326,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1347
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T08:49:54.000Z",
+        "description": "Just a gamer\n🟨⬜🟪⬛",
+        "id": "1889235272560488448",
+        "name": "baka祥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904376211503185920/clseC245_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 43,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 128
+        },
+        "username": "Ookura_Atore",
+        "verified": false
+      }
+    ]
+  }
+}

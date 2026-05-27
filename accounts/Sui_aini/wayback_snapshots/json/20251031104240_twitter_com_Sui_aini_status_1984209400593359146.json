@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984188534610407424",
+        "3_1984188534602027008",
+        "3_1984188534606249984"
+      ],
+      "media_source_tweet_id": [
+        "1984188544152412183",
+        "1984188544152412183",
+        "1984188544152412183"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1984209400593359146",
+    "created_at": "2025-10-31T10:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T11:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984209400593359146"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "デンジくん",
+          "probability": 0.8908,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3853228393",
+          "start": 3,
+          "username": "tanda_hazuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qqEG18zahp",
+          "end": 56,
+          "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+          "media_key": "3_1984188534610407424",
+          "start": 33,
+          "url": "https://t.co/qqEG18zahp"
+        },
+        {
+          "display_url": "pic.x.com/qqEG18zahp",
+          "end": 56,
+          "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+          "media_key": "3_1984188534602027008",
+          "start": 33,
+          "url": "https://t.co/qqEG18zahp"
+        },
+        {
+          "display_url": "pic.x.com/qqEG18zahp",
+          "end": 56,
+          "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+          "media_key": "3_1984188534606249984",
+          "start": 33,
+          "url": "https://t.co/qqEG18zahp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984209400593359146",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 844
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984188544152412183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanda_hazuki: デンジくんにはナイショだよ、 https://t.co/qqEG18zahp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984209400593359146].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984209400593359146",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984209400593359146"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984188534610407424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lA9aTbMAAdOEI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984188534602027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lA9aRbUAAzT1X.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984188534606249984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lA9aSbwAAAWwS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984188534610407424",
+            "3_1984188534602027008",
+            "3_1984188534606249984"
+          ]
+        },
+        "author_id": "3853228393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1984188544152412183",
+        "created_at": "2025-10-31T09:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984188544152412183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "デンジくん",
+              "probability": 0.8512,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqEG18zahp",
+              "end": 38,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+              "media_key": "3_1984188534610407424",
+              "start": 15,
+              "url": "https://t.co/qqEG18zahp"
+            },
+            {
+              "display_url": "pic.x.com/qqEG18zahp",
+              "end": 38,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+              "media_key": "3_1984188534602027008",
+              "start": 15,
+              "url": "https://t.co/qqEG18zahp"
+            },
+            {
+              "display_url": "pic.x.com/qqEG18zahp",
+              "end": 38,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1984188544152412183/photo/1",
+              "media_key": "3_1984188534606249984",
+              "start": 15,
+              "url": "https://t.co/qqEG18zahp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984188544152412183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 45973,
+          "like_count": 3791,
+          "quote_count": 141,
+          "reply_count": 223,
+          "retweet_count": 844
+        },
+        "reply_settings": "everyone",
+        "text": "デンジくんにはナイショだよ、 https://t.co/qqEG18zahp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 524,
+          "like_count": 2567,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 2081
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./(@Root__mimi ラベンダーパープル担当)/D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg  #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 118,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Root__mimi"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7lviZz"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "location": "ストロボ",
+        "name": "反田葉月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625435304984576/zxjPBMtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152497,
+          "following_count": 600,
+          "like_count": 69205,
+          "listed_count": 1150,
+          "media_count": 2708,
+          "tweet_count": 10789
+        },
+        "url": "https://t.co/9SVW7lviZz",
+        "username": "tanda_hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

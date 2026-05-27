@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1957866831651434603",
+    "created_at": "2025-08-19T18:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T19:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957866831651434603"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "BanG Dream! It's",
+          "probability": 0.4213,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "高松燈",
+          "probability": 0.5347,
+          "start": 65,
+          "type": "Person"
+        },
+        {
+          "end": 71,
+          "normalized_text": "千早愛",
+          "probability": 0.528,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910975065916858368",
+          "start": 3,
+          "username": "misumi_suki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "早速ですが、みなさん…ともあのの合同誌、めっちゃほしくありません？？？わたしは死ぬほど欲しいです。絵が上手くなきゃだめとか、フォロワーが多くなくちゃだめとか、そんな条件は一切ありません。ともりんとあの",
+          "display_url": "twipla.jp/events/692061",
+          "end": 112,
+          "expanded_url": "https://twipla.jp/events/692061",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "（C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ - TwiPla",
+          "unwound_url": "https://twipla.jp/events/692061",
+          "url": "https://t.co/cQQZ4uGz8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957866831651434603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957804339734397411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumi_suki: [TwiPla] （C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ https://t.co/cQQZ4uGz8p\n\n勢いで立ててみました。主催は初めてなので色々至らな…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1957803682877304836",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuEE6HacAQk60c.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1957866831651434603",
+        "created_at": "2025-08-19T18:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T19:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957866831651434603"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "BanG Dream! It's",
+              "probability": 0.4213,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "高松燈",
+              "probability": 0.5347,
+              "start": 65,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "千早愛",
+              "probability": 0.528,
+              "start": 69,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910975065916858368",
+              "start": 3,
+              "username": "misumi_suki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "早速ですが、みなさん…ともあのの合同誌、めっちゃほしくありません？？？わたしは死ぬほど欲しいです。絵が上手くなきゃだめとか、フォロワーが多くなくちゃだめとか、そんな条件は一切ありません。ともりんとあの",
+              "display_url": "twipla.jp/events/692061",
+              "end": 112,
+              "expanded_url": "https://twipla.jp/events/692061",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "（C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ - TwiPla",
+              "unwound_url": "https://twipla.jp/events/692061",
+              "url": "https://t.co/cQQZ4uGz8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957866831651434603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957804339734397411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misumi_suki: [TwiPla] （C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ https://t.co/cQQZ4uGz8p\n\n勢いで立ててみました。主催は初めてなので色々至らな…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957803682877304836"
+          ]
+        },
+        "author_id": "1910975065916858368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1957804339734397411",
+        "created_at": "2025-08-19T13:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957804339734397411"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "BanG Dream! It's",
+              "probability": 0.4728,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "高松燈",
+              "probability": 0.5336,
+              "start": 48,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "千早愛",
+              "probability": 0.517,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "早速ですが、みなさん…ともあのの合同誌、めっちゃほしくありません？？？わたしは死ぬほど欲しいです。絵が上手くなきゃだめとか、フォロワーが多くなくちゃだめとか、そんな条件は一切ありません。ともりんとあの",
+              "display_url": "twipla.jp/events/692061",
+              "end": 95,
+              "expanded_url": "https://twipla.jp/events/692061",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1957804343521878016/7zLlG5ut?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "（C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ - TwiPla",
+              "unwound_url": "https://twipla.jp/events/692061",
+              "url": "https://t.co/cQQZ4uGz8p"
+            },
+            {
+              "display_url": "pic.x.com/OzwF0v7Iap",
+              "end": 194,
+              "expanded_url": "https://x.com/misumi_suki/status/1957804339734397411/photo/1",
+              "media_key": "3_1957803682877304836",
+              "start": 171,
+              "url": "https://t.co/OzwF0v7Iap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957804339734397411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 5246,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "[TwiPla] （C107）【BanG Dream! It's MYGO!!!!!】ともあの（高松燈×千早愛音）合同誌に参加してみませんか？ https://t.co/cQQZ4uGz8p\n\n勢いで立ててみました。主催は初めてなので色々至らないかと思いますがよろしくお願いします！\nともあのが大好きな方々からのご参加をお待ちしております～ https://t.co/OzwF0v7Iap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 504,
+          "like_count": 2194,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1896
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:35:51.000Z",
+        "description": "初音ちゃんとともりんがすき はつさきともあのforever…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "start": 0,
+                "url": "https://t.co/6rA6T7aSYr"
+              }
+            ]
+          }
+        },
+        "id": "1910975065916858368",
+        "location": "出典明記する前提での転載⭕️",
+        "name": "すーどり",
+        "pinned_tweet_id": "1957804339734397411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916436456110997504/46nYHAEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 37,
+          "like_count": 1303,
+          "listed_count": 21,
+          "media_count": 96,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/6rA6T7aSYr",
+        "username": "misumi_suki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1987127035425398804",
+    "created_at": "2025-11-08T11:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987127035425398804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hina_Youmiya/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Hina_Youmiya/status/1987126049340334600",
+          "start": 15,
+          "url": "https://t.co/WQEodSn6UA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987127035425398804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987126049340334600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yo酱...好可爱好美... https://t.co/WQEodSn6UA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "こちらは、まなっちゃんTシャツです✨\nみんなで一緒に着られてうれしかったです✨",
+        "height": 2048,
+        "media_key": "3_1987126018600206336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Owle6aAAAOh4Q.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "こちらは、みんなでお揃いになったリボンです✨",
+        "height": 1536,
+        "media_key": "3_1987126018713526272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OwlfVbIAAXV5s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1987127035425398804",
+        "created_at": "2025-11-08T11:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987127035425398804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hina_Youmiya/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1987126049340334600",
+              "start": 15,
+              "url": "https://t.co/WQEodSn6UA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987127035425398804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987126049340334600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yo酱...好可爱好美... https://t.co/WQEodSn6UA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987126018600206336",
+            "3_1987126018713526272"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "conversation_id": "1987126049340334600",
+        "created_at": "2025-11-08T11:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987126049340334600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "EXTEND STEP HOOOOPE!",
+              "probability": 0.8553,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 151,
+              "tag": "HOOOOPE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzGe9W19g5",
+              "end": 183,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1987126049340334600/photo/1",
+              "media_key": "3_1987126018600206336",
+              "start": 160,
+              "url": "https://t.co/jzGe9W19g5"
+            },
+            {
+              "display_url": "pic.x.com/jzGe9W19g5",
+              "end": 183,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1987126049340334600/photo/1",
+              "media_key": "3_1987126018713526272",
+              "start": 160,
+              "url": "https://t.co/jzGe9W19g5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987126049340334600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 2461,
+          "like_count": 482,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "『EXTEND STEP HOOOOPE!』\n\n本日はほんとうにありがとうございました✨\n皆さんのあたたかいエールとともに\n一日を通してたくさん笑顔になれました...✨\nみんなの絆も、さらに深まった気がします✨\n初クイーンもゲットできてとても嬉しいです！\n次は番組内でも勝ち取れるように頑張ります✨\n\n#HOOOOPE https://t.co/jzGe9W19g5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 525,
+          "like_count": 2612,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2105
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221785,
+          "following_count": 290,
+          "like_count": 1975,
+          "listed_count": 1647,
+          "media_count": 143,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

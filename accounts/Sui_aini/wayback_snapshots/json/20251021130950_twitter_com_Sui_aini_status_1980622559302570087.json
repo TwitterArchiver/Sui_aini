@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980603950752477184"
+      ],
+      "media_source_tweet_id": [
+        "1980604025168097510"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1980622559302570087",
+    "created_at": "2025-10-21T13:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T14:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980622559302570087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3308576515",
+          "start": 3,
+          "username": "MangoSoojungie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkZSl2c8GQ",
+          "end": 46,
+          "expanded_url": "https://x.com/MangoSoojungie/status/1980604025168097510/video/1",
+          "media_key": "13_1980603950752477184",
+          "start": 23,
+          "url": "https://t.co/xkZSl2c8GQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980622559302570087",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980604025168097510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangoSoojungie: 😆🩵 https://t.co/xkZSl2c8GQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11663,
+        "height": 716,
+        "media_key": "13_1980603950752477184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980603950752477184/img/FcU7vEnKvBzZ3D4b.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980603950752477184/vid/avc1/482x270/p4kxR2ljfrypo7q5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980603950752477184/vid/avc1/642x360/8V0dGR1RJvxk_dU8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980603950752477184/vid/avc1/1280x716/XF3CBYfCZ4T_FH8Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980603950752477184/pl/hu_UfBHo80hmJhd6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980603950752477184"
+          ],
+          "media_source_tweet_id": [
+            "1980604025168097510"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1980622559302570087",
+        "created_at": "2025-10-21T13:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T14:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980622559302570087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3308576515",
+              "start": 3,
+              "username": "MangoSoojungie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkZSl2c8GQ",
+              "end": 46,
+              "expanded_url": "https://x.com/MangoSoojungie/status/1980604025168097510/video/1",
+              "media_key": "13_1980603950752477184",
+              "start": 23,
+              "url": "https://t.co/xkZSl2c8GQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980622559302570087",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980604025168097510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangoSoojungie: 😆🩵 https://t.co/xkZSl2c8GQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980603950752477184"
+          ]
+        },
+        "author_id": "3308576515",
+        "conversation_id": "1980604025168097510",
+        "created_at": "2025-10-21T11:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980604025168097510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkZSl2c8GQ",
+              "end": 26,
+              "expanded_url": "https://x.com/MangoSoojungie/status/1980604025168097510/video/1",
+              "media_key": "13_1980603950752477184",
+              "start": 3,
+              "url": "https://t.co/xkZSl2c8GQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980604025168097510",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 131,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😆🩵 https://t.co/xkZSl2c8GQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 520,
+          "like_count": 2504,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2046
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T06:55:36.000Z",
+        "description": "Being alive is pretty much a constant stream of embarrassment. (she/her)",
+        "id": "3308576515",
+        "location": "Void | 24 👷‍♀️🐯",
+        "name": "Mitzi🐑🐥 mtsktmrn peddler",
+        "pinned_tweet_id": "1909857559026319720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936268805984206855/sImUfCWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 315,
+          "like_count": 5996,
+          "listed_count": 4,
+          "media_count": 12495,
+          "tweet_count": 136747
+        },
+        "username": "MangoSoojungie",
+        "verified": false
+      }
+    ]
+  }
+}

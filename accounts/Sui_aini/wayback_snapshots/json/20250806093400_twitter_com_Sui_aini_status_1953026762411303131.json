@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952989279791276032"
+      ],
+      "media_source_tweet_id": [
+        "1952989300204945713"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1953026762411303131",
+    "created_at": "2025-08-06T09:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T10:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953026762411303131"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "アニメムジカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777280808644235264",
+          "start": 3,
+          "username": "kuro_aoi_4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yC5lOVPpuj",
+          "end": 47,
+          "expanded_url": "https://x.com/kuro_aoi_4/status/1952989300204945713/photo/1",
+          "media_key": "3_1952989279791276032",
+          "start": 24,
+          "url": "https://t.co/yC5lOVPpuj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953026762411303131",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952989300204945713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuro_aoi_4: #アニメムジカ https://t.co/yC5lOVPpuj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1952989279791276032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxppZxAa4AAK91a.jpg",
+        "width": 1911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952989279791276032"
+          ],
+          "media_source_tweet_id": [
+            "1952989300204945713"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1953026762411303131",
+        "created_at": "2025-08-06T09:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953026762411303131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "アニメムジカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777280808644235264",
+              "start": 3,
+              "username": "kuro_aoi_4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yC5lOVPpuj",
+              "end": 47,
+              "expanded_url": "https://x.com/kuro_aoi_4/status/1952989300204945713/photo/1",
+              "media_key": "3_1952989279791276032",
+              "start": 24,
+              "url": "https://t.co/yC5lOVPpuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953026762411303131",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952989300204945713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuro_aoi_4: #アニメムジカ https://t.co/yC5lOVPpuj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952989279791276032"
+          ]
+        },
+        "author_id": "1777280808644235264",
+        "conversation_id": "1952989300204945713",
+        "created_at": "2025-08-06T07:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952989300204945713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "アニメムジカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yC5lOVPpuj",
+              "end": 31,
+              "expanded_url": "https://x.com/kuro_aoi_4/status/1952989300204945713/photo/1",
+              "media_key": "3_1952989279791276032",
+              "start": 8,
+              "url": "https://t.co/yC5lOVPpuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952989300204945713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 9777,
+          "like_count": 745,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "#アニメムジカ https://t.co/yC5lOVPpuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 499,
+          "like_count": 2098,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 1823
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T10:22:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/105068151",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/105068151",
+                "start": 0,
+                "url": "https://t.co/bFMZBQ9OmL"
+              }
+            ]
+          }
+        },
+        "id": "1777280808644235264",
+        "location": "蒼🚬",
+        "name": "Blacky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936094179974668289/HLDcxXmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 743,
+          "like_count": 3688,
+          "listed_count": 21,
+          "media_count": 72,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/bFMZBQ9OmL",
+        "username": "kuro_aoi_4",
+        "verified": false
+      }
+    ]
+  }
+}

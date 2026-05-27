@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2044122688185348133",
+    "created_at": "2026-04-14T19:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044133627894866297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1544651077370449922",
+          "start": 0,
+          "username": "cis086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044133627894866297",
+    "in_reply_to_user_id": "1544651077370449922",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044131075711291476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cis086 ✌🏻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044131075711291476].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044131075711291476",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044131075711291476"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2044122688185348133",
+        "created_at": "2026-04-14T19:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044133627894866297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1544651077370449922",
+              "start": 0,
+              "username": "cis086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044133627894866297",
+        "in_reply_to_user_id": "1544651077370449922",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044131075711291476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cis086 ✌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 662,
+          "like_count": 4340,
+          "listed_count": 5,
+          "media_count": 474,
+          "tweet_count": 3422
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T11:55:16.000Z",
+        "description": "",
+        "id": "1544651077370449922",
+        "name": "去鳌太线卖烤肠刻不容缓🧨🌭⛰️",
+        "pinned_tweet_id": "2039298543115292837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784438026242023424/SLuIXFJ9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 878,
+          "like_count": 34865,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 980
+        },
+        "username": "cis086",
+        "verified": false
+      }
+    ]
+  }
+}

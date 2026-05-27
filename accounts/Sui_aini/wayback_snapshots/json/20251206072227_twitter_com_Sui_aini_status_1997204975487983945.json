@@ -1,0 +1,690 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997200965712355328"
+      ],
+      "media_source_tweet_id": [
+        "1997200972217831439"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1997204975487983945",
+    "created_at": "2025-12-06T07:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997204975487983945"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "京王アリーナTOKYO",
+          "probability": 0.5532,
+          "start": 35,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "想いのかたちが積もるとき"
+        },
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "MyGO"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXUVJv2mYO",
+          "end": 98,
+          "expanded_url": "https://x.com/cocohayashi515/status/1997200972217831439/photo/1",
+          "media_key": "3_1997200965712355328",
+          "start": 75,
+          "url": "https://t.co/VXUVJv2mYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997204975487983945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997200972217831439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: #想いのかたちが積もるとき \n京王アリーナTOKYO、よろしくお願いします！！🥁✨️\n#MyGO #バンドリ https://t.co/VXUVJv2mYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997200965712355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7d7slpaIAACvLr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997200965712355328"
+          ],
+          "media_source_tweet_id": [
+            "1997200972217831439"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1997204975487983945",
+        "created_at": "2025-12-06T07:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997204975487983945"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "京王アリーナTOKYO",
+              "probability": 0.5532,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "想いのかたちが積もるとき"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "MyGO"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXUVJv2mYO",
+              "end": 98,
+              "expanded_url": "https://x.com/cocohayashi515/status/1997200972217831439/photo/1",
+              "media_key": "3_1997200965712355328",
+              "start": 75,
+              "url": "https://t.co/VXUVJv2mYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997204975487983945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997200972217831439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: #想いのかたちが積もるとき \n京王アリーナTOKYO、よろしくお願いします！！🥁✨️\n#MyGO #バンドリ https://t.co/VXUVJv2mYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997200965712355328"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1997200972217831439",
+        "created_at": "2025-12-06T07:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997200972217831439"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "京王アリーナTOKYO",
+              "probability": 0.6018,
+              "start": 15,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "想いのかたちが積もるとき"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "MyGO"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXUVJv2mYO",
+              "end": 78,
+              "expanded_url": "https://x.com/cocohayashi515/status/1997200972217831439/photo/1",
+              "media_key": "3_1997200965712355328",
+              "start": 55,
+              "url": "https://t.co/VXUVJv2mYO"
+            },
+            {
+              "display_url": "x.com/bang_dream_myg…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1997154030095946240",
+              "start": 79,
+              "url": "https://t.co/SZA50zw5Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997200972217831439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12082,
+          "like_count": 759,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997154030095946240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#想いのかたちが積もるとき \n京王アリーナTOKYO、よろしくお願いします！！🥁✨️\n#MyGO #バンドリ https://t.co/VXUVJv2mYO https://t.co/SZA50zw5Vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 529,
+          "like_count": 2742,
+          "listed_count": 4,
+          "media_count": 360,
+          "tweet_count": 2209
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "株式会社LIBERTE｜声優・俳優｜ドラム｜ミュージカルと宝塚、ロックと映画が好きです。｜NEXT⤑ 【舞台】 #舞台アサルトリリィ 長坂稀星 11/28~  #光られ女 #豊洲クリコン 12/13･14｜Instagram⤑ https://t.co/PVDKZdpjVo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "舞台アサルトリリィ"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "光られ女"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "豊洲クリコン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/coco_hayashi.o…",
+                "end": 137,
+                "expanded_url": "http://instagram.com/coco_hayashi.official",
+                "start": 114,
+                "url": "https://t.co/PVDKZdpjVo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fan.pia.jp/cocohayashi/",
+                "end": 23,
+                "expanded_url": "https://fan.pia.jp/cocohayashi/",
+                "start": 0,
+                "url": "https://t.co/CCW7qMh3w3"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "location": "林鼓子 Official Fanclub-鼓星-",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1939897035395932334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929015942136344580/JsSltbSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156804,
+          "following_count": 578,
+          "like_count": 8699,
+          "listed_count": 2841,
+          "media_count": 1637,
+          "tweet_count": 7867
+        },
+        "url": "https://t.co/CCW7qMh3w3",
+        "username": "cocohayashi515",
+        "verified": true
+      }
+    ]
+  }
+}

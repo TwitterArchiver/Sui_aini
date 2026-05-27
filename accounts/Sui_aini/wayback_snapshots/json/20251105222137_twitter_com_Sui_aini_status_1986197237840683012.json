@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1986197237840683012",
+    "created_at": "2025-11-05T22:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T23:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986197237840683012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaneY_banu/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AkaneY_banu/status/1986138306284036306",
+          "start": 3,
+          "url": "https://t.co/bHoS2zwe0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986197237840683012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986138306284036306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一生 https://t.co/bHoS2zwe0K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1986197237840683012",
+        "created_at": "2025-11-05T22:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986197237840683012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaneY_banu/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AkaneY_banu/status/1986138306284036306",
+              "start": 3,
+              "url": "https://t.co/bHoS2zwe0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986197237840683012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986138306284036306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一生 https://t.co/bHoS2zwe0K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531145919722188803",
+        "conversation_id": "1986138306284036306",
+        "created_at": "2025-11-05T18:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986138306284036306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.39,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986138306284036306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 20608,
+          "like_count": 1585,
+          "quote_count": 18,
+          "reply_count": 47,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "Ave Mujicaでたくさんライブしたい。切実"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 525,
+          "like_count": 2606,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2098
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1975895489183883760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945040610672476160/d56HMG_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107208,
+          "following_count": 97,
+          "like_count": 12090,
+          "listed_count": 529,
+          "media_count": 835,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006632716545236992"
+      ],
+      "media_source_tweet_id": [
+        "2007013999561547857"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2007022456884928898",
+    "created_at": "2026-01-02T09:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007022456884928898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "DATEWARS"
+        },
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "デートウォーズ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "田中三子"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947925008711618560",
+          "start": 3,
+          "username": "DATEWARS_pj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u7Z0TSYFGc",
+          "end": 82,
+          "expanded_url": "https://x.com/DATEWARS_pj/status/2007013999561547857/video/1",
+          "media_key": "13_2006632716545236992",
+          "start": 59,
+          "url": "https://t.co/u7Z0TSYFGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007022456884928898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007013999561547857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DATEWARS_pj: お姉ちゃんだぞっ！\n\n#DATEWARS #デートウォーズ\n#田中三子 #羊宮妃那 https://t.co/u7Z0TSYFGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20383,
+        "height": 3840,
+        "media_key": "13_2006632716545236992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006632716545236992/img/SvlNhiUxLihODnh3.jpg",
+        "public_metrics": {
+          "view_count": 1278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/vid/avc1/2160x3840/dXP8ClnG3Fdlq-2w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/vid/avc1/480x852/AkS00774-V08hxki.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/vid/avc1/1080x1920/HX1N533w1Y3o9dSj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/vid/avc1/720x1280/YT81nBKPPHuwXISX.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/vid/avc1/320x568/TtKEQkLJmFxkVM7U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006632716545236992/pl/qe1lxNd1IRraezjy.m3u8?v=bfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006632716545236992"
+          ],
+          "media_source_tweet_id": [
+            "2007013999561547857"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2007022456884928898",
+        "created_at": "2026-01-02T09:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007022456884928898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "DATEWARS"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "デートウォーズ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "田中三子"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947925008711618560",
+              "start": 3,
+              "username": "DATEWARS_pj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7Z0TSYFGc",
+              "end": 82,
+              "expanded_url": "https://x.com/DATEWARS_pj/status/2007013999561547857/video/1",
+              "media_key": "13_2006632716545236992",
+              "start": 59,
+              "url": "https://t.co/u7Z0TSYFGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007022456884928898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007013999561547857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DATEWARS_pj: お姉ちゃんだぞっ！\n\n#DATEWARS #デートウォーズ\n#田中三子 #羊宮妃那 https://t.co/u7Z0TSYFGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006632716545236992"
+          ]
+        },
+        "author_id": "1947925008711618560",
+        "conversation_id": "2007013999561547857",
+        "created_at": "2026-01-02T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007013999561547857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "DATEWARS"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "デートウォーズ"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "田中三子"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7Z0TSYFGc",
+              "end": 65,
+              "expanded_url": "https://x.com/DATEWARS_pj/status/2007013999561547857/video/1",
+              "media_key": "13_2006632716545236992",
+              "start": 42,
+              "url": "https://t.co/u7Z0TSYFGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007013999561547857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 4316,
+          "like_count": 297,
+          "quote_count": 15,
+          "reply_count": 2,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "お姉ちゃんだぞっ！\n\n#DATEWARS #デートウォーズ\n#田中三子 #羊宮妃那 https://t.co/u7Z0TSYFGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 534,
+          "like_count": 2912,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2323
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T07:42:09.000Z",
+        "description": "掴み取れ。恩赦を。 タイムレス音楽IPプロジェクト DATE WARS Official X #DATEWARS #デートウォーズ https://t.co/Bp1HxQotXd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 47,
+                "tag": "DATEWARS"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "デートウォーズ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/DATEWARS_offic…",
+                "end": 89,
+                "expanded_url": "https://lit.link/DATEWARS_official",
+                "start": 66,
+                "url": "https://t.co/Bp1HxQotXd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "datewars-prisoner.jp",
+                "end": 23,
+                "expanded_url": "https://datewars-prisoner.jp/",
+                "start": 0,
+                "url": "https://t.co/NutT8HEykE"
+              }
+            ]
+          }
+        },
+        "id": "1947925008711618560",
+        "name": "デートウォーズ公式",
+        "pinned_tweet_id": "1960870197990187038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958544678829371392/ffKJFmdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 26,
+          "like_count": 86,
+          "listed_count": 17,
+          "media_count": 183,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/NutT8HEykE",
+        "username": "DATEWARS_pj",
+        "verified": true
+      }
+    ]
+  }
+}

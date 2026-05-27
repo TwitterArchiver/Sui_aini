@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1928748543075828062",
+    "created_at": "2025-05-31T09:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T10:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928748543075828062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Quack_one/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Quack_one/status/1928153361330884824",
+          "start": 19,
+          "url": "https://t.co/65adN5qJps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928748543075828062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928153361330884824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不想给你扣帽子，但确实有点那啥歧视了 https://t.co/65adN5qJps"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1928748543075828062",
+        "created_at": "2025-05-31T09:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T10:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928748543075828062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Quack_one/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Quack_one/status/1928153361330884824",
+              "start": 19,
+              "url": "https://t.co/65adN5qJps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928748543075828062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928153361330884824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想给你扣帽子，但确实有点那啥歧视了 https://t.co/65adN5qJps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764728841010831360",
+        "conversation_id": "1927954905458712620",
+        "created_at": "2025-05-29T18:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T19:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928153361330884824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928153361330884824",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2348,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927954905458712620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仔细想想为什么ftm上男厕无人在意，但是男跨女上女厕会让大家非常反感？\n\n或者说 为什么女生内急去男厕啥事没有，男生内急去女厕却要被抓进警察局呢？\n\n这一切的一切都是有原因的，不是突然就这样的\n\n就好像黑人零元购了我的店铺，我不会觉得所有黑人都是坏种，但下次再见到黑人的时候我会有所防备。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1923408372054835553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 299,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 733
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf | 吉他手 | 爵士乐 |",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "pinned_tweet_id": "1915814368870027638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926139287273197568/pJ_S87eK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 113,
+          "like_count": 789,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1102
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2014307091197067484",
+    "created_at": "2026-01-22T12:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014307091197067484"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Mujica ツーマンライブ",
+          "probability": 0.3711,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 73,
+          "normalized_text": "MyGOさん",
+          "probability": 0.4732,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 86,
+          "normalized_text": "Ave Mujicaさん",
+          "probability": 0.5913,
+          "start": 75,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1047861707387760640",
+          "start": 3,
+          "username": "kuro_neko_cos_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014307091197067484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014242001857008052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuro_neko_cos_: MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」　MyGOさんとAve Mujicaさん宛フラスタ企画\nページ立ち上げました！\n\n【一次募集〆切】：2026年1月28日（水）23:59まで\nと…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2014241995565252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QGbE1XQAASGu_.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2014307091197067484",
+        "created_at": "2026-01-22T12:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014307091197067484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Mujica ツーマンライブ",
+              "probability": 0.3711,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "MyGOさん",
+              "probability": 0.4732,
+              "start": 68,
+              "type": "Person"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Ave Mujicaさん",
+              "probability": 0.5913,
+              "start": 75,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1047861707387760640",
+              "start": 3,
+              "username": "kuro_neko_cos_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014307091197067484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014242001857008052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuro_neko_cos_: MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」　MyGOさんとAve Mujicaさん宛フラスタ企画\nページ立ち上げました！\n\n【一次募集〆切】：2026年1月28日（水）23:59まで\nと…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014241995565252608"
+          ]
+        },
+        "author_id": "1047861707387760640",
+        "conversation_id": "2014242001857008052",
+        "created_at": "2026-01-22T07:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014242001857008052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Mujica ツーマンライブ",
+              "probability": 0.4542,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "MyGOさん",
+              "probability": 0.5464,
+              "start": 48,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Ave Mujicaさん",
+              "probability": 0.606,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "はじめにこんにちは！フラスタ企画担当のドロです。MyGO!!!!!×Ave Mujica 2回目のツーマンライブをお祝いして、気持ちを込めてメンバーの皆様へフラワースタンドを贈らせていただきます。海外",
+              "display_url": "twipla.jp/events/712905",
+              "end": 165,
+              "expanded_url": "http://twipla.jp/events/712905",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2014241556749017088/UryZFJim?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014241556749017088/UryZFJim?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "【フラスタ企画】MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」フラスタ企画 - TwiPla",
+              "unwound_url": "https://twipla.jp/events/712905",
+              "url": "https://t.co/DGb8qVvPAm"
+            },
+            {
+              "display_url": "pic.x.com/y5uOLoUFwV",
+              "end": 189,
+              "expanded_url": "https://x.com/kuro_neko_cos_/status/2014242001857008052/photo/1",
+              "media_key": "3_2014241995565252608",
+              "start": 166,
+              "url": "https://t.co/y5uOLoUFwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014242001857008052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2637,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!×Ave Mujica ツーマンライブ「“moment / memory”」　MyGOさんとAve Mujicaさん宛フラスタ企画\nページ立ち上げました！\n\n【一次募集〆切】：2026年1月28日（水）23:59まで\nとさせて頂きます。何かあればご連絡ください！\n\nhttps://t.co/DGb8qVvPAm https://t.co/y5uOLoUFwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 550,
+          "like_count": 3073,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2421
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-04T14:51:14.000Z",
+        "description": "香港🇭🇰→ 日本🇯🇵留学 中文/ENG/日本語OK！ よろしくお願いします✨サブ垢 @kuro_neko_225 撮影は気軽にお声掛け下さい💖BOOTH↓ https://t.co/6pwDjDDJGr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "kuro_neko_225"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuroneko0102.booth.pm",
+                "end": 101,
+                "expanded_url": "https://kuroneko0102.booth.pm",
+                "start": 78,
+                "url": "https://t.co/6pwDjDDJGr"
+              }
+            ]
+          }
+        },
+        "id": "1047861707387760640",
+        "name": "黒猫🐱1/25アコスタ(池袋)",
+        "pinned_tweet_id": "1986741049184960674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998791488298430465/xweHGkXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 143,
+          "like_count": 1515,
+          "listed_count": 11,
+          "media_count": 233,
+          "tweet_count": 330
+        },
+        "username": "kuro_neko_cos_",
+        "verified": false
+      }
+    ]
+  }
+}

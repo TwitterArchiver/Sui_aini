@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956500467632250880",
+        "3_1956500467636412416",
+        "3_1956500467644780544",
+        "3_1956500467678367744"
+      ],
+      "media_source_tweet_id": [
+        "1956500474808684974",
+        "1956500474808684974",
+        "1956500474808684974",
+        "1956500474808684974"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1956617574625820974",
+    "created_at": "2025-08-16T07:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T08:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956617574625820974"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "海浜幕張駅",
+          "probability": 0.692,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974733478",
+          "start": 3,
+          "username": "hirarinkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N6zDitSj4i",
+          "end": 70,
+          "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+          "media_key": "3_1956500467632250880",
+          "start": 47,
+          "url": "https://t.co/N6zDitSj4i"
+        },
+        {
+          "display_url": "pic.x.com/N6zDitSj4i",
+          "end": 70,
+          "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+          "media_key": "3_1956500467636412416",
+          "start": 47,
+          "url": "https://t.co/N6zDitSj4i"
+        },
+        {
+          "display_url": "pic.x.com/N6zDitSj4i",
+          "end": 70,
+          "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+          "media_key": "3_1956500467644780544",
+          "start": 47,
+          "url": "https://t.co/N6zDitSj4i"
+        },
+        {
+          "display_url": "pic.x.com/N6zDitSj4i",
+          "end": 70,
+          "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+          "media_key": "3_1956500467678367744",
+          "start": 47,
+          "url": "https://t.co/N6zDitSj4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956617574625820974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956500474808684974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hirarinkira: 海浜幕張駅えぐいって🔥🔥🔥🔥\nビジュが良過ぎるだろ💢🤘❤️ https://t.co/N6zDitSj4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1956500467632250880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GybizzAbIAAtyZA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1956500467636412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GybizzBaoAAAkq8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1956500467644780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GybizzDaUAAXGl0.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_1956500467678367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GybizzLa0AAtHsN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956500467632250880",
+            "3_1956500467636412416",
+            "3_1956500467644780544",
+            "3_1956500467678367744"
+          ],
+          "media_source_tweet_id": [
+            "1956500474808684974",
+            "1956500474808684974",
+            "1956500474808684974",
+            "1956500474808684974"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1956617574625820974",
+        "created_at": "2025-08-16T07:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956617574625820974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "海浜幕張駅",
+              "probability": 0.692,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974733478",
+              "start": 3,
+              "username": "hirarinkira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 70,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467632250880",
+              "start": 47,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 70,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467636412416",
+              "start": 47,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 70,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467644780544",
+              "start": 47,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 70,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467678367744",
+              "start": 47,
+              "url": "https://t.co/N6zDitSj4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956617574625820974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956500474808684974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hirarinkira: 海浜幕張駅えぐいって🔥🔥🔥🔥\nビジュが良過ぎるだろ💢🤘❤️ https://t.co/N6zDitSj4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956500467632250880",
+            "3_1956500467636412416",
+            "3_1956500467644780544",
+            "3_1956500467678367744"
+          ]
+        },
+        "author_id": "1974733478",
+        "conversation_id": "1956500474808684974",
+        "created_at": "2025-08-15T23:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T00:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956500474808684974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "海浜幕張駅",
+              "probability": 0.6615,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 53,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467632250880",
+              "start": 30,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 53,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467636412416",
+              "start": 30,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 53,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467644780544",
+              "start": 30,
+              "url": "https://t.co/N6zDitSj4i"
+            },
+            {
+              "display_url": "pic.x.com/N6zDitSj4i",
+              "end": 53,
+              "expanded_url": "https://x.com/hirarinkira/status/1956500474808684974/photo/1",
+              "media_key": "3_1956500467678367744",
+              "start": 30,
+              "url": "https://t.co/N6zDitSj4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956500474808684974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 21809,
+          "like_count": 781,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "海浜幕張駅えぐいって🔥🔥🔥🔥\nビジュが良過ぎるだろ💢🤘❤️ https://t.co/N6zDitSj4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 500,
+          "like_count": 2186,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 1882
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-20T10:57:00.000Z",
+        "description": "ファン：LiSA、Aimer、ワルキューレ、結束バンド、XAI、She is Legend 、トゲナシトゲアリ Ave Mujica、米澤茜、MyGO ソシャゲ：FGO、アニメ:着せ恋 リコリコ その他:ロック中心に音楽好き。共通の趣味の方と繋がり楽しんでいきたいです😊無言フォローご容赦を🙏",
+        "id": "1974733478",
+        "name": "ひらりん",
+        "pinned_tweet_id": "1664409136518545408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758084481112760320/L_j1Se2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1483,
+          "like_count": 64257,
+          "listed_count": 10,
+          "media_count": 3117,
+          "tweet_count": 18683
+        },
+        "username": "hirarinkira",
+        "verified": false
+      }
+    ]
+  }
+}

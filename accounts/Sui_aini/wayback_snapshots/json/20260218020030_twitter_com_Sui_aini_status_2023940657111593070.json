@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023891308075495425",
+        "3_2023891308189020162"
+      ],
+      "media_source_tweet_id": [
+        "2023891313675104733",
+        "2023891313675104733"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2023940657111593070",
+    "created_at": "2026-02-18T02:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T03:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023940657111593070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952246717799448576",
+          "start": 3,
+          "username": "ccyoshikaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/psxsQ3ISLQ",
+          "end": 50,
+          "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+          "media_key": "3_2023891308075495425",
+          "start": 27,
+          "url": "https://t.co/psxsQ3ISLQ"
+        },
+        {
+          "display_url": "pic.x.com/psxsQ3ISLQ",
+          "end": 50,
+          "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+          "media_key": "3_2023891308189020162",
+          "start": 27,
+          "url": "https://t.co/psxsQ3ISLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023940657111593070",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023891313675104733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccyoshikaru: &gt;-&lt; https://t.co/psxsQ3ISLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2023891308075495425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZOa_HXMAE9WQ7.jpg",
+        "width": 828
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2023891308189020162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZOa_ibcAITmxq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023891308075495425",
+            "3_2023891308189020162"
+          ],
+          "media_source_tweet_id": [
+            "2023891313675104733",
+            "2023891313675104733"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2023940657111593070",
+        "created_at": "2026-02-18T02:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023940657111593070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952246717799448576",
+              "start": 3,
+              "username": "ccyoshikaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psxsQ3ISLQ",
+              "end": 50,
+              "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+              "media_key": "3_2023891308075495425",
+              "start": 27,
+              "url": "https://t.co/psxsQ3ISLQ"
+            },
+            {
+              "display_url": "pic.x.com/psxsQ3ISLQ",
+              "end": 50,
+              "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+              "media_key": "3_2023891308189020162",
+              "start": 27,
+              "url": "https://t.co/psxsQ3ISLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023940657111593070",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023891313675104733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccyoshikaru: &gt;-&lt; https://t.co/psxsQ3ISLQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023891308075495425",
+            "3_2023891308189020162"
+          ]
+        },
+        "author_id": "1952246717799448576",
+        "conversation_id": "2023891313675104733",
+        "created_at": "2026-02-17T22:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T23:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023891313675104733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psxsQ3ISLQ",
+              "end": 33,
+              "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+              "media_key": "3_2023891308075495425",
+              "start": 10,
+              "url": "https://t.co/psxsQ3ISLQ"
+            },
+            {
+              "display_url": "pic.x.com/psxsQ3ISLQ",
+              "end": 33,
+              "expanded_url": "https://x.com/ccyoshikaru/status/2023891313675104733/photo/1",
+              "media_key": "3_2023891308189020162",
+              "start": 10,
+              "url": "https://t.co/psxsQ3ISLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023891313675104733",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3567,
+          "like_count": 660,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;-&lt; https://t.co/psxsQ3ISLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 560,
+          "like_count": 3316,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 2750
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T05:54:32.000Z",
+        "description": "espacio dedicado a fans de the summer hikaru died",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccyoshikaru.straw.page",
+                "end": 23,
+                "expanded_url": "https://ccyoshikaru.straw.page",
+                "start": 0,
+                "url": "https://t.co/4HXxX96sQ3"
+              }
+            ]
+          }
+        },
+        "id": "1952246717799448576",
+        "location": "🍉",
+        "name": "cc tshd",
+        "pinned_tweet_id": "2013804376473670019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010966199069298689/-jDejCSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 42,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 3547
+        },
+        "url": "https://t.co/4HXxX96sQ3",
+        "username": "ccyoshikaru",
+        "verified": false
+      }
+    ]
+  }
+}

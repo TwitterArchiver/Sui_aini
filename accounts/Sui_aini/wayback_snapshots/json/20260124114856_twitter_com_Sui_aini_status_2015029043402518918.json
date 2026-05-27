@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2015029043402518918",
+    "created_at": "2026-01-24T11:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T12:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015029043402518918"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "#光が死んだ夏",
+          "probability": 0.6027,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "光が死んだ夏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950406518219952130",
+          "start": 3,
+          "username": "hikanatsu_stage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015029043402518918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015016730439954567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikanatsu_stage: 〖 配信情報 〗\n舞台『#光が死んだ夏』\nライブ配信の見逃し配信の視聴は明日1月25日(日)までです！\n是非ご覧ください！✨\n\n見逃し配信対象公演☑️\n1月18日(日)12:30公演／17:00千秋楽公演\n\n視聴はこちら▶️https:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2015029043402518918",
+        "created_at": "2026-01-24T11:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015029043402518918"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "#光が死んだ夏",
+              "probability": 0.6027,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "光が死んだ夏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950406518219952130",
+              "start": 3,
+              "username": "hikanatsu_stage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015029043402518918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015016730439954567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikanatsu_stage: 〖 配信情報 〗\n舞台『#光が死んだ夏』\nライブ配信の見逃し配信の視聴は明日1月25日(日)までです！\n是非ご覧ください！✨\n\n見逃し配信対象公演☑️\n1月18日(日)12:30公演／17:00千秋楽公演\n\n視聴はこちら▶️https:…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950406518219952130",
+        "conversation_id": "2015016730439954567",
+        "created_at": "2026-01-24T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015016730439954567"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "#光が死んだ夏",
+              "probability": 0.6253,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "光が死んだ夏"
+            },
+            {
+              "end": 144,
+              "start": 137,
+              "tag": "ひかなつ舞台"
+            }
+          ],
+          "urls": [
+            {
+              "description": "舞台『光が死んだ夏』のチケット情報ページです。日程、会場情報や料金を確認し、チケットの簡単オンライン予約・購入ができます。",
+              "display_url": "eplus.jp/hikanatsu-stag…",
+              "end": 135,
+              "expanded_url": "https://eplus.jp/hikanatsu-stage-st/",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/2012506193412108288/9ROIAte2?format=jpg&name=orig",
+                  "width": 334
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012506193412108288/9ROIAte2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "舞台『光が死んだ夏』のチケット情報 - イープラス",
+              "unwound_url": "https://eplus.jp/sf/detail/4448610002?P6=001&P1=0402&P59=1",
+              "url": "https://t.co/jKDHwWenlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015016730439954567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2345,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "〖 配信情報 〗\n舞台『#光が死んだ夏』\nライブ配信の見逃し配信の視聴は明日1月25日(日)までです！\n是非ご覧ください！✨\n\n見逃し配信対象公演☑️\n1月18日(日)12:30公演／17:00千秋楽公演\n\n視聴はこちら▶️https://t.co/jKDHwWenlU\n\n#ひかなつ舞台"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 553,
+          "like_count": 3097,
+          "listed_count": 4,
+          "media_count": 381,
+          "tweet_count": 2434
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T04:03:21.000Z",
+        "description": "舞台『光が死んだ夏』公式アカウント #ひかなつ舞台",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "ひかなつ舞台"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nelke.co.jp/stage/hikanats…",
+                "end": 23,
+                "expanded_url": "https://www.nelke.co.jp/stage/hikanatsu_stage/",
+                "start": 0,
+                "url": "https://t.co/vyVsAx5Wt5"
+              }
+            ]
+          }
+        },
+        "id": "1950406518219952130",
+        "name": "舞台『光が死んだ夏』",
+        "pinned_tweet_id": "2001849973802209333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963889043093233665/QPEyO2Yh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13142,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 22,
+          "media_count": 35,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/vyVsAx5Wt5",
+        "username": "hikanatsu_stage",
+        "verified": false
+      }
+    ]
+  }
+}

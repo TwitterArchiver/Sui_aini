@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2027915845549363481",
+    "created_at": "2026-03-01T08:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T09:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028023257157538111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906720983018594304",
+          "start": 0,
+          "username": "May_o_o_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028023257157538111",
+    "in_reply_to_user_id": "1906720983018594304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027915845549363481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@May_o_o_T あなたの公演が大好きです！！！！！love！💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2027915845549363481",
+        "created_at": "2026-03-01T08:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T09:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028023257157538111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906720983018594304",
+              "start": 0,
+              "username": "May_o_o_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028023257157538111",
+        "in_reply_to_user_id": "1906720983018594304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027915845549363481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@May_o_o_T あなたの公演が大好きです！！！！！love！💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906720983018594304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2027915845549363481",
+        "created_at": "2026-03-01T01:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027915845549363481"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.8498,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "millsage",
+              "probability": 0.4583,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "Dumb Rock!",
+              "probability": 0.3803,
+              "start": 81,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 174,
+              "start": 160,
+              "tag": "moment_memory"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/2027881519998816662",
+              "start": 175,
+              "url": "https://t.co/9eYMVwyaor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027915845549363481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30774,
+          "like_count": 944,
+          "quote_count": 5,
+          "reply_count": 71,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027881519998816662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "おはようございます！\n今日はMyGO!!!!!さん×Ave Mujicaさんツーマンライブ\n「“moment / memory”」です✨\n\nmillsageと一家Dumb Rock!がオープニングアクトをさせていただきます！\n\n盛り上げられるよう精いっぱい頑張ります✌️💥皆さまとお会いできるのを楽しみにしています！！\n#moment_memory https://t.co/9eYMVwyaor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 585,
+          "like_count": 3621,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 2968
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:52:01.000Z",
+        "description": "新人声優・俳優｜17歳｜#バンドリ 須賀蕾叶/ #魔法の姉妹ルルットリリィ 風&リリィ/#てつりょー 佐多みさき/#ひかなつ舞台 山岸朝子/ #バチャガ マキ/ #デートウォーズ 兎寝/#舞台ささ恋 水口未希/ﾐｭｰｼﾞｶﾙ #H12/天照フロフェ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "tag": "魔法の姉妹ルルットリリィ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "てつりょー"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "tag": "ひかなつ舞台"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "バチャガ"
+              },
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "デートウォーズ"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "舞台ささ恋"
+              },
+              {
+                "end": 117,
+                "start": 113,
+                "tag": "H12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amuse.co.jp/artist/A9019/i…",
+                "end": 23,
+                "expanded_url": "https://www.amuse.co.jp/artist/A9019/index.html",
+                "start": 0,
+                "url": "https://t.co/xYXMtCteMS"
+              }
+            ]
+          }
+        },
+        "id": "1906720983018594304",
+        "location": "アミューズ所属",
+        "name": "橘めい",
+        "pinned_tweet_id": "2010662259115315677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906721413953933313/858Cl1ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11216,
+          "following_count": 162,
+          "like_count": 6707,
+          "listed_count": 76,
+          "media_count": 98,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/xYXMtCteMS",
+        "username": "May_o_o_T",
+        "verified": true
+      }
+    ]
+  }
+}

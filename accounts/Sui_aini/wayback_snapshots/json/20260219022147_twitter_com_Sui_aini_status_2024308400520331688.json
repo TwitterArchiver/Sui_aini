@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024237739726589952"
+      ],
+      "media_source_tweet_id": [
+        "2024237743505551465"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2024308400520331688",
+    "created_at": "2026-02-19T02:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024308400520331688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011848828677177344",
+          "start": 3,
+          "username": "kitsuna111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRIGB8kUa1",
+          "end": 39,
+          "expanded_url": "https://x.com/kitsuna111/status/2024237743505551465/photo/1",
+          "media_key": "3_2024237739726589952",
+          "start": 16,
+          "url": "https://t.co/NRIGB8kUa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024308400520331688",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024237743505551465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitsuna111: https://t.co/NRIGB8kUa1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2024237739726589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBeJf9lX0AAaZV5.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024237739726589952"
+          ],
+          "media_source_tweet_id": [
+            "2024237743505551465"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2024308400520331688",
+        "created_at": "2026-02-19T02:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024308400520331688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011848828677177344",
+              "start": 3,
+              "username": "kitsuna111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRIGB8kUa1",
+              "end": 39,
+              "expanded_url": "https://x.com/kitsuna111/status/2024237743505551465/photo/1",
+              "media_key": "3_2024237739726589952",
+              "start": 16,
+              "url": "https://t.co/NRIGB8kUa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024308400520331688",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024237743505551465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitsuna111: https://t.co/NRIGB8kUa1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024237739726589952"
+          ]
+        },
+        "author_id": "2011848828677177344",
+        "conversation_id": "2024237743505551465",
+        "created_at": "2026-02-18T21:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024237743505551465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRIGB8kUa1",
+              "end": 23,
+              "expanded_url": "https://x.com/kitsuna111/status/2024237743505551465/photo/1",
+              "media_key": "3_2024237739726589952",
+              "start": 0,
+              "url": "https://t.co/NRIGB8kUa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024237743505551465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 10887,
+          "like_count": 2005,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NRIGB8kUa1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 564,
+          "like_count": 3379,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 2790
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T17:13:44.000Z",
+        "description": "🏳️‍⚧️🏴󠁧󠁢󠁥󠁮󠁧󠁿 - Don’t take what I post seriously - pfp by @itsreallyweirdd - Alt: @kitsunalt111 - Discord: kitsuna111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "itsreallyweirdd"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "kitsunalt111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kitsuna74036",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kitsuna74036",
+                "start": 0,
+                "url": "https://t.co/WJEW9qrELE"
+              }
+            ]
+          }
+        },
+        "id": "2011848828677177344",
+        "location": "16 They/Them Bisexual Trans",
+        "name": "Abby 💖",
+        "pinned_tweet_id": "2022408922653659481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021588609879744512/xzypGLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 191,
+          "like_count": 5324,
+          "listed_count": 1,
+          "media_count": 591,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/WJEW9qrELE",
+        "username": "kitsuna111",
+        "verified": false
+      }
+    ]
+  }
+}

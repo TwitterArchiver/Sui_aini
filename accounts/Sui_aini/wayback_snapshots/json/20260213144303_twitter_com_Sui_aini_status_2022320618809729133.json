@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2022318351146700971",
+    "created_at": "2026-02-13T14:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022320618809729133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1628790080910536705",
+          "start": 0,
+          "username": "tousa40700129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022320618809729133",
+    "in_reply_to_user_id": "1628790080910536705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022318351146700971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tousa40700129 自罚三板，外加三瓶啤酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2022318351146700971",
+        "created_at": "2026-02-13T14:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022320618809729133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1628790080910536705",
+              "start": 0,
+              "username": "tousa40700129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022320618809729133",
+        "in_reply_to_user_id": "1628790080910536705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022318351146700971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tousa40700129 自罚三板，外加三瓶啤酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628790080910536705",
+        "conversation_id": "2022318351146700971",
+        "created_at": "2026-02-13T14:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022318351146700971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sui_aini/status/2022053841269887328",
+              "start": 12,
+              "url": "https://t.co/qWllopAAN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022318351146700971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022053841269887328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "o趴迟到了要自罚一板吗 https://t.co/qWllopAAN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 554,
+          "like_count": 3245,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 2635
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T16:13:32.000Z",
+        "description": "年上姐姐重度依赖",
+        "id": "1628790080910536705",
+        "location": "苏州",
+        "name": "🎄Sil0🇪🇺🧸🎄",
+        "pinned_tweet_id": "1954060583256699291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998307036417945601/iNPcDudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 1006,
+          "like_count": 26503,
+          "listed_count": 1,
+          "media_count": 776,
+          "tweet_count": 6683
+        },
+        "username": "tousa40700129",
+        "verified": false
+      }
+    ]
+  }
+}

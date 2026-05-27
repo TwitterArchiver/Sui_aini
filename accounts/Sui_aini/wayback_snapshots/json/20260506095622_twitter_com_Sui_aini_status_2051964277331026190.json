@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2051959212016820498",
+    "created_at": "2026-05-06T09:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051964277331026190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051964277331026190",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051963974724555007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 恶心吐了，尤其还是逼迫人做的那种"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051963974724555007].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051963974724555007",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051963974724555007"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2051959212016820498",
+        "created_at": "2026-05-06T09:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051964277331026190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051964277331026190",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051963974724555007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 恶心吐了，尤其还是逼迫人做的那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 714,
+          "like_count": 4771,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 3949
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 7501,
+          "like_count": 811346,
+          "listed_count": 31,
+          "media_count": 614,
+          "tweet_count": 32918
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2029921766710333941",
+    "created_at": "2026-03-06T17:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029978057168277938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3308576515",
+          "start": 0,
+          "username": "MangoSoojungie"
+        },
+        {
+          "end": 28,
+          "id": "1584225251722166273",
+          "start": 16,
+          "username": "Zhen_Hui233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029978057168277938",
+    "in_reply_to_user_id": "3308576515",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029960597396431208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MangoSoojungie @Zhen_Hui233 There will be a second version in a while, during the sampling process."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2029921766710333941",
+        "created_at": "2026-03-06T17:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029978057168277938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3308576515",
+              "start": 0,
+              "username": "MangoSoojungie"
+            },
+            {
+              "end": 28,
+              "id": "1584225251722166273",
+              "start": 16,
+              "username": "Zhen_Hui233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029978057168277938",
+        "in_reply_to_user_id": "3308576515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029960597396431208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MangoSoojungie @Zhen_Hui233 There will be a second version in a while, during the sampling process."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3308576515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2029921766710333941",
+        "created_at": "2026-03-06T16:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029960597396431208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "taobao",
+              "probability": 0.4852,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584225251722166273",
+              "start": 0,
+              "username": "Zhen_Hui233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029960597396431208",
+        "in_reply_to_user_id": "1584225251722166273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029959625509126279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhen_Hui233 I bought it in taobao last Aug but I don’t think they’re selling it again 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 586,
+          "like_count": 3676,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 3029
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T06:55:36.000Z",
+        "description": "Being alive is pretty much a constant stream of embarrassment. (she/her)",
+        "id": "3308576515",
+        "location": "Void | 24 👷‍♀️🐯",
+        "name": "Mitzi🐥🐑 mtsktmrn peddler",
+        "pinned_tweet_id": "1909857559026319720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936268805984206855/sImUfCWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 318,
+          "like_count": 6104,
+          "listed_count": 4,
+          "media_count": 13841,
+          "tweet_count": 143986
+        },
+        "username": "MangoSoojungie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T16:48:37.000Z",
+        "description": "",
+        "id": "1584225251722166273",
+        "location": "うた",
+        "name": "うた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587766602178605056/0Gl1m2km_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 56,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "Zhen_Hui233",
+        "verified": false
+      }
+    ]
+  }
+}

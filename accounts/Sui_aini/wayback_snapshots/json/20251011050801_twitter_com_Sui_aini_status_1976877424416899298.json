@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1976877424416899298",
+    "created_at": "2025-10-11T05:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976877424416899298"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "わかれ道の、その先へ",
+          "probability": 0.6697,
+          "start": 48,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "上海",
+          "probability": 0.5167,
+          "start": 59,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3853228393",
+          "start": 3,
+          "username": "tanda_hazuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976877424416899298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 305
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976847262082121836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanda_hazuki: 本日MyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海追加で公演\nsumimi 純田まな役として出演させて頂きます🍒\n\n私は初上海！！！\nジューシーで爽やかなsumimiの曲、\nまなの可愛いところ沢山見ててね.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976847228204691456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28sFIxbMAA6She.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976847226539573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28sFCkbgAAm0G1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1176,
+        "media_key": "3_1976847226535329793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28sFCjawAETHw-.jpg",
+        "width": 1391
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1976877424416899298",
+        "created_at": "2025-10-11T05:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976877424416899298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.6697,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "上海",
+              "probability": 0.5167,
+              "start": 59,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3853228393",
+              "start": 3,
+              "username": "tanda_hazuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976877424416899298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976847262082121836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanda_hazuki: 本日MyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海追加で公演\nsumimi 純田まな役として出演させて頂きます🍒\n\n私は初上海！！！\nジューシーで爽やかなsumimiの曲、\nまなの可愛いところ沢山見ててね.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976847228204691456",
+            "3_1976847226539573248",
+            "3_1976847226535329793"
+          ]
+        },
+        "author_id": "3853228393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1976847262082121836",
+        "created_at": "2025-10-11T03:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976847262082121836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.735,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "上海",
+              "probability": 0.5107,
+              "start": 41,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "MyGO"
+            },
+            {
+              "end": 150,
+              "start": 140,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 158,
+              "start": 151,
+              "tag": "sumimi"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 175,
+              "start": 165,
+              "tag": "わかれ道のその先へ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXwg7AmG2B",
+              "end": 199,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1976847262082121836/photo/1",
+              "media_key": "3_1976847228204691456",
+              "start": 176,
+              "url": "https://t.co/mXwg7AmG2B"
+            },
+            {
+              "display_url": "pic.x.com/mXwg7AmG2B",
+              "end": 199,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1976847262082121836/photo/1",
+              "media_key": "3_1976847226539573248",
+              "start": 176,
+              "url": "https://t.co/mXwg7AmG2B"
+            },
+            {
+              "display_url": "pic.x.com/mXwg7AmG2B",
+              "end": 199,
+              "expanded_url": "https://x.com/tanda_hazuki/status/1976847262082121836/photo/1",
+              "media_key": "3_1976847226535329793",
+              "start": 176,
+              "url": "https://t.co/mXwg7AmG2B"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 223,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1976832514796011584",
+              "start": 200,
+              "url": "https://t.co/kFviNq20vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976847262082121836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 48313,
+          "like_count": 2326,
+          "quote_count": 11,
+          "reply_count": 42,
+          "retweet_count": 305
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976832514796011584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本日MyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海追加で公演\nsumimi 純田まな役として出演させて頂きます🍒\n\n私は初上海！！！\nジューシーで爽やかなsumimiの曲、\nまなの可愛いところ沢山見ててね.ᐟ.ᐟ\nふたりで1つ🎀♡\n#MyGO #AveMujica #sumimi #バンドリ\n#わかれ道のその先へ https://t.co/mXwg7AmG2B https://t.co/kFviNq20vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 517,
+          "like_count": 2398,
+          "listed_count": 4,
+          "media_count": 332,
+          "tweet_count": 2013
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-11T01:05:14.000Z",
+        "description": "🌙moony club.広島県出身./(@Root__mimi ラベンダーパープル担当)/D4DJ Lyrical Lily 桜田美夢/バンドリ sumimi 純田まな役 etc../🎀ﾏﾈｰｼﾞｬｰ垢@tandahazuki_mg  #みてみては〜ちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 118,
+                "tag": "みてみては〜ちゃん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Root__mimi"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "tandahazuki_mg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/tandahazuki_",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/tandahazuki_",
+                "start": 0,
+                "url": "https://t.co/9SVW7lviZz"
+              }
+            ]
+          }
+        },
+        "id": "3853228393",
+        "location": "ストロボ",
+        "name": "反田葉月",
+        "pinned_tweet_id": "1975508664829288930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976625435304984576/zxjPBMtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145674,
+          "following_count": 591,
+          "like_count": 68168,
+          "listed_count": 1121,
+          "media_count": 2632,
+          "tweet_count": 10690
+        },
+        "url": "https://t.co/9SVW7lviZz",
+        "username": "tanda_hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      }
+    ],
+    "conversation_id": "2000262509828465095",
+    "created_at": "2025-12-14T17:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000262509828465095"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 39,
+          "tag": "UlteriusProcedere_東京"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "767910567071801344",
+          "start": 3,
+          "username": "Kanon_Takao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000262509828465095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000148337153171564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Takao: 🎭Ave Mujica 6th LIVE🎭\n#UlteriusProcedere_東京\nありがとうございました🌙⚙️🔥\n\n新衣装、そして私たちのマスカレード\nいかがでしたでしょうか…？🕯️\nお声、お待ちしています。\n\nなんだか視界が広がったよう…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000148327577608192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8H0ToNa4AAWBkk.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "2000262509828465095",
+        "created_at": "2025-12-14T17:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000262509828465095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 39,
+              "tag": "UlteriusProcedere_東京"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "767910567071801344",
+              "start": 3,
+              "username": "Kanon_Takao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000262509828465095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000148337153171564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Takao: 🎭Ave Mujica 6th LIVE🎭\n#UlteriusProcedere_東京\nありがとうございました🌙⚙️🔥\n\n新衣装、そして私たちのマスカレード\nいかがでしたでしょうか…？🕯️\nお声、お待ちしています。\n\nなんだか視界が広がったよう…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000148327577608192"
+          ]
+        },
+        "author_id": "767910567071801344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "2000148337153171564",
+        "created_at": "2025-12-14T10:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000148337153171564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 22,
+              "tag": "UlteriusProcedere_東京"
+            },
+            {
+              "end": 156,
+              "start": 146,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyNXu2Zvcb",
+              "end": 187,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2000148337153171564/photo/1",
+              "media_key": "3_2000148327577608192",
+              "start": 164,
+              "url": "https://t.co/XyNXu2Zvcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000148337153171564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 22,
+                "tag": "UlteriusProcedere_東京"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "tag": "AveMujica"
+              }
+            ]
+          },
+          "text": "🎭Ave Mujica 6th LIVE🎭\n#UlteriusProcedere_東京\nありがとうございました🌙⚙️🔥\n\n新衣装、そして私たちのマスカレード\nいかがでしたでしょうか…？🕯️\nお声、お待ちしています。\n\nなんだか視界が広がったような、何かが解放されたような、そんな日でした🌃\n\n#AveMujica キーボード🎹\nオブリビオニス/豊川祥子役 高尾奏音💠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 118564,
+          "like_count": 7956,
+          "quote_count": 53,
+          "reply_count": 128,
+          "retweet_count": 1769
+        },
+        "reply_settings": "everyone",
+        "text": "🎭Ave Mujica 6th LIVE🎭\n#UlteriusProcedere_東京\nありがとうございました🌙⚙️🔥\n\n新衣装、そして私たちのマスカレード\nいかがでしたでしょうか…？🕯️\nお声、お待ちしています。\n\nなんだか視界が広がったような、何かが解放されたような、そんな日でした🌃\n\n#AveMujica キーボード🎹 https://t.co/XyNXu2Zvcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 530,
+          "like_count": 2801,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2262
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T02:25:21.000Z",
+        "description": "声優です！ #バンドリ #AveMujica 豊川祥子•オブリビオニス／#灰原くんの強くて青春ニューゲーム 星宮陽花里／#アニメ100カノ 愛々／#アイプラ 千紗／#このすば アイリス／#プリコネR プレシア／#崩壊スターレイル ケリュドラ／#あぐのん #のんひな FC▶︎#高尾山のんのん村 インスタもやってます☺️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 53,
+                "start": 36,
+                "tag": "灰原くんの強くて青春ニューゲーム"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "アイプラ"
+              },
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "このすば"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "プリコネR"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "tag": "崩壊スターレイル"
+              },
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "あぐのん"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "のんひな"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "tag": "高尾山のんのん村"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ancheri.co.jp/talent/kanon_t…",
+                "end": 23,
+                "expanded_url": "https://ancheri.co.jp/talent/kanon_takao.html",
+                "start": 0,
+                "url": "https://t.co/N3OjnATEGj"
+              }
+            ]
+          }
+        },
+        "id": "767910567071801344",
+        "location": "株式会社アンシェリ",
+        "name": "高尾奏音",
+        "pinned_tweet_id": "1994340203285159961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947183608177061888/NOjnUlFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147399,
+          "following_count": 857,
+          "like_count": 30207,
+          "listed_count": 1480,
+          "media_count": 3714,
+          "tweet_count": 18221
+        },
+        "url": "https://t.co/N3OjnATEGj",
+        "username": "Kanon_Takao",
+        "verified": true
+      }
+    ]
+  }
+}

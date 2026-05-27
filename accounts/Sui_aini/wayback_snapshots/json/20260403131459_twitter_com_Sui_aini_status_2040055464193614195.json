@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "2040055464193614195",
+    "created_at": "2026-04-03T13:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040055464193614195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theater_mu/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/theater_mu/status/2040051706227208253",
+          "start": 7,
+          "url": "https://t.co/LlnTC3VOrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040055464193614195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040051706227208253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "乳了吗，如乳 https://t.co/LlnTC3VOrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_2040023913170976768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-e8MXbwAA0AsV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2040055464193614195",
+        "created_at": "2026-04-03T13:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040055464193614195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theater_mu/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/theater_mu/status/2040051706227208253",
+              "start": 7,
+              "url": "https://t.co/LlnTC3VOrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040055464193614195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040051706227208253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乳了吗，如乳 https://t.co/LlnTC3VOrr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040023913170976768"
+          ]
+        },
+        "author_id": "1635221571878133761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2040051706227208253",
+        "created_at": "2026-04-03T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040051706227208253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnwO5O3qMi",
+              "end": 118,
+              "expanded_url": "https://x.com/theater_mu/status/2040051706227208253/photo/1",
+              "media_key": "3_2040023913170976768",
+              "start": 95,
+              "url": "https://t.co/NnwO5O3qMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040051706227208253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【出演者降板のお知らせ】\n\n劇団ミュOp.6ミュージカル『妻と飛んだ特攻兵』に出演を予定しておりました林鼓子さんですが、所属事務所の方針によるお申し出により、急遽降板することとなりました。\n\n公演を楽しみにしてくださっていた皆様には、多大なるご心配とご迷惑をおかけいたしますことを、深くお詫び申し上げます。\n\n本公演は、予定通り上演いたします。\n新キャストおよびチケットの取り扱い等の詳細につきましては、決定次第、速やかに公式サイトおよび公式SNSにてお知らせいたします。\n\nなお、明日4月4日(土)より開始を予定しております各出演者ファンクラブ先行、および劇団ファンクラブ先行につきましては、通常通り実施いたします。\n\n何卒ご理解を賜りますようお願い申し上げます。\n\n劇団ミュ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1981,
+          "like_count": 20,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "【出演者降板のお知らせ】\n\n劇団ミュOp.6ミュージカル『妻と飛んだ特攻兵』に出演を予定しておりました林鼓子さんですが、所属事務所の方針によるお申し出により、急遽降板することとなりました。 https://t.co/NnwO5O3qMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 642,
+          "like_count": 4051,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3278
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T10:09:57.000Z",
+        "description": "日本発のミュージカルを世界に！ 🎵次回公演『妻と飛んだ特攻兵』6月18日〜 【公式LINE】 https://t.co/1mISc0Fgkg #劇団ミュ 【公式通販】https://t.co/wuW4ydU8sP【制作募集中】https://t.co/Pie0N9CCdJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "劇団ミュ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lin.ee/22Me3GH",
+                "end": 70,
+                "expanded_url": "https://lin.ee/22Me3GH",
+                "start": 47,
+                "url": "https://t.co/1mISc0Fgkg"
+              },
+              {
+                "display_url": "gekidanmu.base.shop",
+                "end": 106,
+                "expanded_url": "https://gekidanmu.base.shop",
+                "start": 83,
+                "url": "https://t.co/wuW4ydU8sP"
+              },
+              {
+                "display_url": "gekidanmu.com",
+                "end": 136,
+                "expanded_url": "https://www.gekidanmu.com/",
+                "start": 113,
+                "url": "https://t.co/Pie0N9CCdJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gekidanmu?fea…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@gekidanmu?feature=shared",
+                "start": 0,
+                "url": "https://t.co/po8LZ0IIFi"
+              }
+            ]
+          }
+        },
+        "id": "1635221571878133761",
+        "location": "日本 東京",
+        "name": "劇団ミュ公式",
+        "pinned_tweet_id": "2039276150070153582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649263781749587968/fWJ-l_3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 138,
+          "like_count": 3678,
+          "listed_count": 21,
+          "media_count": 762,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/po8LZ0IIFi",
+        "username": "theater_mu",
+        "verified": false
+      }
+    ]
+  }
+}

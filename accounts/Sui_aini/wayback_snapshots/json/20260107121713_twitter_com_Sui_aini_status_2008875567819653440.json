@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10034936455",
+          "name": "カードファイト‼︎ヴァンガード"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039019957",
+          "name": "月刊ブシロードTV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      }
+    ],
+    "conversation_id": "2008875567819653440",
+    "created_at": "2026-01-07T12:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008875567819653440"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026",
+          "probability": 0.627,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "高松燈役",
+          "probability": 0.2669,
+          "start": 78,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/rstOvSc8",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/rstOvSc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008875567819653440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008863705216487629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\n『カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026』\n高松燈役として出演させていただきます。\n\n日程┊︎1月12日(月曜日)\n詳細┊︎https://t.co/rstOvSc8…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034936455",
+              "name": "カードファイト‼︎ヴァンガード"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          }
+        ],
+        "conversation_id": "2008875567819653440",
+        "created_at": "2026-01-07T12:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008875567819653440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026",
+              "probability": 0.627,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "高松燈役",
+              "probability": 0.2669,
+              "start": 78,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/rstOvSc8",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/rstOvSc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008875567819653440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008863705216487629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\n『カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026』\n高松燈役として出演させていただきます。\n\n日程┊︎1月12日(月曜日)\n詳細┊︎https://t.co/rstOvSc8…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034936455",
+              "name": "カードファイト‼︎ヴァンガード"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          }
+        ],
+        "conversation_id": "2008863705216487629",
+        "created_at": "2026-01-07T11:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T12:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008863705216487629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026",
+              "probability": 0.6211,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "高松燈役",
+              "probability": 0.2715,
+              "start": 60,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 169,
+              "start": 164,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 175,
+              "start": 170,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードの製品・イベント情報サイト。カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026｜開催概要について紹介しているページです。",
+              "display_url": "bushiroad.com/2026newyear_la…",
+              "end": 123,
+              "expanded_url": "https://bushiroad.com/2026newyear_launch_event",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006745783455068165/5NTvYfTA?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006745783455068165/5NTvYfTA?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026｜開催概要｜ブシロード公式サイト",
+              "unwound_url": "https://bushiroad.com/2026newyear_launch_event",
+              "url": "https://t.co/rstOvSc8wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008863705216487629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 14454,
+          "like_count": 863,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\n『カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026』\n高松燈役として出演させていただきます。\n\n日程┊︎1月12日(月曜日)\n詳細┊︎https://t.co/rstOvSc8wr\n\nあたたかく見守っていただけますと幸いです✨\n何卒よろしくお願いいたします✨\n\n#バンドリ #MyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 540,
+          "like_count": 2974,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 2370
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227700,
+          "following_count": 291,
+          "like_count": 1974,
+          "listed_count": 1673,
+          "media_count": 154,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

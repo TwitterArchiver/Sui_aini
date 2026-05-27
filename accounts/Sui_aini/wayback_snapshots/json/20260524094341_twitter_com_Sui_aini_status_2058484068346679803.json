@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2058478423912378797",
+    "created_at": "2026-05-24T09:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058484068346679803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714897821537808384",
+          "start": 0,
+          "username": "LimeInvited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058484068346679803",
+    "in_reply_to_user_id": "1714897821537808384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058478423912378797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimeInvited 抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2058478423912378797",
+        "created_at": "2026-05-24T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058484068346679803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058484068346679803",
+        "in_reply_to_user_id": "1714897821537808384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058478423912378797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeInvited 抱歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714897821537808384",
+        "conversation_id": "2058478423912378797",
+        "created_at": "2026-05-24T09:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058478423912378797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058478423912378797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "KOL真是那么金贵的有公共意义的东西吗… 我看下来感觉同时满足好看 话多 会炒作 三项里面至少两项就可以过了诸位这个KOL门槛了 这也太廉价了\n莫不如说不发照片就是为了避免影响观点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /我还是会在特定时间段做那件事的，退推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 752,
+          "like_count": 5289,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 4689
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:54:49.000Z",
+        "description": "🏳️‍⚧️ | 经皮蜕却，由音疗愈，仅在受邀时有害。",
+        "id": "1714897821537808384",
+        "location": "Maywood, CA",
+        "name": "覆皮蒙邀果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024512857304653824/isWCnczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 75,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 99
+        },
+        "username": "LimeInvited",
+        "verified": false
+      }
+    ]
+  }
+}

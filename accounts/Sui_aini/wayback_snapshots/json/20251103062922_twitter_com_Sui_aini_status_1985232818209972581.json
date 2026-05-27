@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1985232818209972581",
+    "created_at": "2025-11-03T06:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985232818209972581"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 105,
+          "normalized_text": "美香ちゃん",
+          "probability": 0.9007,
+          "start": 101,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 44,
+          "tag": "わかれ道のその先へLIVEFILM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985232818209972581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985220568187351529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: MyGO!!!!!×Ave Mujica 合同ライブ\n#わかれ道のその先へLIVEFILM\n舞台挨拶ありがとうございました✨️✨️\n\nライブを振り返ったり、ここちゃん、美香ちゃんの映像サプライズがあったりと、短い時間でしたが楽しいひと時を過ごせ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985220558100025344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zrlFZa0AApjg7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1108,
+        "media_key": "3_1985220558100066304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zrlFZbcAAhED9.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1985232818209972581",
+        "created_at": "2025-11-03T06:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985232818209972581"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "美香ちゃん",
+              "probability": 0.9007,
+              "start": 101,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 44,
+              "tag": "わかれ道のその先へLIVEFILM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985232818209972581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985220568187351529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: MyGO!!!!!×Ave Mujica 合同ライブ\n#わかれ道のその先へLIVEFILM\n舞台挨拶ありがとうございました✨️✨️\n\nライブを振り返ったり、ここちゃん、美香ちゃんの映像サプライズがあったりと、短い時間でしたが楽しいひと時を過ごせ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985220558100025344",
+            "3_1985220558100066304"
+          ]
+        },
+        "author_id": "1353543505432301569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1985220568187351529",
+        "created_at": "2025-11-03T05:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985220568187351529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "美香ちゃん",
+              "probability": 0.9048,
+              "start": 84,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 27,
+              "tag": "わかれ道のその先へLIVEFILM"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjbZQOJZ6l",
+              "end": 185,
+              "expanded_url": "https://x.com/ttisrn_0710/status/1985220568187351529/photo/1",
+              "media_key": "3_1985220558100025344",
+              "start": 162,
+              "url": "https://t.co/xjbZQOJZ6l"
+            },
+            {
+              "display_url": "pic.x.com/xjbZQOJZ6l",
+              "end": 185,
+              "expanded_url": "https://x.com/ttisrn_0710/status/1985220568187351529/photo/1",
+              "media_key": "3_1985220558100066304",
+              "start": 162,
+              "url": "https://t.co/xjbZQOJZ6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985220568187351529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 12726,
+          "like_count": 1284,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!×Ave Mujica 合同ライブ\n#わかれ道のその先へLIVEFILM\n舞台挨拶ありがとうございました✨️✨️\n\nライブを振り返ったり、ここちゃん、美香ちゃんの映像サプライズがあったりと、短い時間でしたが楽しいひと時を過ごせました🎶\n\n残りの上映期間も是非楽しんでください🍿🥤\n\n#バンドリ #MyGO https://t.co/xjbZQOJZ6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 525,
+          "like_count": 2587,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 2087
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 声優 https://t.co/XTzqpKHxDR┊https://t.co/BzqoGzEpoN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 28,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 5,
+                "url": "https://t.co/XTzqpKHxDR"
+              },
+              {
+                "display_url": "youtube.com/@Tateishi_rin",
+                "end": 52,
+                "expanded_url": "https://www.youtube.com/@Tateishi_rin",
+                "start": 29,
+                "url": "https://t.co/BzqoGzEpoN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem231613…",
+                "end": 23,
+                "expanded_url": "https://freecalend.com/open/mem231613_date202407_modefull",
+                "start": 0,
+                "url": "https://t.co/kdP8UCdeZg"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1942963528115298461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952673634377756672/FWjMlNpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120039,
+          "following_count": 167,
+          "like_count": 105,
+          "listed_count": 864,
+          "media_count": 555,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/kdP8UCdeZg",
+        "username": "ttisrn_0710",
+        "verified": true
+      }
+    ]
+  }
+}

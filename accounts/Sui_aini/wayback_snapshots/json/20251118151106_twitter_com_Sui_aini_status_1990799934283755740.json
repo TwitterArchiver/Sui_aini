@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990486330661613568"
+      ],
+      "media_source_tweet_id": [
+        "1990486337808708090"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1990799934283755740",
+    "created_at": "2025-11-18T15:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990799934283755740"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 21,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1118250554",
+          "start": 3,
+          "username": "tengukito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZef7v2thN",
+          "end": 56,
+          "expanded_url": "https://x.com/tengukito/status/1990486337808708090/photo/1",
+          "media_key": "3_1990486330661613568",
+          "start": 33,
+          "url": "https://t.co/KZef7v2thN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990799934283755740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990486337808708090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tengukito: 爱灯特区！\n#bandoriart https://t.co/KZef7v2thN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990486330661613568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-gxY1bMAAeIjd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990486330661613568"
+          ],
+          "media_source_tweet_id": [
+            "1990486337808708090"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1990799934283755740",
+        "created_at": "2025-11-18T15:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990799934283755740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1118250554",
+              "start": 3,
+              "username": "tengukito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZef7v2thN",
+              "end": 56,
+              "expanded_url": "https://x.com/tengukito/status/1990486337808708090/photo/1",
+              "media_key": "3_1990486330661613568",
+              "start": 33,
+              "url": "https://t.co/KZef7v2thN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990799934283755740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990486337808708090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tengukito: 爱灯特区！\n#bandoriart https://t.co/KZef7v2thN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990486330661613568"
+          ]
+        },
+        "author_id": "1118250554",
+        "conversation_id": "1990486337808708090",
+        "created_at": "2025-11-17T18:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T19:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990486337808708090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZef7v2thN",
+              "end": 41,
+              "expanded_url": "https://x.com/tengukito/status/1990486337808708090/photo/1",
+              "media_key": "3_1990486330661613568",
+              "start": 18,
+              "url": "https://t.co/KZef7v2thN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990486337808708090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3911,
+          "like_count": 333,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "爱灯特区！\n#bandoriart https://t.co/KZef7v2thN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 525,
+          "like_count": 2654,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2127
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-25T02:39:11.000Z",
+        "description": "光の戦士。ミッドランダー大好き。百合大好き。色違い椎名立希（大嘘）",
+        "id": "1118250554",
+        "name": "宇宙子詩",
+        "pinned_tweet_id": "1883523819085980143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775771976549679104/vNBQVRP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8199,
+          "following_count": 271,
+          "like_count": 590,
+          "listed_count": 36,
+          "media_count": 552,
+          "tweet_count": 651
+        },
+        "username": "tengukito",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,771 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022476354047131648"
+      ],
+      "media_source_tweet_id": [
+        "2022476362808987835"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2022508145701163031",
+    "created_at": "2026-02-14T03:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022508145701163031"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "バレンタインデー"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "僕ヤバ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1552835457313951744",
+          "start": 3,
+          "username": "bokuyaba_anime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IS94MIzkW6",
+          "end": 129,
+          "expanded_url": "https://x.com/bokuyaba_anime/status/2022476362808987835/photo/1",
+          "media_key": "3_2022476354047131648",
+          "start": 106,
+          "url": "https://t.co/IS94MIzkW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022508145701163031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 521
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022476362808987835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokuyaba_anime: ˗ˏˋ 💖今日は #バレンタインデー 💖 ˊˎ˗\n\n「チョコが一番偉いんだよ。お菓子の中で」\nあなたもあま～いチョコ🍫で笑顔になれますように！\n\n#僕ヤバ 🎬全国公開中！ https://t.co/IS94MIzkW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2022476354047131648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBFHh0mbQAAnUEt.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022476354047131648"
+          ],
+          "media_source_tweet_id": [
+            "2022476362808987835"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2022508145701163031",
+        "created_at": "2026-02-14T03:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022508145701163031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "バレンタインデー"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1552835457313951744",
+              "start": 3,
+              "username": "bokuyaba_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IS94MIzkW6",
+              "end": 129,
+              "expanded_url": "https://x.com/bokuyaba_anime/status/2022476362808987835/photo/1",
+              "media_key": "3_2022476354047131648",
+              "start": 106,
+              "url": "https://t.co/IS94MIzkW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022508145701163031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 521
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022476362808987835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokuyaba_anime: ˗ˏˋ 💖今日は #バレンタインデー 💖 ˊˎ˗\n\n「チョコが一番偉いんだよ。お菓子の中で」\nあなたもあま～いチョコ🍫で笑顔になれますように！\n\n#僕ヤバ 🎬全国公開中！ https://t.co/IS94MIzkW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022476354047131648"
+          ]
+        },
+        "author_id": "1552835457313951744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2022476362808987835",
+        "created_at": "2026-02-14T01:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T02:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022476362808987835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "バレンタインデー"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IS94MIzkW6",
+              "end": 109,
+              "expanded_url": "https://x.com/bokuyaba_anime/status/2022476362808987835/photo/1",
+              "media_key": "3_2022476354047131648",
+              "start": 86,
+              "url": "https://t.co/IS94MIzkW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022476362808987835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 31618,
+          "like_count": 3009,
+          "quote_count": 15,
+          "reply_count": 19,
+          "retweet_count": 521
+        },
+        "reply_settings": "everyone",
+        "text": "˗ˏˋ 💖今日は #バレンタインデー 💖 ˊˎ˗\n\n「チョコが一番偉いんだよ。お菓子の中で」\nあなたもあま～いチョコ🍫で笑顔になれますように！\n\n#僕ヤバ 🎬全国公開中！ https://t.co/IS94MIzkW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 554,
+          "like_count": 3249,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 2645
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T01:57:16.000Z",
+        "description": "🌸2026年2月13日㊎全国公開　🌸原作 #桜井のりお（秋田書店「チャンピオンクロス」連載）／🌸CAST 市川京太郎役 #堀江瞬 山田杏奈役 #羊宮妃那 ／推奨▶#僕ヤバ ©桜井のりお（秋田書店）／僕ヤバ製作委員会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "桜井のりお"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "堀江瞬"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "僕ヤバ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bokuyaba-anime-movie.com",
+                "end": 23,
+                "expanded_url": "https://bokuyaba-anime-movie.com/",
+                "start": 0,
+                "url": "https://t.co/J8L1YYCq0j"
+              }
+            ]
+          }
+        },
+        "id": "1552835457313951744",
+        "name": "劇場版「僕の心のヤバイやつ」【公式】2026年2月13日㊎全国公開",
+        "pinned_tweet_id": "2019697642448757193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995417837012414464/GEmY3Hfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247120,
+          "following_count": 75,
+          "like_count": 473,
+          "listed_count": 807,
+          "media_count": 1210,
+          "tweet_count": 4155
+        },
+        "url": "https://t.co/J8L1YYCq0j",
+        "username": "bokuyaba_anime",
+        "verified": true
+      }
+    ]
+  }
+}

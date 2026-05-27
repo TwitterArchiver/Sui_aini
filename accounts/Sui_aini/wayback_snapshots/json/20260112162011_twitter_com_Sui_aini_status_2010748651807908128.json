@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2010662259115315677",
+    "created_at": "2026-01-12T16:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010748651807908128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906720983018594304",
+          "start": 0,
+          "username": "May_o_o_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010748651807908128",
+    "in_reply_to_user_id": "1906720983018594304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010662259115315677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@May_o_o_T 頑張って!3月1日におうえん応援します!とてもたのしみ楽しみにしています!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2010662259115315677",
+        "created_at": "2026-01-12T16:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010748651807908128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906720983018594304",
+              "start": 0,
+              "username": "May_o_o_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010748651807908128",
+        "in_reply_to_user_id": "1906720983018594304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010662259115315677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@May_o_o_T 頑張って!3月1日におうえん応援します!とてもたのしみ楽しみにしています!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906720983018594304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2010662259115315677",
+        "created_at": "2026-01-12T10:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010662259115315677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "BanG Dream! Our Notes",
+              "probability": 0.9289,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "須賀 蕾叶",
+              "probability": 0.7205,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "蕾叶",
+              "probability": 0.747,
+              "start": 110,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "アツドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/2010661756155428911",
+              "start": 162,
+              "url": "https://t.co/wzqQ9BoNND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010662259115315677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 236219,
+          "like_count": 3023,
+          "quote_count": 71,
+          "reply_count": 1297,
+          "retweet_count": 774
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010661756155428911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "★お知らせ★\n\n#バンドリ！『BanG Dream! Our Notes』にて\n新バンド・一家Dumb Rock!（いっかだんらん）\nGt.&amp;Vo. 【須賀 蕾叶（すが らいか）】役を務めさせていただきます。\n\n蕾叶と、皆さまと、色々な景色を見ていきたいです！✨\nこれからよろしくお願いいたします🎤🎙️\n#アツドリ https://t.co/wzqQ9BoNND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 546,
+          "like_count": 3031,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 2401
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:52:01.000Z",
+        "description": "新人声優・俳優｜17歳｜#バンドリ 須賀蕾叶 #魔法の姉妹ルルットリリィ 風&リリィ/#てつりょー 佐多みさき/#ひかなつ舞台 山岸朝子/ #バチャガ マキ/ #デートウォーズ 兎寝/#舞台ささ恋 水口未希/ﾐｭｰｼﾞｶﾙ #H12/天照フロフェ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 36,
+                "start": 23,
+                "tag": "魔法の姉妹ルルットリリィ"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "てつりょー"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "ひかなつ舞台"
+              },
+              {
+                "end": 75,
+                "start": 70,
+                "tag": "バチャガ"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "デートウォーズ"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "舞台ささ恋"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "H12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amuse.co.jp/artist/A9019/i…",
+                "end": 23,
+                "expanded_url": "https://www.amuse.co.jp/artist/A9019/index.html",
+                "start": 0,
+                "url": "https://t.co/xYXMtCteMS"
+              }
+            ]
+          }
+        },
+        "id": "1906720983018594304",
+        "location": "アミューズ所属",
+        "name": "橘めい",
+        "pinned_tweet_id": "2010662259115315677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906721413953933313/858Cl1ZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6306,
+          "following_count": 143,
+          "like_count": 4157,
+          "listed_count": 54,
+          "media_count": 78,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/xYXMtCteMS",
+        "username": "May_o_o_T",
+        "verified": true
+      }
+    ]
+  }
+}

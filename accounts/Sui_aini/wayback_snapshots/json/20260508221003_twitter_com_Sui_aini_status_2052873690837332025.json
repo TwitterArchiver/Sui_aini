@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2052868556770119910",
+    "created_at": "2026-05-08T22:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052873690837332025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800337446540120064",
+          "start": 0,
+          "username": "nichedream78632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052873690837332025",
+    "in_reply_to_user_id": "1800337446540120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052872659076288617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nichedream78632 其实感觉5-7个人就好了，租一间复式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2052868556770119910",
+        "created_at": "2026-05-08T22:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052873690837332025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800337446540120064",
+              "start": 0,
+              "username": "nichedream78632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052873690837332025",
+        "in_reply_to_user_id": "1800337446540120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052872659076288617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nichedream78632 其实感觉5-7个人就好了，租一间复式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800337446540120064",
+        "conversation_id": "2052868556770119910",
+        "created_at": "2026-05-08T22:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052872659076288617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052872659076288617",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052868556770119910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 好哦。我的话大概会希望搭伙过日子的队友/家人不要太多吧，人多了我会脑子转不过来……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 733,
+          "like_count": 4863,
+          "listed_count": 5,
+          "media_count": 537,
+          "tweet_count": 4104
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T01:21:18.000Z",
+        "description": "",
+        "id": "1800337446540120064",
+        "name": "nichedreamer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800337571941335040/Hj1mW_xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "nichedream78632",
+        "verified": false
+      }
+    ]
+  }
+}

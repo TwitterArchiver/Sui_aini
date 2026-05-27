@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations that mention dinner.",
+          "id": "1006588737344507905",
+          "name": "Dinner"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cooking Actions",
+          "id": "846770344681627649",
+          "name": "Cooking"
+        }
+      }
+    ],
+    "conversation_id": "2000581753400914427",
+    "created_at": "2025-12-15T15:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000581753400914427"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "佐々木李",
+          "probability": 0.9089,
+          "start": 64,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "ガチャリコ"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "あかりこ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1531145919722188803",
+          "start": 3,
+          "username": "AkaneY_banu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/IjQTbDJL",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/IjQTbDJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000581753400914427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000562415780733333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaneY_banu: #ガチャリコ ご視聴ありがとうございました！ガチャで食材が決まるの楽しすぎたし、アイデアの神・佐々木李子のおかげで最高にキュートな夜ご飯が完成しました🥕🧡今日は呼んでくれてありがとう🤩\n\n #あかりこ https://t.co/IjQTbDJL…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2000562403365519361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Ns6AuagAEFFTC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2000581753400914427",
+        "created_at": "2025-12-15T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000581753400914427"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "佐々木李",
+              "probability": 0.9089,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "ガチャリコ"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "あかりこ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531145919722188803",
+              "start": 3,
+              "username": "AkaneY_banu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/IjQTbDJL",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/IjQTbDJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000581753400914427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000562415780733333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaneY_banu: #ガチャリコ ご視聴ありがとうございました！ガチャで食材が決まるの楽しすぎたし、アイデアの神・佐々木李子のおかげで最高にキュートな夜ご飯が完成しました🥕🧡今日は呼んでくれてありがとう🤩\n\n #あかりこ https://t.co/IjQTbDJL…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000562403365519361"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention dinner.",
+              "id": "1006588737344507905",
+              "name": "Dinner"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2000562415780733333",
+        "created_at": "2025-12-15T13:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000562415780733333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "佐々木李",
+              "probability": 0.8957,
+              "start": 47,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ガチャリコ"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "あかりこ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjQTbDJLmt",
+              "end": 124,
+              "expanded_url": "https://x.com/AkaneY_banu/status/2000562415780733333/photo/1",
+              "media_key": "3_2000562403365519361",
+              "start": 101,
+              "url": "https://t.co/IjQTbDJLmt"
+            },
+            {
+              "display_url": "x.com/sasakirico/sta…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/sasakirico/status/2000559649054208310",
+              "start": 125,
+              "url": "https://t.co/0vIMZjvDFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000562415780733333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 19685,
+          "like_count": 1497,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000559649054208310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#ガチャリコ ご視聴ありがとうございました！ガチャで食材が決まるの楽しすぎたし、アイデアの神・佐々木李子のおかげで最高にキュートな夜ご飯が完成しました🥕🧡今日は呼んでくれてありがとう🤩\n\n #あかりこ https://t.co/IjQTbDJLmt https://t.co/0vIMZjvDFY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 529,
+          "like_count": 2806,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2265
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1975895489183883760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945040610672476160/d56HMG_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110339,
+          "following_count": 98,
+          "like_count": 12442,
+          "listed_count": 547,
+          "media_count": 875,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": true
+      }
+    ]
+  }
+}

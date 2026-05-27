@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2000120306414068184",
+    "created_at": "2025-12-14T08:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000120306414068184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ARASHIqianye/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ARASHIqianye/status/1999527676990644591",
+          "start": 6,
+          "url": "https://t.co/Cdi1RpK3lb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000120306414068184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999527676990644591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小众在哪? https://t.co/Cdi1RpK3lb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2000120306414068184",
+        "created_at": "2025-12-14T08:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000120306414068184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ARASHIqianye/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ARASHIqianye/status/1999527676990644591",
+              "start": 6,
+              "url": "https://t.co/Cdi1RpK3lb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000120306414068184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999527676990644591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小众在哪? https://t.co/Cdi1RpK3lb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385239266985271299",
+        "conversation_id": "1999363649098670218",
+        "created_at": "2025-12-12T17:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999527676990644591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1949538579199488000",
+              "start": 0,
+              "username": "FTMbutxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999527676990644591",
+        "in_reply_to_user_id": "1949538579199488000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9438,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999363649098670218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMbutxiaomao 为什么跨男会和顺男做\n跨男同吗，好小众的词语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 530,
+          "like_count": 2792,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2254
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "现役QR/副业学园偶像/ISTJ\n\n年年有今日，岁岁有今朝",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1911970264969331000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8078,
+          "following_count": 1265,
+          "like_count": 30599,
+          "listed_count": 26,
+          "media_count": 435,
+          "tweet_count": 6638
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

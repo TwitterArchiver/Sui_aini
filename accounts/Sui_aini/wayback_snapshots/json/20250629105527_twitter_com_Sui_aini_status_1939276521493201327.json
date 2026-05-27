@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939276516476456960"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939276521493201327",
+    "created_at": "2025-06-29T10:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939276521493201327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPlOdQMAR0",
+          "end": 90,
+          "expanded_url": "https://x.com/Sui_aini/status/1939276521493201327/photo/1",
+          "media_key": "3_1939276516476456960",
+          "start": 67,
+          "url": "https://t.co/kPlOdQMAR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939276521493201327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太搞笑了，总说跨性别是增加性别刻板印象，那你们顺人这是在干什么，通过说话风格、QQ资料卡就能判断出别人的「性别」，那未免也太好笑了吧 https://t.co/kPlOdQMAR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_1939276516476456960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gumxt43WEAAP7m5.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939276516476456960"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939276521493201327",
+        "created_at": "2025-06-29T10:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939276521493201327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPlOdQMAR0",
+              "end": 90,
+              "expanded_url": "https://x.com/Sui_aini/status/1939276521493201327/photo/1",
+              "media_key": "3_1939276516476456960",
+              "start": 67,
+              "url": "https://t.co/kPlOdQMAR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939276521493201327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太搞笑了，总说跨性别是增加性别刻板印象，那你们顺人这是在干什么，通过说话风格、QQ资料卡就能判断出别人的「性别」，那未免也太好笑了吧 https://t.co/kPlOdQMAR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1937368180458160531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 372,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 1189
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

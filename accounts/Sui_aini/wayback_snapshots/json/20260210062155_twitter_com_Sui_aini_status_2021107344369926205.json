@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1298798617533100032",
+          "name": "Dolls"
+        }
+      }
+    ],
+    "conversation_id": "2021107344369926205",
+    "created_at": "2026-02-10T06:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021107344369926205"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "宮妃那さん",
+          "probability": 0.317,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 51,
+          "normalized_text": "羊さんは○○の夢を見る",
+          "probability": 0.2571,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 99,
+          "start": 91,
+          "tag": "ひつじさんの夢"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "声グラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104074131",
+          "start": 3,
+          "username": "seigura"
+        }
+      ],
+      "urls": [
+        {
+          "description": "女の子の夢が詰まったスタイル 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「人形」の夢の中へ。 ガーリーな衣装でゴシックな雰囲気のあるお人形さんに。 インタビューでは、一目ぼれしたという今回の衣装についてやお",
+          "display_url": "seigura.com/news/165725/",
+          "end": 128,
+          "expanded_url": "https://seigura.com/news/165725/",
+          "images": [
+            {
+              "height": 547,
+              "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=orig",
+              "width": 834
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 105,
+          "status": 200,
+          "title": "【声グラ3月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「人形」の夢 | seigura.com",
+          "unwound_url": "https://seigura.com/news/165725/",
+          "url": "https://t.co/lNyA05919e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021107344369926205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 245
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021082022672990613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seigura: 声優グランプリ3月号は本日発売💝\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「人形」の夢🧸\nガーリーな衣装で雰囲気のあるお人形さんに❣\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/lNyA05919e https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_2021080997354405897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxSdX2aAAkGSKV.jpg",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298798617533100032",
+              "name": "Dolls"
+            }
+          }
+        ],
+        "conversation_id": "2021107344369926205",
+        "created_at": "2026-02-10T06:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021107344369926205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.317,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "羊さんは○○の夢を見る",
+              "probability": 0.2571,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 99,
+              "start": 91,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "声グラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104074131",
+              "start": 3,
+              "username": "seigura"
+            }
+          ],
+          "urls": [
+            {
+              "description": "女の子の夢が詰まったスタイル 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「人形」の夢の中へ。 ガーリーな衣装でゴシックな雰囲気のあるお人形さんに。 インタビューでは、一目ぼれしたという今回の衣装についてやお",
+              "display_url": "seigura.com/news/165725/",
+              "end": 128,
+              "expanded_url": "https://seigura.com/news/165725/",
+              "images": [
+                {
+                  "height": 547,
+                  "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=orig",
+                  "width": 834
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "【声グラ3月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「人形」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/165725/",
+              "url": "https://t.co/lNyA05919e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021107344369926205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021082022672990613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seigura: 声優グランプリ3月号は本日発売💝\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「人形」の夢🧸\nガーリーな衣装で雰囲気のあるお人形さんに❣\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/lNyA05919e https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021080997354405897"
+          ]
+        },
+        "author_id": "104074131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298798617533100032",
+              "name": "Dolls"
+            }
+          }
+        ],
+        "conversation_id": "2021082022672990613",
+        "created_at": "2026-02-10T04:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021082022672990613"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.3166,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "羊さんは○○の夢を見る",
+              "probability": 0.3296,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "声グラ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "女の子の夢が詰まったスタイル 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「人形」の夢の中へ。 ガーリーな衣装でゴシックな雰囲気のあるお人形さんに。 インタビューでは、一目ぼれしたという今回の衣装についてやお",
+              "display_url": "seigura.com/news/165725/",
+              "end": 115,
+              "expanded_url": "https://seigura.com/news/165725/",
+              "images": [
+                {
+                  "height": 547,
+                  "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=orig",
+                  "width": 834
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021082065496834049/f1RRUj_i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "【声グラ3月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「人形」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/165725/",
+              "url": "https://t.co/lNyA05919e"
+            },
+            {
+              "display_url": "pic.x.com/2zjuM41llv",
+              "end": 139,
+              "expanded_url": "https://x.com/seigura/status/2021082022672990613/photo/1",
+              "media_key": "3_2021080997354405897",
+              "start": 116,
+              "url": "https://t.co/2zjuM41llv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021082022672990613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 19885,
+          "like_count": 1121,
+          "quote_count": 34,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "声優グランプリ3月号は本日発売💝\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「人形」の夢🧸\nガーリーな衣装で雰囲気のあるお人形さんに❣\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/lNyA05919e https://t.co/2zjuM41llv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 554,
+          "like_count": 3206,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 2576
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-12T04:59:16.000Z",
+        "description": "創刊31周年のNo.1月刊声優誌『声優グランプリ』(声グラ：せいぐら)公式です。 毎月10日発売！ #声グラ\nonline shopインフォスクエア🛒https://t.co/slpP7MAu61\n撮り下ろし写真販売「声グラ+」https://t.co/LtJzfuCm8r",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "声グラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosquare.shop",
+                "end": 98,
+                "expanded_url": "https://infosquare.shop/",
+                "start": 75,
+                "url": "https://t.co/slpP7MAu61"
+              },
+              {
+                "display_url": "seigura.emii.photo",
+                "end": 137,
+                "expanded_url": "https://seigura.emii.photo/",
+                "start": 114,
+                "url": "https://t.co/LtJzfuCm8r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seigura.com",
+                "end": 23,
+                "expanded_url": "https://seigura.com/",
+                "start": 0,
+                "url": "https://t.co/c0lvETCJcL"
+              }
+            ]
+          }
+        },
+        "id": "104074131",
+        "location": "東京 神保町",
+        "name": "声優グランプリ＠31周年",
+        "pinned_tweet_id": "2018980394562179461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006424390072877061/10gftBES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211123,
+          "following_count": 1993,
+          "like_count": 8569,
+          "listed_count": 1897,
+          "media_count": 10451,
+          "tweet_count": 32067
+        },
+        "url": "https://t.co/c0lvETCJcL",
+        "username": "seigura",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1946352692730712065"
+      ],
+      "media_source_tweet_id": [
+        "1946353547626545338"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1996280356685967603",
+    "created_at": "2025-12-03T18:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996280356685967603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3308576515",
+          "start": 3,
+          "username": "MangoSoojungie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxEltgvuFz",
+          "end": 63,
+          "expanded_url": "https://x.com/MangoSoojungie/status/1946353547626545338/video/1",
+          "media_key": "13_1946352692730712065",
+          "start": 40,
+          "url": "https://t.co/lxEltgvuFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996280356685967603",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946353547626545338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangoSoojungie: 🐑singing Bansanka🥺🩵 https://t.co/lxEltgvuFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92086,
+        "height": 360,
+        "media_key": "13_1946352692730712065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946352692730712065/img/ymNBusfxCp1B3IrZ.jpg",
+        "public_metrics": {
+          "view_count": 4709
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946352692730712065/vid/avc1/480x270/l6Q9rxBe9vORupeW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946352692730712065/vid/avc1/640x360/U-7e9YdBxu1qpIzs.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946352692730712065/pl/0tUwjyL7rvGxSwiY.m3u8?tag=14&v=431"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946352692730712065"
+          ],
+          "media_source_tweet_id": [
+            "1946353547626545338"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1996280356685967603",
+        "created_at": "2025-12-03T18:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996280356685967603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3308576515",
+              "start": 3,
+              "username": "MangoSoojungie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxEltgvuFz",
+              "end": 63,
+              "expanded_url": "https://x.com/MangoSoojungie/status/1946353547626545338/video/1",
+              "media_key": "13_1946352692730712065",
+              "start": 40,
+              "url": "https://t.co/lxEltgvuFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996280356685967603",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946353547626545338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangoSoojungie: 🐑singing Bansanka🥺🩵 https://t.co/lxEltgvuFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946352692730712065"
+          ]
+        },
+        "author_id": "3308576515",
+        "conversation_id": "1946353547626545338",
+        "created_at": "2025-07-18T23:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T00:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946353547626545338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxEltgvuFz",
+              "end": 43,
+              "expanded_url": "https://x.com/MangoSoojungie/status/1946353547626545338/video/1",
+              "media_key": "13_1946352692730712065",
+              "start": 20,
+              "url": "https://t.co/lxEltgvuFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946353547626545338",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 5413,
+          "like_count": 583,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "🐑singing Bansanka🥺🩵 https://t.co/lxEltgvuFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 529,
+          "like_count": 2738,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 2190
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-07T06:55:36.000Z",
+        "description": "Being alive is pretty much a constant stream of embarrassment. (she/her)",
+        "id": "3308576515",
+        "location": "Void | 24 👷‍♀️🐯",
+        "name": "Mitzi🐑🐥 mtsktmrn peddler",
+        "pinned_tweet_id": "1909857559026319720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936268805984206855/sImUfCWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 322,
+          "like_count": 6038,
+          "listed_count": 3,
+          "media_count": 12835,
+          "tweet_count": 139488
+        },
+        "username": "MangoSoojungie",
+        "verified": false
+      }
+    ]
+  }
+}

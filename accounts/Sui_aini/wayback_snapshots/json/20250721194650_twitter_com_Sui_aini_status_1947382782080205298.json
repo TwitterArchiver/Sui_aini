@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947366848036827216",
+    "created_at": "2025-07-21T19:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T20:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947382782080205298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843311768040542209",
+          "start": 0,
+          "username": "Shipwreckrodney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947382782080205298",
+    "in_reply_to_user_id": "1843311768040542209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947381976337682530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shipwreckrodney 抱抱..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1947366848036827216",
+        "created_at": "2025-07-21T19:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T20:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947382782080205298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843311768040542209",
+              "start": 0,
+              "username": "Shipwreckrodney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947382782080205298",
+        "in_reply_to_user_id": "1843311768040542209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947381976337682530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shipwreckrodney 抱抱..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843311768040542209",
+        "conversation_id": "1947366848036827216",
+        "created_at": "2025-07-21T19:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T20:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947381976337682530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947381976337682530",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947366848036827216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 471,
+          "like_count": 1857,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1615
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:25:58.000Z",
+        "description": "罗德尼的船骸",
+        "id": "1843311768040542209",
+        "name": "罗德尼的船骸",
+        "pinned_tweet_id": "1843463985963905084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843312956328849408/w1CUiGIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 562,
+          "like_count": 54894,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 5137
+        },
+        "username": "Shipwreckrodney",
+        "verified": false
+      }
+    ]
+  }
+}

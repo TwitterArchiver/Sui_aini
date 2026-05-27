@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1986777941016236463",
+    "created_at": "2025-11-07T12:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986777941016236463"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "上海",
+          "probability": 0.7043,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986777941016236463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986776925533249876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 上海ファンミーティングでいただいたお花たちです💐\n\n一つ一つに込められた思い、しっかりと受け取らせていただきました…！✨\n沢山の素敵な愛のこもったお花をありがとう💕\n\nお時間の関係で動画でのご紹介ですが、是非ご覧ください！！ https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103133,
+        "height": 1920,
+        "media_key": "13_1986776258374680576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986776258374680576/img/LpFPHt0NAR6fU4GH.jpg",
+        "public_metrics": {
+          "view_count": 211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986776258374680576/vid/avc1/1080x1920/Mara2oI7kjRxFBE6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986776258374680576/vid/avc1/480x852/MX2dTTufhheBfhtH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986776258374680576/pl/8GzDDNeg-5Ra_uub.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986776258374680576/vid/avc1/320x568/Divr9owjgzdj5rR9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986776258374680576/vid/avc1/720x1280/lJA-U-pAj6qIUrVV.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1986777941016236463",
+        "created_at": "2025-11-07T12:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986777941016236463"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "上海",
+              "probability": 0.7043,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986777941016236463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986776925533249876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 上海ファンミーティングでいただいたお花たちです💐\n\n一つ一つに込められた思い、しっかりと受け取らせていただきました…！✨\n沢山の素敵な愛のこもったお花をありがとう💕\n\nお時間の関係で動画でのご紹介ですが、是非ご覧ください！！ https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1986776258374680576"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "conversation_id": "1986776925533249876",
+        "created_at": "2025-11-07T12:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986776925533249876"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "上海",
+              "probability": 0.7314,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XizySCsRJ2",
+              "end": 136,
+              "expanded_url": "https://x.com/kohinatamika/status/1986776925533249876/video/1",
+              "media_key": "13_1986776258374680576",
+              "start": 113,
+              "url": "https://t.co/XizySCsRJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986776925533249876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 934,
+          "like_count": 172,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "上海ファンミーティングでいただいたお花たちです💐\n\n一つ一つに込められた思い、しっかりと受け取らせていただきました…！✨\n沢山の素敵な愛のこもったお花をありがとう💕\n\nお時間の関係で動画でのご紹介ですが、是非ご覧ください！！ https://t.co/XizySCsRJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 524,
+          "like_count": 2612,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2101
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ #こひチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "イマ2"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "こひなたぼっこ"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "こひチャン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk2Xws"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1952709238498984233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952701283900772352/nGxs0NJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110842,
+          "following_count": 471,
+          "like_count": 6151,
+          "listed_count": 818,
+          "media_count": 1443,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/55PTrk2Xws",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

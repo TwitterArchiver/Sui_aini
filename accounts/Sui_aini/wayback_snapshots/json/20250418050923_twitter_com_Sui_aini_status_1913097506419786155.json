@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1913097506419786155",
+    "created_at": "2025-04-18T05:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T06:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913097506419786155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhao_tito8964/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/zhao_tito8964/status/1913092225375822124",
+          "start": 2,
+          "url": "https://t.co/yxxO8KeaRv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913097506419786155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913092225375822124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是 https://t.co/yxxO8KeaRv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1913097506419786155",
+        "created_at": "2025-04-18T05:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T06:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913097506419786155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhao_tito8964/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/zhao_tito8964/status/1913092225375822124",
+              "start": 2,
+              "url": "https://t.co/yxxO8KeaRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913097506419786155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913092225375822124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是 https://t.co/yxxO8KeaRv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "1913092225375822124",
+        "created_at": "2025-04-18T04:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913092225375822124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913092225375822124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和穗在一起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual/顺直健全no/废话制造者/文盲不懂英语/od之神/会有🩸相关",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "先锋佛学无政府主义/小登音乐家",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "赵铁托",
+        "pinned_tweet_id": "1907390365209883000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911649947058888704/Rpt_1OSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 860,
+          "like_count": 16774,
+          "listed_count": 2,
+          "media_count": 930,
+          "tweet_count": 11512
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

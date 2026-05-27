@@ -1,0 +1,734 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039019957",
+          "name": "月刊ブシロードTV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404941112330973187",
+          "name": "Cardfight!! Vanguard"
+        }
+      }
+    ],
+    "conversation_id": "2010682007198777598",
+    "created_at": "2026-01-12T11:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T12:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010682007198777598"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード",
+          "probability": 0.3296,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1123410609922396160",
+          "start": 3,
+          "username": "aoni_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ブシロードグループがTCG・ライブ・プロレス・ゲーム・アニメの最新情報をお届けする『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』より、BanG Dream! 発表パートを生配信♪BanG Dream! パートの配信は18時40分ごろからを予定。（※開始時刻は...",
+          "display_url": "m.youtube.com/watch?v=D2AD1i…",
+          "end": 116,
+          "expanded_url": "https://m.youtube.com/watch?v=D2AD1ifxlDA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 93,
+          "status": 200,
+          "title": "BanG Dream! 発表パート『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』",
+          "unwound_url": "https://www.youtube.com/watch?app=desktop&v=D2AD1ifxlDA&pp=0gcJCTIBo7VqN5tD",
+          "url": "https://t.co/pnrKyRmSnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010682007198777598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010680610155802967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoni_official: #羊宮妃那\n\n【カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026】\n〈1月12日(月・祝〉開催〉\nhttps://t.co/pnrKyRmSnl\n\nご参加頂いた皆様、ありがとうございました！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28291,
+        "height": 2160,
+        "media_key": "13_2010680267091140608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010680267091140608/img/W3H5SWJjKRYO0IxO.jpg",
+        "public_metrics": {
+          "view_count": 639
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/vid/avc1/1920x1080/D0RIzZ4DHvoV9p4O.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/vid/avc1/480x270/ImGgAIOE3mEE95gX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/vid/avc1/640x360/kY7Av8Ed1gLca70Y.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/vid/avc1/3840x2160/gbYo0fABTYik3URm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/pl/IgQJOnj5uxmeb6G0.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010680267091140608/vid/avc1/1280x720/lfA8PJ6yY6By9WSU.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          }
+        ],
+        "conversation_id": "2010682007198777598",
+        "created_at": "2026-01-12T11:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010682007198777598"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード",
+              "probability": 0.3296,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1123410609922396160",
+              "start": 3,
+              "username": "aoni_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードグループがTCG・ライブ・プロレス・ゲーム・アニメの最新情報をお届けする『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』より、BanG Dream! 発表パートを生配信♪BanG Dream! パートの配信は18時40分ごろからを予定。（※開始時刻は...",
+              "display_url": "m.youtube.com/watch?v=D2AD1i…",
+              "end": 116,
+              "expanded_url": "https://m.youtube.com/watch?v=D2AD1ifxlDA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "BanG Dream! 発表パート『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=D2AD1ifxlDA&pp=0gcJCTIBo7VqN5tD",
+              "url": "https://t.co/pnrKyRmSnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010682007198777598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010680610155802967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoni_official: #羊宮妃那\n\n【カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026】\n〈1月12日(月・祝〉開催〉\nhttps://t.co/pnrKyRmSnl\n\nご参加頂いた皆様、ありがとうございました！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010680267091140608"
+          ]
+        },
+        "author_id": "1123410609922396160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404941112330973187",
+              "name": "Cardfight!! Vanguard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2010680610155802967",
+        "created_at": "2026-01-12T11:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010680610155802967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "カードファイト!! ヴァンガード 15th Anniversary ブシロード",
+              "probability": 0.4336,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "高松燈役",
+              "probability": 0.4722,
+              "start": 131,
+              "type": "Person"
+            },
+            {
+              "end": 142,
+              "normalized_text": "宮妃那",
+              "probability": 0.6003,
+              "start": 140,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードグループがTCG・ライブ・プロレス・ゲーム・アニメの最新情報をお届けする『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』より、BanG Dream! 発表パートを生配信♪BanG Dream! パートの配信は18時40分ごろからを予定。（※開始時刻は...",
+              "display_url": "m.youtube.com/watch?v=D2AD1i…",
+              "end": 97,
+              "expanded_url": "https://m.youtube.com/watch?v=D2AD1ifxlDA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2010654265384312832/pNsbgKQc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "BanG Dream! 発表パート『カードファイト!! ヴァンガード 15th Anniversary ブシロード新春大発表会2026』",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=D2AD1ifxlDA&pp=0gcJCTIBo7VqN5tD",
+              "url": "https://t.co/pnrKyRmSnl"
+            },
+            {
+              "display_url": "pic.x.com/kbfhh4O2l0",
+              "end": 206,
+              "expanded_url": "https://x.com/aoni_official/status/2010680610155802967/video/1",
+              "media_key": "13_2010680267091140608",
+              "start": 183,
+              "url": "https://t.co/kbfhh4O2l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010680610155802967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 258,
+                "start": 253,
+                "tag": "アツドリ"
+              },
+              {
+                "end": 264,
+                "start": 259,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 273,
+                "start": 265,
+                "tag": "ブシロード新春"
+              },
+              {
+                "end": 285,
+                "start": 274,
+                "tag": "バンドリ新春2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=D2AD1i…",
+                "end": 97,
+                "expanded_url": "https://m.youtube.com/watch?v=D2AD1ifxlDA",
+                "start": 74,
+                "url": "https://t.co/nUCOqzKEuj"
+              },
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 223,
+                "expanded_url": "http://bang-dream-on.bushimo.jp",
+                "start": 200,
+                "url": "https://t.co/SKAWIBSyZ3"
+              }
+            ]
+          },
+          "text": "#羊宮妃那\n\n【カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026】\n〈1月12日(月・祝〉開催〉\nhttps://t.co/nUCOqzKEuj\n\nご参加頂いた皆様、ありがとうございました！\nMyGO!!!!!の高松燈役を演じる羊宮妃那が登壇させて頂きました！\n新たなモバイルゲーム「BanG Dream! Our Notes」も発表となりました！\nhttps://t.co/SKAWIBSyZ3\n2026年も、バンドリ！プロジェクトにご期待ください♪\n\n#アツドリ\n#バンドリ\n#ブシロード新春\n#バンドリ新春2026"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 6114,
+          "like_count": 236,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "#羊宮妃那\n\n【カードファイト!! ヴァンガード 15th Anniversary\nブシロード新春大発表会2026】\n〈1月12日(月・祝〉開催〉\nhttps://t.co/pnrKyRmSnl\n\nご参加頂いた皆様、ありがとうございました！\nMyGO!!!!!の高松燈役を演じる羊宮妃那が登壇させて頂きました！\n新たなモバイルゲーム「BanG Dream! Our https://t.co/kbfhh4O2l0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 545,
+          "like_count": 3017,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 2395
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T02:15:36.000Z",
+        "description": "青二プロダクション公式アカウントです。 最新の出演情報やイベント情報を発信します。 お仕事のご依頼はホームページの出演依頼フォームよりお願い致します。 個別でのお問い合わせはご対応致しかねますのでご了承ください。 画像・動画の無断転載はご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp",
+                "start": 0,
+                "url": "https://t.co/it9fWGQWSD"
+              }
+            ]
+          }
+        },
+        "id": "1123410609922396160",
+        "location": "港区北青山3丁目",
+        "name": "青二プロダクション【公式】",
+        "pinned_tweet_id": "2006531015830024261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128237738283552768/ZubwDNHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170378,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 1398,
+          "media_count": 6233,
+          "tweet_count": 9513
+        },
+        "url": "https://t.co/it9fWGQWSD",
+        "username": "aoni_official",
+        "verified": false
+      }
+    ]
+  }
+}

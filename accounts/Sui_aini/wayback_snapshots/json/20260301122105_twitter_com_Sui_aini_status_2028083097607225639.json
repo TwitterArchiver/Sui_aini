@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2028079007431114868",
+    "created_at": "2026-03-01T12:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028083097607225639"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "羊宮さん",
+          "probability": 0.4341,
+          "start": 25,
+          "type": "Person"
+        },
+        {
+          "end": 58,
+          "normalized_text": "羊宮さん",
+          "probability": 0.4724,
+          "start": 55,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1476931325646884879",
+          "start": 0,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028083097607225639",
+    "in_reply_to_user_id": "1476931325646884879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028079007431114868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hina_Youmiya 本当にお疲れ様でした、羊宮さんの健康願って、今日の公演はとてもすばらしくて、ずっと羊宮さんを支持します！！！！！youmiyahina chan fighting！！！💕💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028078985931018241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvF6zaUAEv2h5.jpg",
+        "width": 1514
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028078987617165312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvGBFa4AAuVpo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028078987550101504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUvGA1bkAAK5C9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2028079007431114868",
+        "created_at": "2026-03-01T12:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028083097607225639"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4341,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 58,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4724,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1476931325646884879",
+              "start": 0,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028083097607225639",
+        "in_reply_to_user_id": "1476931325646884879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028079007431114868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hina_Youmiya 本当にお疲れ様でした、羊宮さんの健康願って、今日の公演はとてもすばらしくて、ずっと羊宮さんを支持します！！！！！youmiyahina chan fighting！！！💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028078985931018241",
+            "3_2028078987617165312",
+            "3_2028078987550101504"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2028079007431114868",
+        "created_at": "2026-03-01T12:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028079007431114868"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "燈ちゃん",
+              "probability": 0.9072,
+              "start": 99,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 1,
+              "tag": "moment_memory"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 153,
+              "start": 148,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ro5bpB5KYm",
+              "end": 177,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2028079007431114868/photo/1",
+              "media_key": "3_2028078985931018241",
+              "start": 154,
+              "url": "https://t.co/Ro5bpB5KYm"
+            },
+            {
+              "display_url": "pic.x.com/Ro5bpB5KYm",
+              "end": 177,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2028079007431114868/photo/1",
+              "media_key": "3_2028078987617165312",
+              "start": 154,
+              "url": "https://t.co/Ro5bpB5KYm"
+            },
+            {
+              "display_url": "pic.x.com/Ro5bpB5KYm",
+              "end": 177,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2028079007431114868/photo/1",
+              "media_key": "3_2028078987550101504",
+              "start": 154,
+              "url": "https://t.co/Ro5bpB5KYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028079007431114868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 21791,
+          "like_count": 3132,
+          "quote_count": 36,
+          "reply_count": 142,
+          "retweet_count": 923
+        },
+        "reply_settings": "everyone",
+        "text": "『#moment_memory』\n\nその場で響く大きな音や光と共に\n生まれてくる、それぞれの感動があり\n遠くにいても、画面越しから伝わる\n大切な想いや音楽があって\n\nそんな素敵なステージに、今日も\n燈ちゃんと精一杯向き合わせていただきました。\nほんとうに、ありがとうございました！\n\n#バンドリ #MyGO https://t.co/Ro5bpB5KYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 585,
+          "like_count": 3628,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 2971
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236124,
+          "following_count": 297,
+          "like_count": 1974,
+          "listed_count": 1714,
+          "media_count": 167,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

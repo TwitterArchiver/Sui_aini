@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1949455781910503875",
+    "created_at": "2025-07-27T13:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949455781910503875"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "Ave Mujica 5th Live 〚 Nova Historia",
+          "probability": 0.5244,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "八幡海鈴",
+          "probability": 0.7768,
+          "start": 124,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949455781910503875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949454231444046233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: Ave Mujica 5th Live 〚 Nova Historia 〛\n2日間ありがとうございました。🌙⚙️\n\n“ 最高 ”の時間になりましたか？\nまた、お会いしましょう。\n\nBa. Timoris / 八幡海鈴 役 岡田夢以☪️🎸🐺…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1949454150489751553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3aOKHaQAEQOVA.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1949454150414258176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3aOJ1aUAAOZIg.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1949455781910503875",
+        "created_at": "2025-07-27T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949455781910503875"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "Ave Mujica 5th Live 〚 Nova Historia",
+              "probability": 0.5244,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "八幡海鈴",
+              "probability": 0.7768,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949455781910503875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949454231444046233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: Ave Mujica 5th Live 〚 Nova Historia 〛\n2日間ありがとうございました。🌙⚙️\n\n“ 最高 ”の時間になりましたか？\nまた、お会いしましょう。\n\nBa. Timoris / 八幡海鈴 役 岡田夢以☪️🎸🐺…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949454150489751553",
+            "3_1949454150414258176"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1949454231444046233",
+        "created_at": "2025-07-27T12:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949454231444046233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Ave Mujica 5th Live 〚 Nova Historia",
+              "probability": 0.4041,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 108,
+              "normalized_text": "八幡海鈴",
+              "probability": 0.7818,
+              "start": 105,
+              "type": "Person"
+            },
+            {
+              "end": 113,
+              "normalized_text": "岡田",
+              "probability": 0.6265,
+              "start": 112,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 136,
+              "start": 126,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 151,
+              "start": 138,
+              "tag": "NovaHistoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRrkXlvbvR",
+              "end": 175,
+              "expanded_url": "https://x.com/okada_mei0519/status/1949454231444046233/photo/1",
+              "media_key": "3_1949454150489751553",
+              "start": 152,
+              "url": "https://t.co/BRrkXlvbvR"
+            },
+            {
+              "display_url": "pic.x.com/BRrkXlvbvR",
+              "end": 175,
+              "expanded_url": "https://x.com/okada_mei0519/status/1949454231444046233/photo/1",
+              "media_key": "3_1949454150414258176",
+              "start": 152,
+              "url": "https://t.co/BRrkXlvbvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949454231444046233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 5496,
+          "like_count": 1097,
+          "quote_count": 17,
+          "reply_count": 44,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "Ave Mujica 5th Live 〚 Nova Historia 〛\n2日間ありがとうございました。🌙⚙️\n\n“ 最高 ”の時間になりましたか？\nまた、お会いしましょう。\n\nBa. Timoris / 八幡海鈴 役 岡田夢以☪️🎸🐺\n#バンドリ\n#AveMujica  #NovaHistoria https://t.co/BRrkXlvbvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 487,
+          "like_count": 1969,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1705
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "Ace Crew Entertainment 所属┊声優 #D4DJ Merm4id 水島茉莉花 / #バンドリ Ave Mujica Ba.🎸八幡海鈴 / #らぶフォー 最上羅巫, etc┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ❥ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 147,
+                "expanded_url": "https://maysland.jp/",
+                "start": 124,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身🐏✦",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1924134506191290600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848344854885171200/sMebPHkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121954,
+          "following_count": 397,
+          "like_count": 65108,
+          "listed_count": 1177,
+          "media_count": 4439,
+          "tweet_count": 14450
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

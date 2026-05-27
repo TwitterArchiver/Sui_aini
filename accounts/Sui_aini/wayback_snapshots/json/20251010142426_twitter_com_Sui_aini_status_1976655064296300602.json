@@ -1,0 +1,731 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976636605168553984"
+      ],
+      "media_source_tweet_id": [
+        "1976636619160736214"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "INGNI (イング)",
+          "id": "1034898330805915648",
+          "name": "INGNI (イング)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1976655064296300602",
+    "created_at": "2025-10-10T14:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976655064296300602"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "上海",
+          "probability": 0.736,
+          "start": 50,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 20,
+          "tag": "MyGO_AveMujica_Shanghai_DAY1"
+        },
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "MyGO"
+        },
+        {
+          "end": 107,
+          "start": 97,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQQROHhkQv",
+          "end": 131,
+          "expanded_url": "https://x.com/cocohayashi515/status/1976636619160736214/photo/1",
+          "media_key": "3_1976636605168553984",
+          "start": 108,
+          "url": "https://t.co/PQQROHhkQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976655064296300602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976636619160736214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: #MyGO_AveMujica_Shanghai_DAY1\n上海ついたよー❣️\nいよいよ明日です❣️\n一緒に楽しみましょう❣️\n\n#バンドリ #MyGO #AveMujica https://t.co/PQQROHhkQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976636605168553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25shQ0bEAAkXxm.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976636605168553984"
+          ],
+          "media_source_tweet_id": [
+            "1976636619160736214"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "INGNI (イング)",
+              "id": "1034898330805915648",
+              "name": "INGNI (イング)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1976655064296300602",
+        "created_at": "2025-10-10T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976655064296300602"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "上海",
+              "probability": 0.736,
+              "start": 50,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 20,
+              "tag": "MyGO_AveMujica_Shanghai_DAY1"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "MyGO"
+            },
+            {
+              "end": 107,
+              "start": 97,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQQROHhkQv",
+              "end": 131,
+              "expanded_url": "https://x.com/cocohayashi515/status/1976636619160736214/photo/1",
+              "media_key": "3_1976636605168553984",
+              "start": 108,
+              "url": "https://t.co/PQQROHhkQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976655064296300602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976636619160736214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: #MyGO_AveMujica_Shanghai_DAY1\n上海ついたよー❣️\nいよいよ明日です❣️\n一緒に楽しみましょう❣️\n\n#バンドリ #MyGO #AveMujica https://t.co/PQQROHhkQv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976636605168553984"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "INGNI (イング)",
+              "id": "1034898330805915648",
+              "name": "INGNI (イング)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1976636619160736214",
+        "created_at": "2025-10-10T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976636619160736214"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "上海",
+              "probability": 0.7804,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 0,
+              "tag": "MyGO_AveMujica_Shanghai_DAY1"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "MyGO"
+            },
+            {
+              "end": 87,
+              "start": 77,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQQROHhkQv",
+              "end": 111,
+              "expanded_url": "https://x.com/cocohayashi515/status/1976636619160736214/photo/1",
+              "media_key": "3_1976636605168553984",
+              "start": 88,
+              "url": "https://t.co/PQQROHhkQv"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1976618725487890887",
+              "start": 112,
+              "url": "https://t.co/Z5wqLAJAvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976636619160736214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 53901,
+          "like_count": 2114,
+          "quote_count": 28,
+          "reply_count": 45,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976618725487890887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#MyGO_AveMujica_Shanghai_DAY1\n上海ついたよー❣️\nいよいよ明日です❣️\n一緒に楽しみましょう❣️\n\n#バンドリ #MyGO #AveMujica https://t.co/PQQROHhkQv https://t.co/Z5wqLAJAvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 517,
+          "like_count": 2393,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 2010
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "株式会社LIBERTE｜声優・俳優｜ドラム｜ミュージカルと宝塚、ロックと映画が好きです。｜NEXT⤑ 【舞台】 #舞台ヘブバン 11月1日〜｜Instagram⤑ https://t.co/PVDKZdpRKW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "舞台ヘブバン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/coco_hayashi.o…",
+                "end": 105,
+                "expanded_url": "http://instagram.com/coco_hayashi.official",
+                "start": 82,
+                "url": "https://t.co/PVDKZdpRKW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fan.pia.jp/cocohayashi/",
+                "end": 23,
+                "expanded_url": "https://fan.pia.jp/cocohayashi/",
+                "start": 0,
+                "url": "https://t.co/CCW7qMhBlB"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "location": "林鼓子 Official Fanclub-鼓星-",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1939897035395932334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929015942136344580/JsSltbSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151617,
+          "following_count": 565,
+          "like_count": 8605,
+          "listed_count": 2824,
+          "media_count": 1597,
+          "tweet_count": 7738
+        },
+        "url": "https://t.co/CCW7qMhBlB",
+        "username": "cocohayashi515",
+        "verified": true
+      }
+    ]
+  }
+}

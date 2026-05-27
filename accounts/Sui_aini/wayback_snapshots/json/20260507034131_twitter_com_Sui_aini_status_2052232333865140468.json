@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2052211936201449567",
+    "created_at": "2026-05-07T03:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052232333865140468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691577632",
+          "start": 0,
+          "username": "Yungstedt"
+        },
+        {
+          "end": 25,
+          "id": "2022253175345143809",
+          "start": 11,
+          "username": "irisdesombres"
+        },
+        {
+          "end": 41,
+          "id": "1489468526826082312",
+          "start": 26,
+          "username": "Diamond_Kokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20522…",
+          "end": 91,
+          "expanded_url": "https://x.com/i/status/2052231441401172283",
+          "start": 68,
+          "url": "https://t.co/oJXjwmwqGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052232333865140468",
+    "in_reply_to_user_id": "1691577632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052231441401172283",
+        "type": "quoted"
+      },
+      {
+        "id": "2052232083540475997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yungstedt @irisdesombres @Diamond_Kokoro 这是肯定的的，我现在依旧相信存在真正的ally，但\nhttps://t.co/oJXjwmwqGE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2052211936201449567",
+        "created_at": "2026-05-07T03:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052232333865140468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691577632",
+              "start": 0,
+              "username": "Yungstedt"
+            },
+            {
+              "end": 25,
+              "id": "2022253175345143809",
+              "start": 11,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 41,
+              "id": "1489468526826082312",
+              "start": 26,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20522…",
+              "end": 91,
+              "expanded_url": "https://x.com/i/status/2052231441401172283",
+              "start": 68,
+              "url": "https://t.co/oJXjwmwqGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052232333865140468",
+        "in_reply_to_user_id": "1691577632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052231441401172283",
+            "type": "quoted"
+          },
+          {
+            "id": "2052232083540475997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yungstedt @irisdesombres @Diamond_Kokoro 这是肯定的的，我现在依旧相信存在真正的ally，但\nhttps://t.co/oJXjwmwqGE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2052211936201449567",
+        "created_at": "2026-05-07T03:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052231441401172283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022253175345143809",
+              "start": 0,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 30,
+              "id": "1489468526826082312",
+              "start": 15,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052231441401172283",
+        "in_reply_to_user_id": "2022253175345143809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052229920189731204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irisdesombres @Diamond_Kokoro 我到现在也能明白很多顺性别刚接触跨儿的时候，会感觉很神奇，会有些迷茫，怎么去和跨儿交谈沟通，会小心翼翼 但原推我是真觉得她骨子里就是傲慢的，不然不可能说出这样的话，我不知道她和那个人谈了什么，但光是那一句话，就足够证明友跨这个轻飘飘的词对她来说就是时尚单品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691577632",
+        "conversation_id": "2052211936201449567",
+        "created_at": "2026-05-07T03:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052232083540475997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 24,
+              "id": "2022253175345143809",
+              "start": 10,
+              "username": "irisdesombres"
+            },
+            {
+              "end": 40,
+              "id": "1489468526826082312",
+              "start": 25,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052232083540475997",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052229820902506852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @irisdesombres @Diamond_Kokoro 也不是所有人都必须一步到位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 721,
+          "like_count": 4806,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 4020
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-22T16:56:18.000Z",
+        "description": "Xu Yang, MSc Chemical Biology (She/her) 🏳️‍⚧️ PhD student/Glycoproteomist at UGA CCRC, #Miata driver. #glycotime #TeamMassSpec Opinions are my own.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 87,
+                "tag": "Miata"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "glycotime"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "tag": "TeamMassSpec"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yungst…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yungstedt.bsky.social",
+                "start": 0,
+                "url": "https://t.co/uDmzqWC611"
+              }
+            ]
+          }
+        },
+        "id": "1691577632",
+        "location": "Athens, GA",
+        "name": "糖经博士杨小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988399235935727621/MUazCX8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 3403,
+          "like_count": 5591,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 3614
+        },
+        "url": "https://t.co/uDmzqWC611",
+        "username": "Yungstedt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "𝗮𝗴𝗲𝗻𝗱𝗲𝗿 · 𝗮𝗻𝘆 𝗽𝗿𝗼𝗻𝗼𝘂𝗻𝘀 \n世上本无真品一说，可有的人比所谓真品更真\n仁慈而高贵的是你@Diamond_kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "Diamond_kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "name": "鴉尾鸢",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 137,
+          "like_count": 6745,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 4640
+        },
+        "url": "",
+        "username": "irisdesombres",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 104,
+          "like_count": 5181,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 3554
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

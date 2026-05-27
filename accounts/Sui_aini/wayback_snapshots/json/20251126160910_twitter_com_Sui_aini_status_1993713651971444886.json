@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054657859",
+          "name": "ゾンビランドサガ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      }
+    ],
+    "conversation_id": "1993713651971444886",
+    "created_at": "2025-11-26T16:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993713651971444886"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 131,
+          "normalized_text": "#ゾンビランドサガ ゆめぎんがパラダイス",
+          "probability": 0.6134,
+          "start": 112,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 109,
+          "tag": "ゾンビランドサガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1013838438397718528",
+          "start": 3,
+          "username": "zombielandsaga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993713651971444886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 748
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993152664113238444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zombielandsaga: /／\nあなたはどのシーンが好き？🧟‍♀️✨\n\\＼\n\n名場面をピックアップして振り返り📸\nぜひゾンビィの皆さんの“推しシーン”を\nリプライや引用RPで教えてください👀\n⠀\n劇場版『#ゾンビランドサガ ゆめぎんがパラダイス』\n絶賛上映中🎬 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1991413941394894849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LsbcGacAEKMg_.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1991413941403283460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LsbcIacAQ8RfX.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1991413941361356800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Lsbb-asAA4WmI.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1991413940702822400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LsbZhaQAA8-ID.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "1993713651971444886",
+        "created_at": "2025-11-26T16:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993713651971444886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 131,
+              "normalized_text": "#ゾンビランドサガ ゆめぎんがパラダイス",
+              "probability": 0.6134,
+              "start": 112,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 109,
+              "tag": "ゾンビランドサガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1013838438397718528",
+              "start": 3,
+              "username": "zombielandsaga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993713651971444886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 748
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993152664113238444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zombielandsaga: /／\nあなたはどのシーンが好き？🧟‍♀️✨\n\\＼\n\n名場面をピックアップして振り返り📸\nぜひゾンビィの皆さんの“推しシーン”を\nリプライや引用RPで教えてください👀\n⠀\n劇場版『#ゾンビランドサガ ゆめぎんがパラダイス』\n絶賛上映中🎬 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991413941394894849",
+            "3_1991413941403283460",
+            "3_1991413941361356800",
+            "3_1991413940702822400"
+          ]
+        },
+        "author_id": "1013838438397718528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "1993152664113238444",
+        "created_at": "2025-11-25T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993152664113238444"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "#ゾンビランドサガ ゆめぎんがパラダイス",
+              "probability": 0.6233,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 89,
+              "tag": "ゾンビランドサガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CgJxgmzr8",
+              "end": 141,
+              "expanded_url": "https://x.com/zombielandsaga/status/1993152664113238444/photo/1",
+              "media_key": "3_1991413941394894849",
+              "start": 118,
+              "url": "https://t.co/8CgJxgmzr8"
+            },
+            {
+              "display_url": "pic.x.com/8CgJxgmzr8",
+              "end": 141,
+              "expanded_url": "https://x.com/zombielandsaga/status/1993152664113238444/photo/1",
+              "media_key": "3_1991413941403283460",
+              "start": 118,
+              "url": "https://t.co/8CgJxgmzr8"
+            },
+            {
+              "display_url": "pic.x.com/8CgJxgmzr8",
+              "end": 141,
+              "expanded_url": "https://x.com/zombielandsaga/status/1993152664113238444/photo/1",
+              "media_key": "3_1991413941361356800",
+              "start": 118,
+              "url": "https://t.co/8CgJxgmzr8"
+            },
+            {
+              "display_url": "pic.x.com/8CgJxgmzr8",
+              "end": 141,
+              "expanded_url": "https://x.com/zombielandsaga/status/1993152664113238444/photo/1",
+              "media_key": "3_1991413940702822400",
+              "start": 118,
+              "url": "https://t.co/8CgJxgmzr8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993152664113238444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 282905,
+          "like_count": 3558,
+          "quote_count": 420,
+          "reply_count": 129,
+          "retweet_count": 748
+        },
+        "reply_settings": "everyone",
+        "text": "/／\nあなたはどのシーンが好き？🧟‍♀️✨\n\\＼\n\n名場面をピックアップして振り返り📸\nぜひゾンビィの皆さんの“推しシーン”を\nリプライや引用RPで教えてください👀\n⠀\n劇場版『#ゾンビランドサガ ゆめぎんがパラダイス』\n絶賛上映中🎬 https://t.co/8CgJxgmzr8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 524,
+          "like_count": 2693,
+          "listed_count": 4,
+          "media_count": 348,
+          "tweet_count": 2152
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-02T17:34:54.000Z",
+        "description": "ゾンビィのアイドルは佐賀を、世界を救えるのか―!?\n空前絶後のギャラクシー・フェスティバル・ムービー開幕!!\n10月24日(金) 全国公開\n▶ハッシュタグ： #ゾンビランドサガ\n©劇場版ゾンビランドサガ製作委員会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 79,
+                "tag": "ゾンビランドサガ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zombielandsaga-movie.com",
+                "end": 23,
+                "expanded_url": "http://zombielandsaga-movie.com",
+                "start": 0,
+                "url": "https://t.co/JIFTHB9vPH"
+              }
+            ]
+          }
+        },
+        "id": "1013838438397718528",
+        "name": "劇場版『ゾンビランドサガ ゆめぎんがパラダイス』",
+        "pinned_tweet_id": "1985619216037527953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885343362368364551/07PcUZ8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198425,
+          "following_count": 88,
+          "like_count": 231,
+          "listed_count": 1497,
+          "media_count": 2347,
+          "tweet_count": 7724
+        },
+        "url": "https://t.co/JIFTHB9vPH",
+        "username": "zombielandsaga",
+        "verified": true
+      }
+    ]
+  }
+}

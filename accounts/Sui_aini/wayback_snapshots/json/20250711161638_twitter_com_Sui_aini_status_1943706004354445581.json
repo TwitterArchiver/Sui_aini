@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1943232368468537446",
+    "created_at": "2025-07-11T16:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T17:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943706004354445581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495378934610857985",
+          "start": 0,
+          "username": "SoyorinQaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943706004354445581",
+    "in_reply_to_user_id": "1495378934610857985",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943600948351242716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoyorinQaQ 💕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1943600948351242716].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1943600948351242716",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1943600948351242716"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1943232368468537446",
+        "created_at": "2025-07-11T16:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943706004354445581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495378934610857985",
+              "start": 0,
+              "username": "SoyorinQaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943706004354445581",
+        "in_reply_to_user_id": "1495378934610857985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943600948351242716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoyorinQaQ 💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 437,
+          "like_count": 1488,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 1420
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T12:45:05.000Z",
+        "description": "之前叫『逃过纽伦堡审判的施佩尔』/BPD 焦虑型依恋发病致歉/反对任何形式的开放关系/三国史（昭烈帝单推人） 日本战国史 康雍乾爱好者/崩铁 明日方舟玩家/R&B Jazz享受者/ 笨蛋老公 @dongxuelianhaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "dongxuelianhaha"
+              }
+            ]
+          }
+        },
+        "id": "1495378934610857985",
+        "name": "🌸长崎素世🌸 ✝️拉特兰天使重度依赖✝️",
+        "pinned_tweet_id": "1928802861963485676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936368346301140992/eDEcSrmV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 1522,
+          "like_count": 75576,
+          "listed_count": 26,
+          "media_count": 1887,
+          "tweet_count": 22476
+        },
+        "username": "SoyorinQaQ",
+        "verified": false
+      }
+    ]
+  }
+}

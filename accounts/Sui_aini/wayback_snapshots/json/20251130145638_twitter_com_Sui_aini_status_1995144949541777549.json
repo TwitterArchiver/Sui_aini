@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994985938473328640"
+      ],
+      "media_source_tweet_id": [
+        "1994985958174069064"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995144949541777549",
+    "created_at": "2025-11-30T14:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995144949541777549"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 48,
+          "tag": "しゃんきいて"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2297792839",
+          "start": 3,
+          "username": "mesiesensei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/voamU8xIzT",
+          "end": 79,
+          "expanded_url": "https://x.com/mesiesensei/status/1994985958174069064/video/1",
+          "media_key": "7_1994985938473328640",
+          "start": 56,
+          "url": "https://t.co/voamU8xIzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995144949541777549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994985958174069064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mesiesensei: おまわりしゃあああああんん！！！\n夢を捕まえたね、めいしゃん\n#しゃんきいて https://t.co/voamU8xIzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4829,
+        "height": 962,
+        "media_key": "7_1994985938473328640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994985938473328640/pu/img/YsoQivUfv28CfJce.jpg",
+        "public_metrics": {
+          "view_count": 2120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994985938473328640/pu/vid/avc1/320x426/K15RZfKhx2QELgfH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994985938473328640/pu/vid/avc1/480x640/CftTGSzS38IQa4VR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994985938473328640/pu/vid/avc1/720x962/Xloos2m01e9mZ8P7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994985938473328640/pu/pl/gGx85XQIeJcl342k.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994985938473328640"
+          ],
+          "media_source_tweet_id": [
+            "1994985958174069064"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995144949541777549",
+        "created_at": "2025-11-30T14:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995144949541777549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "しゃんきいて"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2297792839",
+              "start": 3,
+              "username": "mesiesensei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voamU8xIzT",
+              "end": 79,
+              "expanded_url": "https://x.com/mesiesensei/status/1994985958174069064/video/1",
+              "media_key": "7_1994985938473328640",
+              "start": 56,
+              "url": "https://t.co/voamU8xIzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995144949541777549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994985958174069064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mesiesensei: おまわりしゃあああああんん！！！\n夢を捕まえたね、めいしゃん\n#しゃんきいて https://t.co/voamU8xIzT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994985938473328640"
+          ]
+        },
+        "author_id": "2297792839",
+        "conversation_id": "1994985958174069064",
+        "created_at": "2025-11-30T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994985958174069064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "しゃんきいて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voamU8xIzT",
+              "end": 62,
+              "expanded_url": "https://x.com/mesiesensei/status/1994985958174069064/video/1",
+              "media_key": "7_1994985938473328640",
+              "start": 39,
+              "url": "https://t.co/voamU8xIzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994985958174069064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 5438,
+          "like_count": 441,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "おまわりしゃあああああんん！！！\n夢を捕まえたね、めいしゃん\n#しゃんきいて https://t.co/voamU8xIzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 524,
+          "like_count": 2715,
+          "listed_count": 4,
+          "media_count": 350,
+          "tweet_count": 2170
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-18T12:05:56.000Z",
+        "description": "＼\\ 岡田夢以（めいしゃん）はいいぞ /／ \n†きみもめいっこにならないか† \n▷#Merm4id｜#AveMujica｜#らぶフォー｜#DIVINE\n▷#MEI｜#MAYSLAND｜#しゃんきいて\n▷#jcdk｜#原奈津子\n▷#JILUKA\n▷ToSプレス～スタダメシテロ啓示者｜LoL S2dia｜遊戯王",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "Merm4id"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 75,
+                "start": 68,
+                "tag": "DIVINE"
+              },
+              {
+                "end": 81,
+                "start": 77,
+                "tag": "MEI"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "tag": "MAYSLAND"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "tag": "しゃんきいて"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "jcdk"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "原奈津子"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "tag": "JILUKA"
+              }
+            ]
+          }
+        },
+        "id": "2297792839",
+        "location": "プロンテラ臨公広場",
+        "name": "Messier(めしえ)＠メシテロ先生あとやっぱベニエルな特めい係長",
+        "pinned_tweet_id": "777920658646765569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/424518139972308992/TUB3NhzB_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 659,
+          "like_count": 29483,
+          "listed_count": 9,
+          "media_count": 2324,
+          "tweet_count": 29743
+        },
+        "username": "mesiesensei",
+        "verified": false
+      }
+    ]
+  }
+}

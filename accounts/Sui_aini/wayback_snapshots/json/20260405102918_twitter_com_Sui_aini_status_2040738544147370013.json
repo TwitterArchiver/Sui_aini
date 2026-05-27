@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2040737987613581544",
+    "created_at": "2026-04-05T10:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040738544147370013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1935308973588234246",
+          "start": 0,
+          "username": "idgaf8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040738544147370013",
+    "in_reply_to_user_id": "1935308973588234246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040737987613581544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idgaf8964 亚文化不能代表反叛吗?不反叛在哪?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2040737987613581544",
+        "created_at": "2026-04-05T10:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040738544147370013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1935308973588234246",
+              "start": 0,
+              "username": "idgaf8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040738544147370013",
+        "in_reply_to_user_id": "1935308973588234246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040737987613581544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idgaf8964 亚文化不能代表反叛吗?不反叛在哪?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935308973588234246",
+        "conversation_id": "2040737987613581544",
+        "created_at": "2026-04-05T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040737987613581544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sui_aini/status/2040668993544200612",
+              "start": 9,
+              "url": "https://t.co/CA1hYr0D5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040737987613581544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040668993544200612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "lo裙反叛在哪… https://t.co/CA1hYr0D5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 640,
+          "like_count": 4087,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3296
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T12:10:11.000Z",
+        "description": "❌follow 🚨RADIANT gamer alert🚨 looking for a cute e-girl duo 🥰🎮 must vibe, spam emotes, and gas me up while i frag out 😈✨ ❌DM me 💖🔥",
+        "id": "1935308973588234246",
+        "name": "^ u^",
+        "pinned_tweet_id": "2025156276557414553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036000630276526080/zmKvM3XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 678
+        },
+        "username": "idgaf8964",
+        "verified": false
+      }
+    ]
+  }
+}

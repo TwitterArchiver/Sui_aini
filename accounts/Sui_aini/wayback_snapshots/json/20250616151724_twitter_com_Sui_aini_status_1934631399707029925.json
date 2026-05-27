@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1934495104225734865",
+    "created_at": "2025-06-16T15:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934631399707029925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893148438239522816",
+          "start": 0,
+          "username": "Ave_Nagasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934631399707029925",
+    "in_reply_to_user_id": "1893148438239522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934631012883194329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ave_Nagasaki 刻板印象怎么产生的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1934495104225734865",
+        "created_at": "2025-06-16T15:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934631399707029925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893148438239522816",
+              "start": 0,
+              "username": "Ave_Nagasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934631399707029925",
+        "in_reply_to_user_id": "1893148438239522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934631012883194329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ave_Nagasaki 刻板印象怎么产生的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148438239522816",
+        "conversation_id": "1934495104225734865",
+        "created_at": "2025-06-16T15:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934631012883194329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934631012883194329",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934495104225734865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 性别不一定是刻板印象大合集，但是跨性别基本是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 363,
+          "like_count": 915,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 1030
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "自恋小爽\nlove @lamte15072\n木子米宝宝 @inoueerii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "lamte15072"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "inoueerii"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "大遊戯場歌舞伎町",
+        "name": "母国情緒",
+        "pinned_tweet_id": "1908365349986459798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934448924334710784/KnxfdYZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 135,
+          "like_count": 2739,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1130
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      }
+    ]
+  }
+}

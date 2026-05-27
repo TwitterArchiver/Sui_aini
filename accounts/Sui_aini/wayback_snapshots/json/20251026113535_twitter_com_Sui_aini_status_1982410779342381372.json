@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10036694040",
+          "name": "日本プロ野球"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "NPB",
+          "id": "839757898951487488",
+          "name": "NPB"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NPB",
+          "id": "839757898951487488",
+          "name": "NPB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1982410779342381372",
+    "created_at": "2025-10-26T11:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982410779342381372"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "羊宮妃那のこもれびじかん",
+          "probability": 0.667,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "桜谷理子さん",
+          "probability": 0.3026,
+          "start": 59,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 122,
+          "tag": "こもれびじかん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902302237352980481",
+          "start": 3,
+          "username": "komorebi_jikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982410779342381372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982403755678306600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @komorebi_jikan: 今夜も24時30分から放送予定🐿️\n『羊宮妃那のこもれびじかん』🌳📻\n\n桜谷理子さんがゲスト出演✨️🎃👻\n\n※プロ野球日本シリーズ中継の状況によっては、放送が休止になる可能性があります。ご了承ください。\n#こもれびじかん https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1982403509019402240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LpfPyW4AAhzsn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036694040",
+              "name": "日本プロ野球"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1982410779342381372",
+        "created_at": "2025-10-26T11:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982410779342381372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "羊宮妃那のこもれびじかん",
+              "probability": 0.667,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "桜谷理子さん",
+              "probability": 0.3026,
+              "start": 59,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 122,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902302237352980481",
+              "start": 3,
+              "username": "komorebi_jikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982410779342381372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982403755678306600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @komorebi_jikan: 今夜も24時30分から放送予定🐿️\n『羊宮妃那のこもれびじかん』🌳📻\n\n桜谷理子さんがゲスト出演✨️🎃👻\n\n※プロ野球日本シリーズ中継の状況によっては、放送が休止になる可能性があります。ご了承ください。\n#こもれびじかん https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982403509019402240"
+          ]
+        },
+        "author_id": "1902302237352980481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036694040",
+              "name": "日本プロ野球"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1982403755678306600",
+        "created_at": "2025-10-26T11:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982403755678306600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "羊宮妃那のこもれびじかん",
+              "probability": 0.6674,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "桜谷理子さん",
+              "probability": 0.3105,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 102,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GReoEpd36L",
+              "end": 134,
+              "expanded_url": "https://x.com/komorebi_jikan/status/1982403755678306600/photo/1",
+              "media_key": "3_1982403509019402240",
+              "start": 111,
+              "url": "https://t.co/GReoEpd36L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982403755678306600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4706,
+          "like_count": 365,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "following",
+        "text": "今夜も24時30分から放送予定🐿️\n『羊宮妃那のこもれびじかん』🌳📻\n\n桜谷理子さんがゲスト出演✨️🎃👻\n\n※プロ野球日本シリーズ中継の状況によっては、放送が休止になる可能性があります。ご了承ください。\n#こもれびじかん https://t.co/GReoEpd36L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 520,
+          "like_count": 2534,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 2060
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:12:58.000Z",
+        "description": "ラジオ番組公式Xアカウント\n文化放送地上波(radiko)にて毎週日曜24:30～25:00放送\nカルチェラでアーカイブとこもればなしを配信中！\n\nメール：komorebi@joqr.net\nフォーム：https://t.co/qAD2ORz4Gk\n#こもれびじかん\n\n※ラジオや写真等の無断転載はご遠慮ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "こもれびじかん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "form.run/@komorebi",
+                "end": 124,
+                "expanded_url": "https://form.run/@komorebi",
+                "start": 101,
+                "url": "https://t.co/qAD2ORz4Gk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "culuchera.stores.play.jp",
+                "end": 23,
+                "expanded_url": "https://culuchera.stores.play.jp/",
+                "start": 0,
+                "url": "https://t.co/PFofhpyYAw"
+              }
+            ]
+          }
+        },
+        "id": "1902302237352980481",
+        "name": "羊宮妃那のこもれびじかん",
+        "pinned_tweet_id": "1936817340483768808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905469206323494912/U5feN3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7032,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 54,
+          "media_count": 74,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/PFofhpyYAw",
+        "username": "komorebi_jikan",
+        "verified": false
+      }
+    ]
+  }
+}

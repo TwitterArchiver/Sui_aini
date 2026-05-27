@@ -1,0 +1,931 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010950068866859010",
+        "3_2010950068841693186",
+        "3_2010950068850077696"
+      ],
+      "media_source_tweet_id": [
+        "2010950083790168242",
+        "2010950083790168242",
+        "2010950083790168242"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      }
+    ],
+    "conversation_id": "2010952402405609529",
+    "created_at": "2026-01-13T05:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T06:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010952402405609529"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "よーちゃん",
+          "probability": 0.6059,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 28,
+          "normalized_text": "ひなぴよ",
+          "probability": 0.3843,
+          "start": 25,
+          "type": "Person"
+        },
+        {
+          "end": 35,
+          "normalized_text": "凛ちゃん",
+          "probability": 0.8516,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 46,
+          "normalized_text": "MyGOちゃん",
+          "probability": 0.5674,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 70,
+          "tag": "ブシロード新春"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "767910567071801344",
+          "start": 3,
+          "username": "Kanon_Takao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbSq9duGNa",
+          "end": 109,
+          "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+          "media_key": "3_2010950068866859010",
+          "start": 86,
+          "url": "https://t.co/qbSq9duGNa"
+        },
+        {
+          "display_url": "pic.x.com/qbSq9duGNa",
+          "end": 109,
+          "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+          "media_key": "3_2010950068841693186",
+          "start": 86,
+          "url": "https://t.co/qbSq9duGNa"
+        },
+        {
+          "display_url": "pic.x.com/qbSq9duGNa",
+          "end": 109,
+          "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+          "media_key": "3_2010950068850077696",
+          "start": 86,
+          "url": "https://t.co/qbSq9duGNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010952402405609529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010950083790168242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Takao: よーちゃん🐏\nひなぴよ🐣\n凛ちゃん✌️\n\nMyGOちゃんともお話しできて嬉しかった…＼( 'ω')／🧭\n\n#ブシロード新春　\n#バンドリ https://t.co/qbSq9duGNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2010950068866859010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hUbuPbQAIYRXn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010950068841693186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hUbuJbQAIE43p.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1812,
+        "media_key": "3_2010950068850077696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hUbuLbMAABopS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010950068866859010",
+            "3_2010950068841693186",
+            "3_2010950068850077696"
+          ],
+          "media_source_tweet_id": [
+            "2010950083790168242",
+            "2010950083790168242",
+            "2010950083790168242"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "2010952402405609529",
+        "created_at": "2026-01-13T05:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010952402405609529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "よーちゃん",
+              "probability": 0.6059,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 28,
+              "normalized_text": "ひなぴよ",
+              "probability": 0.3843,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "凛ちゃん",
+              "probability": 0.8516,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "MyGOちゃん",
+              "probability": 0.5674,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "ブシロード新春"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "767910567071801344",
+              "start": 3,
+              "username": "Kanon_Takao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 109,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068866859010",
+              "start": 86,
+              "url": "https://t.co/qbSq9duGNa"
+            },
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 109,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068841693186",
+              "start": 86,
+              "url": "https://t.co/qbSq9duGNa"
+            },
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 109,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068850077696",
+              "start": 86,
+              "url": "https://t.co/qbSq9duGNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010952402405609529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010950083790168242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Takao: よーちゃん🐏\nひなぴよ🐣\n凛ちゃん✌️\n\nMyGOちゃんともお話しできて嬉しかった…＼( 'ω')／🧭\n\n#ブシロード新春　\n#バンドリ https://t.co/qbSq9duGNa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010950068866859010",
+            "3_2010950068841693186",
+            "3_2010950068850077696"
+          ]
+        },
+        "author_id": "767910567071801344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "2010950083790168242",
+        "created_at": "2026-01-13T05:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010950083790168242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "よーちゃん",
+              "probability": 0.5318,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 11,
+              "normalized_text": "ひなぴよ",
+              "probability": 0.4017,
+              "start": 8,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "凛ちゃん",
+              "probability": 0.8533,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "MyGOちゃん",
+              "probability": 0.5751,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "ブシロード新春"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 92,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068866859010",
+              "start": 69,
+              "url": "https://t.co/qbSq9duGNa"
+            },
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 92,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068841693186",
+              "start": 69,
+              "url": "https://t.co/qbSq9duGNa"
+            },
+            {
+              "display_url": "pic.x.com/qbSq9duGNa",
+              "end": 92,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2010950083790168242/photo/1",
+              "media_key": "3_2010950068850077696",
+              "start": 69,
+              "url": "https://t.co/qbSq9duGNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010950083790168242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2024,
+          "like_count": 338,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "よーちゃん🐏\nひなぴよ🐣\n凛ちゃん✌️\n\nMyGOちゃんともお話しできて嬉しかった…＼( 'ω')／🧭\n\n#ブシロード新春　\n#バンドリ https://t.co/qbSq9duGNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 549,
+          "like_count": 3038,
+          "listed_count": 4,
+          "media_count": 376,
+          "tweet_count": 2404
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T02:25:21.000Z",
+        "description": "声優です✨ #バンドリ #AveMujica 豊川祥子•オブリビオニス／#灰原くんの強くて青春ニューゲーム 星宮陽花里／#アニメ100カノ 華暮愛々／#たんもし 斎川唯／#アイプラ 白石千紗／#このすば アイリス／#崩壊スターレイル ケリュドラ／【番組】#かのんカフェ #あぐのん #のんひな 【FC】#高尾山のんのん村",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 53,
+                "start": 36,
+                "tag": "灰原くんの強くて青春ニューゲーム"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "たんもし"
+              },
+              {
+                "end": 90,
+                "start": 85,
+                "tag": "アイプラ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "このすば"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "tag": "崩壊スターレイル"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "tag": "かのんカフェ"
+              },
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "あぐのん"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "のんひな"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "高尾山のんのん村"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ancheri.co.jp/talent/kanon_t…",
+                "end": 23,
+                "expanded_url": "https://ancheri.co.jp/talent/kanon_takao.html",
+                "start": 0,
+                "url": "https://t.co/N3OjnATEGj"
+              }
+            ]
+          }
+        },
+        "id": "767910567071801344",
+        "location": "株式会社アンシェリ",
+        "name": "高尾奏音",
+        "pinned_tweet_id": "1890053441181143405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006741450105696256/4Sw6SknV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149011,
+          "following_count": 871,
+          "like_count": 30865,
+          "listed_count": 1489,
+          "media_count": 3771,
+          "tweet_count": 18429
+        },
+        "url": "https://t.co/N3OjnATEGj",
+        "username": "Kanon_Takao",
+        "verified": true
+      }
+    ]
+  }
+}

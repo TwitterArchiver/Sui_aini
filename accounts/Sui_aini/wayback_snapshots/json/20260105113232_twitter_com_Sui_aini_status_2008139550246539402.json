@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      }
+    ],
+    "conversation_id": "2008139550246539402",
+    "created_at": "2026-01-05T11:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008139550246539402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "声優グランプリ",
+          "probability": 0.6648,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "僕の心のヤバイやつ",
+          "probability": 0.612,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "山田杏奈",
+          "probability": 0.9879,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008139550246539402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008138910656794819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【掲載情報】\n\n『声優グランプリ』2月号\nアナザーカバー・巻末特集を\n劇場版「僕の心のヤバイやつ」\n山田杏奈役として担当させていただきました。\n\n制服を着たり、学校の中を探検できたり\n楽しく撮影させていただいておりました✨\n映画も雑誌もぜひご…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008018743587405824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93qaInagAAnazq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008018743587381248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93qaInaIAAYiAN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008018743587438592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93qaInbAAA17Zm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2008139550246539402",
+        "created_at": "2026-01-05T11:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008139550246539402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "声優グランプリ",
+              "probability": 0.6648,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.612,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "山田杏奈",
+              "probability": 0.9879,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008139550246539402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008138910656794819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【掲載情報】\n\n『声優グランプリ』2月号\nアナザーカバー・巻末特集を\n劇場版「僕の心のヤバイやつ」\n山田杏奈役として担当させていただきました。\n\n制服を着たり、学校の中を探検できたり\n楽しく撮影させていただいておりました✨\n映画も雑誌もぜひご…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008018743587405824",
+            "3_2008018743587381248",
+            "3_2008018743587438592"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2008138910656794819",
+        "created_at": "2026-01-05T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008138910656794819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "声優グランプリ",
+              "probability": 0.6919,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.6497,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "山田杏奈",
+              "probability": 0.9871,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "声グラ"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFYKVAsV17",
+              "end": 169,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2008138910656794819/photo/1",
+              "media_key": "3_2008018743587405824",
+              "start": 146,
+              "url": "https://t.co/iFYKVAsV17"
+            },
+            {
+              "display_url": "pic.x.com/iFYKVAsV17",
+              "end": 169,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2008138910656794819/photo/1",
+              "media_key": "3_2008018743587381248",
+              "start": 146,
+              "url": "https://t.co/iFYKVAsV17"
+            },
+            {
+              "display_url": "pic.x.com/iFYKVAsV17",
+              "end": 169,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2008138910656794819/photo/1",
+              "media_key": "3_2008018743587438592",
+              "start": 146,
+              "url": "https://t.co/iFYKVAsV17"
+            },
+            {
+              "display_url": "x.com/seigura/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/seigura/status/2006387431453712740",
+              "start": 170,
+              "url": "https://t.co/XSo7YF8vmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008138910656794819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 2970,
+          "like_count": 362,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006387431453712740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【掲載情報】\n\n『声優グランプリ』2月号\nアナザーカバー・巻末特集を\n劇場版「僕の心のヤバイやつ」\n山田杏奈役として担当させていただきました。\n\n制服を着たり、学校の中を探検できたり\n楽しく撮影させていただいておりました✨\n映画も雑誌もぜひご覧いただけますと幸いです✨\n\n#声グラ #僕ヤバ https://t.co/iFYKVAsV17 https://t.co/XSo7YF8vmd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 536,
+          "like_count": 2955,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2359
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227343,
+          "following_count": 291,
+          "like_count": 1974,
+          "listed_count": 1670,
+          "media_count": 154,
+          "tweet_count": 1325
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

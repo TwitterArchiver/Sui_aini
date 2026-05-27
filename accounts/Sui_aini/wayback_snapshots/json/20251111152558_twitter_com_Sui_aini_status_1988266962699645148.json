@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Pocky (ポッキー)",
+          "id": "1121845553527017472",
+          "name": "Pocky (ポッキー)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+          "id": "109",
+          "name": "Reoccurring Trends"
+        },
+        "entity": {
+          "id": "1323341382753214464",
+          "name": "Pocky & Pretz Day"
+        }
+      }
+    ],
+    "conversation_id": "1988266962699645148",
+    "created_at": "2025-11-11T15:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988266962699645148"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "羊宮さん",
+          "probability": 0.4293,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 52,
+          "normalized_text": "羊宮さん",
+          "probability": 0.383,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 101,
+          "start": 93,
+          "tag": "HOOOOPE"
+        },
+        {
+          "end": 110,
+          "start": 103,
+          "tag": "ポッキーの日"
+        },
+        {
+          "end": 122,
+          "start": 111,
+          "tag": "ポッキープリッツの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1653786823745994755",
+          "start": 3,
+          "username": "Shiba_HYfan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/16c",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/16c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988266962699645148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988159114204377512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiba_HYfan: 羊宮さん！念願の初クイーンおめでとうございます〜！🎉🎊🍾\n羊宮さんがカバンの中にお入れになっていたポッキー(極細)と共にお祝いいたします✨\n#羊宮妃那 #HOOOOPE \n#ポッキーの日 #ポッキープリッツの日 https://t.co/16c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3849,
+        "media_key": "3_1988159037457027072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dcHGCb0AAXlD8.jpg",
+        "width": 2946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1323341382753214464",
+              "name": "Pocky & Pretz Day"
+            }
+          }
+        ],
+        "conversation_id": "1988266962699645148",
+        "created_at": "2025-11-11T15:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988266962699645148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4293,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "羊宮さん",
+              "probability": 0.383,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 101,
+              "start": 93,
+              "tag": "HOOOOPE"
+            },
+            {
+              "end": 110,
+              "start": 103,
+              "tag": "ポッキーの日"
+            },
+            {
+              "end": 122,
+              "start": 111,
+              "tag": "ポッキープリッツの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1653786823745994755",
+              "start": 3,
+              "username": "Shiba_HYfan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/16c",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/16c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988266962699645148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988159114204377512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiba_HYfan: 羊宮さん！念願の初クイーンおめでとうございます〜！🎉🎊🍾\n羊宮さんがカバンの中にお入れになっていたポッキー(極細)と共にお祝いいたします✨\n#羊宮妃那 #HOOOOPE \n#ポッキーの日 #ポッキープリッツの日 https://t.co/16c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988159037457027072"
+          ]
+        },
+        "author_id": "1653786823745994755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Twitter generated Trends that occur on a daily, weekly, monthly, or yearly basis such as Monday motivation.",
+              "id": "109",
+              "name": "Reoccurring Trends"
+            },
+            "entity": {
+              "id": "1323341382753214464",
+              "name": "Pocky & Pretz Day"
+            }
+          }
+        ],
+        "conversation_id": "1988159114204377512",
+        "created_at": "2025-11-11T08:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T09:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988159114204377512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4753,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "羊宮さん",
+              "probability": 0.3935,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "HOOOOPE"
+            },
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "ポッキーの日"
+            },
+            {
+              "end": 105,
+              "start": 94,
+              "tag": "ポッキープリッツの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/16cLthaGJ1",
+              "end": 129,
+              "expanded_url": "https://x.com/Shiba_HYfan/status/1988159114204377512/photo/1",
+              "media_key": "3_1988159037457027072",
+              "start": 106,
+              "url": "https://t.co/16cLthaGJ1"
+            },
+            {
+              "display_url": "x.com/exhoooope/stat…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/exhoooope/status/1987141179746738588",
+              "start": 130,
+              "url": "https://t.co/Kutpdmpn2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988159114204377512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2706,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987141179746738588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羊宮さん！念願の初クイーンおめでとうございます〜！🎉🎊🍾\n羊宮さんがカバンの中にお入れになっていたポッキー(極細)と共にお祝いいたします✨\n#羊宮妃那 #HOOOOPE \n#ポッキーの日 #ポッキープリッツの日 https://t.co/16cLthaGJ1 https://t.co/Kutpdmpn2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 523,
+          "like_count": 2632,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2113
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T15:41:25.000Z",
+        "description": "羊宮妃那さんのファンです✨お絵描きアーカイブはInstagramにて↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shiba_HYfan",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shiba_HYfan",
+                "start": 0,
+                "url": "https://t.co/76Ga9nhUXL"
+              }
+            ]
+          }
+        },
+        "id": "1653786823745994755",
+        "name": "しば🐑🐇",
+        "pinned_tweet_id": "1766448444196143503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766451111760912384/P9X-O5fy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 32,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 4202
+        },
+        "url": "https://t.co/76Ga9nhUXL",
+        "username": "Shiba_HYfan",
+        "verified": false
+      }
+    ]
+  }
+}

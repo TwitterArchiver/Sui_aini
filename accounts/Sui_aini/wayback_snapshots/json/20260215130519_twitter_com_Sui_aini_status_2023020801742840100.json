@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2023020801742840100",
+    "created_at": "2026-02-15T13:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023020801742840100"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "まなてく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1432586745221038086",
+          "start": 3,
+          "username": "_manaka_430"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023020801742840100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023002285572599921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_manaka_430: 『 #まなてく あにばーさりー・まなか！』両部、本当にありがとうございました🌷\n大切なとくてくさんたち、そして大好きな4人とこれ以上なく幸せなひと時をすごさせていただきました…。\nサプライズまで…胸がいっぱいです。\nこれからも一緒に、歩いていた…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2023002280426127360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMl2xCawAAq8JX.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2023002280422002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMl2xBb0AAMzDy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2023002280417792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMl2xAbkAA0vpG.jpg",
+        "width": 1477
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2023002280409354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMl2w-a0AA4ZYd.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2023020801742840100",
+        "created_at": "2026-02-15T13:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023020801742840100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "まなてく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1432586745221038086",
+              "start": 3,
+              "username": "_manaka_430"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023020801742840100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023002285572599921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_manaka_430: 『 #まなてく あにばーさりー・まなか！』両部、本当にありがとうございました🌷\n大切なとくてくさんたち、そして大好きな4人とこれ以上なく幸せなひと時をすごさせていただきました…。\nサプライズまで…胸がいっぱいです。\nこれからも一緒に、歩いていた…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023002280426127360",
+            "3_2023002280422002688",
+            "3_2023002280417792000",
+            "3_2023002280409354240"
+          ]
+        },
+        "author_id": "1432586745221038086",
+        "conversation_id": "2023002285572599921",
+        "created_at": "2026-02-15T11:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023002285572599921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "舞菜香",
+              "probability": 0.6531,
+              "start": 136,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "まなてく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/71isEOplob",
+              "end": 163,
+              "expanded_url": "https://x.com/_manaka_430/status/2023002285572599921/photo/1",
+              "media_key": "3_2023002280426127360",
+              "start": 140,
+              "url": "https://t.co/71isEOplob"
+            },
+            {
+              "display_url": "pic.x.com/71isEOplob",
+              "end": 163,
+              "expanded_url": "https://x.com/_manaka_430/status/2023002285572599921/photo/1",
+              "media_key": "3_2023002280422002688",
+              "start": 140,
+              "url": "https://t.co/71isEOplob"
+            },
+            {
+              "display_url": "pic.x.com/71isEOplob",
+              "end": 163,
+              "expanded_url": "https://x.com/_manaka_430/status/2023002285572599921/photo/1",
+              "media_key": "3_2023002280417792000",
+              "start": 140,
+              "url": "https://t.co/71isEOplob"
+            },
+            {
+              "display_url": "pic.x.com/71isEOplob",
+              "end": 163,
+              "expanded_url": "https://x.com/_manaka_430/status/2023002285572599921/photo/1",
+              "media_key": "3_2023002280409354240",
+              "start": 140,
+              "url": "https://t.co/71isEOplob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023002285572599921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 35805,
+          "like_count": 1929,
+          "quote_count": 6,
+          "reply_count": 76,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "『 #まなてく あにばーさりー・まなか！』両部、本当にありがとうございました🌷\n大切なとくてくさんたち、そして大好きな4人とこれ以上なく幸せなひと時をすごさせていただきました…。\nサプライズまで…胸がいっぱいです。\nこれからも一緒に、歩いていただけたら嬉しいです✨\n\n(舞菜香) https://t.co/71isEOplob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 557,
+          "like_count": 3273,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 2681
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-31T06:11:40.000Z",
+        "description": "声優・石見舞菜香の公式アカウントです。 出演情報などをお知らせしていきます✨本人の投稿には（舞菜香）を付けてお届けします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "raccoon-dog.co.jp/talent/r10-iwa…",
+                "end": 23,
+                "expanded_url": "https://www.raccoon-dog.co.jp/talent/r10-iwami.html",
+                "start": 0,
+                "url": "https://t.co/pvm31qE4vM"
+              }
+            ]
+          }
+        },
+        "id": "1432586745221038086",
+        "name": "石見 舞菜香",
+        "pinned_tweet_id": "2023002285572599921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818967323358699521/vAJufmDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208037,
+          "following_count": 315,
+          "like_count": 1518,
+          "listed_count": 1608,
+          "media_count": 241,
+          "tweet_count": 2710
+        },
+        "url": "https://t.co/pvm31qE4vM",
+        "username": "_manaka_430",
+        "verified": false
+      }
+    ]
+  }
+}

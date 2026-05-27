@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1985747594786836555",
+    "created_at": "2025-11-04T16:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985747594786836555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaneY_banu/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/AkaneY_banu/status/1985681545831813338",
+          "start": 6,
+          "url": "https://t.co/z8SVFIIiD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985747594786836555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985681545831813338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老公... https://t.co/z8SVFIIiD8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1593,
+        "media_key": "3_1985681541201293312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46O11RacAAzFEV.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1985747594786836555",
+        "created_at": "2025-11-04T16:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985747594786836555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaneY_banu/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AkaneY_banu/status/1985681545831813338",
+              "start": 6,
+              "url": "https://t.co/z8SVFIIiD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985747594786836555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985681545831813338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老公... https://t.co/z8SVFIIiD8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985681541201293312"
+          ]
+        },
+        "author_id": "1531145919722188803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1985681545831813338",
+        "created_at": "2025-11-04T12:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985681545831813338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "AKANE YONEZAWA",
+              "probability": 0.6277,
+              "start": 9,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Numb show ?",
+              "probability": 0.405,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yB83P6VszB",
+              "end": 95,
+              "expanded_url": "https://x.com/AkaneY_banu/status/1985681545831813338/photo/1",
+              "media_key": "3_1985681541201293312",
+              "start": 72,
+              "url": "https://t.co/yB83P6VszB"
+            },
+            {
+              "display_url": "x.com/akaney_staff/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/akaney_staff/status/1985648215665098977",
+              "start": 96,
+              "url": "https://t.co/J55cMngjrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985681545831813338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 31248,
+          "like_count": 1104,
+          "quote_count": 14,
+          "reply_count": 23,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985648215665098977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "📢お知らせ📢\nAKANE YONEZAWA “Numb show ?” TOUR\nツアー新グッズ解禁🆕❤️‍🔥\n是非チェックしてみてください！ https://t.co/yB83P6VszB https://t.co/J55cMngjrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 525,
+          "like_count": 2603,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2097
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1975895489183883760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945040610672476160/d56HMG_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107181,
+          "following_count": 97,
+          "like_count": 12066,
+          "listed_count": 529,
+          "media_count": 834,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

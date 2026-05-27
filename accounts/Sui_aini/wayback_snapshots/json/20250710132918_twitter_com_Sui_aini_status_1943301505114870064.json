@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1943232368468537446",
+    "created_at": "2025-07-10T13:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943301505114870064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839830744316686336",
+          "start": 0,
+          "username": "shushuyun321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943301505114870064",
+    "in_reply_to_user_id": "1839830744316686336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943262058772123873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuyun321 吃吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1943232368468537446",
+        "created_at": "2025-07-10T13:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943301505114870064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839830744316686336",
+              "start": 0,
+              "username": "shushuyun321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943301505114870064",
+        "in_reply_to_user_id": "1839830744316686336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943262058772123873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuyun321 吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839830744316686336",
+        "conversation_id": "1943232368468537446",
+        "created_at": "2025-07-10T10:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T11:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943262058772123873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943262058772123873",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943232368468537446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 想吃🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 431,
+          "like_count": 1426,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 1390
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T00:53:37.000Z",
+        "description": "mtf丨坐标魔都丨186/65丨无证含糖丨HRT:2017~2018 2025.3.21至今丨同类互fo喵",
+        "id": "1839830744316686336",
+        "location": "PRC",
+        "name": "芸舒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926064456888360960/MAGwaW4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 229,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 434
+        },
+        "username": "shushuyun321",
+        "verified": false
+      }
+    ]
+  }
+}

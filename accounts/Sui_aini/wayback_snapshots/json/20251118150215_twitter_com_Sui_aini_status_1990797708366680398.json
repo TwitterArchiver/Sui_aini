@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1990797708366680398",
+    "created_at": "2025-11-18T15:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990797708366680398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/awlkkk190421/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/awlkkk190421/status/1990454161914146894",
+          "start": 23,
+          "url": "https://t.co/Oo6j3QLy6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990797708366680398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990454161914146894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早市蒜苗你别搞了。日本人不来唱歌我就不活了。 https://t.co/Oo6j3QLy6x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1990797708366680398",
+        "created_at": "2025-11-18T15:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990797708366680398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awlkkk190421/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/awlkkk190421/status/1990454161914146894",
+              "start": 23,
+              "url": "https://t.co/Oo6j3QLy6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990797708366680398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990454161914146894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早市蒜苗你别搞了。日本人不来唱歌我就不活了。 https://t.co/Oo6j3QLy6x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930932064465121280",
+        "conversation_id": "1990454161914146894",
+        "created_at": "2025-11-17T16:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990454161914146894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990454161914146894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7719,
+          "like_count": 200,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "早市蒜苗你别搞了。日本人不来唱歌我就不活了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 525,
+          "like_count": 2653,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2126
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:17:45.000Z",
+        "description": "有时候行为举止不受大脑控制.. 想跟大家做朋友🥹",
+        "id": "1930932064465121280",
+        "name": "299！",
+        "pinned_tweet_id": "1981036119182757935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957799315851866116/gzCkDiIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 442,
+          "like_count": 4321,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1917
+        },
+        "username": "awlkkk190421",
+        "verified": false
+      }
+    ]
+  }
+}

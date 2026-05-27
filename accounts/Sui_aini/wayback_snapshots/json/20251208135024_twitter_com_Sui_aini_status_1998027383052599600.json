@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997974479440654336"
+      ],
+      "media_source_tweet_id": [
+        "1997975025610310112"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1998027383052599600",
+    "created_at": "2025-12-08T13:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998027383052599600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1238641724727025665",
+          "start": 3,
+          "username": "ed_rk4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V30YbtXueI",
+          "end": 43,
+          "expanded_url": "https://x.com/ed_rk4/status/1997975025610310112/photo/1",
+          "media_key": "3_1997974479440654336",
+          "start": 20,
+          "url": "https://t.co/V30YbtXueI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998027383052599600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997975025610310112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ed_rk4: 家族で見てます https://t.co/V30YbtXueI"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "雑コラ",
+        "height": 800,
+        "media_key": "3_1997974479440654336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7o7NA1bMAAzsb8.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997974479440654336"
+          ],
+          "media_source_tweet_id": [
+            "1997975025610310112"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1998027383052599600",
+        "created_at": "2025-12-08T13:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998027383052599600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1238641724727025665",
+              "start": 3,
+              "username": "ed_rk4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V30YbtXueI",
+              "end": 43,
+              "expanded_url": "https://x.com/ed_rk4/status/1997975025610310112/photo/1",
+              "media_key": "3_1997974479440654336",
+              "start": 20,
+              "url": "https://t.co/V30YbtXueI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998027383052599600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997975025610310112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ed_rk4: 家族で見てます https://t.co/V30YbtXueI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997974479440654336"
+          ]
+        },
+        "author_id": "1238641724727025665",
+        "conversation_id": "1997975025610310112",
+        "created_at": "2025-12-08T10:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997975025610310112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V30YbtXueI",
+              "end": 31,
+              "expanded_url": "https://x.com/ed_rk4/status/1997975025610310112/photo/1",
+              "media_key": "3_1997974479440654336",
+              "start": 8,
+              "url": "https://t.co/V30YbtXueI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997975025610310112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 16237,
+          "like_count": 833,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "家族で見てます https://t.co/V30YbtXueI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 530,
+          "like_count": 2772,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 2231
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-14T01:43:38.000Z",
+        "description": "02 / 雑多 / モンスト / バンドリ / 野球(🐹🎏) \n雑食・ぬい好きです。RPオフ推奨\n推し：奥沢美咲　八幡海鈴　椎名立希\nお絵描き勉強中：20250618～\n鍵(FF誰でも)：@Subete_no_yuri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 94,
+                "username": "Subete_no_yuri"
+              }
+            ]
+          }
+        },
+        "id": "1238641724727025665",
+        "name": "シンザン(メジバリ)",
+        "pinned_tweet_id": "1933796611525915121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984096614919831552/gxQbOJ1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 845,
+          "like_count": 96908,
+          "listed_count": 7,
+          "media_count": 1192,
+          "tweet_count": 9938
+        },
+        "username": "ed_rk4",
+        "verified": false
+      }
+    ]
+  }
+}

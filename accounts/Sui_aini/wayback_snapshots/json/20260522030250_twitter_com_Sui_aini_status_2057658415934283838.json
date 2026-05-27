@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2057522834642214968",
+    "created_at": "2026-05-22T03:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057658415934283838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987445988626481152",
+          "start": 0,
+          "username": "aka_yun123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057658415934283838",
+    "in_reply_to_user_id": "1987445988626481152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057657265319248320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aka_yun123 只要小孩不是他们想象中的小孩，就会立马换副嘴脸"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057657265319248320].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057657265319248320",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057657265319248320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2057522834642214968",
+        "created_at": "2026-05-22T03:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057658415934283838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987445988626481152",
+              "start": 0,
+              "username": "aka_yun123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057658415934283838",
+        "in_reply_to_user_id": "1987445988626481152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057657265319248320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aka_yun123 只要小孩不是他们想象中的小孩，就会立马换副嘴脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /我还是会在特定时间段做那件事的，退推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2057552346595639620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 749,
+          "like_count": 5219,
+          "listed_count": 5,
+          "media_count": 578,
+          "tweet_count": 4580
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T09:04:18.000Z",
+        "description": "只过前世熟人 也许有一天会变成华胥的亡灵",
+        "id": "1987445988626481152",
+        "name": "幽々子",
+        "pinned_tweet_id": "2056948667907764699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057589321667121152/bWnq32PT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 108,
+          "like_count": 2248,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 550
+        },
+        "username": "aka_yun123",
+        "verified": false
+      }
+    ]
+  }
+}

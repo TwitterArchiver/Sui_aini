@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2009332803549450271",
+    "created_at": "2026-01-08T18:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009332803549450271"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "ICE",
+          "probability": 0.4607,
+          "start": 35,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4907524853",
+          "start": 3,
+          "username": "ShinjiTheCuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009332803549450271",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1616
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009007077906174288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShinjiTheCuban: Remember folks ICE agents aren't people"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2009332803549450271",
+        "created_at": "2026-01-08T18:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009332803549450271"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "ICE",
+              "probability": 0.4607,
+              "start": 35,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4907524853",
+              "start": 3,
+              "username": "ShinjiTheCuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009332803549450271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1616
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009007077906174288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShinjiTheCuban: Remember folks ICE agents aren't people"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4907524853",
+        "conversation_id": "2009007077906174288",
+        "created_at": "2026-01-07T20:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009007077906174288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ICE",
+              "probability": 0.5593,
+              "start": 15,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009007077906174288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 124273,
+          "like_count": 16065,
+          "quote_count": 21,
+          "reply_count": 148,
+          "retweet_count": 1616
+        },
+        "reply_settings": "everyone",
+        "text": "Remember folks ICE agents aren't people"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 542,
+          "like_count": 2989,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2377
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-14T04:31:47.000Z",
+        "description": "•Cubano 🇨🇺\n•Democratic Socialist 🗳🌹\n•Sports ⚾️⚽️\n•Anime & Manga 📺📚\n•Gaming 🎮🕹\n•Cinemaphile 📽 🎬\n• Audiophile 🎧🔊",
+        "id": "4907524853",
+        "name": "Shinji 🇨🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849260147371028480/qdaOolBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24535,
+          "following_count": 294,
+          "like_count": 68439,
+          "listed_count": 176,
+          "media_count": 2874,
+          "tweet_count": 24512
+        },
+        "username": "ShinjiTheCuban",
+        "verified": false
+      }
+    ]
+  }
+}

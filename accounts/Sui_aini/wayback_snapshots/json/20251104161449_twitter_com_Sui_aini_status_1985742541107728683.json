@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1985742541107728683",
+    "created_at": "2025-11-04T16:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985742541107728683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/limo_0829/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/limo_0829/status/1985549571230151004",
+          "start": 8,
+          "url": "https://t.co/UvPrW1gquX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985742541107728683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985549571230151004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "往日种种... https://t.co/UvPrW1gquX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1985742541107728683",
+        "created_at": "2025-11-04T16:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985742541107728683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/limo_0829/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/limo_0829/status/1985549571230151004",
+              "start": 8,
+              "url": "https://t.co/UvPrW1gquX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985742541107728683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985549571230151004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "往日种种... https://t.co/UvPrW1gquX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961430478701182976",
+        "conversation_id": "1985549571230151004",
+        "created_at": "2025-11-04T03:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985549571230151004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985549571230151004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 102590,
+          "like_count": 974,
+          "quote_count": 11,
+          "reply_count": 128,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "其实项羽跟刘邦才是真正的苦命鸳鸯，因为项羽的楚还是刘邦破的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 525,
+          "like_count": 2602,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2096
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo",
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984627474148573187/deHW3wsc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 488,
+          "like_count": 3068,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1175
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "DJs",
+          "id": "847526099986685952",
+          "name": "DJs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "1964670993517224068",
+    "created_at": "2025-09-07T12:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T13:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964670993517224068"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "仲町あられ",
+          "probability": 0.7253,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 71,
+          "normalized_text": "宮永",
+          "probability": 0.6412,
+          "start": 70,
+          "type": "Person"
+        },
+        {
+          "end": 84,
+          "normalized_text": "峰月律",
+          "probability": 0.7255,
+          "start": 82,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "藤都子",
+          "probability": 0.7493,
+          "start": 93,
+          "type": "Person"
+        },
+        {
+          "end": 114,
+          "normalized_text": "千石ユノ",
+          "probability": 0.9013,
+          "start": 111,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "夢限大みゅーたいぷ"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "ゆめみた"
+        },
+        {
+          "end": 142,
+          "start": 137,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546362523561390081",
+          "start": 3,
+          "username": "BDP_yumemita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964670993517224068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 926
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964661929856897378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BDP_yumemita: ／\n#夢限大みゅーたいぷ\n新アーティストビジュアルを公開🎉\n＼\n\n🎤Vo. 仲町あられ\n🎸Gt. 宮永ののか\n🎸Gt. 峰月律\n🎹Key. 藤都子 \n💻DJ&amp;Mp. 千石ユノ\n\nこれからも #ゆめみた の活動にご注目ください🎵\n\n#バンドリ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1964660116554391552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Pf93-aIAAvAx9.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "1964670993517224068",
+        "created_at": "2025-09-07T12:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964670993517224068"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "仲町あられ",
+              "probability": 0.7253,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "宮永",
+              "probability": 0.6412,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "峰月律",
+              "probability": 0.7255,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "藤都子",
+              "probability": 0.7493,
+              "start": 93,
+              "type": "Person"
+            },
+            {
+              "end": 114,
+              "normalized_text": "千石ユノ",
+              "probability": 0.9013,
+              "start": 111,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "夢限大みゅーたいぷ"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "ゆめみた"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546362523561390081",
+              "start": 3,
+              "username": "BDP_yumemita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964670993517224068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 926
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964661929856897378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BDP_yumemita: ／\n#夢限大みゅーたいぷ\n新アーティストビジュアルを公開🎉\n＼\n\n🎤Vo. 仲町あられ\n🎸Gt. 宮永ののか\n🎸Gt. 峰月律\n🎹Key. 藤都子 \n💻DJ&amp;Mp. 千石ユノ\n\nこれからも #ゆめみた の活動にご注目ください🎵\n\n#バンドリ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964660116554391552"
+          ]
+        },
+        "author_id": "1546362523561390081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "1964661929856897378",
+        "created_at": "2025-09-07T12:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964661929856897378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "仲町あられ",
+              "probability": 0.7445,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "宮永",
+              "probability": 0.6474,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "峰月律",
+              "probability": 0.7392,
+              "start": 64,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "藤都子",
+              "probability": 0.7512,
+              "start": 75,
+              "type": "Person"
+            },
+            {
+              "end": 96,
+              "normalized_text": "千石ユノ",
+              "probability": 0.9074,
+              "start": 93,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "夢限大みゅーたいぷ"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "ゆめみた"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 137,
+              "start": 125,
+              "tag": "ゆめみた4thLIVE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pg9q8Vk5dV",
+              "end": 161,
+              "expanded_url": "https://x.com/BDP_yumemita/status/1964661929856897378/photo/1",
+              "media_key": "3_1964660116554391552",
+              "start": 138,
+              "url": "https://t.co/Pg9q8Vk5dV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964661929856897378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 49841,
+          "like_count": 1946,
+          "quote_count": 122,
+          "reply_count": 7,
+          "retweet_count": 926
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#夢限大みゅーたいぷ\n新アーティストビジュアルを公開🎉\n＼\n\n🎤Vo. 仲町あられ\n🎸Gt. 宮永ののか\n🎸Gt. 峰月律\n🎹Key. 藤都子 \n💻DJ&amp;Mp. 千石ユノ\n\nこれからも #ゆめみた の活動にご注目ください🎵\n\n#バンドリ #ゆめみた4thLIVE https://t.co/Pg9q8Vk5dV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 503,
+          "like_count": 2257,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 1922
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T05:15:42.000Z",
+        "description": "夢(バーチャル)と現実(リアル)を飛び越える運命共同体(バンド)「夢限大みゅーたいぷ」の公式アカウントです。\nHP：https://t.co/4qZdk1bWR2\nYouTube：https://t.co/ylVLnmeu7V\n#バンドリ #夢限大みゅーたいぷ #ゆめみた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "tag": "夢限大みゅーたいぷ"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ゆめみた"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream.com/yumemita",
+                "end": 81,
+                "expanded_url": "https://bang-dream.com/yumemita",
+                "start": 58,
+                "url": "https://t.co/4qZdk1bWR2"
+              },
+              {
+                "display_url": "youtube.com/@BDP_yumemita",
+                "end": 113,
+                "expanded_url": "https://www.youtube.com/@BDP_yumemita",
+                "start": 90,
+                "url": "https://t.co/ylVLnmeu7V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.to/yumemita",
+                "end": 23,
+                "expanded_url": "https://bio.to/yumemita",
+                "start": 0,
+                "url": "https://t.co/QGaaGZLtqE"
+              }
+            ]
+          }
+        },
+        "id": "1546362523561390081",
+        "name": "夢限大みゅーたいぷ",
+        "pinned_tweet_id": "1964657877731479694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907233594067881984/8eZPMLR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27232,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 232,
+          "media_count": 1313,
+          "tweet_count": 2727
+        },
+        "url": "https://t.co/QGaaGZLtqE",
+        "username": "BDP_yumemita",
+        "verified": true
+      }
+    ]
+  }
+}

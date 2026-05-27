@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1995182199931634171",
+    "created_at": "2025-11-30T17:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995182199931634171"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "兎愛",
+          "probability": 0.5644,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995182199931634171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995051982747517338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: 兎愛が、「撮ろーっ」って誘ってくれた！🌱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1995182199931634171",
+        "created_at": "2025-11-30T17:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995182199931634171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "兎愛",
+              "probability": 0.5644,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995182199931634171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995051982747517338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: 兎愛が、「撮ろーっ」って誘ってくれた！🌱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394483928463941633",
+        "conversation_id": "1995051982747517338",
+        "created_at": "2025-11-30T08:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995051982747517338"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "兎愛",
+              "probability": 0.5708,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tanda_hazuki/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/tanda_hazuki/status/1995044910291206522",
+              "start": 21,
+              "url": "https://t.co/F6g2qh5hvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995051982747517338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 55372,
+          "like_count": 1622,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995044910291206522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兎愛が、「撮ろーっ」って誘ってくれた！🌱 https://t.co/F6g2qh5hvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 524,
+          "like_count": 2719,
+          "listed_count": 4,
+          "media_count": 350,
+          "tweet_count": 2171
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "株式会社LIBERTE｜声優・俳優｜ドラム｜ミュージカルと宝塚、ロックと映画が好きです。｜NEXT⤑ 【舞台】 #舞台アサルトリリィ 長坂稀星 11/28~  #光られ女 #豊洲クリコン 12/13･14｜Instagram⤑ https://t.co/PVDKZdpjVo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "舞台アサルトリリィ"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "光られ女"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "豊洲クリコン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/coco_hayashi.o…",
+                "end": 137,
+                "expanded_url": "http://instagram.com/coco_hayashi.official",
+                "start": 114,
+                "url": "https://t.co/PVDKZdpjVo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fan.pia.jp/cocohayashi/",
+                "end": 23,
+                "expanded_url": "https://fan.pia.jp/cocohayashi/",
+                "start": 0,
+                "url": "https://t.co/CCW7qMh3w3"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "location": "林鼓子 Official Fanclub-鼓星-",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1939897035395932334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929015942136344580/JsSltbSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156656,
+          "following_count": 574,
+          "like_count": 8694,
+          "listed_count": 2846,
+          "media_count": 1633,
+          "tweet_count": 7853
+        },
+        "url": "https://t.co/CCW7qMh3w3",
+        "username": "cocohayashi515",
+        "verified": true
+      }
+    ]
+  }
+}

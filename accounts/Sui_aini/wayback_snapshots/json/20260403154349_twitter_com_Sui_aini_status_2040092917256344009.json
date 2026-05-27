@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2040092917256344009",
+    "created_at": "2026-04-03T15:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040092917256344009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2039876564922552639",
+          "start": 38,
+          "url": "https://t.co/ZsaVJp4Ua7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040092917256344009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039876564922552639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下谁都开始在意了，太傻逼了，地球人能不能别玩精子卵子合成大傻逼这种游戏了 https://t.co/ZsaVJp4Ua7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2040092917256344009",
+        "created_at": "2026-04-03T15:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040092917256344009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2039876564922552639",
+              "start": 38,
+              "url": "https://t.co/ZsaVJp4Ua7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040092917256344009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039876564922552639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下谁都开始在意了，太傻逼了，地球人能不能别玩精子卵子合成大傻逼这种游戏了 https://t.co/ZsaVJp4Ua7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2039876564922552639",
+        "created_at": "2026-04-03T01:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039876564922552639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039876564922552639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5786,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了墙内网友，这件事根本无人在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 642,
+          "like_count": 4058,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3284
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

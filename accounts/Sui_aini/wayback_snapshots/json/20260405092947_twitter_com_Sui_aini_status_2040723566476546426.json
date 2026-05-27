@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039899782811144192"
+      ],
+      "media_source_tweet_id": [
+        "2040580929325084981"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2040723566476546426",
+    "created_at": "2026-04-05T09:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040723566476546426"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "映画たんプリ"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "たんプリ"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "プリキュア"
+        },
+        {
+          "end": 115,
+          "start": 107,
+          "tag": "precure"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "745439488214654976",
+          "start": 3,
+          "username": "precure_movie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6nEoSzxNT",
+          "end": 139,
+          "expanded_url": "https://x.com/precure_movie/status/2040580929325084981/photo/1",
+          "media_key": "3_2039899782811144192",
+          "start": 116,
+          "url": "https://t.co/E6nEoSzxNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040723566476546426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040580929325084981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @precure_movie: ⋱ ここはどこ？ ⋰\n　#映画たんプリ ティザービジュアル🔍\n\nこの秋、映画館で！\nそのナゾ、キュアット解決！\n\n9/18(金)公開をお楽しみに💜\n\n#たんプリ #プリキュア #precure https://t.co/E6nEoSzxNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_2039899782811144192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8uC2va0AAWIJT.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039899782811144192"
+          ],
+          "media_source_tweet_id": [
+            "2040580929325084981"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2040723566476546426",
+        "created_at": "2026-04-05T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040723566476546426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "映画たんプリ"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "たんプリ"
+            },
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "プリキュア"
+            },
+            {
+              "end": 115,
+              "start": 107,
+              "tag": "precure"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "745439488214654976",
+              "start": 3,
+              "username": "precure_movie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6nEoSzxNT",
+              "end": 139,
+              "expanded_url": "https://x.com/precure_movie/status/2040580929325084981/photo/1",
+              "media_key": "3_2039899782811144192",
+              "start": 116,
+              "url": "https://t.co/E6nEoSzxNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040723566476546426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040580929325084981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @precure_movie: ⋱ ここはどこ？ ⋰\n　#映画たんプリ ティザービジュアル🔍\n\nこの秋、映画館で！\nそのナゾ、キュアット解決！\n\n9/18(金)公開をお楽しみに💜\n\n#たんプリ #プリキュア #precure https://t.co/E6nEoSzxNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039899782811144192"
+          ]
+        },
+        "author_id": "745439488214654976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2040580929325084981",
+        "created_at": "2026-04-05T00:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040580929325084981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "映画たんプリ"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "たんプリ"
+            },
+            {
+              "end": 87,
+              "start": 81,
+              "tag": "プリキュア"
+            },
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "precure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6nEoSzxNT",
+              "end": 120,
+              "expanded_url": "https://x.com/precure_movie/status/2040580929325084981/photo/1",
+              "media_key": "3_2039899782811144192",
+              "start": 97,
+              "url": "https://t.co/E6nEoSzxNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040580929325084981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1684,
+          "impression_count": 682099,
+          "like_count": 25150,
+          "quote_count": 1000,
+          "reply_count": 135,
+          "retweet_count": 8468
+        },
+        "reply_settings": "everyone",
+        "text": "⋱ ここはどこ？ ⋰\n　#映画たんプリ ティザービジュアル🔍\n\nこの秋、映画館で！\nそのナゾ、キュアット解決！\n\n9/18(金)公開をお楽しみに💜\n\n#たんプリ #プリキュア #precure https://t.co/E6nEoSzxNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 640,
+          "like_count": 4087,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3295
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T02:13:18.000Z",
+        "description": "#プリキュア シリーズ最新作🔍9/18(金)公開『映画名探偵プリキュア！』公式アカウント💜シルバーウィークは #映画たんプリ🎬 #たんプリ #プリキュア #precure",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "プリキュア"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "tag": "映画たんプリ"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "たんプリ"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "プリキュア"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "precure"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2026.precure-movie.com",
+                "end": 23,
+                "expanded_url": "http://2026.precure-movie.com/",
+                "start": 0,
+                "url": "https://t.co/nwZuYpZARm"
+              }
+            ]
+          }
+        },
+        "id": "745439488214654976",
+        "name": "『映画名探偵プリキュア！』",
+        "pinned_tweet_id": "2040580176187167033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040580169304530944/YKoqJ3jo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177319,
+          "following_count": 117,
+          "like_count": 637,
+          "listed_count": 976,
+          "media_count": 5690,
+          "tweet_count": 8862
+        },
+        "url": "https://t.co/nwZuYpZARm",
+        "username": "precure_movie",
+        "verified": true
+      }
+    ]
+  }
+}

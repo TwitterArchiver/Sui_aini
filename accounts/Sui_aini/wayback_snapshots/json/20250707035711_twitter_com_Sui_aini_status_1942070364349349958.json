@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1942069493368561845",
+    "created_at": "2025-07-07T03:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T04:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942070364349349958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "PieP_2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942070364349349958",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942069942788161918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PieP_2000 嚇死人力！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942069942788161918].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942069942788161918",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942069942788161918"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1942069493368561845",
+        "created_at": "2025-07-07T03:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942070364349349958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "PieP_2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942070364349349958",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942069942788161918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PieP_2000 嚇死人力！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 406,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 1317
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "PIE",
+        "pinned_tweet_id": "1941446476271583647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941364036123111424/kbo2Rul-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 7214,
+          "like_count": 97514,
+          "listed_count": 2,
+          "media_count": 317,
+          "tweet_count": 15846
+        },
+        "username": "PieP_2000",
+        "verified": false
+      }
+    ]
+  }
+}

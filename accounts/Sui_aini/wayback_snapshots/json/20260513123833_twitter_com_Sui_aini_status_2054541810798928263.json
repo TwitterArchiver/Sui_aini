@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2054445045366018083",
+    "created_at": "2026-05-13T12:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054541810798928263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362678086211301384",
+          "start": 0,
+          "username": "Amagalan_B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054541810798928263",
+    "in_reply_to_user_id": "1362678086211301384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054540686649659753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amagalan_B1 一下断药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2054445045366018083",
+        "created_at": "2026-05-13T12:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054541810798928263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362678086211301384",
+              "start": 0,
+              "username": "Amagalan_B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054541810798928263",
+        "in_reply_to_user_id": "1362678086211301384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054540686649659753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amagalan_B1 一下断药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362678086211301384",
+        "conversation_id": "2054445045366018083",
+        "created_at": "2026-05-13T12:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054540686649659753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054540686649659753",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054445045366018083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 你现在是处于逐渐减药的阶段吗？如果不是的话不建议自发减药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@hanoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "hanoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2053352792975450570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 739,
+          "like_count": 4990,
+          "listed_count": 5,
+          "media_count": 549,
+          "tweet_count": 4314
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. languages:🇩🇪🇨🇳🇹🇼🇬🇧🇺🇸. A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛 Car 35 WEC Fuji🥇 🎉🎉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "Renault"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XteU8w"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "location": "Boulogne-Billancourt, France",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "1931855593704497267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 818,
+          "like_count": 71631,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 17927
+        },
+        "url": "https://t.co/hXf8XteU8w",
+        "username": "Amagalan_B1",
+        "verified": false
+      }
+    ]
+  }
+}

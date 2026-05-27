@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943945667426312192"
+      ],
+      "media_source_tweet_id": [
+        "1943945677928902746"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1944119450925773278",
+    "created_at": "2025-07-12T19:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T20:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944119450925773278"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "大阪",
+          "probability": 0.7546,
+          "start": 37,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 57,
+          "tag": "心のはしを辿って_大阪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586615658661711872",
+          "start": 3,
+          "username": "poepoe_purin015"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k8VrRgl1dS",
+          "end": 93,
+          "expanded_url": "https://x.com/poepoe_purin015/status/1943945677928902746/photo/1",
+          "media_key": "3_1943945667426312192",
+          "start": 70,
+          "url": "https://t.co/k8VrRgl1dS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944119450925773278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943945677928902746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poepoe_purin015: MyGO!!!!!Zeppツアー大阪開催おめでとうございます！！✨️\n #心のはしを辿って_大阪 https://t.co/k8VrRgl1dS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1943945667426312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpISPma4AAxXE1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943945667426312192"
+          ],
+          "media_source_tweet_id": [
+            "1943945677928902746"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1944119450925773278",
+        "created_at": "2025-07-12T19:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T20:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944119450925773278"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "大阪",
+              "probability": 0.7546,
+              "start": 37,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "心のはしを辿って_大阪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586615658661711872",
+              "start": 3,
+              "username": "poepoe_purin015"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8VrRgl1dS",
+              "end": 93,
+              "expanded_url": "https://x.com/poepoe_purin015/status/1943945677928902746/photo/1",
+              "media_key": "3_1943945667426312192",
+              "start": 70,
+              "url": "https://t.co/k8VrRgl1dS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944119450925773278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943945677928902746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poepoe_purin015: MyGO!!!!!Zeppツアー大阪開催おめでとうございます！！✨️\n #心のはしを辿って_大阪 https://t.co/k8VrRgl1dS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943945667426312192"
+          ]
+        },
+        "author_id": "1586615658661711872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1943945677928902746",
+        "created_at": "2025-07-12T08:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943945677928902746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "大阪",
+              "probability": 0.7919,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "心のはしを辿って_大阪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8VrRgl1dS",
+              "end": 72,
+              "expanded_url": "https://x.com/poepoe_purin015/status/1943945677928902746/photo/1",
+              "media_key": "3_1943945667426312192",
+              "start": 49,
+              "url": "https://t.co/k8VrRgl1dS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943945677928902746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 12810,
+          "like_count": 617,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!Zeppツアー大阪開催おめでとうございます！！✨️\n #心のはしを辿って_大阪 https://t.co/k8VrRgl1dS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943714290071986176/7NtAF1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 445,
+          "like_count": 1552,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 1448
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T07:07:35.000Z",
+        "description": "バンドリ:プロセカ:原神:落書きマン( ᐛ )i＆h➝@hinotori0127 夫:→@goto_dabi_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "hinotori0127"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "goto_dabi_"
+              }
+            ]
+          }
+        },
+        "id": "1586615658661711872",
+        "location": "2022/11/04〜",
+        "name": "ぷりん",
+        "pinned_tweet_id": "1898338011760472331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895285880035631104/yrBdyzTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 204,
+          "like_count": 39359,
+          "listed_count": 18,
+          "media_count": 999,
+          "tweet_count": 21791
+        },
+        "username": "poepoe_purin015",
+        "verified": false
+      }
+    ]
+  }
+}

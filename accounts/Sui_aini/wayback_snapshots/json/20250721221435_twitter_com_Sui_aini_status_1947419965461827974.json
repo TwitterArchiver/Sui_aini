@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947372142603223040"
+      ],
+      "media_source_tweet_id": [
+        "1947372151356723505"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947419965461827974",
+    "created_at": "2025-07-21T22:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T23:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947419965461827974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1783819937045237760",
+          "start": 3,
+          "username": "iiihatehuman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4osdmIBsS",
+          "end": 44,
+          "expanded_url": "https://x.com/iiihatehuman/status/1947372151356723505/photo/1",
+          "media_key": "3_1947372142603223040",
+          "start": 21,
+          "url": "https://t.co/q4osdmIBsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947419965461827974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947372151356723505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiihatehuman: 苦痛 https://t.co/q4osdmIBsS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947419965461827974].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947419965461827974",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947419965461827974"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1947372142603223040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZ0pWVbQAAB7xb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947372142603223040"
+          ]
+        },
+        "author_id": "1783819937045237760",
+        "conversation_id": "1947372151356723505",
+        "created_at": "2025-07-21T19:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T20:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947372151356723505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4osdmIBsS",
+              "end": 26,
+              "expanded_url": "https://x.com/iiihatehuman/status/1947372151356723505/photo/1",
+              "media_key": "3_1947372142603223040",
+              "start": 3,
+              "url": "https://t.co/q4osdmIBsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947372151356723505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "苦痛 https://t.co/q4osdmIBsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 473,
+          "like_count": 1864,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 1622
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:26:45.000Z",
+        "description": "＝渡川 07年 清水推 🚪88 afab/ftx 下地獄的話 你陪著我好嗎",
+        "id": "1783819937045237760",
+        "location": "🚪88/188/288/388/520/1314",
+        "name": "不都媽生的",
+        "pinned_tweet_id": "1947372151356723505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946662482526756866/Z41ZNgDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 361,
+          "like_count": 1948,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1666
+        },
+        "username": "iiihatehuman",
+        "verified": false
+      }
+    ]
+  }
+}

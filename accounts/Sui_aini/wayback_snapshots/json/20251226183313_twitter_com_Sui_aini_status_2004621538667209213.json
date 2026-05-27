@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2004621538667209213",
+    "created_at": "2025-12-26T18:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004621538667209213"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "夢見ぐらし。",
+          "probability": 0.4086,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "茅野愛衣"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "456544724",
+          "start": 3,
+          "username": "AnimeAnime_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004621538667209213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 734
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004567914377261296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnimeAnime_jp: ＼🎁プレゼント🎁／\n\n「夢見ぐらし。」第2弾の発売を記念✨\n第1弾キャストの #羊宮妃那\n第2弾キャストの #茅野愛衣\n\n2人のサイン色紙をプレゼント！\n\n☑応募方法\n①本ポストをリポスト\n②アニメ！アニメ！公式X(@AnimeAnime_…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2004567906248704000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Gn49waQAA6aYe.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1057,
+        "media_key": "3_2004567910354911232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Gn5NDaAAAUOTu.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2004621538667209213",
+        "created_at": "2025-12-26T18:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004621538667209213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "夢見ぐらし。",
+              "probability": 0.4086,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "茅野愛衣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "456544724",
+              "start": 3,
+              "username": "AnimeAnime_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004621538667209213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004567914377261296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnimeAnime_jp: ＼🎁プレゼント🎁／\n\n「夢見ぐらし。」第2弾の発売を記念✨\n第1弾キャストの #羊宮妃那\n第2弾キャストの #茅野愛衣\n\n2人のサイン色紙をプレゼント！\n\n☑応募方法\n①本ポストをリポスト\n②アニメ！アニメ！公式X(@AnimeAnime_…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004567906248704000",
+            "3_2004567910354911232"
+          ]
+        },
+        "author_id": "456544724",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2004567914377261296",
+        "created_at": "2025-12-26T15:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004567914377261296"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "夢見ぐらし。",
+              "probability": 0.4681,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "茅野愛衣"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 122,
+              "id": "456544724",
+              "start": 108,
+              "username": "AnimeAnime_jp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ASMR作品で人気の「CANDY VOICE」の新シリーズ『夢見ぐらし。』。その第2弾が2025年12月27日より発売された。第2弾の声優は茅野愛衣。",
+              "display_url": "animeanime.jp/article/2025/1…",
+              "end": 167,
+              "expanded_url": "https://animeanime.jp/article/2025/12/27/94771.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2004567957574500354/dszT-L1z?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004567957574500354/dszT-L1z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "茅野愛衣がキャストの「夢見ぐらし。」第2弾が発売！ ASMRによる癒しのサウンドを2時間超えのボリュームでお届け | アニメ！アニメ！",
+              "unwound_url": "https://animeanime.jp/article/2025/12/27/94771.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "url": "https://t.co/lpJyLsvfNR"
+            },
+            {
+              "display_url": "pic.x.com/OwTLnos6WY",
+              "end": 191,
+              "expanded_url": "https://x.com/AnimeAnime_jp/status/2004567914377261296/photo/1",
+              "media_key": "3_2004567906248704000",
+              "start": 168,
+              "url": "https://t.co/OwTLnos6WY"
+            },
+            {
+              "display_url": "pic.x.com/OwTLnos6WY",
+              "end": 191,
+              "expanded_url": "https://x.com/AnimeAnime_jp/status/2004567914377261296/photo/1",
+              "media_key": "3_2004567910354911232",
+              "start": 168,
+              "url": "https://t.co/OwTLnos6WY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004567914377261296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 15708,
+          "like_count": 401,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 734
+        },
+        "reply_settings": "everyone",
+        "text": "＼🎁プレゼント🎁／\n\n「夢見ぐらし。」第2弾の発売を記念✨\n第1弾キャストの #羊宮妃那\n第2弾キャストの #茅野愛衣\n\n2人のサイン色紙をプレゼント！\n\n☑応募方法\n①本ポストをリポスト\n②アニメ！アニメ！公式X(@AnimeAnime_jp)をフォロー\n\n⚠締め切りは1月5日まで⚠\nhttps://t.co/lpJyLsvfNR https://t.co/OwTLnos6WY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 533,
+          "like_count": 2852,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 2297
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-06T11:10:23.000Z",
+        "description": "アニメ情報サイト「アニメ！アニメ！」の【公式】X（旧Twitter）。 アニメ、マンガ、映画、声優、イベント、アニソン、アメコミなど最新ニュースを配信中。アンケート企画は随時実施中！本アカウントをフォローしてアンケート募集記事をチェックしてください♪\n※「アニメ！アニメ！」を騙る偽アカウントにご注意ください※",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animeanime.jp",
+                "end": 23,
+                "expanded_url": "http://animeanime.jp/",
+                "start": 0,
+                "url": "https://t.co/HX7UVI3pRJ"
+              }
+            ]
+          }
+        },
+        "id": "456544724",
+        "location": "新宿",
+        "name": "アニメ！アニメ！",
+        "pinned_tweet_id": "2004477429537288488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004370501070983168/7Tk4a1dd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186384,
+          "following_count": 6458,
+          "like_count": 731,
+          "listed_count": 1436,
+          "media_count": 51577,
+          "tweet_count": 155296
+        },
+        "url": "https://t.co/HX7UVI3pRJ",
+        "username": "AnimeAnime_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007356741781270528"
+      ],
+      "media_source_tweet_id": [
+        "2007356787511701663"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress, and singer",
+          "id": "1070721099715891201",
+          "name": "Aimi"
+        }
+      }
+    ],
+    "conversation_id": "2007365516273562077",
+    "created_at": "2026-01-03T08:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007365516273562077"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "ポピパ新春ライブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "253177157",
+          "start": 3,
+          "username": "aimi_sound"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKy0K1DAtP",
+          "end": 66,
+          "expanded_url": "https://x.com/aimi_sound/status/2007356787511701663/photo/1",
+          "media_key": "3_2007356741781270528",
+          "start": 43,
+          "url": "https://t.co/aKy0K1DAtP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007365516273562077",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007356787511701663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aimi_sound: リハおわったよ〜！！！！！！！！\n#ポピパ新春ライブ https://t.co/aKy0K1DAtP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007356741781270528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uQUjtbsAAQ7N8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007356741781270528"
+          ],
+          "media_source_tweet_id": [
+            "2007356787511701663"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          }
+        ],
+        "conversation_id": "2007365516273562077",
+        "created_at": "2026-01-03T08:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007365516273562077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "ポピパ新春ライブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "253177157",
+              "start": 3,
+              "username": "aimi_sound"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKy0K1DAtP",
+              "end": 66,
+              "expanded_url": "https://x.com/aimi_sound/status/2007356787511701663/photo/1",
+              "media_key": "3_2007356741781270528",
+              "start": 43,
+              "url": "https://t.co/aKy0K1DAtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007365516273562077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007356787511701663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aimi_sound: リハおわったよ〜！！！！！！！！\n#ポピパ新春ライブ https://t.co/aKy0K1DAtP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007356741781270528"
+          ]
+        },
+        "author_id": "253177157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          }
+        ],
+        "conversation_id": "2007356787511701663",
+        "created_at": "2026-01-03T07:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007356787511701663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "ポピパ新春ライブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKy0K1DAtP",
+              "end": 50,
+              "expanded_url": "https://x.com/aimi_sound/status/2007356787511701663/photo/1",
+              "media_key": "3_2007356741781270528",
+              "start": 27,
+              "url": "https://t.co/aKy0K1DAtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007356787511701663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 15228,
+          "like_count": 1400,
+          "quote_count": 15,
+          "reply_count": 44,
+          "retweet_count": 275
+        },
+        "reply_settings": "everyone",
+        "text": "リハおわったよ〜！！！！！！！！\n#ポピパ新春ライブ https://t.co/aKy0K1DAtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 532,
+          "like_count": 2917,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2328
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-16T18:24:01.000Z",
+        "description": "イラストロジックLOVE/VoiceActor/Singer/AiM:Øriginal/TeamY/INTP-AC/Instagram→ https://t.co/SrwR900ksH FC🍚→ https://t.co/zaSaw2Kmu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aimin_official/",
+                "end": 92,
+                "expanded_url": "https://www.instagram.com/aimin_official/",
+                "start": 69,
+                "url": "https://t.co/SrwR900ksH"
+              },
+              {
+                "display_url": "fanicon.net/fancommunities…",
+                "end": 121,
+                "expanded_url": "https://fanicon.net/fancommunities/5037",
+                "start": 98,
+                "url": "https://t.co/zaSaw2Kmu5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aimin_officia…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aimin_official?si=qdGBEqyXi6MZf7W0",
+                "start": 0,
+                "url": "https://t.co/yPK9NdTs2L"
+              }
+            ]
+          }
+        },
+        "id": "253177157",
+        "location": "響・キングレコード",
+        "name": "愛美/AIMI",
+        "pinned_tweet_id": "2006383631019995473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790017537419448320/CpfWdOtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463726,
+          "following_count": 27,
+          "like_count": 4017,
+          "listed_count": 7714,
+          "media_count": 8011,
+          "tweet_count": 40512
+        },
+        "url": "https://t.co/yPK9NdTs2L",
+        "username": "aimi_sound",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1996584747561316352"
+      ],
+      "media_source_tweet_id": [
+        "1996584764854415642"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1996603133775270176",
+    "created_at": "2025-12-04T15:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996603133775270176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1449745711923441669",
+          "start": 3,
+          "username": "SnoooowwwMouse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SIznQWKSrx",
+          "end": 43,
+          "expanded_url": "https://x.com/SnoooowwwMouse/status/1996584764854415642/photo/1",
+          "media_key": "16_1996584747561316352",
+          "start": 20,
+          "url": "https://t.co/SIznQWKSrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996603133775270176",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996584764854415642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnoooowwwMouse: https://t.co/SIznQWKSrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1996584747561316352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7VLP-Ja8AAoVpj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7VLP-Ja8AAoVpj.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996584747561316352"
+          ],
+          "media_source_tweet_id": [
+            "1996584764854415642"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1996603133775270176",
+        "created_at": "2025-12-04T15:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996603133775270176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1449745711923441669",
+              "start": 3,
+              "username": "SnoooowwwMouse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIznQWKSrx",
+              "end": 43,
+              "expanded_url": "https://x.com/SnoooowwwMouse/status/1996584764854415642/photo/1",
+              "media_key": "16_1996584747561316352",
+              "start": 20,
+              "url": "https://t.co/SIznQWKSrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996603133775270176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996584764854415642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnoooowwwMouse: https://t.co/SIznQWKSrx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1996584747561316352"
+          ]
+        },
+        "author_id": "1449745711923441669",
+        "conversation_id": "1996584764854415642",
+        "created_at": "2025-12-04T14:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996584764854415642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIznQWKSrx",
+              "end": 23,
+              "expanded_url": "https://x.com/SnoooowwwMouse/status/1996584764854415642/photo/1",
+              "media_key": "16_1996584747561316352",
+              "start": 0,
+              "url": "https://t.co/SIznQWKSrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996584764854415642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 683,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SIznQWKSrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 529,
+          "like_count": 2757,
+          "listed_count": 4,
+          "media_count": 359,
+          "tweet_count": 2202
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T14:35:03.000Z",
+        "description": "↑=SnowMouse/阿雪｜18↑｜バンドリ RAS Afterglow レイマス あのとも｜無言フォロー失礼します｜thank u for all🤍🔃🗨️and follow｜猫｜icon：@Kumoez_iR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Kumoez_iR"
+              }
+            ]
+          }
+        },
+        "id": "1449745711923441669",
+        "location": "保存👌🏻AI、无标注转载🚫",
+        "name": "ゆきまうす❄️🐀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986317602881478659/6c1IjR2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 117,
+          "like_count": 3483,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 908
+        },
+        "username": "SnoooowwwMouse",
+        "verified": false
+      }
+    ]
+  }
+}

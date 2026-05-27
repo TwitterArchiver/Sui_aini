@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005016540396355586",
+        "3_2005016625951768578",
+        "3_2005016666984644613",
+        "3_2005016712874496000"
+      ],
+      "media_source_tweet_id": [
+        "2005019682152259901",
+        "2005019682152259901",
+        "2005019682152259901",
+        "2005019682152259901"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2005122713942405286",
+    "created_at": "2025-12-28T03:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005122713942405286"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "羊宮妃那さん",
+          "probability": 0.2081,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902692835004153856",
+          "start": 3,
+          "username": "n092tS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAvWiWs3ln",
+          "end": 99,
+          "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+          "media_key": "3_2005016540396355586",
+          "start": 76,
+          "url": "https://t.co/AAvWiWs3ln"
+        },
+        {
+          "display_url": "pic.x.com/AAvWiWs3ln",
+          "end": 99,
+          "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+          "media_key": "3_2005016625951768578",
+          "start": 76,
+          "url": "https://t.co/AAvWiWs3ln"
+        },
+        {
+          "display_url": "pic.x.com/AAvWiWs3ln",
+          "end": 99,
+          "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+          "media_key": "3_2005016666984644613",
+          "start": 76,
+          "url": "https://t.co/AAvWiWs3ln"
+        },
+        {
+          "display_url": "pic.x.com/AAvWiWs3ln",
+          "end": 99,
+          "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+          "media_key": "3_2005016712874496000",
+          "start": 76,
+          "url": "https://t.co/AAvWiWs3ln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005122713942405286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005019682152259901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n092tS: 今日の羊宮妃那さんもあまりにも弱男特効すぎた\nこんな黒髪ロングが似合う清楚系美少女が同じクラスにいたら絶対に好きになってしまう https://t.co/AAvWiWs3ln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2005016540396355586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M_66MbgAItNvK.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2005016625951768578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M__46bgAI05_u.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2005016666984644613",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NACRxbgAUOXgw.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2005016712874496000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NAE8ubEAAuGQ0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005016540396355586",
+            "3_2005016625951768578",
+            "3_2005016666984644613",
+            "3_2005016712874496000"
+          ],
+          "media_source_tweet_id": [
+            "2005019682152259901",
+            "2005019682152259901",
+            "2005019682152259901",
+            "2005019682152259901"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2005122713942405286",
+        "created_at": "2025-12-28T03:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005122713942405286"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2081,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902692835004153856",
+              "start": 3,
+              "username": "n092tS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 99,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016540396355586",
+              "start": 76,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 99,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016625951768578",
+              "start": 76,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 99,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016666984644613",
+              "start": 76,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 99,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016712874496000",
+              "start": 76,
+              "url": "https://t.co/AAvWiWs3ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005122713942405286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005019682152259901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n092tS: 今日の羊宮妃那さんもあまりにも弱男特効すぎた\nこんな黒髪ロングが似合う清楚系美少女が同じクラスにいたら絶対に好きになってしまう https://t.co/AAvWiWs3ln"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005016540396355586",
+            "3_2005016625951768578",
+            "3_2005016666984644613",
+            "3_2005016712874496000"
+          ]
+        },
+        "author_id": "1902692835004153856",
+        "conversation_id": "2005019682152259901",
+        "created_at": "2025-12-27T20:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005019682152259901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2587,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 87,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016540396355586",
+              "start": 64,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 87,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016625951768578",
+              "start": 64,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 87,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016666984644613",
+              "start": 64,
+              "url": "https://t.co/AAvWiWs3ln"
+            },
+            {
+              "display_url": "pic.x.com/AAvWiWs3ln",
+              "end": 87,
+              "expanded_url": "https://x.com/n092tS/status/2005019682152259901/photo/1",
+              "media_key": "3_2005016712874496000",
+              "start": 64,
+              "url": "https://t.co/AAvWiWs3ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005019682152259901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 50752,
+          "like_count": 776,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "今日の羊宮妃那さんもあまりにも弱男特効すぎた\nこんな黒髪ロングが似合う清楚系美少女が同じクラスにいたら絶対に好きになってしまう https://t.co/AAvWiWs3ln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 533,
+          "like_count": 2867,
+          "listed_count": 4,
+          "media_count": 369,
+          "tweet_count": 2303
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:05:03.000Z",
+        "description": "小倉唯ちゃんが大好きです。\n唯のことが好きだから！一生かけて守りたい！！尊い・愛しい・LOVE MAX!!!! 唯がいるだけでSo☆Lucky！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/yui_yui815/arc…",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/yui_yui815/archives/1082417801.html",
+                "start": 0,
+                "url": "https://t.co/ILcIkaHhFl"
+              }
+            ]
+          }
+        },
+        "id": "1902692835004153856",
+        "location": "#女性声優の顔推し",
+        "name": "たっくん",
+        "pinned_tweet_id": "1995145862918594798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902693304099303424/Y0WPd4I1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7467,
+          "following_count": 118,
+          "like_count": 930,
+          "listed_count": 31,
+          "media_count": 1275,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/ILcIkaHhFl",
+        "username": "n092tS",
+        "verified": false
+      }
+    ]
+  }
+}

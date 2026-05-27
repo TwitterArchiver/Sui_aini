@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2055735072859599247",
+    "created_at": "2026-05-16T19:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055735629535990179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521173997261848576",
+          "start": 0,
+          "username": "n_CharSiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055735629535990179",
+    "in_reply_to_user_id": "1521173997261848576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055735558337659132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_CharSiu 我要开sps"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2055735072859599247",
+        "created_at": "2026-05-16T19:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055735629535990179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521173997261848576",
+              "start": 0,
+              "username": "n_CharSiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055735629535990179",
+        "in_reply_to_user_id": "1521173997261848576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055735558337659132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_CharSiu 我要开sps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521173997261848576",
+        "conversation_id": "2055735072859599247",
+        "created_at": "2026-05-16T19:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055735558337659132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055735558337659132",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055735072859599247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 来个真人认识一下👏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 746,
+          "like_count": 5070,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 4418
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T17:05:25.000Z",
+        "description": "💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/uLVZBXiXJ8"
+              }
+            ]
+          }
+        },
+        "id": "1521173997261848576",
+        "name": "叉烧",
+        "pinned_tweet_id": "1840737473011351907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005193218556932096/HKDaP0-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 231,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/uLVZBXiXJ8",
+        "username": "n_CharSiu",
+        "verified": false
+      }
+    ]
+  }
+}

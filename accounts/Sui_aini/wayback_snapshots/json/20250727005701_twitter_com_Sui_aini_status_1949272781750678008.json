@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1949272781750678008",
+    "created_at": "2025-07-27T00:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T01:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949272781750678008"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "grok",
+          "probability": 0.4196,
+          "start": 47,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353778407532847104",
+          "start": 3,
+          "username": "CANlNEBLOOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949272781750678008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5998
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947829428291018891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CANlNEBLOOD: hey if ur using ai (including grok) ur actively poisoning the people of memphis (a predominantly poc community might I add…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_1947829425023631360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwgUisGWQAAcX93.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1949272781750678008",
+        "created_at": "2025-07-27T00:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949272781750678008"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "grok",
+              "probability": 0.4196,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353778407532847104",
+              "start": 3,
+              "username": "CANlNEBLOOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949272781750678008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5998
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947829428291018891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @CANlNEBLOOD: hey if ur using ai (including grok) ur actively poisoning the people of memphis (a predominantly poc community might I add…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947829425023631360"
+          ]
+        },
+        "author_id": "1353778407532847104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1947829428291018891",
+        "created_at": "2025-07-23T01:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T02:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947829428291018891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "grok",
+              "probability": 0.5037,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM48jBM4nj",
+              "end": 181,
+              "expanded_url": "https://x.com/CANlNEBLOOD/status/1947829428291018891/photo/1",
+              "media_key": "3_1947829425023631360",
+              "start": 158,
+              "url": "https://t.co/kM48jBM4nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947829428291018891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 259713,
+          "like_count": 16242,
+          "quote_count": 107,
+          "reply_count": 34,
+          "retweet_count": 5998
+        },
+        "reply_settings": "following",
+        "text": "hey if ur using ai (including grok) ur actively poisoning the people of memphis (a predominantly poc community might I add) and should be ashamed of yourself https://t.co/kM48jBM4nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 485,
+          "like_count": 1958,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 1693
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T18:55:05.000Z",
+        "description": "⋆⭒˚｡⋆comms OPEN!? || Chihuahua, Thylacine and Coyote Therian ΘΔ || proud butch lesbian|| pfp yotecoyote|| Just Roll With It Enjoyer ⊗ ⭒˚｡⋆₊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "canineblood.straw.page",
+                "end": 23,
+                "expanded_url": "https://canineblood.straw.page",
+                "start": 0,
+                "url": "https://t.co/iACEF5XIHb"
+              }
+            ]
+          }
+        },
+        "id": "1353778407532847104",
+        "location": "Any Prns + It/Pup | 19 | 🇵🇸",
+        "name": "Kian🌵🌺 is on Team Fossil‼️",
+        "pinned_tweet_id": "1936977959526551641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929520776136257537/wFblmUn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 989,
+          "like_count": 23094,
+          "listed_count": 13,
+          "media_count": 1950,
+          "tweet_count": 7457
+        },
+        "url": "https://t.co/iACEF5XIHb",
+        "username": "CANlNEBLOOD",
+        "verified": false
+      }
+    ]
+  }
+}

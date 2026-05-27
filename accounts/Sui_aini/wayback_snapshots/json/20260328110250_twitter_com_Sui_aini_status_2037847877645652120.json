@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2037847877645652120",
+    "created_at": "2026-03-28T11:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037847877645652120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EzraRan_/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/EzraRan_/status/2037813725219180895",
+          "start": 4,
+          "url": "https://t.co/T3dO1Bw0El"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037847877645652120",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037813725219180895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。。 https://t.co/T3dO1Bw0El"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2037813718294429697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEx61bgAEG7LM.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2037813720173469696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEyB1bYAAnYZW.jpg",
+        "width": 931
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2037813722396389377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEyKHacAEX6NS.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2037847877645652120",
+        "created_at": "2026-03-28T11:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037847877645652120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EzraRan_/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/EzraRan_/status/2037813725219180895",
+              "start": 4,
+              "url": "https://t.co/T3dO1Bw0El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037847877645652120",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037813725219180895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。。 https://t.co/T3dO1Bw0El"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037813718294429697",
+            "3_2037813720173469696",
+            "3_2037813722396389377"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2037777181603197437",
+        "created_at": "2026-03-28T08:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037813725219180895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813718294429697",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            },
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813720173469696",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            },
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813722396389377",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037813725219180895",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2848,
+          "like_count": 125,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037812202401652982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补个后续：\n原作者推特账号已注销（非封号），在小红书滑跪了，大概率被警告了，你国真是幽默，自己拿人家的图跑AI侵权发，反手把人家弄成这样，怎么原作者欠你共军的啊？ https://t.co/jjCn6UYL8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 643,
+          "like_count": 3984,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 3252
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRanレン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté Égalité Fraternité🇫🇷丨Egalitarianism&EQUAL opportunity丨🇯🇵 #国民民主党 🇹🇼 #民衆党 支持丨ガンディ推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "国民民主党"
+              },
+              {
+                "end": 143,
+                "start": 139,
+                "tag": "民衆党"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 2249,
+          "like_count": 30205,
+          "listed_count": 5,
+          "media_count": 1284,
+          "tweet_count": 9581
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

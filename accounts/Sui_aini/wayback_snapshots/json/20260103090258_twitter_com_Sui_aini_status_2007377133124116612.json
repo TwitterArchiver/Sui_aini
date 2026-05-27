@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2007377133124116612",
+    "created_at": "2026-01-03T09:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007377133124116612"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Grok",
+          "probability": 0.3372,
+          "start": 24,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1585802068404895744",
+          "start": 3,
+          "username": "acyamicyami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007377133124116612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10993
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007027197060780384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acyamicyami: とりあえず。\nGrok使ってレイヤーさん脱がせたりするのは普通に逮捕案件になるのでレイヤーさんは容赦なく然るべき措置とりましょう。\nエロ売りしてるからいいとかそんな事通じないですからね。\n｢立派な犯罪｣です。\n捕まりますように🙄\n\nhttps:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007027192044335104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pkmPRaMAACIdo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007377133124116612",
+        "created_at": "2026-01-03T09:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007377133124116612"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Grok",
+              "probability": 0.3372,
+              "start": 24,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1585802068404895744",
+              "start": 3,
+              "username": "acyamicyami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007377133124116612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007027197060780384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acyamicyami: とりあえず。\nGrok使ってレイヤーさん脱がせたりするのは普通に逮捕案件になるのでレイヤーさんは容赦なく然るべき措置とりましょう。\nエロ売りしてるからいいとかそんな事通じないですからね。\n｢立派な犯罪｣です。\n捕まりますように🙄\n\nhttps:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007027192044335104"
+          ]
+        },
+        "author_id": "1585802068404895744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007027197060780384",
+        "created_at": "2026-01-02T09:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007027197060780384"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Grok",
+              "probability": 0.3379,
+              "start": 7,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "生成AI技術が普及した結果、ディープフェイクポルノに関するトラブルが急増しています。特に、海外製の生成AIツールなどを利用すれば誰でも簡単にディープフェイクポルノを作成できてしまいますし、生成されたディープフェイクポルノを使ってSNSを運用したりアフィリエイトなどで収益を上げたりすることも可能な状況です。しかし、ディープフェイクポルノの作成や拡散行為は名誉毀損罪や著作権法違反に該当する可能性がある点に注意が必要です。ディープフェイクポルノ作成を理由に刑",
+              "display_url": "keijibengo-line.com/post-11464/",
+              "end": 139,
+              "expanded_url": "https://keijibengo-line.com/post-11464/",
+              "start": 116,
+              "status": 200,
+              "title": "ディープフェイクポルノ作成は名誉毀損罪や著作権法違反！逮捕されたあとの流れや弁護士に相談するメリットを解説 | 刑事事件相談弁護士ほっとライン",
+              "unwound_url": "https://keijibengo-line.com/post-11464/",
+              "url": "https://t.co/OsXrlLiY4p"
+            },
+            {
+              "display_url": "pic.x.com/WIxRZ5piCZ",
+              "end": 163,
+              "expanded_url": "https://x.com/acyamicyami/status/2007027197060780384/photo/1",
+              "media_key": "3_2007027192044335104",
+              "start": 140,
+              "url": "https://t.co/WIxRZ5piCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007027197060780384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1387,
+          "impression_count": 1886061,
+          "like_count": 22215,
+          "quote_count": 259,
+          "reply_count": 84,
+          "retweet_count": 10993
+        },
+        "reply_settings": "everyone",
+        "text": "とりあえず。\nGrok使ってレイヤーさん脱がせたりするのは普通に逮捕案件になるのでレイヤーさんは容赦なく然るべき措置とりましょう。\nエロ売りしてるからいいとかそんな事通じないですからね。\n｢立派な犯罪｣です。\n捕まりますように🙄\n\nhttps://t.co/OsXrlLiY4p https://t.co/WIxRZ5piCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 532,
+          "like_count": 2923,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2334
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T01:14:23.000Z",
+        "description": "Cosplayer￤gamer￤GAL🌺￤🇳🇬×🇯🇵￤美容 ￤164cm 3DPrinter Business➡️DMor acyamicyami@gmail.com VTuber⇒@nanaari_vt DM is only for business. Eng→reading〇 speaking 🔺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "nanaari_vt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@acyamicyami",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@acyamicyami",
+                "start": 0,
+                "url": "https://t.co/Fwzdebp6LY"
+              }
+            ]
+          }
+        },
+        "id": "1585802068404895744",
+        "location": "コンビニとスーパーとラーメン屋🥚",
+        "name": "あーちゃみ🌺🧚‍♂️C107東7T12b",
+        "pinned_tweet_id": "1998968437146857670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967520033162330112/E6pQZEsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13258,
+          "following_count": 2469,
+          "like_count": 76371,
+          "listed_count": 38,
+          "media_count": 5399,
+          "tweet_count": 88131
+        },
+        "url": "https://t.co/Fwzdebp6LY",
+        "username": "acyamicyami",
+        "verified": true
+      }
+    ]
+  }
+}

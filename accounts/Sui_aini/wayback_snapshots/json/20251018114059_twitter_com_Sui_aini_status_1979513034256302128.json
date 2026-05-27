@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "1979513034256302128",
+    "created_at": "2025-10-18T11:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979513034256302128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "夢見ぐらし"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1268105038917849089",
+          "start": 3,
+          "username": "CandyVoiceASMR"
+        },
+        {
+          "end": 105,
+          "id": "1268105038917849089",
+          "start": 90,
+          "username": "CandyVoiceASMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979513034256302128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979202003076333651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CandyVoiceASMR: 【#夢見ぐらし。】\n出演声優サイン色紙プレゼントキャンペーン🎉\n\n第1弾は「同級生さくら編」より\n#羊宮妃那 さん🌸\n\n▼応募方法\n1️⃣ @CandyVoiceASMR をフォロー\n2️⃣ この投稿をRT\n〆切：2025年11月15日(…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1979201995727917056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eJupYbUAAWB9V.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1979513034256302128",
+        "created_at": "2025-10-18T11:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979513034256302128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "夢見ぐらし"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1268105038917849089",
+              "start": 3,
+              "username": "CandyVoiceASMR"
+            },
+            {
+              "end": 105,
+              "id": "1268105038917849089",
+              "start": 90,
+              "username": "CandyVoiceASMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979513034256302128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979202003076333651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CandyVoiceASMR: 【#夢見ぐらし。】\n出演声優サイン色紙プレゼントキャンペーン🎉\n\n第1弾は「同級生さくら編」より\n#羊宮妃那 さん🌸\n\n▼応募方法\n1️⃣ @CandyVoiceASMR をフォロー\n2️⃣ この投稿をRT\n〆切：2025年11月15日(…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979201995727917056"
+          ]
+        },
+        "author_id": "1268105038917849089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1979202003076333651",
+        "created_at": "2025-10-17T15:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979202003076333651"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 1,
+              "tag": "夢見ぐらし"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1268105038917849089",
+              "start": 70,
+              "username": "CandyVoiceASMR"
+            }
+          ],
+          "urls": [
+            {
+              "description": "耳から脳へ響き渡る、これまでにないASMR。 舞台となるのは……アパート「モナムール」101号室。 ここに引っ越してきてから僕は、必ず夢を見る。 僕も知らない『僕』と、誰も知らない『女の子』の。 どこか懐かしく、幸せなひととき。 果たして夢か現実か…。 アナタはこの幸せな結末に辿り着くことはできますか?「DLsite 同人」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！",
+              "display_url": "dlsite.com/home/announce/…",
+              "end": 166,
+              "expanded_url": "https://www.dlsite.com/home/announce/=/product_id/RJ01476307.html",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/1978118285486166016/hJhE0WvN?format=jpg&name=orig",
+                  "width": 560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978118285486166016/hJhE0WvN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "【快眠ASMR】夢見ぐらし。同級生さくら編 〜幸せの続きは夢の中で〜【CV:???】 [CANDY VOICE] 予告作品 | DLsite",
+              "unwound_url": "https://www.dlsite.com/home/announce/=/product_id/RJ01476307.html",
+              "url": "https://t.co/M8Wx4ndUZI"
+            },
+            {
+              "display_url": "pic.x.com/512F6PM5Y2",
+              "end": 190,
+              "expanded_url": "https://x.com/CandyVoiceASMR/status/1979202003076333651/photo/1",
+              "media_key": "3_1979201995727917056",
+              "start": 167,
+              "url": "https://t.co/512F6PM5Y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979202003076333651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 1,
+                "tag": "夢見ぐらし"
+              },
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 191,
+                "start": 186,
+                "tag": "ASMR"
+              },
+              {
+                "end": 203,
+                "start": 192,
+                "tag": "CANDYVOICE"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "id": "1268105038917849089",
+                "start": 70,
+                "username": "CandyVoiceASMR"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dlsite.com/home/announce/…",
+                "end": 166,
+                "expanded_url": "https://www.dlsite.com/home/announce/=/product_id/RJ01476307.html",
+                "start": 143,
+                "url": "https://t.co/g0SF1QdcCZ"
+              }
+            ]
+          },
+          "text": "【#夢見ぐらし。】\n出演声優サイン色紙プレゼントキャンペーン🎉\n\n第1弾は「同級生さくら編」より\n#羊宮妃那 さん🌸\n\n▼応募方法\n1️⃣ @CandyVoiceASMR をフォロー\n2️⃣ この投稿をRT\n〆切：2025年11月15日(土)23:59まで\n\n▼ASMR音声作品ページ\nhttps://t.co/g0SF1QdcCZ\n\nたくさんのご応募お待ちしています✨\n#ASMR #CANDYVOICE"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 57294,
+          "like_count": 1241,
+          "quote_count": 29,
+          "reply_count": 29,
+          "retweet_count": 1994
+        },
+        "reply_settings": "everyone",
+        "text": "【#夢見ぐらし。】\n出演声優サイン色紙プレゼントキャンペーン🎉\n\n第1弾は「同級生さくら編」より\n#羊宮妃那 さん🌸\n\n▼応募方法\n1️⃣ @CandyVoiceASMR をフォロー\n2️⃣ この投稿をRT\n〆切：2025年11月15日(土)23:59まで\n\n▼ASMR音声作品ページ\nhttps://t.co/M8Wx4ndUZI https://t.co/512F6PM5Y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 514,
+          "like_count": 2482,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2036
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T09:00:01.000Z",
+        "description": "豪華声優陣による癒しのASMR🎧 「ねこぐらし。」「いやでんっ！」など人気シリーズ展開中！✨DLsiteで販売中！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/candyvoice",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/candyvoice",
+                "start": 0,
+                "url": "https://t.co/7lK4WnquzS"
+              }
+            ]
+          }
+        },
+        "id": "1268105038917849089",
+        "location": "リンクツリー",
+        "name": "CANDY VOICE",
+        "pinned_tweet_id": "1979202003076333651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932253901476220928/mSOUE2NB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16152,
+          "following_count": 30,
+          "like_count": 684,
+          "listed_count": 29,
+          "media_count": 364,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/7lK4WnquzS",
+        "username": "CandyVoiceASMR",
+        "verified": true
+      }
+    ]
+  }
+}

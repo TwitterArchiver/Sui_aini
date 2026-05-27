@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927176192316076032"
+      ],
+      "media_source_tweet_id": [
+        "1927176200536867063"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1927374814437601721",
+    "created_at": "2025-05-27T14:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927374814437601721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "727148971987079169",
+          "start": 3,
+          "username": "JiBliy81"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PeF99UbacM",
+          "end": 37,
+          "expanded_url": "https://x.com/JiBliy81/status/1927176200536867063/photo/1",
+          "media_key": "3_1927176192316076032",
+          "start": 14,
+          "url": "https://t.co/PeF99UbacM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927374814437601721",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927176200536867063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiBliy81: https://t.co/PeF99UbacM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_1927176192316076032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr60iUqW8AAFiF0.jpg",
+        "width": 345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927176192316076032"
+          ],
+          "media_source_tweet_id": [
+            "1927176200536867063"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1927374814437601721",
+        "created_at": "2025-05-27T14:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927374814437601721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "727148971987079169",
+              "start": 3,
+              "username": "JiBliy81"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeF99UbacM",
+              "end": 37,
+              "expanded_url": "https://x.com/JiBliy81/status/1927176200536867063/photo/1",
+              "media_key": "3_1927176192316076032",
+              "start": 14,
+              "url": "https://t.co/PeF99UbacM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927374814437601721",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927176200536867063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiBliy81: https://t.co/PeF99UbacM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927176192316076032"
+          ]
+        },
+        "author_id": "727148971987079169",
+        "conversation_id": "1927176200536867063",
+        "created_at": "2025-05-27T01:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927176200536867063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeF99UbacM",
+              "end": 23,
+              "expanded_url": "https://x.com/JiBliy81/status/1927176200536867063/photo/1",
+              "media_key": "3_1927176192316076032",
+              "start": 0,
+              "url": "https://t.co/PeF99UbacM"
+            },
+            {
+              "display_url": "x.com/canvas2929/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/canvas2929/status/1927017256250184138",
+              "start": 24,
+              "url": "https://t.co/C3OhWMXo6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927176200536867063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 28351,
+          "like_count": 1070,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927017256250184138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PeF99UbacM https://t.co/C3OhWMXo6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1923408372054835553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 284,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 661
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-02T14:53:19.000Z",
+        "description": "バンドリとUVERと競馬とTOP4が大好き。ヘッダ→あおのさん(@a_o_hlhp)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "a_o_hlhp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=27737846",
+                "start": 0,
+                "url": "https://t.co/dpVhYef246"
+              }
+            ]
+          }
+        },
+        "id": "727148971987079169",
+        "location": "三冠は果てなき夢への滑走路",
+        "name": "ぬるぽんぬ∞",
+        "pinned_tweet_id": "1838210129734357111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892584004433457152/UKT_ryDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20313,
+          "following_count": 647,
+          "like_count": 63500,
+          "listed_count": 188,
+          "media_count": 1736,
+          "tweet_count": 108072
+        },
+        "url": "https://t.co/dpVhYef246",
+        "username": "JiBliy81",
+        "verified": false
+      }
+    ]
+  }
+}

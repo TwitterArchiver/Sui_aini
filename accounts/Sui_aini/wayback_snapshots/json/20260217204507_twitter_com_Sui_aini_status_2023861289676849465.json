@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2023253340197630317",
+    "created_at": "2026-02-17T20:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T21:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023861289676849465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        },
+        {
+          "end": 26,
+          "id": "1889313848668090368",
+          "start": 16,
+          "username": "Yyyyy_pog"
+        },
+        {
+          "end": 36,
+          "id": "1590317621827846149",
+          "start": 27,
+          "username": "_nagi_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023861289676849465",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023860593497960783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 @Yyyyy_pog @_nagi_no 墙内很多社交软件上都是顺直男爱看顺直男娘，言外之意就是「是女的不能开黄腔，是男的就可以随便开了」，被开黄腔的顺直男娘还会享受这些骚扰言论"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023860593497960783].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023860593497960783",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023860593497960783"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2023253340197630317",
+        "created_at": "2026-02-17T20:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T21:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023861289676849465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            },
+            {
+              "end": 26,
+              "id": "1889313848668090368",
+              "start": 16,
+              "username": "Yyyyy_pog"
+            },
+            {
+              "end": 36,
+              "id": "1590317621827846149",
+              "start": 27,
+              "username": "_nagi_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023861289676849465",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023860593497960783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 @Yyyyy_pog @_nagi_no 墙内很多社交软件上都是顺直男爱看顺直男娘，言外之意就是「是女的不能开黄腔，是男的就可以随便开了」，被开黄腔的顺直男娘还会享受这些骚扰言论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 558,
+          "like_count": 3303,
+          "listed_count": 4,
+          "media_count": 416,
+          "tweet_count": 2741
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【偶尔锁推只是防止被推送出去】突然关注人=我喜欢你的内容!/同类想互关喵｜follow=like ur contents｜19｜中/Eng｜成分🏳️‍🌈🏳️‍⚧️磕药od #drugtwt #shtwt #nonbinary #transmasc｜画画大号 @StrawberryC208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "shtwt"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "tag": "transmasc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/猫/喵｜💉2025.8.25",
+        "name": "🍥🐱🍥",
+        "pinned_tweet_id": "2021995446504501585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441540230549504/cD1B4AtO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 885,
+          "like_count": 2740,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2152
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜ 多意识体｜ 彩虹系统｜号主是目前的主导y总｜身体09 ｜我o我割｜我有精神病｜enby｜可爱小狗@DOGYeah3376 ｜自家狗^^@xshxXXXXXXX ｜妹妹@suikachanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "suikachanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984630292771192833/wVVRgYY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 205,
+          "like_count": 35038,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "Yyyyy_pog",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T12:17:32.000Z",
+        "description": "=［nä . gi . no̞］// 08 // 🏳️‍⚧️ // zh · en · ja* · de* · fr* · ug* // 清水日常 // 互fo欢迎!!",
+        "id": "1590317621827846149",
+        "name": "なぎの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020186604028194819/wHKjTz-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 445,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 303
+        },
+        "username": "_nagi_no",
+        "verified": false
+      }
+    ]
+  }
+}

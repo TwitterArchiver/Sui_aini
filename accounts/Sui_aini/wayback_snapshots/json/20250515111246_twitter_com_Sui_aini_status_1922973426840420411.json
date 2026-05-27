@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1922973426840420411",
+    "created_at": "2025-05-15T11:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T12:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922973426840420411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Sui_aini/status/1922326332475621894",
+          "start": 23,
+          "url": "https://t.co/32FTqbw9f3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922973426840420411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922326332475621894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可……我好像骗了他，我并不是他想象的那样…… https://t.co/32FTqbw9f3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1922973426840420411",
+        "created_at": "2025-05-15T11:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922973426840420411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Sui_aini/status/1922326332475621894",
+              "start": 23,
+              "url": "https://t.co/32FTqbw9f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922973426840420411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922326332475621894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可……我好像骗了他，我并不是他想象的那样…… https://t.co/32FTqbw9f3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1922326332475621894",
+        "created_at": "2025-05-13T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922326332475621894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922326332475621894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "交到一个很好很好的朋友……是运气吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 256,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 511
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

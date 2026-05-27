@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1915795793967210603",
+    "created_at": "2025-04-25T19:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T20:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915854529226281353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442133091598823433",
+          "start": 0,
+          "username": "CkaGugulu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915854529226281353",
+    "in_reply_to_user_id": "1442133091598823433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915831647678959832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CkaGugulu 吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1915831647678959832].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1915831647678959832",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1915831647678959832"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1915795793967210603",
+        "created_at": "2025-04-25T19:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T20:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915854529226281353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442133091598823433",
+              "start": 0,
+              "username": "CkaGugulu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915854529226281353",
+        "in_reply_to_user_id": "1442133091598823433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915831647678959832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CkaGugulu 吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/温和温良地对待每个人每件事/葵因、莉莉周她说、脆乐团、福禄寿、裁缝铺/mygo",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 116,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 196
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T14:25:08.000Z",
+        "description": "换头像了嘿!｜推电影｜发癫｜打游戏｜推水獭｜目前是这样｜咖啡吨吨吨｜之后不知道｜所以",
+        "id": "1442133091598823433",
+        "location": "困困",
+        "name": "ww_GuguluCKA",
+        "pinned_tweet_id": "1907846473791992013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914363710422048772/RIwlZiF7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 308,
+          "like_count": 6323,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 3214
+        },
+        "username": "CkaGugulu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2000242983749435560",
+    "created_at": "2025-12-14T16:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000242983749435560"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "Ave Mujica 6th Live 〚 Ulterius Procedere 〛 東京公演",
+          "probability": 0.0929,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 114,
+          "normalized_text": "八幡海鈴",
+          "probability": 0.6371,
+          "start": 111,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000242983749435560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1892
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000181140976746944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: Ave Mujica 6th Live\n〚 Ulterius Procedere 〛 東京公演🌙⚙️\n\nこの先の歩みも、皆さまと共に\nありがとうございました🪽\n\nBa.ティモリス/八幡海鈴 役 岡田夢以 🎸🐺·̩͙\n#バンドリ\n#AveMu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2000181124363083776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ISIpwaYAAWFxl.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2000242983749435560",
+        "created_at": "2025-12-14T16:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000242983749435560"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Ave Mujica 6th Live 〚 Ulterius Procedere 〛 東京公演",
+              "probability": 0.0929,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "八幡海鈴",
+              "probability": 0.6371,
+              "start": 111,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000242983749435560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1892
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000181140976746944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: Ave Mujica 6th Live\n〚 Ulterius Procedere 〛 東京公演🌙⚙️\n\nこの先の歩みも、皆さまと共に\nありがとうございました🪽\n\nBa.ティモリス/八幡海鈴 役 岡田夢以 🎸🐺·̩͙\n#バンドリ\n#AveMu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000181124363083776"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2000181140976746944",
+        "created_at": "2025-12-14T12:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000181140976746944"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.2176,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "東京",
+              "probability": 0.5376,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 95,
+              "normalized_text": "八幡海鈴",
+              "probability": 0.6477,
+              "start": 92,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 124,
+              "start": 114,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 146,
+              "start": 125,
+              "tag": "UlteriusProcedere_東京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndxPWYoyHq",
+              "end": 170,
+              "expanded_url": "https://x.com/okada_mei0519/status/2000181140976746944/photo/1",
+              "media_key": "3_2000181124363083776",
+              "start": 147,
+              "url": "https://t.co/ndxPWYoyHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000181140976746944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 448,
+          "impression_count": 101537,
+          "like_count": 8699,
+          "quote_count": 164,
+          "reply_count": 116,
+          "retweet_count": 1892
+        },
+        "reply_settings": "everyone",
+        "text": "Ave Mujica 6th Live\n〚 Ulterius Procedere 〛 東京公演🌙⚙️\n\nこの先の歩みも、皆さまと共に\nありがとうございました🪽\n\nBa.ティモリス/八幡海鈴 役 岡田夢以 🎸🐺·̩͙\n#バンドリ\n#AveMujica #UlteriusProcedere_東京 https://t.co/ndxPWYoyHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 530,
+          "like_count": 2798,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2260
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ AveMujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫, etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 154,
+                "expanded_url": "https://maysland.jp/",
+                "start": 131,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身✦🐏",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136846,
+          "following_count": 414,
+          "like_count": 65157,
+          "listed_count": 1242,
+          "media_count": 4581,
+          "tweet_count": 14787
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1986314191503032512",
+    "created_at": "2025-11-06T06:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986314191503032512"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "YouTube",
+          "probability": 0.6186,
+          "start": 41,
+          "type": "Product"
+        },
+        {
+          "end": 72,
+          "normalized_text": "#佐々木李子 Birthday生配信2025",
+          "probability": 0.6851,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "佐々木李子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「佐々木李子Birthday生配信 2025」配信日時：2025年11月10日(月)　21:00～(予定)　※本配信は11/10(水)21:00頃を予定しております。尚、お仕事の都合で時間変更になる場合は、佐々木李子staff(@sasakiricoSTAFF)Xアカウントにてお知らせさせていただきます。佐々木李...",
+          "display_url": "m.youtube.com/watch?v=UMGmTl…",
+          "end": 120,
+          "expanded_url": "https://m.youtube.com/watch?v=UMGmTlhgELw",
+          "start": 97,
+          "status": 200,
+          "title": "佐々木李子 YouTube LIVE『Birthday生配信2025』11/10(月) 21:00～",
+          "unwound_url": "https://www.youtube.com/watch?app=desktop&v=UMGmTlhgELw",
+          "url": "https://t.co/xhmrpkQggJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986314191503032512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986290853770633306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: もうすぐ！\n11/10は私の誕生日だよ🎂\n\n夜、YouTubeにて『#佐々木李子 Birthday生配信2025』をお届けします！遊びに来てくれるだけで嬉しい🫧\nhttps://t.co/xhmrpkQggJ\n\nどんなことをしようか考え中。。大好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1986314191503032512",
+        "created_at": "2025-11-06T06:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986314191503032512"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "YouTube",
+              "probability": 0.6186,
+              "start": 41,
+              "type": "Product"
+            },
+            {
+              "end": 72,
+              "normalized_text": "#佐々木李子 Birthday生配信2025",
+              "probability": 0.6851,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "佐々木李子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「佐々木李子Birthday生配信 2025」配信日時：2025年11月10日(月)　21:00～(予定)　※本配信は11/10(水)21:00頃を予定しております。尚、お仕事の都合で時間変更になる場合は、佐々木李子staff(@sasakiricoSTAFF)Xアカウントにてお知らせさせていただきます。佐々木李...",
+              "display_url": "m.youtube.com/watch?v=UMGmTl…",
+              "end": 120,
+              "expanded_url": "https://m.youtube.com/watch?v=UMGmTlhgELw",
+              "start": 97,
+              "status": 200,
+              "title": "佐々木李子 YouTube LIVE『Birthday生配信2025』11/10(月) 21:00～",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=UMGmTlhgELw",
+              "url": "https://t.co/xhmrpkQggJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986314191503032512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986290853770633306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: もうすぐ！\n11/10は私の誕生日だよ🎂\n\n夜、YouTubeにて『#佐々木李子 Birthday生配信2025』をお届けします！遊びに来てくれるだけで嬉しい🫧\nhttps://t.co/xhmrpkQggJ\n\nどんなことをしようか考え中。。大好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707778526963830784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1986290853770633306",
+        "created_at": "2025-11-06T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986290853770633306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "YouTube",
+              "probability": 0.6098,
+              "start": 25,
+              "type": "Product"
+            },
+            {
+              "end": 56,
+              "normalized_text": "#佐々木李子 Birthday生配信2025",
+              "probability": 0.7601,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "佐々木李子"
+            },
+            {
+              "end": 159,
+              "start": 152,
+              "tag": "りこのトリコ"
+            },
+            {
+              "end": 167,
+              "start": 160,
+              "tag": "トリコのりこ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「佐々木李子Birthday生配信 2025」配信日時：2025年11月10日(月)　21:00～(予定)　※本配信は11/10(水)21:00頃を予定しております。尚、お仕事の都合で時間変更になる場合は、佐々木李子staff(@sasakiricoSTAFF)Xアカウントにてお知らせさせていただきます。佐々木李...",
+              "display_url": "m.youtube.com/watch?v=UMGmTl…",
+              "end": 104,
+              "expanded_url": "https://m.youtube.com/watch?v=UMGmTlhgELw",
+              "start": 81,
+              "status": 200,
+              "title": "佐々木李子 YouTube LIVE『Birthday生配信2025』11/10(月) 21:00～",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=UMGmTlhgELw",
+              "url": "https://t.co/xhmrpkQggJ"
+            },
+            {
+              "display_url": "x.com/sasakiricostaf…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/sasakiricostaff/status/1985995502459179275",
+              "start": 168,
+              "url": "https://t.co/UKcGItajB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986290853770633306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16951,
+          "like_count": 405,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985995502459179275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "もうすぐ！\n11/10は私の誕生日だよ🎂\n\n夜、YouTubeにて『#佐々木李子 Birthday生配信2025』をお届けします！遊びに来てくれるだけで嬉しい🫧\nhttps://t.co/xhmrpkQggJ\n\nどんなことをしようか考え中。。大好きなトリコたちと過ごす誕生日、幸せすぎる！！お楽しみに！\n#りこのトリコ #トリコのりこ https://t.co/UKcGItajB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 525,
+          "like_count": 2607,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 2099
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "歌手/声優/作詞作曲/バンドリ・三角初華/日本へようこそエルフさん・ミュイ/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 124,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 101,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子",
+        "pinned_tweet_id": "1978741520254525604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918608427531845632/ugG4Hl_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129164,
+          "following_count": 1247,
+          "like_count": 24227,
+          "listed_count": 1094,
+          "media_count": 3852,
+          "tweet_count": 14199
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": true
+      }
+    ]
+  }
+}

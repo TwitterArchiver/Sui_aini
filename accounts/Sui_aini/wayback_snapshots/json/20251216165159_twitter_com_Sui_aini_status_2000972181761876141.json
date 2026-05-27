@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2000972181761876141",
+    "created_at": "2025-12-16T16:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000972181761876141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "250062335",
+          "start": 3,
+          "username": "kidanit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000972181761876141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000970289719730219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kidanit: 全ての面で平和な世の中にならないかなあ。\nエンタメはその為の促進剤の役目もあるのだけどなあ。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2000972181761876141",
+        "created_at": "2025-12-16T16:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000972181761876141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "250062335",
+              "start": 3,
+              "username": "kidanit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000972181761876141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000970289719730219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kidanit: 全ての面で平和な世の中にならないかなあ。\nエンタメはその為の促進剤の役目もあるのだけどなあ。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "250062335",
+        "conversation_id": "2000970289719730219",
+        "created_at": "2025-12-16T16:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000970289719730219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000970289719730219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2334,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "全ての面で平和な世の中にならないかなあ。\nエンタメはその為の促進剤の役目もあるのだけどなあ。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 529,
+          "like_count": 2816,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2270
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-10T10:22:30.000Z",
+        "description": "ブシロードの木谷です。コンテンツ開発の「前線」から「最前線」へ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad.com",
+                "end": 22,
+                "expanded_url": "http://bushiroad.com",
+                "start": 0,
+                "url": "http://t.co/A5VpAgW4vA"
+              }
+            ]
+          }
+        },
+        "id": "250062335",
+        "name": "木谷高明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879594058531749888/4Wkj-Cyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100242,
+          "following_count": 376,
+          "like_count": 52,
+          "listed_count": 1462,
+          "media_count": 1954,
+          "tweet_count": 50524
+        },
+        "url": "http://t.co/A5VpAgW4vA",
+        "username": "kidanit",
+        "verified": true
+      }
+    ]
+  }
+}

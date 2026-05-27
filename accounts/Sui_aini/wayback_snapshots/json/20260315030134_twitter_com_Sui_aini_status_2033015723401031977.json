@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2033015723401031977",
+    "created_at": "2026-03-15T03:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T04:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033015723401031977"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "yufka",
+          "probability": 0.71,
+          "start": 42,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1369754963455467522",
+          "start": 3,
+          "username": "kaboombun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033015723401031977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032759735892513018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaboombun: Am i the only one angry at yufka's family for saying to not share her art because it is a sin? \nWe all have our own beliefs…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032759730784055297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXQNIMaMAElrVY.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2033015723401031977",
+        "created_at": "2026-03-15T03:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033015723401031977"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "yufka",
+              "probability": 0.71,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1369754963455467522",
+              "start": 3,
+              "username": "kaboombun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033015723401031977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032759735892513018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaboombun: Am i the only one angry at yufka's family for saying to not share her art because it is a sin? \nWe all have our own beliefs…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032759730784055297"
+          ]
+        },
+        "author_id": "1369754963455467522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2032759735892513018",
+        "created_at": "2026-03-14T10:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032759735892513018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "yufka",
+              "probability": 0.7082,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0o926BrnU",
+              "end": 283,
+              "expanded_url": "https://x.com/kaboombun/status/2032759735892513018/photo/1",
+              "media_key": "3_2032759730784055297",
+              "start": 260,
+              "url": "https://t.co/N0o926BrnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032759735892513018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1179,
+          "impression_count": 555303,
+          "like_count": 7788,
+          "quote_count": 365,
+          "reply_count": 133,
+          "retweet_count": 1335
+        },
+        "reply_settings": "everyone",
+        "text": "Am i the only one angry at yufka's family for saying to not share her art because it is a sin? \nWe all have our own beliefs and religions but drawing two men loving eachother is not a sin.\nLove is not a sin.\nShe loved art.\nLove is stronger than anything else. https://t.co/N0o926BrnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 630,
+          "like_count": 3826,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 3150
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-10T21:00:15.000Z",
+        "description": "Chiikawa hyperfixation, Honami fan, cosplayer, artist and idk why im alive. Also #jirai",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "jirai"
+              }
+            ]
+          }
+        },
+        "id": "1369754963455467522",
+        "location": "they them",
+        "name": "Kaboom 💥",
+        "pinned_tweet_id": "2032918203127496748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031722174810132481/Fwg38ZKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 530,
+          "like_count": 20145,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 945
+        },
+        "username": "kaboombun",
+        "verified": false
+      }
+    ]
+  }
+}

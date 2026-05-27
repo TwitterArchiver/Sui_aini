@@ -1,0 +1,646 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053189462",
+          "name": "バンドリ!TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1979892716428476895",
+    "created_at": "2025-10-19T12:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979892716428476895"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "バンドリ！TV LIVE 2025",
+          "probability": 0.7405,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "高松燈役",
+          "probability": 0.2851,
+          "start": 50,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ],
+      "urls": [
+        {
+          "description": "バンドリ！プロジェクトに関する最新情報などをお届けする「バンドリ！TV LIVE 2025」！！毎週木曜日は、22:00よりYouTube「バンドリちゃんねる☆」にてミニアニメ「元祖！バンドリちゃん」を配信し、続いて22:03頃～「バンドリ！TV LIVE 2025」をお届けします！さらに番組終了後の23:00か...",
+          "display_url": "m.youtube.com/watch?v=sM4pp2…",
+          "end": 122,
+          "expanded_url": "https://m.youtube.com/watch?v=sM4pp2jqAEY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "バンドリ！TV LIVE 2025 #286",
+          "unwound_url": "https://www.youtube.com/watch?app=desktop&v=sM4pp2jqAEY",
+          "url": "https://t.co/3JTxVvtPPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979892716428476895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979872657266159922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\n『バンドリ！TV LIVE 2025』＃286\n高松燈役として出演させていただきます。\n\n日時┊︎10/23(木)22:00頃～生配信\nURL┊︎https://t.co/3JTxVvtPPs\n\n久しぶりにバンドリTVLIVE…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1979892716428476895",
+        "created_at": "2025-10-19T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979892716428476895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "バンドリ！TV LIVE 2025",
+              "probability": 0.7405,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "高松燈役",
+              "probability": 0.2851,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！プロジェクトに関する最新情報などをお届けする「バンドリ！TV LIVE 2025」！！毎週木曜日は、22:00よりYouTube「バンドリちゃんねる☆」にてミニアニメ「元祖！バンドリちゃん」を配信し、続いて22:03頃～「バンドリ！TV LIVE 2025」をお届けします！さらに番組終了後の23:00か...",
+              "display_url": "m.youtube.com/watch?v=sM4pp2…",
+              "end": 122,
+              "expanded_url": "https://m.youtube.com/watch?v=sM4pp2jqAEY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "バンドリ！TV LIVE 2025 #286",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=sM4pp2jqAEY",
+              "url": "https://t.co/3JTxVvtPPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979892716428476895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979872657266159922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\n『バンドリ！TV LIVE 2025』＃286\n高松燈役として出演させていただきます。\n\n日時┊︎10/23(木)22:00頃～生配信\nURL┊︎https://t.co/3JTxVvtPPs\n\n久しぶりにバンドリTVLIVE…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1979872657266159922",
+        "created_at": "2025-10-19T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979872657266159922"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "バンドリ！TV LIVE 2025",
+              "probability": 0.7423,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "高松燈役",
+              "probability": 0.2884,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 122,
+              "normalized_text": "バンドリTVLIVEさん",
+              "probability": 0.453,
+              "start": 111,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 166,
+              "tag": "バンドリTVLIVE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！プロジェクトに関する最新情報などをお届けする「バンドリ！TV LIVE 2025」！！毎週木曜日は、22:00よりYouTube「バンドリちゃんねる☆」にてミニアニメ「元祖！バンドリちゃん」を配信し、続いて22:03頃～「バンドリ！TV LIVE 2025」をお届けします！さらに番組終了後の23:00か...",
+              "display_url": "m.youtube.com/watch?v=sM4pp2…",
+              "end": 104,
+              "expanded_url": "https://m.youtube.com/watch?v=sM4pp2jqAEY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979313297863151616/UMMZ_enl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "バンドリ！TV LIVE 2025 #286",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=sM4pp2jqAEY",
+              "url": "https://t.co/3JTxVvtPPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979872657266159922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 43199,
+          "like_count": 1007,
+          "quote_count": 6,
+          "reply_count": 49,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\n『バンドリ！TV LIVE 2025』＃286\n高松燈役として出演させていただきます。\n\n日時┊︎10/23(木)22:00頃～生配信\nURL┊︎https://t.co/3JTxVvtPPs\n\n久しぶりにバンドリTVLIVEさんに\n出演させていただきます✨\n楽しい時間を一緒に過ごしていただけますと\n幸いです✨\n\n#バンドリTVLIVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 514,
+          "like_count": 2493,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2038
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220324,
+          "following_count": 290,
+          "like_count": 1975,
+          "listed_count": 1633,
+          "media_count": 141,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

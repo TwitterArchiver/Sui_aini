@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      }
+    ],
+    "conversation_id": "2009188895276380334",
+    "created_at": "2026-01-08T09:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009188895276380334"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "僕の心のヤバイやつ",
+          "probability": 0.818,
+          "start": 52,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "羊宮妃那さん",
+          "probability": 0.3033,
+          "start": 64,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104074131",
+          "start": 3,
+          "username": "seigura"
+        }
+      ],
+      "urls": [
+        {
+          "description": "法人別購入特典情報はコチラ 電子版情報はコチラ 【表紙+巻頭大特集】 CLOSE-UP 榎木淳弥 ソロとしては初の声グラ表紙＆巻頭大特集に登場！ さまざまな作品に出演されている榎木さんの思いに迫ったロングインタビューと撮り下ろしロンググラビ",
+          "display_url": "seigura.com/magazine_books…",
+          "end": 139,
+          "expanded_url": "https://seigura.com/magazine_books/164050/",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=orig",
+              "width": 949
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "声優グランプリ 2026年2月号 | seigura.com",
+          "unwound_url": "https://seigura.com/magazine_books/164050/",
+          "url": "https://t.co/ceJbBostB8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009188895276380334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009177649067995225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seigura: 声グラ2月号は明日1月9日（金）発売💐\n\nアナザーカバー・巻末特集は劇場版『僕の心のヤバイやつ』から羊宮妃那さん🐏\n取材直後のコメント動画をお届けします🧣\n発売をお楽しみに🥳\n\n⏬声優グランプリ2月号詳細\nhttps://t.co/ceJbBostB8…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67967,
+        "height": 1080,
+        "media_key": "13_2009177263083016193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009177263083016193/img/ZEecSwQiPCVJMNCU.jpg",
+        "public_metrics": {
+          "view_count": 2766
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009177263083016193/vid/avc1/1280x720/EbEueB5-0xF_SuMv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009177263083016193/vid/avc1/640x360/74eXY2SfXSWMcRTH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009177263083016193/vid/avc1/1920x1080/suJ1Lh-L3_n5LKSi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009177263083016193/pl/fsBigUSzTAW1WNVj.m3u8?v=6ef"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009177263083016193/vid/avc1/480x270/GGzZGX4c4oYRr_rD.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2009188895276380334",
+        "created_at": "2026-01-08T09:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009188895276380334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.818,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.3033,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104074131",
+              "start": 3,
+              "username": "seigura"
+            }
+          ],
+          "urls": [
+            {
+              "description": "法人別購入特典情報はコチラ 電子版情報はコチラ 【表紙+巻頭大特集】 CLOSE-UP 榎木淳弥 ソロとしては初の声グラ表紙＆巻頭大特集に登場！ さまざまな作品に出演されている榎木さんの思いに迫ったロングインタビューと撮り下ろしロンググラビ",
+              "display_url": "seigura.com/magazine_books…",
+              "end": 139,
+              "expanded_url": "https://seigura.com/magazine_books/164050/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=orig",
+                  "width": 949
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "声優グランプリ 2026年2月号 | seigura.com",
+              "unwound_url": "https://seigura.com/magazine_books/164050/",
+              "url": "https://t.co/ceJbBostB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009188895276380334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009177649067995225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seigura: 声グラ2月号は明日1月9日（金）発売💐\n\nアナザーカバー・巻末特集は劇場版『僕の心のヤバイやつ』から羊宮妃那さん🐏\n取材直後のコメント動画をお届けします🧣\n発売をお楽しみに🥳\n\n⏬声優グランプリ2月号詳細\nhttps://t.co/ceJbBostB8…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009177263083016193"
+          ]
+        },
+        "author_id": "104074131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2009177649067995225",
+        "created_at": "2026-01-08T08:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009177649067995225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.8237,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.3123,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 155,
+              "start": 151,
+              "tag": "僕ヤバ"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "声グラ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "法人別購入特典情報はコチラ 電子版情報はコチラ 【表紙+巻頭大特集】 CLOSE-UP 榎木淳弥 ソロとしては初の声グラ表紙＆巻頭大特集に登場！ さまざまな作品に出演されている榎木さんの思いに迫ったロングインタビューと撮り下ろしロンググラビ",
+              "display_url": "seigura.com/magazine_books…",
+              "end": 126,
+              "expanded_url": "https://seigura.com/magazine_books/164050/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=orig",
+                  "width": 949
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009145208680910848/IOAJZnHb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "声優グランプリ 2026年2月号 | seigura.com",
+              "unwound_url": "https://seigura.com/magazine_books/164050/",
+              "url": "https://t.co/ceJbBostB8"
+            },
+            {
+              "display_url": "pic.x.com/mzZzrJ6xPw",
+              "end": 185,
+              "expanded_url": "https://x.com/seigura/status/2009177649067995225/video/1",
+              "media_key": "13_2009177263083016193",
+              "start": 162,
+              "url": "https://t.co/mzZzrJ6xPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009177649067995225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 14573,
+          "like_count": 474,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "声グラ2月号は明日1月9日（金）発売💐\n\nアナザーカバー・巻末特集は劇場版『僕の心のヤバイやつ』から羊宮妃那さん🐏\n取材直後のコメント動画をお届けします🧣\n発売をお楽しみに🥳\n\n⏬声優グランプリ2月号詳細\nhttps://t.co/ceJbBostB8\n特典ブロマイド付きも予約受付中🛒\n\n#羊宮妃那 #僕ヤバ  #声グラ https://t.co/mzZzrJ6xPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 542,
+          "like_count": 2976,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2374
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-12T04:59:16.000Z",
+        "description": "創刊31周年のNo.1月刊声優誌『声優グランプリ』(声グラ：せいぐら)公式です。 毎月10日発売！ #声グラ\nonline shopインフォスクエア🛒https://t.co/slpP7MzWgt\n撮り下ろし写真販売「声グラ+」https://t.co/LtJzfuBOiT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "声グラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosquare.shop",
+                "end": 98,
+                "expanded_url": "https://infosquare.shop/",
+                "start": 75,
+                "url": "https://t.co/slpP7MzWgt"
+              },
+              {
+                "display_url": "seigura.emii.photo",
+                "end": 137,
+                "expanded_url": "https://seigura.emii.photo/",
+                "start": 114,
+                "url": "https://t.co/LtJzfuBOiT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seigura.com",
+                "end": 23,
+                "expanded_url": "https://seigura.com/",
+                "start": 0,
+                "url": "https://t.co/c0lvETCbnd"
+              }
+            ]
+          }
+        },
+        "id": "104074131",
+        "location": "東京 神保町",
+        "name": "声優グランプリ＠31周年",
+        "pinned_tweet_id": "2006382516429811866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006424390072877061/10gftBES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210243,
+          "following_count": 1984,
+          "like_count": 8464,
+          "listed_count": 1900,
+          "media_count": 10282,
+          "tweet_count": 31752
+        },
+        "url": "https://t.co/c0lvETCbnd",
+        "username": "seigura",
+        "verified": true
+      }
+    ]
+  }
+}

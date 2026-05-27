@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1968278826926191103",
+    "created_at": "2025-09-17T11:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968278826926191103"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 66,
+          "normalized_text": "Ave Mujica 合同",
+          "probability": 0.4449,
+          "start": 54,
+          "type": "Organization"
+        },
+        {
+          "end": 81,
+          "normalized_text": "わかれ道の、その先へ",
+          "probability": 0.826,
+          "start": 72,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ],
+      "urls": [
+        {
+          "description": "TOP MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM キャスト登壇の舞台挨拶付き上映が10月19日(日)・11月3日(月・祝)にイオンシネマ板橋にて開催決定。 舞台挨拶の様子は他劇場でもライブ・ビューイングで生配信予定。 MyGO!!!!! × Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM 2025年10月18日(土) 公開 イオンシネマ板橋（東京） イオンシネマシアタス調布（東京） イオンシネマ多摩センター（東京） イオンシネマ千葉ニュータウン（千葉） イオンシネマ浦和美園（埼玉） イオンシネマ港北ニュータウン（神奈川） イオンシネマシアタス心斎橋（大阪） イオンシネマ茨木（大阪） イオンシネマ京都桂川（京都） イオンシネマ加古川（兵庫） イオンシネマ名古屋茶屋（愛知） イオンシネマ広島（広島） イオンシネマ福岡（福岡） MyGO!!!!!、Ave Mujica、CRYCHIC、sumimi ※オリジナルカット特別出演：羊宮妃那(高松燈 役)・高尾奏音(オブリビオニス/豊川祥子 役) 受付の詳細は後日の公開をお待ちください。",
+          "display_url": "bang-dream.com/mygo_avemujica…",
+          "end": 137,
+          "expanded_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM | BanG Dream!（バンドリ！）公式サイト",
+          "unwound_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+          "url": "https://t.co/Kcj1CsRvKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968278826926191103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1404
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968238497594011757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: ＼🎊特報①🎊／\n\n10月18日(土)より\nMyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM\n全国10都市にて上映決定🎉\n\n詳細はこちら\nhttps://t.co/Kcj1CsRvKW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30030,
+        "height": 1080,
+        "media_key": "13_1968234619528261632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968234619528261632/img/-GFGLtX4JkyDi6KA.jpg",
+        "public_metrics": {
+          "view_count": 25985
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968234619528261632/vid/avc1/480x270/aT9n91mkUm76k7vJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968234619528261632/vid/avc1/1280x720/gR5N227QdEBZwvoZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968234619528261632/pl/fw25z6y4JYcGJLQE.m3u8?v=bce"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968234619528261632/vid/avc1/640x360/QWwJZoVHtBJdciMY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968234619528261632/vid/avc1/1920x1080/2U48mKGme4UBYGuM.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1968278826926191103",
+        "created_at": "2025-09-17T11:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968278826926191103"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 66,
+              "normalized_text": "Ave Mujica 合同",
+              "probability": 0.4449,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 81,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.826,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TOP MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM キャスト登壇の舞台挨拶付き上映が10月19日(日)・11月3日(月・祝)にイオンシネマ板橋にて開催決定。 舞台挨拶の様子は他劇場でもライブ・ビューイングで生配信予定。 MyGO!!!!! × Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM 2025年10月18日(土) 公開 イオンシネマ板橋（東京） イオンシネマシアタス調布（東京） イオンシネマ多摩センター（東京） イオンシネマ千葉ニュータウン（千葉） イオンシネマ浦和美園（埼玉） イオンシネマ港北ニュータウン（神奈川） イオンシネマシアタス心斎橋（大阪） イオンシネマ茨木（大阪） イオンシネマ京都桂川（京都） イオンシネマ加古川（兵庫） イオンシネマ名古屋茶屋（愛知） イオンシネマ広島（広島） イオンシネマ福岡（福岡） MyGO!!!!!、Ave Mujica、CRYCHIC、sumimi ※オリジナルカット特別出演：羊宮妃那(高松燈 役)・高尾奏音(オブリビオニス/豊川祥子 役) 受付の詳細は後日の公開をお待ちください。",
+              "display_url": "bang-dream.com/mygo_avemujica…",
+              "end": 137,
+              "expanded_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+              "url": "https://t.co/Kcj1CsRvKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968278826926191103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1404
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968238497594011757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: ＼🎊特報①🎊／\n\n10月18日(土)より\nMyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM\n全国10都市にて上映決定🎉\n\n詳細はこちら\nhttps://t.co/Kcj1CsRvKW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968234619528261632"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1968238497594011757",
+        "created_at": "2025-09-17T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968238497594011757"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Ave Mujica 合同ライブ",
+              "probability": 0.2282,
+              "start": 33,
+              "type": "Organization"
+            },
+            {
+              "end": 60,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.836,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 118,
+              "tag": "わかれ道のその先へLIVEFILM"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "MyGO"
+            },
+            {
+              "end": 159,
+              "start": 149,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TOP MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM キャスト登壇の舞台挨拶付き上映が10月19日(日)・11月3日(月・祝)にイオンシネマ板橋にて開催決定。 舞台挨拶の様子は他劇場でもライブ・ビューイングで生配信予定。 MyGO!!!!! × Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM 2025年10月18日(土) 公開 イオンシネマ板橋（東京） イオンシネマシアタス調布（東京） イオンシネマ多摩センター（東京） イオンシネマ千葉ニュータウン（千葉） イオンシネマ浦和美園（埼玉） イオンシネマ港北ニュータウン（神奈川） イオンシネマシアタス心斎橋（大阪） イオンシネマ茨木（大阪） イオンシネマ京都桂川（京都） イオンシネマ加古川（兵庫） イオンシネマ名古屋茶屋（愛知） イオンシネマ広島（広島） イオンシネマ福岡（福岡） MyGO!!!!!、Ave Mujica、CRYCHIC、sumimi ※オリジナルカット特別出演：羊宮妃那(高松燈 役)・高尾奏音(オブリビオニス/豊川祥子 役) 受付の詳細は後日の公開をお待ちください。",
+              "display_url": "bang-dream.com/mygo_avemujica…",
+              "end": 116,
+              "expanded_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968268867580645376/YPDmebX1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」 LIVE FILM | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/mygo_avemujica_livefilm",
+              "url": "https://t.co/Kcj1CsRvKW"
+            },
+            {
+              "display_url": "pic.x.com/QleKzY9kCC",
+              "end": 183,
+              "expanded_url": "https://x.com/bang_dream_info/status/1968238497594011757/video/1",
+              "media_key": "13_1968234619528261632",
+              "start": 160,
+              "url": "https://t.co/QleKzY9kCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968238497594011757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 141617,
+          "like_count": 3286,
+          "quote_count": 325,
+          "reply_count": 6,
+          "retweet_count": 1404
+        },
+        "reply_settings": "everyone",
+        "text": "＼🎊特報①🎊／\n\n10月18日(土)より\nMyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM\n全国10都市にて上映決定🎉\n\n詳細はこちら\nhttps://t.co/Kcj1CsRvKW\n\n#わかれ道のその先へLIVEFILM\n#バンドリ #MyGO #AveMujica https://t.co/QleKzY9kCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 511,
+          "like_count": 2338,
+          "listed_count": 4,
+          "media_count": 325,
+          "tweet_count": 1962
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式Xです。 #バンドリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "1964657550223352229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085592925773824/MHpcI3N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800262,
+          "following_count": 134,
+          "like_count": 422,
+          "listed_count": 4723,
+          "media_count": 15207,
+          "tweet_count": 32657
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

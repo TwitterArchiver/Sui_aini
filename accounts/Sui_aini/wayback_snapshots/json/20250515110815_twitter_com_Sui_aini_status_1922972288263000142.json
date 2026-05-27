@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922972285499011072"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1922972288263000142",
+    "created_at": "2025-05-15T11:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T12:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922972288263000142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjmTqfJEPb",
+          "end": 28,
+          "expanded_url": "https://x.com/Sui_aini/status/1922972288263000142/photo/1",
+          "media_key": "3_1922972285499011072",
+          "start": 5,
+          "url": "https://t.co/cjmTqfJEPb"
+        },
+        {
+          "display_url": "x.com/AkaneY_banu/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/AkaneY_banu/status/1922971460533993948",
+          "start": 29,
+          "url": "https://t.co/zupvcwV5vP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922972288263000142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922971460533993948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "邪神来的 https://t.co/cjmTqfJEPb https://t.co/zupvcwV5vP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_1922972285499011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_FGvYW8AATqG_.jpg",
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922972285499011072"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1922972288263000142",
+        "created_at": "2025-05-15T11:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922972288263000142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjmTqfJEPb",
+              "end": 28,
+              "expanded_url": "https://x.com/Sui_aini/status/1922972288263000142/photo/1",
+              "media_key": "3_1922972285499011072",
+              "start": 5,
+              "url": "https://t.co/cjmTqfJEPb"
+            },
+            {
+              "display_url": "x.com/AkaneY_banu/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/AkaneY_banu/status/1922971460533993948",
+              "start": 29,
+              "url": "https://t.co/zupvcwV5vP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922972288263000142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922971460533993948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "邪神来的 https://t.co/cjmTqfJEPb https://t.co/zupvcwV5vP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531145919722188803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1922971460533993948",
+        "created_at": "2025-05-15T11:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922971460533993948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi_prize/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/bushi_prize/status/1922955153126326424",
+              "start": 13,
+              "url": "https://t.co/g2UG6dIN5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922971460533993948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1207,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922955153126326424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好き、綺麗な目、はぁ🫠🖤 https://t.co/g2UG6dIN5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 256,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 509
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:30:21.000Z",
+        "description": "Drummer🥁/#AveMujica /TVアニメ BanGDream!Ave Mujica/祐天寺にゃむ,アモーリス役(Nyamu Yutenji,Amoris）/スタッフアカウント@AkaneY_STAFF ↓↓Instagram↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "AveMujica"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "AkaneY_STAFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akaneyonezawa.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akaneyonezawa.banu?igsh=eWRhemxtb3lxaXFv&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3UaTzROfQL"
+              }
+            ]
+          }
+        },
+        "id": "1531145919722188803",
+        "name": "米澤 茜",
+        "pinned_tweet_id": "1897315442534031680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878150523565785088/PVqZn2jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87916,
+          "following_count": 89,
+          "like_count": 9809,
+          "listed_count": 453,
+          "media_count": 668,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/3UaTzROfQL",
+        "username": "AkaneY_banu",
+        "verified": false
+      }
+    ]
+  }
+}

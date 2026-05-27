@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1929430325865676985",
+    "created_at": "2025-06-02T06:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T07:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929430325865676985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0u0HaNako666/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/0u0HaNako666/status/1929201532064481454",
+          "start": 6,
+          "url": "https://t.co/sUqXEGZlOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929430325865676985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929201532064481454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特别特别好 https://t.co/sUqXEGZlOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1929201517602783232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXmjxTbwAAxSPd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1929201517615366144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXmjxWbwAAam3t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1929430325865676985",
+        "created_at": "2025-06-02T06:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T07:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929430325865676985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0u0HaNako666/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/0u0HaNako666/status/1929201532064481454",
+              "start": 6,
+              "url": "https://t.co/sUqXEGZlOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929430325865676985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929201532064481454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别特别好 https://t.co/sUqXEGZlOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929201517602783232",
+            "3_1929201517615366144"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1929201532064481454",
+        "created_at": "2025-06-01T15:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929201532064481454"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.7949,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 3,
+              "normalized_text": "広州",
+              "probability": 0.467,
+              "start": 2,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWUM4DqayZ",
+              "end": 80,
+              "expanded_url": "https://x.com/0u0HaNako666/status/1929201532064481454/photo/1",
+              "media_key": "3_1929201517602783232",
+              "start": 57,
+              "url": "https://t.co/YWUM4DqayZ"
+            },
+            {
+              "display_url": "pic.x.com/YWUM4DqayZ",
+              "end": 80,
+              "expanded_url": "https://x.com/0u0HaNako666/status/1929201532064481454/photo/1",
+              "media_key": "3_1929201517615366144",
+              "start": 57,
+              "url": "https://t.co/YWUM4DqayZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929201532064481454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 47433,
+          "like_count": 1968,
+          "quote_count": 31,
+          "reply_count": 77,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "中国広州、伝説のライブをしました\nあんがと🐼\n6月3日の夜❽じ50ぷんからフリキャスで上海ライブハウス配信やんね https://t.co/YWUM4DqayZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 321,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 822
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん🐼ネット配信者.「進撃の巨人」The Final Season主題歌OP・2期ED. 「恋は雨上がりのように」映画主題歌、劇伴.「電波女と青春男」OP担当. 今まで作った自主制作Pv▷:https://t.co/fxmjNE4Euf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 125,
+                "expanded_url": "https://www.youtube.com/user/vivaru",
+                "start": 102,
+                "url": "https://t.co/fxmjNE4Euf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/AVgDmRDB0v"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212352234551275520/YFsOGIOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179592,
+          "following_count": 226,
+          "like_count": 357417,
+          "listed_count": 1387,
+          "media_count": 2634,
+          "tweet_count": 54231
+        },
+        "url": "https://t.co/AVgDmRDB0v",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

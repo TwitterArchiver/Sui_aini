@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2053707836430102625",
+    "created_at": "2026-05-11T09:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053765791368278362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906892094953762816",
+          "start": 0,
+          "username": "yrr0rinblues"
+        },
+        {
+          "end": 28,
+          "id": "1981918860883488768",
+          "start": 14,
+          "username": "Anonymous_L13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053765791368278362",
+    "in_reply_to_user_id": "906892094953762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053744792853770320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrr0rinblues @Anonymous_L13 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2053707836430102625",
+        "created_at": "2026-05-11T09:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053765791368278362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            },
+            {
+              "end": 28,
+              "id": "1981918860883488768",
+              "start": 14,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053765791368278362",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053744792853770320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues @Anonymous_L13 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "conversation_id": "2053707836430102625",
+        "created_at": "2026-05-11T07:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053744792853770320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 24,
+              "id": "1981918860883488768",
+              "start": 10,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744792853770320",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053727787392123170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @Anonymous_L13 烟头扔进化粪池才会爆炸，扔进蹲坑炸不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2053352792975450570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 735,
+          "like_count": 4940,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 4240
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead🏳️‍🌈｜普通话&English｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVdRo"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "在1991年的香港的某个地下室烧煤球炉子",
+        "name": "Yrr0r",
+        "pinned_tweet_id": "2008109457985933779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022969863241920512/5HN1Hxwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 557,
+          "like_count": 262446,
+          "listed_count": 8,
+          "media_count": 501,
+          "tweet_count": 38605
+        },
+        "url": "https://t.co/nlTQQyVdRo",
+        "username": "yrr0rinblues",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "incomplete",
+        "id": "1981918860883488768",
+        "location": "北校C栋天台-α Lyrae车站",
+        "name": "❅中学莉💜",
+        "pinned_tweet_id": "2048808000635486535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048626859773210624/uKU8aza-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 165,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1347
+        },
+        "username": "Anonymous_L13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2016037230301806903",
+    "created_at": "2026-01-27T06:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016037230301806903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/half_hanashi/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/half_hanashi/status/2015573082535313624",
+          "start": 17,
+          "url": "https://t.co/lMG4rnv4PA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016037230301806903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015573082535313624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该滚的是你们这些叶公好龙的件货吧 https://t.co/lMG4rnv4PA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2016037230301806903",
+        "created_at": "2026-01-27T06:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016037230301806903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/half_hanashi/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/half_hanashi/status/2015573082535313624",
+              "start": 17,
+              "url": "https://t.co/lMG4rnv4PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016037230301806903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015573082535313624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该滚的是你们这些叶公好龙的件货吧 https://t.co/lMG4rnv4PA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973206146950578176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2015573082535313624",
+        "created_at": "2026-01-25T23:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T00:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015573082535313624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OHTABOOKS_PR/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/OHTABOOKS_PR/status/2013808777590342087",
+              "start": 110,
+              "url": "https://t.co/p4deFkpcjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015573082535313624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 324564,
+          "like_count": 74,
+          "quote_count": 35,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013808777590342087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "百合というファンタジーに「政治的正しさ」を乱入させるのやめようや\n現実と創作の区別が出来るようになってから虹色について語れと言ってるんだよ\n百合に関してフェミニストとクィア(？？？)は門外漢だろ\n誰だよこんな案通したの https://t.co/p4deFkpcjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 553,
+          "like_count": 3113,
+          "listed_count": 4,
+          "media_count": 383,
+          "tweet_count": 2447
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T02:00:02.000Z",
+        "description": "",
+        "id": "1973206146950578176",
+        "name": "話半分",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973212062018052097/ke41oNsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 58
+        },
+        "username": "half_hanashi",
+        "verified": false
+      }
+    ]
+  }
+}

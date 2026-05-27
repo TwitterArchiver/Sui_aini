@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1985233153804623947",
+    "created_at": "2025-11-03T06:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985233153804623947"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "わかれ道の、その先へ",
+          "probability": 0.7347,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985233153804623947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985214594680603096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: MyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM \n舞台挨拶へのご来場ありがとうございました🐈🎸\n\nライブも舞台裏も練習も、\n全部大事な思い出です🙂‍↕️❣️\n映画館でもぜひ楽しんでくださいね🎥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985214575445463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zmI2Ra0AAtlQL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1985214575449608192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zmI2SaEAAf8wG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1985214575458107395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zmI2UbwAMo545.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1985233153804623947",
+        "created_at": "2025-11-03T06:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985233153804623947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.7347,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985233153804623947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985214594680603096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: MyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM \n舞台挨拶へのご来場ありがとうございました🐈🎸\n\nライブも舞台裏も練習も、\n全部大事な思い出です🙂‍↕️❣️\n映画館でもぜひ楽しんでくださいね🎥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985214575445463040",
+            "3_1985214575449608192",
+            "3_1985214575458107395"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1985214594680603096",
+        "created_at": "2025-11-03T05:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985214594680603096"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.7468,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 124,
+              "tag": "わかれ道のその先へLIVEFILM"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2UUBJ07yS",
+              "end": 178,
+              "expanded_url": "https://x.com/aoki__hina/status/1985214594680603096/photo/1",
+              "media_key": "3_1985214575445463040",
+              "start": 155,
+              "url": "https://t.co/P2UUBJ07yS"
+            },
+            {
+              "display_url": "pic.x.com/P2UUBJ07yS",
+              "end": 178,
+              "expanded_url": "https://x.com/aoki__hina/status/1985214594680603096/photo/1",
+              "media_key": "3_1985214575449608192",
+              "start": 155,
+              "url": "https://t.co/P2UUBJ07yS"
+            },
+            {
+              "display_url": "pic.x.com/P2UUBJ07yS",
+              "end": 178,
+              "expanded_url": "https://x.com/aoki__hina/status/1985214594680603096/photo/1",
+              "media_key": "3_1985214575458107395",
+              "start": 155,
+              "url": "https://t.co/P2UUBJ07yS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985214594680603096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 25219,
+          "like_count": 2480,
+          "quote_count": 17,
+          "reply_count": 23,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!×Ave Mujica 合同ライブ\n「わかれ道の、その先へ」 LIVE FILM \n舞台挨拶へのご来場ありがとうございました🐈🎸\n\nライブも舞台裏も練習も、\n全部大事な思い出です🙂‍↕️❣️\n映画館でもぜひ楽しんでくださいね🎥\n\n#わかれ道のその先へLIVEFILM\n#バンドリ #MyGO https://t.co/P2UUBJ07yS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 525,
+          "like_count": 2588,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 2088
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です！アニメと音楽と鳥が好きです🕊┊【Music info】@AokiHina_Staff┊【SNS】https://t.co/yvPs79Redz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "AokiHina_Staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 92,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 69,
+                "url": "https://t.co/yvPs79Redz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWxI2Y"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1963893966669045781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943840334204874758/yOR29OIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153582,
+          "following_count": 325,
+          "like_count": 3,
+          "listed_count": 1096,
+          "media_count": 1408,
+          "tweet_count": 5094
+        },
+        "url": "https://t.co/dnMFfWxI2Y",
+        "username": "aoki__hina",
+        "verified": true
+      }
+    ]
+  }
+}

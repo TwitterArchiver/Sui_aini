@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1998608184504988054",
+    "created_at": "2025-12-10T04:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998608184504988054"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "宮妃那さん",
+          "probability": 0.3234,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 51,
+          "normalized_text": "羊さんは○○の夢を見る",
+          "probability": 0.2319,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "羊宮さん",
+          "probability": 0.2466,
+          "start": 65,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 97,
+          "start": 89,
+          "tag": "ひつじさんの夢"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "声グラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104074131",
+          "start": 3,
+          "username": "seigura"
+        }
+      ],
+      "urls": [
+        {
+          "description": "キツネ顔？　タヌキ顔？ 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「動物に変身する」の夢の中へ。 今回の撮影で動物に変身するまでのお話や、もし変身できたらどの動物になりたいか、といったお話もお聞きしました！",
+          "display_url": "seigura.com/news/163802/",
+          "end": 126,
+          "expanded_url": "https://seigura.com/news/163802/",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=orig",
+              "width": 637
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 103,
+          "status": 200,
+          "title": "【声グラ1月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「変身」の夢 | seigura.com",
+          "unwound_url": "https://seigura.com/news/163802/",
+          "url": "https://t.co/nwCdO19yK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998608184504988054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998589821787451529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seigura: 声優グランプリ1月号は本日発売🍂\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「変身」の夢🪄\n羊宮さんが森の中で動物に変身します🦊🦝\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/nwCdO19yK5 https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1998589061301510144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xqKYrboAAeuSU.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1998608184504988054",
+        "created_at": "2025-12-10T04:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998608184504988054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.3234,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "羊さんは○○の夢を見る",
+              "probability": 0.2319,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "羊宮さん",
+              "probability": 0.2466,
+              "start": 65,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 97,
+              "start": 89,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "声グラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104074131",
+              "start": 3,
+              "username": "seigura"
+            }
+          ],
+          "urls": [
+            {
+              "description": "キツネ顔？　タヌキ顔？ 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「動物に変身する」の夢の中へ。 今回の撮影で動物に変身するまでのお話や、もし変身できたらどの動物になりたいか、といったお話もお聞きしました！",
+              "display_url": "seigura.com/news/163802/",
+              "end": 126,
+              "expanded_url": "https://seigura.com/news/163802/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=orig",
+                  "width": 637
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "【声グラ1月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「変身」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/163802/",
+              "url": "https://t.co/nwCdO19yK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998608184504988054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998589821787451529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seigura: 声優グランプリ1月号は本日発売🍂\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「変身」の夢🪄\n羊宮さんが森の中で動物に変身します🦊🦝\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/nwCdO19yK5 https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998589061301510144"
+          ]
+        },
+        "author_id": "104074131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1998589821787451529",
+        "created_at": "2025-12-10T03:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998589821787451529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.3214,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "羊さんは○○の夢を見る",
+              "probability": 0.2948,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "羊宮さん",
+              "probability": 0.2405,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "声グラ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "キツネ顔？　タヌキ顔？ 羊宮妃那さんが「夢」の世界に入り込む連載、「羊さんは○○の夢を見る」。今回は「動物に変身する」の夢の中へ。 今回の撮影で動物に変身するまでのお話や、もし変身できたらどの動物になりたいか、といったお話もお聞きしました！",
+              "display_url": "seigura.com/news/163802/",
+              "end": 113,
+              "expanded_url": "https://seigura.com/news/163802/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=orig",
+                  "width": 637
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998592386486906880/vxKWROA-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "【声グラ1月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「変身」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/163802/",
+              "url": "https://t.co/nwCdO19yK5"
+            },
+            {
+              "display_url": "pic.x.com/LPd4ht7beG",
+              "end": 137,
+              "expanded_url": "https://x.com/seigura/status/1998589821787451529/photo/1",
+              "media_key": "3_1998589061301510144",
+              "start": 114,
+              "url": "https://t.co/LPd4ht7beG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998589821787451529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 19335,
+          "like_count": 1195,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "声優グランプリ1月号は本日発売🍂\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「変身」の夢🪄\n羊宮さんが森の中で動物に変身します🦊🦝\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/nwCdO19yK5 https://t.co/LPd4ht7beG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 534,
+          "like_count": 2766,
+          "listed_count": 4,
+          "media_count": 363,
+          "tweet_count": 2239
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-12T04:59:16.000Z",
+        "description": "創刊31周年のNo.1月刊声優誌『声優グランプリ』(声グラ：せいぐら)公式です。 毎月10日発売！ #声グラ\nonline shopインフォスクエア🛒https://t.co/slpP7MAu61\n撮り下ろし写真販売「声グラ+」https://t.co/8LFdloPuX2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "声グラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosquare.shop",
+                "end": 98,
+                "expanded_url": "https://infosquare.shop/",
+                "start": 75,
+                "url": "https://t.co/slpP7MAu61"
+              },
+              {
+                "display_url": "emii.photo/seigura/",
+                "end": 137,
+                "expanded_url": "https://emii.photo/seigura/",
+                "start": 114,
+                "url": "https://t.co/8LFdloPuX2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seigura.com",
+                "end": 23,
+                "expanded_url": "https://seigura.com/",
+                "start": 0,
+                "url": "https://t.co/c0lvETCJcL"
+              }
+            ]
+          }
+        },
+        "id": "104074131",
+        "location": "東京 神保町",
+        "name": "声優グランプリ＠31周年",
+        "pinned_tweet_id": "1996127291785789590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006424390072877061/10gftBES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209057,
+          "following_count": 1969,
+          "like_count": 8372,
+          "listed_count": 1905,
+          "media_count": 10136,
+          "tweet_count": 31498
+        },
+        "url": "https://t.co/c0lvETCJcL",
+        "username": "seigura",
+        "verified": true
+      }
+    ]
+  }
+}

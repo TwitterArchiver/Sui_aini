@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2035628949875913025",
+    "created_at": "2026-03-22T08:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035628949875913025"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "羊宮妃那",
+          "probability": 0.3264,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 26,
+          "tag": "こもれびじかん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902302237352980481",
+          "start": 3,
+          "username": "komorebi_jikan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A blog about technology, design and startups from a designer who codes.",
+          "display_url": "paulstamatiou.com",
+          "end": 139,
+          "expanded_url": "http://paulstamatiou.com",
+          "images": [
+            {
+              "height": 376,
+              "url": "https://pbs.twimg.com/news_img/2024574893895942144/0NbDKNR0?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024574893895942144/0NbDKNR0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Paul Stamatiou",
+          "unwound_url": "https://paulstamatiou.com/",
+          "url": "https://t.co/p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035628949875913025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035628276870463774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komorebi_jikan: 羊宮妃那の #こもれびじかん🌳\n番組イベント〜もりのお誕生日会〜🎂\n昼の部ありがとうございました✨\n\nこのあとの夜の部も\nよろしくお願いいたします。\n\n2週間のアーカイブ配信もありますので\nぜひご覧ください🎁\nhttps://t.co/p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2035628043537125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAA653akAATF5O.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2035628949875913025",
+        "created_at": "2026-03-22T08:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035628949875913025"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "羊宮妃那",
+              "probability": 0.3264,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 26,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902302237352980481",
+              "start": 3,
+              "username": "komorebi_jikan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A blog about technology, design and startups from a designer who codes.",
+              "display_url": "paulstamatiou.com",
+              "end": 139,
+              "expanded_url": "http://paulstamatiou.com",
+              "images": [
+                {
+                  "height": 376,
+                  "url": "https://pbs.twimg.com/news_img/2024574893895942144/0NbDKNR0?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024574893895942144/0NbDKNR0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Paul Stamatiou",
+              "unwound_url": "https://paulstamatiou.com/",
+              "url": "https://t.co/p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035628949875913025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035628276870463774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komorebi_jikan: 羊宮妃那の #こもれびじかん🌳\n番組イベント〜もりのお誕生日会〜🎂\n昼の部ありがとうございました✨\n\nこのあとの夜の部も\nよろしくお願いいたします。\n\n2週間のアーカイブ配信もありますので\nぜひご覧ください🎁\nhttps://t.co/p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035628043537125376"
+          ]
+        },
+        "author_id": "1902302237352980481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035628276870463774",
+        "created_at": "2026-03-22T08:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035628276870463774"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "羊宮妃那",
+              "probability": 0.4071,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "文化放送地上波にて、毎週日曜日24時30分から放送中『羊宮妃那のこもれびじかん』2026年3月22日(日)に番組初のイベントが開催！3月26日が羊宮さんのお誕生日ということでイベントタイトルは…羊宮妃那のこもれびじかん 番組イベント～もりのお誕生日会～こもりすのみなさんでお誕生日を一緒にお祝い...",
+              "display_url": "joqr.co.jp/ag/article/164…",
+              "end": 128,
+              "expanded_url": "https://www.joqr.co.jp/ag/article/164638/",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2034631639402434560/VuKvp8-M?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034631639402434560/VuKvp8-M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "配信も決定！3/22(日)開催『羊宮妃那のこもれびじかん〜もりのお誕生日会〜』 | 文化放送",
+              "unwound_url": "https://www.joqr.co.jp/ag/article/164638/",
+              "url": "https://t.co/pqlaqnbTvE"
+            },
+            {
+              "display_url": "pic.x.com/cgJVDgRtF4",
+              "end": 152,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2035628276870463774/photo/1",
+              "media_key": "3_2035628043537125376",
+              "start": 129,
+              "url": "https://t.co/cgJVDgRtF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035628276870463774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 410,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "羊宮妃那の #こもれびじかん🌳\n番組イベント〜もりのお誕生日会〜🎂\n昼の部ありがとうございました✨\n\nこのあとの夜の部も\nよろしくお願いいたします。\n\n2週間のアーカイブ配信もありますので\nぜひご覧ください🎁\nhttps://t.co/pqlaqnbTvE https://t.co/cgJVDgRtF4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 632,
+          "like_count": 3900,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 3203
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:12:58.000Z",
+        "description": "ラジオ番組公式Xアカウント\n文化放送地上波(radiko)にて毎週日曜24:30～25:00放送\nカルチェラでアーカイブとこもればなしを配信中！\n\nメール：komorebi@joqr.net\nフォーム：https://t.co/qAD2ORz4Gk\n#こもれびじかん\n\n※ラジオや写真等の無断転載はご遠慮ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "こもれびじかん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "form.run/@komorebi",
+                "end": 124,
+                "expanded_url": "https://form.run/@komorebi",
+                "start": 101,
+                "url": "https://t.co/qAD2ORz4Gk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "culuchera.stores.play.jp",
+                "end": 23,
+                "expanded_url": "https://culuchera.stores.play.jp/",
+                "start": 0,
+                "url": "https://t.co/PFofhpyYAw"
+              }
+            ]
+          }
+        },
+        "id": "1902302237352980481",
+        "name": "羊宮妃那のこもれびじかん",
+        "pinned_tweet_id": "2033022668610707940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905469206323494912/U5feN3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8822,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 60,
+          "media_count": 128,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/PFofhpyYAw",
+        "username": "komorebi_jikan",
+        "verified": false
+      }
+    ]
+  }
+}

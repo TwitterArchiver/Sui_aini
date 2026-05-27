@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2032750657611116969",
+    "created_at": "2026-03-14T15:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032835833309643022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "133225891",
+          "start": 0,
+          "username": "hisuiibmpower4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032835833309643022",
+    "in_reply_to_user_id": "133225891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032834706677657821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hisuiibmpower4 是，但感情很模糊，就是说不清的喜欢或爱，不是传统意义上的爱情，是加了很多道不明的情感，我爱你，但我不爱你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032834706677657821].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032834706677657821",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032834706677657821"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2032750657611116969",
+        "created_at": "2026-03-14T15:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032835833309643022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "133225891",
+              "start": 0,
+              "username": "hisuiibmpower4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032835833309643022",
+        "in_reply_to_user_id": "133225891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032834706677657821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hisuiibmpower4 是，但感情很模糊，就是说不清的喜欢或爱，不是传统意义上的爱情，是加了很多道不明的情感，我爱你，但我不爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 622,
+          "like_count": 3824,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 3148
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-15T09:41:18.000Z",
+        "description": "Senior sci-fi geek,hard core anime otaku,interested in:sci-fi,science,politics,history,art,anime,visual_novel,doujinshi,anything moe",
+        "id": "133225891",
+        "location": "shanghai.china",
+        "name": "hisui",
+        "pinned_tweet_id": "1669898654579306496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/973198180647976961/hRRMuIm8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 2737,
+          "like_count": 74561,
+          "listed_count": 30,
+          "media_count": 725,
+          "tweet_count": 46631
+        },
+        "username": "hisuiibmpower4",
+        "verified": false
+      }
+    ]
+  }
+}

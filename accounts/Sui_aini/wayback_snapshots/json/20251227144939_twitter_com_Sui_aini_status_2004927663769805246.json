@@ -1,0 +1,880 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724827483238400",
+          "name": "Ryotaro Okiayu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "TV Asahi (テレビ朝日)",
+          "id": "1034874547688730624",
+          "name": "TV Asahi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724827483238400",
+          "name": "Ryotaro Okiayu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TV Asahi (テレビ朝日)",
+          "id": "1034874547688730624",
+          "name": "TV Asahi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actor",
+          "id": "1070724827483238400",
+          "name": "Ryotaro Okiayu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2004927663769805246",
+    "created_at": "2025-12-27T14:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004927663769805246"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 126,
+          "normalized_text": "地獄先生ぬ〜べ〜",
+          "probability": 0.7904,
+          "start": 119,
+          "type": "Other"
+        },
+        {
+          "end": 133,
+          "normalized_text": "鵺野鳴介",
+          "probability": 0.5699,
+          "start": 130,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "置鮎龍太郎"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1123410609922396160",
+          "start": 3,
+          "username": "aoni_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "12月27日（土）よる６時～テレビ朝日「新作アニメ《生》発表会」！2026年のテレ朝アニメを彩る…置鮎龍太郎・ファイルーズあい・春瀬なつみ・永瀬アンナ・江口拓也・高橋李依 ・堀江瞬・羊宮妃那、、超豪華声優陣が登場！大注目『あかね噺』の新キャスト解禁!!『天幕のジャードゥーガル』大型情報解禁 も!?さらに…『地獄先...",
+          "display_url": "youtu.be/yyJwQyVt6Rk",
+          "end": 86,
+          "expanded_url": "http://youtu.be/yyJwQyVt6Rk",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "【生配信】テレビ朝日新作アニメ発表会【12月27日（土）よる6時～】",
+          "unwound_url": "https://www.youtube.com/watch?v=yyJwQyVt6Rk&feature=youtu.be",
+          "url": "https://t.co/zB4DaBpmWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004927663769805246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004909893200019795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoni_official: #置鮎龍太郎\n#羊宮妃那\n\n【テレビ朝日新作アニメ発表会】\n〈12月27日(土)配信〉\nhttps://t.co/zB4DaBpmWQ\n\nご視聴いただいた皆様、ありがとうございました！\n\nTVアニメ『地獄先生ぬ〜べ〜』にて鵺野鳴介役を演じる…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2004909886199791622",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Le60WbgAYs0So.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2004927663769805246",
+        "created_at": "2025-12-27T14:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004927663769805246"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 126,
+              "normalized_text": "地獄先生ぬ〜べ〜",
+              "probability": 0.7904,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "鵺野鳴介",
+              "probability": 0.5699,
+              "start": 130,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "置鮎龍太郎"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1123410609922396160",
+              "start": 3,
+              "username": "aoni_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "12月27日（土）よる６時～テレビ朝日「新作アニメ《生》発表会」！2026年のテレ朝アニメを彩る…置鮎龍太郎・ファイルーズあい・春瀬なつみ・永瀬アンナ・江口拓也・高橋李依 ・堀江瞬・羊宮妃那、、超豪華声優陣が登場！大注目『あかね噺』の新キャスト解禁!!『天幕のジャードゥーガル』大型情報解禁 も!?さらに…『地獄先...",
+              "display_url": "youtu.be/yyJwQyVt6Rk",
+              "end": 86,
+              "expanded_url": "http://youtu.be/yyJwQyVt6Rk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "【生配信】テレビ朝日新作アニメ発表会【12月27日（土）よる6時～】",
+              "unwound_url": "https://www.youtube.com/watch?v=yyJwQyVt6Rk&feature=youtu.be",
+              "url": "https://t.co/zB4DaBpmWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004927663769805246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004909893200019795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoni_official: #置鮎龍太郎\n#羊宮妃那\n\n【テレビ朝日新作アニメ発表会】\n〈12月27日(土)配信〉\nhttps://t.co/zB4DaBpmWQ\n\nご視聴いただいた皆様、ありがとうございました！\n\nTVアニメ『地獄先生ぬ〜べ〜』にて鵺野鳴介役を演じる…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004909886199791622"
+          ]
+        },
+        "author_id": "1123410609922396160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor",
+              "id": "1070724827483238400",
+              "name": "Ryotaro Okiayu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2004909893200019795",
+        "created_at": "2025-12-27T13:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004909893200019795"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "地獄先生ぬ〜べ〜",
+              "probability": 0.7877,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "鵺野鳴介",
+              "probability": 0.5732,
+              "start": 111,
+              "type": "Person"
+            },
+            {
+              "end": 124,
+              "normalized_text": "置鮎龍太郎",
+              "probability": 0.9427,
+              "start": 120,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "置鮎龍太郎"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "description": "12月27日（土）よる６時～テレビ朝日「新作アニメ《生》発表会」！2026年のテレ朝アニメを彩る…置鮎龍太郎・ファイルーズあい・春瀬なつみ・永瀬アンナ・江口拓也・高橋李依 ・堀江瞬・羊宮妃那、、超豪華声優陣が登場！大注目『あかね噺』の新キャスト解禁!!『天幕のジャードゥーガル』大型情報解禁 も!?さらに…『地獄先...",
+              "display_url": "youtu.be/yyJwQyVt6Rk",
+              "end": 67,
+              "expanded_url": "http://youtu.be/yyJwQyVt6Rk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2003000708627677185/oUxyShLF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "【生配信】テレビ朝日新作アニメ発表会【12月27日（土）よる6時～】",
+              "unwound_url": "https://www.youtube.com/watch?v=yyJwQyVt6Rk&feature=youtu.be",
+              "url": "https://t.co/zB4DaBpmWQ"
+            },
+            {
+              "display_url": "pic.x.com/n4Af3OIxar",
+              "end": 150,
+              "expanded_url": "https://x.com/aoni_official/status/2004909893200019795/photo/1",
+              "media_key": "3_2004909886199791622",
+              "start": 127,
+              "url": "https://t.co/n4Af3OIxar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004909893200019795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "置鮎龍太郎"
+              },
+              {
+                "end": 12,
+                "start": 7,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 190,
+                "start": 182,
+                "tag": "ぬーべーアニメ"
+              },
+              {
+                "end": 203,
+                "start": 191,
+                "tag": "HellTeacher"
+              },
+              {
+                "end": 208,
+                "start": 204,
+                "tag": "僕ヤバ"
+              },
+              {
+                "end": 219,
+                "start": 209,
+                "tag": "僕の心のヤバイやつ"
+              },
+              {
+                "end": 227,
+                "start": 220,
+                "tag": "テレ朝アニメ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/yyJwQyVt6Rk",
+                "end": 67,
+                "expanded_url": "http://youtu.be/yyJwQyVt6Rk",
+                "start": 44,
+                "url": "https://t.co/LOlJlFRXqb"
+              }
+            ]
+          },
+          "text": "#置鮎龍太郎\n#羊宮妃那\n\n【テレビ朝日新作アニメ発表会】\n〈12月27日(土)配信〉\nhttps://t.co/LOlJlFRXqb\n\nご視聴いただいた皆様、ありがとうございました！\n\nTVアニメ『地獄先生ぬ〜べ〜』にて鵺野鳴介役を演じる置鮎龍太郎と\n劇場版『僕の心のヤバイやつ』にて山田杏奈役を演じる羊宮妃那が出演させて頂きました。\nオフショットをお届け♪\n\n#ぬーべーアニメ\n#HellTeacher\n#僕ヤバ\n#僕の心のヤバイやつ\n#テレ朝アニメ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 19924,
+          "like_count": 494,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "#置鮎龍太郎\n#羊宮妃那\n\n【テレビ朝日新作アニメ発表会】\n〈12月27日(土)配信〉\nhttps://t.co/zB4DaBpmWQ\n\nご視聴いただいた皆様、ありがとうございました！\n\nTVアニメ『地獄先生ぬ〜べ〜』にて鵺野鳴介役を演じる置鮎龍太郎と https://t.co/n4Af3OIxar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 533,
+          "like_count": 2865,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 2300
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T02:15:36.000Z",
+        "description": "青二プロダクション公式アカウントです。 最新の出演情報やイベント情報を発信します。 お仕事のご依頼はホームページの出演依頼フォームよりお願い致します。 個別でのお問い合わせはご対応致しかねますのでご了承ください。 画像・動画の無断転載はご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp",
+                "start": 0,
+                "url": "https://t.co/it9fWGQWSD"
+              }
+            ]
+          }
+        },
+        "id": "1123410609922396160",
+        "location": "港区北青山3丁目",
+        "name": "青二プロダクション【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128237738283552768/ZubwDNHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170436,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 1400,
+          "media_count": 6197,
+          "tweet_count": 9442
+        },
+        "url": "https://t.co/it9fWGQWSD",
+        "username": "aoni_official",
+        "verified": false
+      }
+    ]
+  }
+}

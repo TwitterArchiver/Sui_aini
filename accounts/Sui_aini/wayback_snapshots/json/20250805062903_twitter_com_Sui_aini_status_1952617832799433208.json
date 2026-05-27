@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947939924638093312"
+      ],
+      "media_source_tweet_id": [
+        "1947939930816328092"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1952617832799433208",
+    "created_at": "2025-08-05T06:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T07:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952617832799433208"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "あのちゃん",
+          "probability": 0.5766,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910975065916858368",
+          "start": 3,
+          "username": "misumi_suki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wggYOKgYKw",
+          "end": 60,
+          "expanded_url": "https://x.com/misumi_suki/status/1947939930816328092/photo/1",
+          "media_key": "3_1947939924638093312",
+          "start": 37,
+          "url": "https://t.co/wggYOKgYKw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952617832799433208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1006
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947939930816328092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misumi_suki: あのちゃんが大好きなともりんでともあの https://t.co/wggYOKgYKw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947939924638093312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh5CnPa0AAzvnp.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947939924638093312"
+          ],
+          "media_source_tweet_id": [
+            "1947939930816328092"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1952617832799433208",
+        "created_at": "2025-08-05T06:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T07:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952617832799433208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "あのちゃん",
+              "probability": 0.5766,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910975065916858368",
+              "start": 3,
+              "username": "misumi_suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wggYOKgYKw",
+              "end": 60,
+              "expanded_url": "https://x.com/misumi_suki/status/1947939930816328092/photo/1",
+              "media_key": "3_1947939924638093312",
+              "start": 37,
+              "url": "https://t.co/wggYOKgYKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952617832799433208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1006
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947939930816328092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @misumi_suki: あのちゃんが大好きなともりんでともあの https://t.co/wggYOKgYKw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947939924638093312"
+          ]
+        },
+        "author_id": "1910975065916858368",
+        "conversation_id": "1947939930816328092",
+        "created_at": "2025-07-23T08:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T09:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947939930816328092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wggYOKgYKw",
+              "end": 43,
+              "expanded_url": "https://x.com/misumi_suki/status/1947939930816328092/photo/1",
+              "media_key": "3_1947939924638093312",
+              "start": 20,
+              "url": "https://t.co/wggYOKgYKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947939930816328092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 79317,
+          "like_count": 5343,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 1006
+        },
+        "reply_settings": "everyone",
+        "text": "あのちゃんが大好きなともりんでともあの https://t.co/wggYOKgYKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 500,
+          "like_count": 2094,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 1818
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:35:51.000Z",
+        "description": "初音ちゃんとともりんがすき はつさきともあのforever…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/wq8nc1d7dpz9tdz",
+                "start": 0,
+                "url": "https://t.co/6rA6T7aSYr"
+              }
+            ]
+          }
+        },
+        "id": "1910975065916858368",
+        "location": "落書き置き場",
+        "name": "すーどり",
+        "pinned_tweet_id": "1912678954512867427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916436456110997504/46nYHAEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 32,
+          "like_count": 1007,
+          "listed_count": 20,
+          "media_count": 78,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/6rA6T7aSYr",
+        "username": "misumi_suki",
+        "verified": false
+      }
+    ]
+  }
+}

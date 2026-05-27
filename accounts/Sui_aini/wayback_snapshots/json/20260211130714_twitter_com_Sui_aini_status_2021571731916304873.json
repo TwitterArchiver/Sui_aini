@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2021568730040537090",
+    "created_at": "2026-02-11T13:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T14:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021571731916304873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881154222472912896",
+          "start": 0,
+          "username": "SeluneMoonbow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021571731916304873",
+    "in_reply_to_user_id": "881154222472912896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021568730040537090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeluneMoonbow 感觉那些人太需要激女的包容救赎了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021568730040537090].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021568730040537090",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021568730040537090"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2021568730040537090",
+        "created_at": "2026-02-11T13:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021571731916304873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881154222472912896",
+              "start": 0,
+              "username": "SeluneMoonbow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021571731916304873",
+        "in_reply_to_user_id": "881154222472912896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021568730040537090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeluneMoonbow 感觉那些人太需要激女的包容救赎了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 554,
+          "like_count": 3221,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 2593
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T14:15:12.000Z",
+        "description": "成分是一只后现代萌萌人 || 随便挂点：🏳️‍🌈🏳️‍⚧️🏴❤️🧡💛💚💙💜🤎🖤🩵🩷🤍💛💜🤍💚♀️⚧️ || 老婆 @QiuNing_ 超级超级可爱~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "881154222472912896",
+        "name": "昕月🏳️‍⚧️",
+        "pinned_tweet_id": "1761742159081087247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002434735776362496/AdY6Fxny_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 707,
+          "like_count": 74757,
+          "listed_count": 1,
+          "media_count": 1273,
+          "tweet_count": 29993
+        },
+        "username": "SeluneMoonbow",
+        "verified": false
+      }
+    ]
+  }
+}

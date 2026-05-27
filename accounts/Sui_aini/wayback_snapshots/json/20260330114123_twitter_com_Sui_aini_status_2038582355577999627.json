@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053142503",
+          "name": "ウマ娘 プリティーダービー"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2038582355577999627",
+    "created_at": "2026-03-30T11:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038582355577999627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」ゲーム、アニメ、コミックスで活躍中のウマ娘たちが送る7度目のナンバリングイベント。初のワールドツアー開催決定！",
+          "display_url": "ts7th.umamusume.jp/?utm_source=t",
+          "end": 128,
+          "expanded_url": "https://ts7th.umamusume.jp/?utm_source=t",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 105,
+          "status": 200,
+          "title": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」｜ウマ娘 プリティーダービー 公式ポータルサイト｜Cygames",
+          "unwound_url": "https://ts7th.umamusume.jp/?utm_source=t",
+          "url": "https://t.co/OElNwQHpTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038582355577999627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038579617695662241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\n『ウマ娘7th EVENT WORLD TOUR』東京公演\nデアリングタクト役として出演させていただきます。\n\n日程┊︎6月20日(土曜日)DAY1\n詳細┊︎https://t.co/OElNwQHpTg\n\nタクトちゃんとして…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053142503",
+              "name": "ウマ娘 プリティーダービー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2038582355577999627",
+        "created_at": "2026-03-30T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038582355577999627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」ゲーム、アニメ、コミックスで活躍中のウマ娘たちが送る7度目のナンバリングイベント。初のワールドツアー開催決定！",
+              "display_url": "ts7th.umamusume.jp/?utm_source=t",
+              "end": 128,
+              "expanded_url": "https://ts7th.umamusume.jp/?utm_source=t",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」｜ウマ娘 プリティーダービー 公式ポータルサイト｜Cygames",
+              "unwound_url": "https://ts7th.umamusume.jp/?utm_source=t",
+              "url": "https://t.co/OElNwQHpTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038582355577999627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038579617695662241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\n『ウマ娘7th EVENT WORLD TOUR』東京公演\nデアリングタクト役として出演させていただきます。\n\n日程┊︎6月20日(土曜日)DAY1\n詳細┊︎https://t.co/OElNwQHpTg\n\nタクトちゃんとして…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053142503",
+              "name": "ウマ娘 プリティーダービー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2038579617695662241",
+        "created_at": "2026-03-30T11:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038579617695662241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 171,
+              "start": 164,
+              "tag": "ウマ娘7th"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」ゲーム、アニメ、コミックスで活躍中のウマ娘たちが送る7度目のナンバリングイベント。初のワールドツアー開催決定！",
+              "display_url": "ts7th.umamusume.jp/?utm_source=t",
+              "end": 110,
+              "expanded_url": "https://ts7th.umamusume.jp/?utm_source=t",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037510867609174016/Df8KYwOG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "ウマ娘 プリティーダービー 7th EVENT WORLD TOUR 「THE STAGE」｜ウマ娘 プリティーダービー 公式ポータルサイト｜Cygames",
+              "unwound_url": "https://ts7th.umamusume.jp/?utm_source=t",
+              "url": "https://t.co/OElNwQHpTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038579617695662241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5723,
+          "like_count": 549,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\n『ウマ娘7th EVENT WORLD TOUR』東京公演\nデアリングタクト役として出演させていただきます。\n\n日程┊︎6月20日(土曜日)DAY1\n詳細┊︎https://t.co/OElNwQHpTg\n\nタクトちゃんとしてのステージ\n一生懸命駆け抜けたいと思います✨\n何卒よろしくお願いします！\n\n#ウマ娘 #ウマ娘7th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 643,
+          "like_count": 4008,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 3261
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241100,
+          "following_count": 308,
+          "like_count": 1974,
+          "listed_count": 1732,
+          "media_count": 178,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

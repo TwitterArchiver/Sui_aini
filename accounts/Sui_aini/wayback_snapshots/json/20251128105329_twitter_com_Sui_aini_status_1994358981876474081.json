@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1994358981876474081",
+    "created_at": "2025-11-28T10:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994358981876474081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "16738904",
+          "start": 3,
+          "username": "suchnerve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994358981876474081",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16791
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993880082298114347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suchnerve: block me if you oppose same-sex marriage and i’m not joking"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1994358981876474081",
+        "created_at": "2025-11-28T10:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994358981876474081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "16738904",
+              "start": 3,
+              "username": "suchnerve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994358981876474081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16791
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993880082298114347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suchnerve: block me if you oppose same-sex marriage and i’m not joking"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "16738904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1993880082298114347",
+        "created_at": "2025-11-27T03:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993880082298114347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newswire_us/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/newswire_us/status/1993741874969104482",
+              "start": 60,
+              "url": "https://t.co/KgkQhwlhaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993880082298114347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1262,
+          "impression_count": 1701946,
+          "like_count": 100752,
+          "quote_count": 117,
+          "reply_count": 740,
+          "retweet_count": 16791
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993741874969104482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "block me if you oppose same-sex marriage and i’m not joking https://t.co/KgkQhwlhaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 525,
+          "like_count": 2707,
+          "listed_count": 4,
+          "media_count": 349,
+          "tweet_count": 2159
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-14T14:49:23.000Z",
+        "description": "shrieking, incandescent ball of rage trapped inside the body of a terminally-online deviant leftist woman, all wrapped up in a veneer of brazen shitposting",
+        "id": "16738904",
+        "location": "not a bit! i’m just like this.",
+        "name": "Vivian",
+        "pinned_tweet_id": "1677808601602170880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750921465543655430/NAEvgcua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53483,
+          "following_count": 966,
+          "like_count": 301539,
+          "listed_count": 247,
+          "media_count": 18382,
+          "tweet_count": 176555
+        },
+        "username": "suchnerve",
+        "verified": false
+      }
+    ]
+  }
+}

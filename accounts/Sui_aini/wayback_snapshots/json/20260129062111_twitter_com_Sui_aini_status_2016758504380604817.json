@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2016547408390590657",
+    "created_at": "2026-01-29T06:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016758504380604817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4886512384",
+          "start": 0,
+          "username": "Bamboorusua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016758504380604817",
+    "in_reply_to_user_id": "4886512384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016547408390590657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bamboorusua 有点冰清玉洁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2016547408390590657",
+        "created_at": "2026-01-29T06:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016758504380604817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4886512384",
+              "start": 0,
+              "username": "Bamboorusua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016758504380604817",
+        "in_reply_to_user_id": "4886512384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016547408390590657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bamboorusua 有点冰清玉洁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4886512384",
+        "conversation_id": "2016547408390590657",
+        "created_at": "2026-01-28T16:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016547408390590657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016547408390590657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11042,
+          "like_count": 86,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "周宇已经是💊圈自嗨的工具了\n\n害搁那图灵呢，看看那些所谓OI高手跨，现实生活中真的有女生油腻长发+胖腿+经典JK吗？化妆都不愿意学，穿上女性衣物搞软色情+感觉巨爽难道不是精神撸管吗？\n\n能否正视现实：人缘差+找不到女朋友+向往二次元美少女-&gt;向内投射性欲。跟跨性别和计算机半毛钱关系没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 552,
+          "like_count": 3127,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 2459
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-08T01:54:18.000Z",
+        "description": "Tibbers The 181st",
+        "id": "4886512384",
+        "name": "竹路沙",
+        "pinned_tweet_id": "1864207938153492716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962736760397737984/FkP0Pztl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 54,
+          "like_count": 5565,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 1570
+        },
+        "username": "Bamboorusua",
+        "verified": false
+      }
+    ]
+  }
+}

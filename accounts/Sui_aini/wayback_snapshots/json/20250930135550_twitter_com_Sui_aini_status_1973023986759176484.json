@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054657859",
+          "name": "ゾンビランドサガ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1379854103006699521",
+          "name": "Zombie Land Saga"
+        }
+      }
+    ],
+    "conversation_id": "1973023986759176484",
+    "created_at": "2025-09-30T13:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T14:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973023986759176484"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 91,
+          "normalized_text": "ゾンビランドサガ　ゆめぎんがパラダイス スペシャルコラボ",
+          "probability": 0.2471,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "description": "劇場版総集編 前編「ガールズバンドクライ青春狂走曲」が2025年10月3日(金)に公開！ガルクラの熱い物語を劇場でもう一度！",
+          "display_url": "girls-band-cry.com/news/post-392.…",
+          "end": 135,
+          "expanded_url": "https://girls-band-cry.com/news/post-392.html",
+          "start": 112,
+          "status": 200,
+          "title": "スペシャルコラボ決定！「劇場版総集編　ガールズバンドクライ」✕「 ゾンビランドサガ　ゆめぎんがパラダイス」 | NEWS | 劇場版総集編「ガールズバンドクライ」公式サイト",
+          "unwound_url": "https://girls-band-cry.com/news/post-392.html",
+          "url": "https://t.co/QIx1GTrFEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973023986759176484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 839
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972979988757701039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: ＼🎸スペシャルコラボ決定🚀／\n劇場版総集編　ガールズバンドクライ\n　　　　　　　　✕\nゾンビランドサガ　ゆめぎんがパラダイス\n\nスペシャルコラボ映像公開＆半券キャンペーン開催🔥\n\n🔗詳細\nhttps://t.co/QIx1GTrFEZ\n\n#ガ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2892,
+        "media_key": "3_1972893302317084672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2EgAXBbcAA-uv2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "1973023986759176484",
+        "created_at": "2025-09-30T13:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T14:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973023986759176484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "ゾンビランドサガ　ゆめぎんがパラダイス スペシャルコラボ",
+              "probability": 0.2471,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場版総集編 前編「ガールズバンドクライ青春狂走曲」が2025年10月3日(金)に公開！ガルクラの熱い物語を劇場でもう一度！",
+              "display_url": "girls-band-cry.com/news/post-392.…",
+              "end": 135,
+              "expanded_url": "https://girls-band-cry.com/news/post-392.html",
+              "start": 112,
+              "status": 200,
+              "title": "スペシャルコラボ決定！「劇場版総集編　ガールズバンドクライ」✕「 ゾンビランドサガ　ゆめぎんがパラダイス」 | NEWS | 劇場版総集編「ガールズバンドクライ」公式サイト",
+              "unwound_url": "https://girls-band-cry.com/news/post-392.html",
+              "url": "https://t.co/QIx1GTrFEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973023986759176484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 839
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972979988757701039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: ＼🎸スペシャルコラボ決定🚀／\n劇場版総集編　ガールズバンドクライ\n　　　　　　　　✕\nゾンビランドサガ　ゆめぎんがパラダイス\n\nスペシャルコラボ映像公開＆半券キャンペーン開催🔥\n\n🔗詳細\nhttps://t.co/QIx1GTrFEZ\n\n#ガ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972893302317084672"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054657859",
+              "name": "ゾンビランドサガ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1379854103006699521",
+              "name": "Zombie Land Saga"
+            }
+          }
+        ],
+        "conversation_id": "1972979988757701039",
+        "created_at": "2025-09-30T11:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:00:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972979753524003138",
+          "1972979988757701039"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "ゾンビランドサガ　ゆめぎんがパラダイス スペシャルコラボ",
+              "probability": 0.2575,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "ガルクラ総集編"
+            },
+            {
+              "end": 143,
+              "start": 134,
+              "tag": "ゾンビランドサガ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場版総集編 前編「ガールズバンドクライ青春狂走曲」が2025年10月3日(金)に公開！ガルクラの熱い物語を劇場でもう一度！",
+              "display_url": "girls-band-cry.com/news/post-392.…",
+              "end": 117,
+              "expanded_url": "https://girls-band-cry.com/news/post-392.html",
+              "start": 94,
+              "status": 200,
+              "title": "スペシャルコラボ決定！「劇場版総集編　ガールズバンドクライ」✕「 ゾンビランドサガ　ゆめぎんがパラダイス」 | NEWS | 劇場版総集編「ガールズバンドクライ」公式サイト",
+              "unwound_url": "https://girls-band-cry.com/news/post-392.html",
+              "url": "https://t.co/QIx1GTrFEZ"
+            },
+            {
+              "display_url": "pic.x.com/mYSi8NWXT8",
+              "end": 167,
+              "expanded_url": "https://x.com/girlsbandcry/status/1972979988757701039/photo/1",
+              "media_key": "3_1972893302317084672",
+              "start": 144,
+              "url": "https://t.co/mYSi8NWXT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972979988757701039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 75000,
+          "like_count": 2146,
+          "quote_count": 107,
+          "reply_count": 5,
+          "retweet_count": 839
+        },
+        "reply_settings": "everyone",
+        "text": "＼🎸スペシャルコラボ決定🚀／\n劇場版総集編　ガールズバンドクライ\n　　　　　　　　✕\nゾンビランドサガ　ゆめぎんがパラダイス\n\nスペシャルコラボ映像公開＆半券キャンペーン開催🔥\n\n🔗詳細\nhttps://t.co/QIx1GTrFEZ\n\n#ガルクラ #ガルクラ総集編 #ゾンビランドサガ https://t.co/mYSi8NWXT8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 513,
+          "like_count": 2372,
+          "listed_count": 4,
+          "media_count": 326,
+          "tweet_count": 1984
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1943263934053781838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227952,
+          "following_count": 28,
+          "like_count": 3374,
+          "listed_count": 844,
+          "media_count": 2071,
+          "tweet_count": 5121
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

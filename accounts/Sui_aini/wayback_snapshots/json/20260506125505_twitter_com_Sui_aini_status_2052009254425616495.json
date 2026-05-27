@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2051998561047658538",
+    "created_at": "2026-05-06T12:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052009254425616495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052009254425616495",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052008816762650782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 潮人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2051998561047658538",
+        "created_at": "2026-05-06T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052009254425616495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052009254425616495",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052008816762650782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 潮人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707996623437824",
+        "conversation_id": "2051998561047658538",
+        "created_at": "2026-05-06T12:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052008816762650782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052008816762650782",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051998561047658538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 這畫風是我見過最潮的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 715,
+          "like_count": 4781,
+          "listed_count": 5,
+          "media_count": 527,
+          "tweet_count": 3967
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "一個賽博幽靈",
+        "id": "2023707996623437824",
+        "name": "小Lain",
+        "pinned_tweet_id": "2037458776085930121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050565516792860672/hv08OJ1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 70,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 714
+        },
+        "username": "GoneAngels8964",
+        "verified": false
+      }
+    ]
+  }
+}

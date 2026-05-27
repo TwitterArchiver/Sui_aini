@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2003892080830214549",
+    "created_at": "2025-12-24T18:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003892080830214549"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 19,
+          "tag": "Neuweltfahrt_Seoul"
+        },
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "767898518178582528",
+          "start": 3,
+          "username": "Yuki_Nakashim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003892080830214549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003806472342499765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_Nakashim: #Neuweltfahrt_Seoul ありがとうございました！！！\nみんなの声援凄すぎたーー🌹✨\nまたソウル公演ができますように…！\n\n즐거웠습니다!\n다시 서울에서 라이브를 할 수 있기를 바랍니다!\n감사합니다!\n\n#バンドリ #R…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2003806465858195456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87zXTQb0AAH0d4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003806465832919040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87zXTKaIAAkUII.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2003892080830214549",
+        "created_at": "2025-12-24T18:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003892080830214549"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 19,
+              "tag": "Neuweltfahrt_Seoul"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "767898518178582528",
+              "start": 3,
+              "username": "Yuki_Nakashim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003892080830214549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003806472342499765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki_Nakashim: #Neuweltfahrt_Seoul ありがとうございました！！！\nみんなの声援凄すぎたーー🌹✨\nまたソウル公演ができますように…！\n\n즐거웠습니다!\n다시 서울에서 라이브를 할 수 있기를 바랍니다!\n감사합니다!\n\n#バンドリ #R…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003806465858195456",
+            "3_2003806465832919040"
+          ]
+        },
+        "author_id": "767898518178582528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2003806472342499765",
+        "created_at": "2025-12-24T12:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:34:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003806426104508537",
+          "2003806472342499765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "Neuweltfahrt_Seoul"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 126,
+              "start": 118,
+              "tag": "Roselia"
+            },
+            {
+              "end": 141,
+              "start": 128,
+              "tag": "Neuweltfahrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKk9ZLcQFn",
+              "end": 165,
+              "expanded_url": "https://x.com/Yuki_Nakashim/status/2003806472342499765/photo/1",
+              "media_key": "3_2003806465858195456",
+              "start": 142,
+              "url": "https://t.co/IKk9ZLcQFn"
+            },
+            {
+              "display_url": "pic.x.com/IKk9ZLcQFn",
+              "end": 165,
+              "expanded_url": "https://x.com/Yuki_Nakashim/status/2003806472342499765/photo/1",
+              "media_key": "3_2003806465832919040",
+              "start": 142,
+              "url": "https://t.co/IKk9ZLcQFn"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/2003800624081899775",
+              "start": 166,
+              "url": "https://t.co/DrnRygdqed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003806472342499765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 107537,
+          "like_count": 5240,
+          "quote_count": 220,
+          "reply_count": 93,
+          "retweet_count": 1684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003800624081899775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#Neuweltfahrt_Seoul ありがとうございました！！！\nみんなの声援凄すぎたーー🌹✨\nまたソウル公演ができますように…！\n\n즐거웠습니다!\n다시 서울에서 라이브를 할 수 있기를 바랍니다!\n감사합니다!\n\n#バンドリ #Roselia  #Neuweltfahrt https://t.co/IKk9ZLcQFn https://t.co/DrnRygdqed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 531,
+          "like_count": 2847,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2288
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T01:37:28.000Z",
+        "description": "声優 デレマス 乙倉悠貴/バンドリ 今井リサ/プロセカ 日野森志歩/ウマ娘 ラッキーライラック/崩壊3rd 夢追い人/闇ヒーラー クリシュナ/義妹生活 綾瀬沙季/なれなれ 小父内涼葉/多数欠 国後依恋/ヘブバン 大島三野里/VGD 御薬袋ミレイ/遊戯王 財前葵/プリマドール 箒星/天才王子 ゼノ/スペチャン5 ケル",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nakashimayuki.com",
+                "end": 23,
+                "expanded_url": "https://nakashimayuki.com",
+                "start": 0,
+                "url": "https://t.co/cEvgEUGIzg"
+              }
+            ]
+          }
+        },
+        "id": "767898518178582528",
+        "location": "ビーフェクト所属 『和歌山県ふるさと広報大使』",
+        "name": "中島由貴❄",
+        "pinned_tweet_id": "1971940477680472448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887084948601090048/o1MCyaWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383632,
+          "following_count": 998,
+          "like_count": 23655,
+          "listed_count": 5663,
+          "media_count": 7398,
+          "tweet_count": 34728
+        },
+        "url": "https://t.co/cEvgEUGIzg",
+        "username": "Yuki_Nakashim",
+        "verified": true
+      }
+    ]
+  }
+}

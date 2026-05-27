@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966167678030331905"
+      ],
+      "media_source_tweet_id": [
+        "1966167684447637628"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1966575239011463189",
+    "created_at": "2025-09-12T18:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966575239011463189"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 14,
+          "tag": "Roseliaフリーライブ"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 75,
+          "start": 67,
+          "tag": "Roselia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "748671603127398400",
+          "start": 3,
+          "username": "aibaaiai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "🌹Roselia Special Live「Stolz」2025年9月12日(金)　開演19:00予定duo MUSIC EXCHANGEより生配信📡※アーカイブはございません。公演情報：https://bang-dream.com/events/roselia_2025free★★★★★★★★★★🎸ライブ...",
+          "display_url": "youtube.com/watch?v=MqmpUA…",
+          "end": 100,
+          "expanded_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 77,
+          "status": 200,
+          "title": "【9月12日(金) 19:00～】Roselia Special Live「Stolz」全編無料生配信【アーカイブ無し】",
+          "unwound_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+          "url": "https://t.co/MQVr8cwmgt"
+        },
+        {
+          "display_url": "pic.x.com/Wp4O0j4ecg",
+          "end": 124,
+          "expanded_url": "https://x.com/aibaaiai/status/1966167684447637628/photo/1",
+          "media_key": "3_1966167678030331905",
+          "start": 101,
+          "url": "https://t.co/Wp4O0j4ecg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966575239011463189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966167684447637628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aibaaiai: #Roseliaフリーライブ\n寝て起きたらだ！！！\nドキドキして眠れない。\nおやすみなさい🌹\n#バンドリ #Roselia \nhttps://t.co/MQVr8cwmgt https://t.co/Wp4O0j4ecg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1966167678030331905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0k7FgHaQAEdg5f.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966167678030331905"
+          ],
+          "media_source_tweet_id": [
+            "1966167684447637628"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1966575239011463189",
+        "created_at": "2025-09-12T18:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966575239011463189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "Roseliaフリーライブ"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "Roselia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "748671603127398400",
+              "start": 3,
+              "username": "aibaaiai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🌹Roselia Special Live「Stolz」2025年9月12日(金)　開演19:00予定duo MUSIC EXCHANGEより生配信📡※アーカイブはございません。公演情報：https://bang-dream.com/events/roselia_2025free★★★★★★★★★★🎸ライブ...",
+              "display_url": "youtube.com/watch?v=MqmpUA…",
+              "end": 100,
+              "expanded_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "【9月12日(金) 19:00～】Roselia Special Live「Stolz」全編無料生配信【アーカイブ無し】",
+              "unwound_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+              "url": "https://t.co/MQVr8cwmgt"
+            },
+            {
+              "display_url": "pic.x.com/Wp4O0j4ecg",
+              "end": 124,
+              "expanded_url": "https://x.com/aibaaiai/status/1966167684447637628/photo/1",
+              "media_key": "3_1966167678030331905",
+              "start": 101,
+              "url": "https://t.co/Wp4O0j4ecg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966575239011463189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966167684447637628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aibaaiai: #Roseliaフリーライブ\n寝て起きたらだ！！！\nドキドキして眠れない。\nおやすみなさい🌹\n#バンドリ #Roselia \nhttps://t.co/MQVr8cwmgt https://t.co/Wp4O0j4ecg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966167678030331905"
+          ]
+        },
+        "author_id": "748671603127398400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1966167684447637628",
+        "created_at": "2025-09-11T15:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966167684447637628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "Roseliaフリーライブ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "Roselia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🌹Roselia Special Live「Stolz」2025年9月12日(金)　開演19:00予定duo MUSIC EXCHANGEより生配信📡※アーカイブはございません。公演情報：https://bang-dream.com/events/roselia_2025free★★★★★★★★★★🎸ライブ...",
+              "display_url": "youtube.com/watch?v=MqmpUA…",
+              "end": 86,
+              "expanded_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966167687404687361/Qt9meCNf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "【9月12日(金) 19:00～】Roselia Special Live「Stolz」全編無料生配信【アーカイブ無し】",
+              "unwound_url": "https://www.youtube.com/watch?v=MqmpUADghWc",
+              "url": "https://t.co/MQVr8cwmgt"
+            },
+            {
+              "display_url": "pic.x.com/Wp4O0j4ecg",
+              "end": 110,
+              "expanded_url": "https://x.com/aibaaiai/status/1966167684447637628/photo/1",
+              "media_key": "3_1966167678030331905",
+              "start": 87,
+              "url": "https://t.co/Wp4O0j4ecg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966167684447637628",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 89524,
+          "like_count": 4491,
+          "quote_count": 8,
+          "reply_count": 49,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "#Roseliaフリーライブ\n寝て起きたらだ！！！\nドキドキして眠れない。\nおやすみなさい🌹\n#バンドリ #Roselia \nhttps://t.co/MQVr8cwmgt https://t.co/Wp4O0j4ecg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 512,
+          "like_count": 2287,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 1940
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-01T00:16:34.000Z",
+        "description": "【響所属】声優。プロレスしてました。プロレス・競馬・謎解き・映画好き。Roselia Vo.湊友希那／カードファイト!!ヴァンガードG NEXT 安城トコハ／けものフレンズ イワトビペンギン／少女⭐︎歌劇レヴュースタァライト 西條クロディーヌ／てっぺん 天野ちとせ／魔術師オーフェン ウィノナなど。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aiba_aiai/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aiba_aiai/",
+                "start": 0,
+                "url": "https://t.co/qtzpmZn2Iu"
+              }
+            ]
+          }
+        },
+        "id": "748671603127398400",
+        "location": "Osaka",
+        "name": "相羽あいな",
+        "pinned_tweet_id": "1921121012772393206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741686437056253952/8HC2lz8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340971,
+          "following_count": 948,
+          "like_count": 6798,
+          "listed_count": 4626,
+          "media_count": 6195,
+          "tweet_count": 28546
+        },
+        "url": "https://t.co/qtzpmZn2Iu",
+        "username": "aibaaiai",
+        "verified": true
+      }
+    ]
+  }
+}

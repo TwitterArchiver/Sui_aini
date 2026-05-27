@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1916435451121987654",
+    "created_at": "2025-04-27T12:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T13:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916464519267995720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1348244970029813761",
+          "start": 0,
+          "username": "ariovista_su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916464519267995720",
+    "in_reply_to_user_id": "1348244970029813761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916463345471049736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ariovista_su 就是当当空调的奴隶怎么他了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916463345471049736].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916463345471049736",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916463345471049736"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1916435451121987654",
+        "created_at": "2025-04-27T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916464519267995720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1348244970029813761",
+              "start": 0,
+              "username": "ariovista_su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916464519267995720",
+        "in_reply_to_user_id": "1348244970029813761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916463345471049736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ariovista_su 就是当当空调的奴隶怎么他了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/温和温良地对待每个人每件事/葵因、莉莉周她说、脆乐团、福禄寿、裁缝铺/mygo",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 122,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 217
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T12:27:12.000Z",
+        "description": "中国跨儿/🇮🇪foghlaimeoir Gaeilge ⚠️精神不正常预警：godless hedonistic nihilist/Western-centrist/anti-life/anti-human/anti-nature",
+        "id": "1348244970029813761",
+        "location": "Trans-la-Forêt, France",
+        "name": "Gwenhwyfar🏳️‍⚧️",
+        "pinned_tweet_id": "1762428960737300717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667507704309399554/rI0eOLlO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 293,
+          "like_count": 3266,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 2124
+        },
+        "username": "ariovista_su",
+        "verified": false
+      }
+    ]
+  }
+}

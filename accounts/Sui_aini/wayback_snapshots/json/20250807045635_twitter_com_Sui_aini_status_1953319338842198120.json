@@ -1,0 +1,687 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1953319338842198120",
+    "created_at": "2025-08-07T04:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953319338842198120"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "小日向美香"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "林鼓子"
+        },
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "131032996",
+          "start": 3,
+          "username": "animatetimes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953319338842198120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 809
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953049683871580541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animatetimes: MyGO!!!!!  #羊宮妃那 さん、#小日向美香 さん、#林鼓子 さんインタビュー\n\n心のはしを辿って、君に会いに行く\n\nZEPP TOURを象徴する新曲「往欄印」が示す互いへの道しるべ\n\n#バンドリ #MyGO\n\nhttps://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1953049673276768258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqgVIRawAIBpeS.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1953049675839524864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqgVR0bUAAzdIA.jpg",
+        "width": 853
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1953049678175715330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqgVahawAIsTOn.jpg",
+        "width": 853
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1953049681631821827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqgVnZawAMqemI.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1953319338842198120",
+        "created_at": "2025-08-07T04:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953319338842198120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "小日向美香"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "林鼓子"
+            },
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "131032996",
+              "start": 3,
+              "username": "animatetimes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953319338842198120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 809
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953049683871580541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animatetimes: MyGO!!!!!  #羊宮妃那 さん、#小日向美香 さん、#林鼓子 さんインタビュー\n\n心のはしを辿って、君に会いに行く\n\nZEPP TOURを象徴する新曲「往欄印」が示す互いへの道しるべ\n\n#バンドリ #MyGO\n\nhttps://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953049673276768258",
+            "3_1953049675839524864",
+            "3_1953049678175715330",
+            "3_1953049681631821827"
+          ]
+        },
+        "author_id": "131032996",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1953049683871580541",
+        "created_at": "2025-08-06T11:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953049683871580541"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "#小日向美香 さん",
+              "probability": 0.5693,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 36,
+              "normalized_text": "#林鼓子 さん",
+              "probability": 0.5504,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "往欄印",
+              "probability": 0.4461,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "小日向美香"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "林鼓子"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【アニメイトタイムズ】二度目となるZEPP TOUR 2025「心のはしを辿って」で全国を駆け巡り、2025年8月7日（木）の北海道公演を目前に控えたMyGO!!!!!が、7枚目となるSingle「往欄印」を8月6日（水）にリリースする。タイトル曲「往欄印」は、同ツアーで初披露となった楽曲であり、本ツア...",
+              "display_url": "animatetimes.com/news/details.p…",
+              "end": 133,
+              "expanded_url": "https://www.animatetimes.com/news/details.php?id=1754445646&utm_source=twitter&utm_medium=social",
+              "images": [
+                {
+                  "height": 853,
+                  "url": "https://pbs.twimg.com/news_img/1953049694688690180/obkzqHfj?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1953049694688690180/obkzqHfj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "MyGO!!!!! 羊宮妃那×小日向美香×林鼓子 鼎談｜7th SG「往欄印」に刻まれたバンドの今 | アニメイトタイムズ",
+              "unwound_url": "https://www.animatetimes.com/news/details.php?id=1754445646&utm_source=twitter&utm_medium=social",
+              "url": "https://t.co/htdJe9EoJr"
+            },
+            {
+              "display_url": "pic.x.com/KXN6wZGmNA",
+              "end": 157,
+              "expanded_url": "https://x.com/animatetimes/status/1953049683871580541/photo/1",
+              "media_key": "3_1953049673276768258",
+              "start": 134,
+              "url": "https://t.co/KXN6wZGmNA"
+            },
+            {
+              "display_url": "pic.x.com/KXN6wZGmNA",
+              "end": 157,
+              "expanded_url": "https://x.com/animatetimes/status/1953049683871580541/photo/1",
+              "media_key": "3_1953049675839524864",
+              "start": 134,
+              "url": "https://t.co/KXN6wZGmNA"
+            },
+            {
+              "display_url": "pic.x.com/KXN6wZGmNA",
+              "end": 157,
+              "expanded_url": "https://x.com/animatetimes/status/1953049683871580541/photo/1",
+              "media_key": "3_1953049678175715330",
+              "start": 134,
+              "url": "https://t.co/KXN6wZGmNA"
+            },
+            {
+              "display_url": "pic.x.com/KXN6wZGmNA",
+              "end": 157,
+              "expanded_url": "https://x.com/animatetimes/status/1953049683871580541/photo/1",
+              "media_key": "3_1953049681631821827",
+              "start": 134,
+              "url": "https://t.co/KXN6wZGmNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953049683871580541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 456,
+          "impression_count": 315989,
+          "like_count": 3569,
+          "quote_count": 43,
+          "reply_count": 1,
+          "retweet_count": 809
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!  #羊宮妃那 さん、#小日向美香 さん、#林鼓子 さんインタビュー\n\n心のはしを辿って、君に会いに行く\n\nZEPP TOURを象徴する新曲「往欄印」が示す互いへの道しるべ\n\n#バンドリ #MyGO\n\nhttps://t.co/htdJe9EoJr https://t.co/KXN6wZGmNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 498,
+          "like_count": 2112,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 1834
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-09T02:23:25.000Z",
+        "description": "アニメの事ならアニメイトタイムズ！声優／アニメニュース・声優ラジオなどアニメに関する情報が満載です！なお、X上でのお問い合わせにはお答えできかねますので、ご了承下さい。 グッズ情報：@atimes_goods",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "atimes_goods"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "animatetimes.com",
+                "end": 23,
+                "expanded_url": "http://www.animatetimes.com/",
+                "start": 0,
+                "url": "https://t.co/iGAsR72gN7"
+              }
+            ]
+          }
+        },
+        "id": "131032996",
+        "name": "アニメイトタイムズ公式",
+        "pinned_tweet_id": "1951115741278695735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395548666715205634/h5-dqRkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740619,
+          "following_count": 2952,
+          "like_count": 3609,
+          "listed_count": 4453,
+          "media_count": 131122,
+          "tweet_count": 275952
+        },
+        "url": "https://t.co/iGAsR72gN7",
+        "username": "animatetimes",
+        "verified": true
+      }
+    ]
+  }
+}

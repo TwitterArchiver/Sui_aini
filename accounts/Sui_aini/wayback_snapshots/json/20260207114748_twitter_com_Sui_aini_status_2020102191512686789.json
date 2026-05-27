@@ -1,0 +1,688 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10042029047",
+          "name": "平成タイムジャンパー"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "TV Asahi (テレビ朝日)",
+          "id": "1034874547688730624",
+          "name": "TV Asahi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TV Asahi (テレビ朝日)",
+          "id": "1034874547688730624",
+          "name": "TV Asahi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      }
+    ],
+    "conversation_id": "2020102191512686789",
+    "created_at": "2026-02-07T11:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020102191512686789"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "秋山と映画",
+          "probability": 0.7343,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "山田杏奈",
+          "probability": 0.9906,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 124,
+          "normalized_text": "テレビ朝日Cスタアニメフェスタ",
+          "probability": 0.4913,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        },
+        {
+          "end": 106,
+          "id": "1308736751867842560",
+          "start": 93,
+          "username": "akiyamatopan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020102191512686789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020097709462499580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\n『秋山と映画』にて\n「劇場版 僕の心のヤバイやつ」\n山田杏奈役として出演させていただきます。\n\n2月11日(水)深夜放送の番組\n詳細「@akiyamatopan」\n\n「テレビ朝日Cスタアニメフェスタ」に\n参加させていただいたの…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2020075649453682691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjAGbEacAM4xQU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2020075649390772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjAGa1agAANkvW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042029047",
+              "name": "平成タイムジャンパー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2020102191512686789",
+        "created_at": "2026-02-07T11:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020102191512686789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "秋山と映画",
+              "probability": 0.7343,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "山田杏奈",
+              "probability": 0.9906,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 124,
+              "normalized_text": "テレビ朝日Cスタアニメフェスタ",
+              "probability": 0.4913,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            },
+            {
+              "end": 106,
+              "id": "1308736751867842560",
+              "start": 93,
+              "username": "akiyamatopan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020102191512686789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020097709462499580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\n『秋山と映画』にて\n「劇場版 僕の心のヤバイやつ」\n山田杏奈役として出演させていただきます。\n\n2月11日(水)深夜放送の番組\n詳細「@akiyamatopan」\n\n「テレビ朝日Cスタアニメフェスタ」に\n参加させていただいたの…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020075649453682691",
+            "3_2020075649390772224"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10042029047",
+              "name": "平成タイムジャンパー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2020097709462499580",
+        "created_at": "2026-02-07T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020097709462499580"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "秋山と映画",
+              "probability": 0.7346,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "山田杏奈",
+              "probability": 0.991,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 106,
+              "normalized_text": "テレビ朝日Cスタアニメフェスタ",
+              "probability": 0.4415,
+              "start": 92,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 147,
+              "tag": "秋山と映画"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1308736751867842560",
+              "start": 75,
+              "username": "akiyamatopan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/agbEZReFWj",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2020097709462499580/photo/1",
+              "media_key": "3_2020075649453682691",
+              "start": 159,
+              "url": "https://t.co/agbEZReFWj"
+            },
+            {
+              "display_url": "pic.x.com/agbEZReFWj",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2020097709462499580/photo/1",
+              "media_key": "3_2020075649390772224",
+              "start": 159,
+              "url": "https://t.co/agbEZReFWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020097709462499580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 10378,
+          "like_count": 1112,
+          "quote_count": 14,
+          "reply_count": 34,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\n『秋山と映画』にて\n「劇場版 僕の心のヤバイやつ」\n山田杏奈役として出演させていただきます。\n\n2月11日(水)深夜放送の番組\n詳細「@akiyamatopan」\n\n「テレビ朝日Cスタアニメフェスタ」に\n参加させていただいたのですが...\nぜひ、ご覧いただけますと幸いです✨\n\n#秋山と映画 #僕ヤバ https://t.co/agbEZReFWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 552,
+          "like_count": 3182,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 2552
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233042,
+          "following_count": 295,
+          "like_count": 1974,
+          "listed_count": 1702,
+          "media_count": 160,
+          "tweet_count": 1347
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-23T11:55:47.000Z",
+        "description": "水曜深夜24時15分から「ガリベンチャーV」内で月イチ放送している、【秋山と映画】の公式アカウントです。 #秋山と映画 過去にはバラバラ大作戦水曜日 25時56分に【秋山とパン】を放送してました。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 53,
+                "tag": "秋山と映画"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.wikipedia.org/wiki/%E3%83%91…",
+                "end": 23,
+                "expanded_url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3",
+                "start": 0,
+                "url": "https://t.co/6LLfL3ko20"
+              }
+            ]
+          }
+        },
+        "id": "1308736751867842560",
+        "name": "秋山と映画【テレビ朝日公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1308737158836940803/eNU0igLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7730,
+          "following_count": 14,
+          "like_count": 1320,
+          "listed_count": 33,
+          "media_count": 100,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/6LLfL3ko20",
+        "username": "akiyamatopan",
+        "verified": false
+      }
+    ]
+  }
+}

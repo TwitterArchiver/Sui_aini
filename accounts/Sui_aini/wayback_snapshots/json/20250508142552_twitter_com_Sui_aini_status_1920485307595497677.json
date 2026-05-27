@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "1920485307595497677",
+    "created_at": "2025-05-08T14:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920485307595497677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moai0730moai/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/moai0730moai/status/1920094836247687463",
+          "start": 7,
+          "url": "https://t.co/bwvaDuDD5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920485307595497677",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920094836247687463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好看、、、 https://t.co/bwvaDuDD5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1920088343150518272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqWGLM7a4AAI9Yr.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1920485307595497677",
+        "created_at": "2025-05-08T14:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920485307595497677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moai0730moai/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/moai0730moai/status/1920094836247687463",
+              "start": 7,
+              "url": "https://t.co/bwvaDuDD5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920485307595497677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920094836247687463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好看、、、 https://t.co/bwvaDuDD5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920088343150518272"
+          ]
+        },
+        "author_id": "1105707127656464384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1920094836247687463",
+        "created_at": "2025-05-07T12:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920094836247687463"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "げらりんさん",
+              "probability": 0.286,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "げらりん"
+            },
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "げらりん社長"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "Gスタ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1796135976898895872",
+              "start": 35,
+              "username": "nwqllxq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab9dDIO3Nd",
+              "end": 167,
+              "expanded_url": "https://x.com/moai0730moai/status/1920094836247687463/photo/1",
+              "media_key": "3_1920088343150518272",
+              "start": 144,
+              "url": "https://t.co/Ab9dDIO3Nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920094836247687463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1981,
+          "impression_count": 355051,
+          "like_count": 5530,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "2025.5.6 Gスタ moremoreセッション\n\nげらりんさん（@nwqllxq)\n\n172cmでスタイル凄いモデルさん。\nラーメン好きとは思えない・・・\n平日カメラマンとして平日出演助かります！\n\n※掲載確認済              \n\n#げらりん #げらりん社長 #Gスタ https://t.co/Ab9dDIO3Nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 136,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 380
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T05:48:17.000Z",
+        "description": "平日カメラマン。土日は隙を見て行きます📸（なかなか参加できず😭）",
+        "id": "1105707127656464384",
+        "name": "モアイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884389541395718147/j4CCv5wH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 205,
+          "like_count": 6995,
+          "listed_count": 17,
+          "media_count": 304,
+          "tweet_count": 611
+        },
+        "username": "moai0730moai",
+        "verified": false
+      }
+    ]
+  }
+}

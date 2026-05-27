@@ -1,0 +1,672 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2042961400663019859",
+    "created_at": "2026-04-11T13:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042961400663019859"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1123410609922396160",
+          "start": 3,
+          "username": "aoni_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "アニメ、ゲーム、コミック、声優によるリアルライブなど様々なメディアミックスを展開する次世代ガールズバンドプロジェクトBanG Dream!（バンドリ！）公式サイト",
+          "display_url": "bang-dream.com/bsl-taipei2026/",
+          "end": 127,
+          "expanded_url": "https://bang-dream.com/bsl-taipei2026/",
+          "images": [
+            {
+              "height": 418,
+              "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "BanG Dream! Special LIVE in TAIPEI | BanG Dream!（バンドリ！）公式サイト",
+          "unwound_url": "https://bang-dream.com/bsl-taipei2026/",
+          "url": "https://t.co/SDUZFLnjAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042961400663019859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042960504461889917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoni_official: #羊宮妃那\n\n【BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica】\n〈4月11日(土)開催〉\nhttps://t.co/SDUZFLnjAo\n\nご参加頂いた皆様、あ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12913,
+        "height": 3840,
+        "media_key": "13_2042960163725082624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042960163725082624/img/UFGjEtskbSeXX_n6.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/vid/avc1/320x568/mk7ghiBhnzBfJkW6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/pl/sSz13JlNtB32S1M2.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/vid/avc1/1080x1920/SUMXidyCDkJxbT4M.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/vid/avc1/2160x3840/ql5_v22PCuDMCqUv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/vid/avc1/480x852/xPwwxsQpER9tXyd0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042960163725082624/vid/avc1/720x1280/J7y-_gXLb3Ad1UjI.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2042961400663019859",
+        "created_at": "2026-04-11T13:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042961400663019859"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1123410609922396160",
+              "start": 3,
+              "username": "aoni_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ、ゲーム、コミック、声優によるリアルライブなど様々なメディアミックスを展開する次世代ガールズバンドプロジェクトBanG Dream!（バンドリ！）公式サイト",
+              "display_url": "bang-dream.com/bsl-taipei2026/",
+              "end": 127,
+              "expanded_url": "https://bang-dream.com/bsl-taipei2026/",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "BanG Dream! Special LIVE in TAIPEI | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/bsl-taipei2026/",
+              "url": "https://t.co/SDUZFLnjAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042961400663019859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042960504461889917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoni_official: #羊宮妃那\n\n【BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica】\n〈4月11日(土)開催〉\nhttps://t.co/SDUZFLnjAo\n\nご参加頂いた皆様、あ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042960163725082624"
+          ]
+        },
+        "author_id": "1123410609922396160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2042960504461889917",
+        "created_at": "2026-04-11T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042960504461889917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 201,
+              "start": 180,
+              "tag": "BanGDreamLIVE_TAIPEI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ、ゲーム、コミック、声優によるリアルライブなど様々なメディアミックスを展開する次世代ガールズバンドプロジェクトBanG Dream!（バンドリ！）公式サイト",
+              "display_url": "bang-dream.com/bsl-taipei2026/",
+              "end": 108,
+              "expanded_url": "https://bang-dream.com/bsl-taipei2026/",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2041653848058814464/9ik4Wnz3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "BanG Dream! Special LIVE in TAIPEI | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/bsl-taipei2026/",
+              "url": "https://t.co/SDUZFLnjAo"
+            },
+            {
+              "display_url": "pic.x.com/El04SAaLuI",
+              "end": 225,
+              "expanded_url": "https://x.com/aoni_official/status/2042960504461889917/video/1",
+              "media_key": "13_2042960163725082624",
+              "start": 202,
+              "url": "https://t.co/El04SAaLuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042960504461889917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 201,
+                "start": 180,
+                "tag": "BanGDreamLIVE_TAIPEI"
+              },
+              {
+                "end": 216,
+                "start": 202,
+                "tag": "moment_memory"
+              },
+              {
+                "end": 222,
+                "start": 217,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 228,
+                "start": 223,
+                "tag": "MyGO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream.com/bsl-taipei2026/",
+                "end": 108,
+                "expanded_url": "https://bang-dream.com/bsl-taipei2026/",
+                "start": 85,
+                "url": "https://t.co/O6d4v6lj0y"
+              }
+            ]
+          },
+          "text": "#羊宮妃那\n\n【BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica】\n〈4月11日(土)開催〉\nhttps://t.co/O6d4v6lj0y\n\nご参加頂いた皆様、ありがとうございました！\n高松燈役の羊宮妃那が出演！\n優しい雨がぱらぱらと降り注いだ、屋外ならではの公演となりました♪\n\n#BanGDreamLIVE_TAIPEI\n#moment_memory\n#バンドリ #MyGO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1015,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "#羊宮妃那\n\n【BanG Dream! Special LIVE in TAIPEI DAY1 : MyGO!!!!!×Ave Mujica】\n〈4月11日(土)開催〉\nhttps://t.co/SDUZFLnjAo\n\nご参加頂いた皆様、ありがとうございました！\n高松燈役の羊宮妃那が出演！\n優しい雨がぱらぱらと降り注いだ、屋外ならではの公演となりました♪\n\n#BanGDreamLIVE_TAIPEI https://t.co/El04SAaLuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 654,
+          "like_count": 4250,
+          "listed_count": 5,
+          "media_count": 463,
+          "tweet_count": 3336
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T02:15:36.000Z",
+        "description": "青二プロダクション公式アカウントです。 最新の出演情報やイベント情報を発信します。 お仕事のご依頼はホームページの出演依頼フォームよりお願い致します。 個別でのお問い合わせはご対応致しかねますのでご了承ください。 画像・動画の無断転載はご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp",
+                "start": 0,
+                "url": "https://t.co/it9fWGQWSD"
+              }
+            ]
+          }
+        },
+        "id": "1123410609922396160",
+        "location": "港区北青山3丁目",
+        "name": "青二プロダクション【公式】",
+        "pinned_tweet_id": "2039182648145486026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128237738283552768/ZubwDNHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171074,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 1389,
+          "media_count": 6561,
+          "tweet_count": 9900
+        },
+        "url": "https://t.co/it9fWGQWSD",
+        "username": "aoni_official",
+        "verified": false
+      }
+    ]
+  }
+}

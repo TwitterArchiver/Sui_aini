@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2057819133274993134",
+    "created_at": "2026-05-22T16:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057855025976861025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1428978694861692934",
+          "start": 0,
+          "username": "As145wRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057855025976861025",
+    "in_reply_to_user_id": "1428978694861692934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057852850366243171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@As145wRt 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2057819133274993134",
+        "created_at": "2026-05-22T16:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057855025976861025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1428978694861692934",
+              "start": 0,
+              "username": "As145wRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057855025976861025",
+        "in_reply_to_user_id": "1428978694861692934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057852850366243171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@As145wRt 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428978694861692934",
+        "conversation_id": "2057819133274993134",
+        "created_at": "2026-05-22T15:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057852850366243171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Are you shadowbanned on Twitter?",
+              "display_url": "shadowban.yuzurisa.com",
+              "end": 57,
+              "expanded_url": "https://shadowban.yuzurisa.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2057331608131436544/VW_VnPFL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057331608131436544/VW_VnPFL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "Twitter Shadowban Test",
+              "unwound_url": "https://shadowban.yuzurisa.com/",
+              "url": "https://t.co/FEVo7iNzpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057852850366243171",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057819133274993134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 近期回复比较频繁可能会，可以用这个网站自测一下：https://t.co/FEVo7iNzpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /我还是会在特定时间段做那件事的，退推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2057552346595639620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 748,
+          "like_count": 5261,
+          "listed_count": 5,
+          "media_count": 581,
+          "tweet_count": 4618
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T07:14:27.000Z",
+        "description": "是一只小狼龙，推止于推，你可能看到：擦边，日常，吐槽，常住天津，😋可以约我出来吃饭或者出来玩，😘扩列请私讯我或者给我tg发讯息啦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rt145w",
+                "end": 23,
+                "expanded_url": "https://t.me/Rt145w",
+                "start": 0,
+                "url": "https://t.co/XwfRU09VVC"
+              }
+            ]
+          }
+        },
+        "id": "1428978694861692934",
+        "location": "145w Area",
+        "name": "Roton络通",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965775649446240256/BVVypgi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 103,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/XwfRU09VVC",
+        "username": "As145wRt",
+        "verified": false
+      }
+    ]
+  }
+}

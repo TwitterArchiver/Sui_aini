@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2027380432011153409"
+      ],
+      "media_source_tweet_id": [
+        "2027380453527924858"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2027560668984185230",
+    "created_at": "2026-02-28T01:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027560668984185230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "853320514227511296",
+          "start": 3,
+          "username": "eib1239"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCkNCSROI0",
+          "end": 61,
+          "expanded_url": "https://x.com/eib1239/status/2027380453527924858/photo/1",
+          "media_key": "16_2027380432011153409",
+          "start": 38,
+          "url": "https://t.co/NCkNCSROI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027560668984185230",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027380453527924858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eib1239: 밍이 느낀 별의 고동은 어떤 느낌이었을까🌌🌟 https://t.co/NCkNCSROI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "16_2027380432011153409",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCKzwuqaUAEvbAu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCKzwuqaUAEvbAu.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2027380432011153409"
+          ],
+          "media_source_tweet_id": [
+            "2027380453527924858"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2027560668984185230",
+        "created_at": "2026-02-28T01:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027560668984185230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "853320514227511296",
+              "start": 3,
+              "username": "eib1239"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCkNCSROI0",
+              "end": 61,
+              "expanded_url": "https://x.com/eib1239/status/2027380453527924858/photo/1",
+              "media_key": "16_2027380432011153409",
+              "start": 38,
+              "url": "https://t.co/NCkNCSROI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027560668984185230",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027380453527924858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eib1239: 밍이 느낀 별의 고동은 어떤 느낌이었을까🌌🌟 https://t.co/NCkNCSROI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2027380432011153409"
+          ]
+        },
+        "author_id": "853320514227511296",
+        "conversation_id": "2027380453527924858",
+        "created_at": "2026-02-27T13:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027380453527924858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCkNCSROI0",
+              "end": 48,
+              "expanded_url": "https://x.com/eib1239/status/2027380453527924858/photo/1",
+              "media_key": "16_2027380432011153409",
+              "start": 25,
+              "url": "https://t.co/NCkNCSROI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027380453527924858",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 1989,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "밍이 느낀 별의 고동은 어떤 느낌이었을까🌌🌟 https://t.co/NCkNCSROI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 585,
+          "like_count": 3579,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 2953
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-15T18:53:59.000Z",
+        "description": "エイブル // こめつぶ🍚",
+        "id": "853320514227511296",
+        "name": "EiB",
+        "pinned_tweet_id": "1739195657544753631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599424354580041732/bJsgcYy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 10,
+          "like_count": 9648,
+          "listed_count": 5,
+          "media_count": 3630,
+          "tweet_count": 5027
+        },
+        "username": "eib1239",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2038630807959732253",
+    "created_at": "2026-03-30T14:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038630807959732253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2034973264699891899",
+          "start": 7,
+          "url": "https://t.co/uBzzijOP4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038630807959732253",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034973264699891899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又遇到ta了 https://t.co/uBzzijOP4k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2038630807959732253",
+        "created_at": "2026-03-30T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038630807959732253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2034973264699891899",
+              "start": 7,
+              "url": "https://t.co/uBzzijOP4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038630807959732253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034973264699891899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又遇到ta了 https://t.co/uBzzijOP4k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2034973264699891899",
+        "created_at": "2026-03-20T12:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034973264699891899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034973264699891899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4426,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次去麦当劳都能在角落里看到一个带着五六个大瓶矿泉水的年轻人，不管是下午还是晚上还是凌晨都会固定刷新到角落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 643,
+          "like_count": 4009,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 3262
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946989730614198272"
+      ],
+      "media_source_tweet_id": [
+        "1946989733521055921"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947564852207358031",
+    "created_at": "2025-07-22T07:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T08:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947564852207358031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1454458761377157129",
+          "start": 3,
+          "username": "tammy3763"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vb8mx4UWvC",
+          "end": 42,
+          "expanded_url": "https://x.com/tammy3763/status/1946989733521055921/photo/1",
+          "media_key": "3_1946989730614198272",
+          "start": 19,
+          "url": "https://t.co/vb8mx4UWvC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947564852207358031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946989733521055921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tammy3763: 哈基猫 https://t.co/vb8mx4UWvC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947564852207358031].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947564852207358031",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947564852207358031"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1946989730614198272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwUY2CqXwAA9kGh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946989730614198272"
+          ]
+        },
+        "author_id": "1454458761377157129",
+        "conversation_id": "1946989733521055921",
+        "created_at": "2025-07-20T17:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946989733521055921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vb8mx4UWvC",
+              "end": 27,
+              "expanded_url": "https://x.com/tammy3763/status/1946989733521055921/photo/1",
+              "media_key": "3_1946989730614198272",
+              "start": 4,
+              "url": "https://t.co/vb8mx4UWvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946989733521055921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈基猫 https://t.co/vb8mx4UWvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 480,
+          "like_count": 1900,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 1647
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T14:42:58.000Z",
+        "description": "05持证含糖mtf🏳‍⚧/ 第一颗糖2022.1.10/已出柜 在校女大  不建政！是清水推！！！",
+        "id": "1454458761377157129",
+        "location": "巧克力星球",
+        "name": "巧克力🍫🏳‍⚧",
+        "pinned_tweet_id": "1872310298952307013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899473668759027712/vm65mExh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 467,
+          "like_count": 14652,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 3680
+        },
+        "username": "tammy3763",
+        "verified": false
+      }
+    ]
+  }
+}

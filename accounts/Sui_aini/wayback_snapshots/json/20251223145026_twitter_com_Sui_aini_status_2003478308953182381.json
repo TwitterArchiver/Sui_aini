@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2003175833113100290"
+      ],
+      "media_source_tweet_id": [
+        "2003176968599302183"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2003478308953182381",
+    "created_at": "2025-12-23T14:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T15:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003478308953182381"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "羊宮妃那さん",
+          "probability": 0.2205,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902692835004153856",
+          "start": 3,
+          "username": "n092tS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDYNZcPk3W",
+          "end": 68,
+          "expanded_url": "https://x.com/n092tS/status/2003176968599302183/photo/1",
+          "media_key": "16_2003175833113100290",
+          "start": 45,
+          "url": "https://t.co/CDYNZcPk3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003478308953182381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003176968599302183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n092tS: 羊宮妃那さんは自分がかわいいことを自覚していそうなところが推せる https://t.co/CDYNZcPk3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_2003175833113100290",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8y1zpNagAIdfOA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8y1zpNagAIdfOA.mp4"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2003175833113100290"
+          ],
+          "media_source_tweet_id": [
+            "2003176968599302183"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2003478308953182381",
+        "created_at": "2025-12-23T14:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T15:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003478308953182381"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2205,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902692835004153856",
+              "start": 3,
+              "username": "n092tS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDYNZcPk3W",
+              "end": 68,
+              "expanded_url": "https://x.com/n092tS/status/2003176968599302183/photo/1",
+              "media_key": "16_2003175833113100290",
+              "start": 45,
+              "url": "https://t.co/CDYNZcPk3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003478308953182381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003176968599302183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n092tS: 羊宮妃那さんは自分がかわいいことを自覚していそうなところが推せる https://t.co/CDYNZcPk3W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2003175833113100290"
+          ]
+        },
+        "author_id": "1902692835004153856",
+        "conversation_id": "2003176968599302183",
+        "created_at": "2025-12-22T18:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T19:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003176968599302183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2989,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDYNZcPk3W",
+              "end": 56,
+              "expanded_url": "https://x.com/n092tS/status/2003176968599302183/photo/1",
+              "media_key": "16_2003175833113100290",
+              "start": 33,
+              "url": "https://t.co/CDYNZcPk3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003176968599302183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 36810,
+          "like_count": 933,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "羊宮妃那さんは自分がかわいいことを自覚していそうなところが推せる https://t.co/CDYNZcPk3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 528,
+          "like_count": 2839,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2285
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:05:03.000Z",
+        "description": "小倉唯ちゃんが大好きです。\n唯のことが好きだから！一生かけて守りたい！！尊い・愛しい・LOVE MAX!!!! 唯がいるだけでSo☆Lucky！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/yui_yui815/arc…",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/yui_yui815/archives/1082417801.html",
+                "start": 0,
+                "url": "https://t.co/ILcIkaHhFl"
+              }
+            ]
+          }
+        },
+        "id": "1902692835004153856",
+        "location": "#女性声優の顔推し",
+        "name": "たっくん",
+        "pinned_tweet_id": "1995145862918594798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902693304099303424/Y0WPd4I1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7149,
+          "following_count": 117,
+          "like_count": 901,
+          "listed_count": 30,
+          "media_count": 1235,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/ILcIkaHhFl",
+        "username": "n092tS",
+        "verified": false
+      }
+    ]
+  }
+}

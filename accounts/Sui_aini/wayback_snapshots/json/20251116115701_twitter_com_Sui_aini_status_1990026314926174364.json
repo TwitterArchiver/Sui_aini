@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1990026314926174364",
+    "created_at": "2025-11-16T11:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990026314926174364"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "藤寺美徳"
+        },
+        {
+          "end": 111,
+          "start": 106,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1888758987325353984",
+          "start": 3,
+          "username": "tamahoshi_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990026314926174364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 778
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989891183405834509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamahoshi_anime: ═══🍀&gt;⭐️&lt;🍀═══\n太陽よりも眩しい星\nラジオ第2回放送記念\nフォロー＆RPキャンペーン\n═══🍀&gt;⭐️&lt;🍀═══\n\n☀️#藤寺美徳 さん #羊宮妃那 さんサイン入り\n非売品ポスターを抽選で3名様に🎁\n\n🍀応募方法\n① @tama…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1989149238211801091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rgsXTacAMXKSi.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1990026314926174364",
+        "created_at": "2025-11-16T11:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990026314926174364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "藤寺美徳"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1888758987325353984",
+              "start": 3,
+              "username": "tamahoshi_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990026314926174364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 778
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989891183405834509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamahoshi_anime: ═══🍀&gt;⭐️&lt;🍀═══\n太陽よりも眩しい星\nラジオ第2回放送記念\nフォロー＆RPキャンペーン\n═══🍀&gt;⭐️&lt;🍀═══\n\n☀️#藤寺美徳 さん #羊宮妃那 さんサイン入り\n非売品ポスターを抽選で3名様に🎁\n\n🍀応募方法\n① @tama…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989149238211801091"
+          ]
+        },
+        "author_id": "1888758987325353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A radio station like Z-100",
+              "id": "90",
+              "name": "Radio Station"
+            },
+            "entity": {
+              "id": "1321556636184453120",
+              "name": "TBS Radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tokyo Broadcasting System Television (TBSテレビ)",
+              "id": "1034890409514655745",
+              "name": "Tokyo Broadcasting System Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321556636184453120",
+              "name": "TBS Radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751882737819649",
+              "name": "Radio stations"
+            }
+          }
+        ],
+        "conversation_id": "1989891183405834509",
+        "created_at": "2025-11-16T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989891183405834509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "藤寺美徳"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 141,
+              "id": "1888758987325353984",
+              "start": 125,
+              "username": "tamahoshi_anime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyIXS2muO0",
+              "end": 206,
+              "expanded_url": "https://x.com/tamahoshi_anime/status/1989891183405834509/photo/1",
+              "media_key": "3_1989149238211801091",
+              "start": 183,
+              "url": "https://t.co/IyIXS2muO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989891183405834509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 14946,
+          "like_count": 454,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 778
+        },
+        "reply_settings": "everyone",
+        "text": "═══🍀&gt;⭐️&lt;🍀═══\n太陽よりも眩しい星\nラジオ第2回放送記念\nフォロー＆RPキャンペーン\n═══🍀&gt;⭐️&lt;🍀═══\n\n☀️#藤寺美徳 さん #羊宮妃那 さんサイン入り\n非売品ポスターを抽選で3名様に🎁\n\n🍀応募方法\n① @tamahoshi_animeをフォロー\n②この投稿をRP\n\n毎週木曜よる11時56分からTBS系28局にて放送 https://t.co/IyIXS2muO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 525,
+          "like_count": 2647,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2123
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T01:17:28.000Z",
+        "description": "2025年10月2日(木)よる11時56分からTBS系28局にて全国同時放送開始！『太陽よりも眩しい星』アニメ公式アカウント｜原作：#河原和音 （集英社「別冊マーガレット」連載中）｜推奨ハッシュタグ： #太陽よりも眩しい星　#たまほし\nHP：https://t.co/HDIIRyKwk6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 66,
+                "tag": "河原和音"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "太陽よりも眩しい星"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "たまほし"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tamahoshi-anime.com",
+                "end": 144,
+                "expanded_url": "https://tamahoshi-anime.com",
+                "start": 121,
+                "url": "https://t.co/HDIIRyKwk6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tamahoshi-anime.com",
+                "end": 23,
+                "expanded_url": "https://tamahoshi-anime.com",
+                "start": 0,
+                "url": "https://t.co/HDIIRyKwk6"
+              }
+            ]
+          }
+        },
+        "id": "1888758987325353984",
+        "location": "札幌市",
+        "name": "『太陽よりも眩しい星』TVアニメ公式 | 10月2日(木)よる11時56分からTBS系28局にて放送",
+        "pinned_tweet_id": "1976308169648296191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914967555334447104/7cCDuFR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10450,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 103,
+          "media_count": 181,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/HDIIRyKwk6",
+        "username": "tamahoshi_anime",
+        "verified": true
+      }
+    ]
+  }
+}

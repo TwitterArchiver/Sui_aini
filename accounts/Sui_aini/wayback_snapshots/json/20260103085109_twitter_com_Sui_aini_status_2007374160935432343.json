@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2007374160935432343",
+    "created_at": "2026-01-03T08:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007374160935432343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897600527581822977",
+          "start": 3,
+          "username": "aruguchieshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007374160935432343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007005168098066794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @aruguchieshi: 投稿した写真を勝手にエロ加工しないでくれと主張している女性コスプレイヤーへのリプ引用を見れば、生成AIユーザーの平均的な倫理観が理解出来ると思う。\nあの暴言は底じゃない、平均。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007374160935432343",
+        "created_at": "2026-01-03T08:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007374160935432343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897600527581822977",
+              "start": 3,
+              "username": "aruguchieshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007374160935432343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007005168098066794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @aruguchieshi: 投稿した写真を勝手にエロ加工しないでくれと主張している女性コスプレイヤーへのリプ引用を見れば、生成AIユーザーの平均的な倫理観が理解出来ると思う。\nあの暴言は底じゃない、平均。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897600527581822977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007005168098066794",
+        "created_at": "2026-01-02T08:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007005168098066794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007005168098066794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 344,
+          "impression_count": 499690,
+          "like_count": 8752,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 1549
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "投稿した写真を勝手にエロ加工しないでくれと主張している女性コスプレイヤーへのリプ引用を見れば、生成AIユーザーの平均的な倫理観が理解出来ると思う。\nあの暴言は底じゃない、平均。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 532,
+          "like_count": 2919,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2330
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:50:34.000Z",
+        "description": "プロ絵師です。『権利問題を抱える現状の無断生成AI』に規制を求めています。ヲチの為にフォローしているアカウントもあります。議論は求めていません。フォロー非推奨。鍵垢はブロックします。",
+        "id": "1897600527581822977",
+        "name": "絵師の愚痴垢",
+        "pinned_tweet_id": "1897986848523534633",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 106,
+          "like_count": 24252,
+          "listed_count": 11,
+          "media_count": 0,
+          "tweet_count": 4455
+        },
+        "username": "aruguchieshi",
+        "verified": false
+      }
+    ]
+  }
+}

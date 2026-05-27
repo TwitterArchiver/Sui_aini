@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1953147790038876346",
+    "created_at": "2025-08-06T17:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T18:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953147790038876346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PinkNews/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/PinkNews/status/1952336739856531461",
+          "start": 10,
+          "url": "https://t.co/fJxFnm7n3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953147790038876346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952336739856531461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你统计了你马勒戈壁 https://t.co/fJxFnm7n3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A crowd holding a flag showing both the rainbow pride flag and the Chinese flag, with the headline: More than half of Chinese citizens support LGBTQ+ rights, poll suggests\n",
+        "height": 1350,
+        "media_key": "3_1952336718700404736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgX5tgW4AAx5pB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1953147790038876346",
+        "created_at": "2025-08-06T17:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953147790038876346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkNews/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/PinkNews/status/1952336739856531461",
+              "start": 10,
+              "url": "https://t.co/fJxFnm7n3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953147790038876346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952336739856531461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你统计了你马勒戈壁 https://t.co/fJxFnm7n3S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952336718700404736"
+          ]
+        },
+        "author_id": "27987687",
+        "conversation_id": "1952336739856531461",
+        "created_at": "2025-08-04T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952336739856531461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "LGBTQ+",
+              "probability": 0.9294,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A poll from the Williams Institute has found over half of China's population supports LGBTQ+ rights, despite the country's restrictive laws",
+              "display_url": "bit.ly/46Bj5l9",
+              "end": 98,
+              "expanded_url": "http://bit.ly/46Bj5l9",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1952336742477955072/0smM-sW8?format=jpg&name=orig",
+                  "width": 1996
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952336742477955072/0smM-sW8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "More than half of Chinese citizens support LGBTQ+ rights, poll suggests",
+              "unwound_url": "https://www.thepinknews.com/2025/08/04/china-lgbtq-rights-population-poll/",
+              "url": "https://t.co/iu5XlqR5mK"
+            },
+            {
+              "display_url": "pic.x.com/XLoKITW7Ih",
+              "end": 122,
+              "expanded_url": "https://x.com/PinkNews/status/1952336739856531461/photo/1",
+              "media_key": "3_1952336718700404736",
+              "start": 99,
+              "url": "https://t.co/XLoKITW7Ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952336739856531461",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 63142,
+          "like_count": 1334,
+          "quote_count": 81,
+          "reply_count": 93,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "More than half of Chinese citizens support LGBTQ+ rights, poll suggests ➡️ https://t.co/iu5XlqR5mK https://t.co/XLoKITW7Ih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 498,
+          "like_count": 2101,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 1830
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-31T23:01:38.000Z",
+        "description": "World’s most read & watched LGBTQ+ digital media publisher. Snapchat: PinkNews.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thepinknews.com",
+                "end": 23,
+                "expanded_url": "http://www.thepinknews.com",
+                "start": 0,
+                "url": "https://t.co/tqtG4UmDTu"
+              }
+            ]
+          }
+        },
+        "id": "27987687",
+        "location": "Global",
+        "name": "PinkNews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875364846258225152/IlI2URdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304424,
+          "following_count": 1350,
+          "like_count": 5110,
+          "listed_count": 2648,
+          "media_count": 47004,
+          "tweet_count": 296456
+        },
+        "url": "https://t.co/tqtG4UmDTu",
+        "username": "PinkNews",
+        "verified": true
+      }
+    ]
+  }
+}

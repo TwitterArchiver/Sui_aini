@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1965672848326099241",
+    "created_at": "2025-09-10T07:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965672848326099241"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "羊宮妃那さん",
+          "probability": 0.2149,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "羊さん",
+          "probability": 0.2425,
+          "start": 42,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "羊宮さん",
+          "probability": 0.4093,
+          "start": 66,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 122,
+          "start": 114,
+          "tag": "ひつじさんの夢"
+        },
+        {
+          "end": 128,
+          "start": 124,
+          "tag": "声グラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104074131",
+          "start": 3,
+          "username": "seigura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965672848326099241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 227
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965626303929065982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seigura: 声優グランプリ10月号は本日発売💟\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「悪夢」の中へ。\n羊宮さんも、たくさん苦手なものや怖いものがあるらしく……。いったい何でしょうか？👻🕸\n#羊宮妃那 #ひつじさんの夢  #声グラ \nhttps://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1965625523608190977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0dN_9gbgAEJAx-.jpg",
+        "width": 546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1965672848326099241",
+        "created_at": "2025-09-10T07:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965672848326099241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2149,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "羊さん",
+              "probability": 0.2425,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4093,
+              "start": 66,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 122,
+              "start": 114,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "声グラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104074131",
+              "start": 3,
+              "username": "seigura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965672848326099241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965626303929065982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seigura: 声優グランプリ10月号は本日発売💟\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「悪夢」の中へ。\n羊宮さんも、たくさん苦手なものや怖いものがあるらしく……。いったい何でしょうか？👻🕸\n#羊宮妃那 #ひつじさんの夢  #声グラ \nhttps://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965625523608190977"
+          ]
+        },
+        "author_id": "104074131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1965626303929065982",
+        "created_at": "2025-09-10T04:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965626303929065982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "羊宮妃那さん",
+              "probability": 0.2307,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "羊さん",
+              "probability": 0.2285,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "羊宮さん",
+              "probability": 0.4174,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 109,
+              "start": 101,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "声グラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "seigura.com/news/160642/",
+              "end": 140,
+              "expanded_url": "https://seigura.com/news/160642/",
+              "start": 117,
+              "status": 404,
+              "unwound_url": "https://seigura.com/news/160642/",
+              "url": "https://t.co/Dm2DgqQwqs"
+            },
+            {
+              "display_url": "pic.x.com/GytocLqQCa",
+              "end": 164,
+              "expanded_url": "https://x.com/seigura/status/1965626303929065982/photo/1",
+              "media_key": "3_1965625523608190977",
+              "start": 141,
+              "url": "https://t.co/GytocLqQCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965626303929065982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 26203,
+          "like_count": 1170,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "声優グランプリ10月号は本日発売💟\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「悪夢」の中へ。\n羊宮さんも、たくさん苦手なものや怖いものがあるらしく……。いったい何でしょうか？👻🕸\n#羊宮妃那 #ひつじさんの夢  #声グラ \nhttps://t.co/Dm2DgqQwqs https://t.co/GytocLqQCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 504,
+          "like_count": 2268,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 1931
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-12T04:59:16.000Z",
+        "description": "創刊30周年のNo.1月刊声優誌『声優グランプリ』(声グラ：せいぐら)公式です。 毎月10日発売！ #声グラ\nonline shopインフォスクエア🛒https://t.co/slpP7MAu61\n撮り下ろし写真販売「声グラ+」https://t.co/8LFdloPuX2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "声グラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosquare.shop",
+                "end": 98,
+                "expanded_url": "https://infosquare.shop/",
+                "start": 75,
+                "url": "https://t.co/slpP7MAu61"
+              },
+              {
+                "display_url": "emii.photo/seigura/",
+                "end": 137,
+                "expanded_url": "https://emii.photo/seigura/",
+                "start": 114,
+                "url": "https://t.co/8LFdloPuX2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seigura.com",
+                "end": 23,
+                "expanded_url": "https://seigura.com/",
+                "start": 0,
+                "url": "https://t.co/c0lvETCJcL"
+              }
+            ]
+          }
+        },
+        "id": "104074131",
+        "location": "東京 神保町",
+        "name": "声優グランプリ＠30周年",
+        "pinned_tweet_id": "1963150244046365147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006424390072877061/10gftBES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208754,
+          "following_count": 1948,
+          "like_count": 8066,
+          "listed_count": 1922,
+          "media_count": 9575,
+          "tweet_count": 30487
+        },
+        "url": "https://t.co/c0lvETCJcL",
+        "username": "seigura",
+        "verified": true
+      }
+    ]
+  }
+}

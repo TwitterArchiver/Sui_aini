@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2048005555776798843",
+    "created_at": "2026-04-25T11:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048005555776798843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wodanggangqian…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/wodanggangqiang/status/2047989626426839443",
+          "start": 12,
+          "url": "https://t.co/eP3OenDXm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048005555776798843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047989626426839443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不懂就问，这是爱男吗? https://t.co/eP3OenDXm4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047989357152530433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvreDjbcAEJNB8.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2048005555776798843",
+        "created_at": "2026-04-25T11:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048005555776798843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2047989626426839443",
+              "start": 12,
+              "url": "https://t.co/eP3OenDXm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048005555776798843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047989626426839443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不懂就问，这是爱男吗? https://t.co/eP3OenDXm4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047989357152530433"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2047989626426839443",
+        "created_at": "2026-04-25T10:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047989626426839443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z01RfJGbtM",
+              "end": 81,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2047989626426839443/photo/1",
+              "media_key": "3_2047989357152530433",
+              "start": 58,
+              "url": "https://t.co/Z01RfJGbtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047989626426839443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1135,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已经收到这张图片了，不管她之前是怎样的，单就禁烟这件事，我是支持她的，她爱男会有自己的报应，先解决了这件事再说。 https://t.co/Z01RfJGbtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 683,
+          "like_count": 4512,
+          "listed_count": 6,
+          "media_count": 503,
+          "tweet_count": 3631
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28435,
+          "following_count": 563,
+          "like_count": 34940,
+          "listed_count": 90,
+          "media_count": 9915,
+          "tweet_count": 27106
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2007395706139705640",
+    "created_at": "2026-01-03T10:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007395706139705640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "拡散"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929467978665672704",
+          "start": 3,
+          "username": "farrakh_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007395706139705640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 829
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007087266792079414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @farrakh_cos: ⚠️今grokを使ったコスプレイヤー様を標的とした無断AI生成騒動が起こってます⚠️\nチャッピーの力も借りつつ、微力ながらレイヤー様が少しでも安心して活動できるように「大前提の話」、「 対処法」、「対策法」をまとめてみましたので良ければ #拡散…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2007087261381488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qbOu_a8AAvvO7.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007395706139705640",
+        "created_at": "2026-01-03T10:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007395706139705640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "拡散"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929467978665672704",
+              "start": 3,
+              "username": "farrakh_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007395706139705640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 829
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007087266792079414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @farrakh_cos: ⚠️今grokを使ったコスプレイヤー様を標的とした無断AI生成騒動が起こってます⚠️\nチャッピーの力も借りつつ、微力ながらレイヤー様が少しでも安心して活動できるように「大前提の話」、「 対処法」、「対策法」をまとめてみましたので良ければ #拡散…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007087261381488640"
+          ]
+        },
+        "author_id": "1929467978665672704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2007087266792079414",
+        "created_at": "2026-01-02T13:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007087266792079414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "拡散"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9JvErKAn8",
+              "end": 177,
+              "expanded_url": "https://x.com/farrakh_cos/status/2007087266792079414/photo/1",
+              "media_key": "3_2007087261381488640",
+              "start": 154,
+              "url": "https://t.co/P9JvErKAn8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007087266792079414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 76660,
+          "like_count": 1162,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 829
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️今grokを使ったコスプレイヤー様を標的とした無断AI生成騒動が起こってます⚠️\nチャッピーの力も借りつつ、微力ながらレイヤー様が少しでも安心して活動できるように「大前提の話」、「 対処法」、「対策法」をまとめてみましたので良ければ #拡散 ご協力お願いします🙇🏻‍♀️\n\n１／４[ 大前提の話 ]⬇️ https://t.co/P9JvErKAn8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 533,
+          "like_count": 2928,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2338
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T09:20:04.000Z",
+        "description": "Cosplayer🔰｜メイク歴＝コス歴￤🌈🕒メイン｜無言Ｆ失｜17↑まだまだ未熟な学生｜🗝 @Farrakh_sub｜お別れはブロ解で👋｜リトリン必読 https://t.co/fBv7i7zQAf￤最近はｸﾞﾉｰｼｱにお熱です❤️‍🔥｜AI生成、無断転載禁止👮🚨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Farrakh_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/farkh",
+                "end": 99,
+                "expanded_url": "https://lit.link/farkh",
+                "start": 76,
+                "url": "https://t.co/fBv7i7zQAf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y0jr6gwnujw2jb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/y0jr6gwnujw2jb5?t=4hN0KR&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5Pd7AcMqEd"
+              }
+            ]
+          }
+        },
+        "id": "1929467978665672704",
+        "location": "東海生息中",
+        "name": "ふぁるふ",
+        "pinned_tweet_id": "2007087266792079414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007374426745233409/riJ6B3Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 1475,
+          "like_count": 14237,
+          "listed_count": 37,
+          "media_count": 236,
+          "tweet_count": 9858
+        },
+        "url": "https://t.co/5Pd7AcMqEd",
+        "username": "farrakh_cos",
+        "verified": false
+      }
+    ]
+  }
+}

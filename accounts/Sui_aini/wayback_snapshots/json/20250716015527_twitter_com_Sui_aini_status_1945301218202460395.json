@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1945134722667188602",
+    "created_at": "2025-07-16T01:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T02:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945301218202460395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1746693860208844800",
+          "start": 0,
+          "username": "P2xL7eN9vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945301218202460395",
+    "in_reply_to_user_id": "1746693860208844800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945134722667188602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@P2xL7eN9vA 没有的哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945134722667188602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945134722667188602",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945134722667188602"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1945134722667188602",
+        "created_at": "2025-07-16T01:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T02:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945301218202460395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746693860208844800",
+              "start": 0,
+              "username": "P2xL7eN9vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945301218202460395",
+        "in_reply_to_user_id": "1746693860208844800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945134722667188602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P2xL7eN9vA 没有的哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 461,
+          "like_count": 1709,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1522
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T00:41:03.000Z",
+        "description": "",
+        "id": "1746693860208844800",
+        "name": "M",
+        "pinned_tweet_id": "1937576215281565905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944585444353843200/upTi3WXS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 38,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 115
+        },
+        "username": "P2xL7eN9vA",
+        "verified": false
+      }
+    ]
+  }
+}

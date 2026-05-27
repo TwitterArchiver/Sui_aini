@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929520111888879616"
+      ],
+      "media_source_tweet_id": [
+        "1929520121594196217"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1929569341420265700",
+    "created_at": "2025-06-02T16:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T17:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929569341420265700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579313734861799424",
+          "start": 3,
+          "username": "evenf1224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30Og41Ujui",
+          "end": 58,
+          "expanded_url": "https://x.com/evenf1224/status/1929520121594196217/photo/1",
+          "media_key": "3_1929520111888879616",
+          "start": 35,
+          "url": "https://t.co/30Og41Ujui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929569341420265700",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929520121594196217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evenf1224: #ガルクラ\n#GirlsBandCry https://t.co/30Og41Ujui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929520111888879616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GscIUZgb0AAaQun.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929520111888879616"
+          ],
+          "media_source_tweet_id": [
+            "1929520121594196217"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1929569341420265700",
+        "created_at": "2025-06-02T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929569341420265700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579313734861799424",
+              "start": 3,
+              "username": "evenf1224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Og41Ujui",
+              "end": 58,
+              "expanded_url": "https://x.com/evenf1224/status/1929520121594196217/photo/1",
+              "media_key": "3_1929520111888879616",
+              "start": 35,
+              "url": "https://t.co/30Og41Ujui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929569341420265700",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929520121594196217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evenf1224: #ガルクラ\n#GirlsBandCry https://t.co/30Og41Ujui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929520111888879616"
+          ]
+        },
+        "author_id": "1579313734861799424",
+        "conversation_id": "1929520121594196217",
+        "created_at": "2025-06-02T12:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929520121594196217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 19,
+              "start": 6,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Og41Ujui",
+              "end": 43,
+              "expanded_url": "https://x.com/evenf1224/status/1929520121594196217/photo/1",
+              "media_key": "3_1929520111888879616",
+              "start": 20,
+              "url": "https://t.co/30Og41Ujui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929520121594196217",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 5679,
+          "like_count": 625,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ\n#GirlsBandCry https://t.co/30Og41Ujui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 328,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 852
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T03:31:59.000Z",
+        "description": "=啊慌｜20 ↑ chinese｜中國語/English｜🈲Ai/無断轉載谢谢你的喜欢(*≧ω≦)!",
+        "id": "1579313734861799424",
+        "name": "啊慌EvenF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829551557697794048/iA97u64H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 64,
+          "like_count": 425,
+          "listed_count": 9,
+          "media_count": 112,
+          "tweet_count": 200
+        },
+        "username": "evenf1224",
+        "verified": false
+      }
+    ]
+  }
+}

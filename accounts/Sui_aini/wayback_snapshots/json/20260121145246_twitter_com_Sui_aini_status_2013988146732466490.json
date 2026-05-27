@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2013988146732466490",
+    "created_at": "2026-01-21T14:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013988146732466490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NGNGVXX/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/NGNGVXX/status/2013277641798025414",
+          "start": 11,
+          "url": "https://t.co/7hHBjF8paz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013988146732466490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013277641798025414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别搬微博了，太没品了 https://t.co/7hHBjF8paz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2013988146732466490",
+        "created_at": "2026-01-21T14:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013988146732466490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2013277641798025414",
+              "start": 11,
+              "url": "https://t.co/7hHBjF8paz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013988146732466490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013277641798025414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别搬微博了，太没品了 https://t.co/7hHBjF8paz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2013277641798025414",
+        "created_at": "2026-01-19T15:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013277641798025414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013277641798025414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 170348,
+          "like_count": 2077,
+          "quote_count": 18,
+          "reply_count": 48,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很怕社会化程度很高的成年人。\n他们很会霸凌有灵魂的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 548,
+          "like_count": 3072,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2419
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5385,
+          "following_count": 5,
+          "like_count": 907,
+          "listed_count": 13,
+          "media_count": 58,
+          "tweet_count": 1115
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

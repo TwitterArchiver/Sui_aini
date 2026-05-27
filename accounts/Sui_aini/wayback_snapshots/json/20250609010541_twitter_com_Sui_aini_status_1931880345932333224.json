@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931624730660102144"
+      ],
+      "media_source_tweet_id": [
+        "1931624738834760006"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1931880345932333224",
+    "created_at": "2025-06-09T01:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T02:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931880345932333224"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Kiss Me",
+          "probability": 0.918,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "さきうい"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "さきはつ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921514889857949696",
+          "start": 3,
+          "username": "ccc_cloudy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MeuijSSQPh",
+          "end": 63,
+          "expanded_url": "https://x.com/ccc_cloudy/status/1931624738834760006/photo/1",
+          "media_key": "3_1931624730660102144",
+          "start": 40,
+          "url": "https://t.co/MeuijSSQPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931880345932333224",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 968
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931624738834760006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ccc_cloudy: #さきうい  #さきはつ\n🍓「Kiss Me」 https://t.co/MeuijSSQPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1428,
+        "media_key": "3_1931624730660102144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6CdVZa4AA-fWW.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931624730660102144"
+          ],
+          "media_source_tweet_id": [
+            "1931624738834760006"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1931880345932333224",
+        "created_at": "2025-06-09T01:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T02:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931880345932333224"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Kiss Me",
+              "probability": 0.918,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "さきうい"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "さきはつ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921514889857949696",
+              "start": 3,
+              "username": "ccc_cloudy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MeuijSSQPh",
+              "end": 63,
+              "expanded_url": "https://x.com/ccc_cloudy/status/1931624738834760006/photo/1",
+              "media_key": "3_1931624730660102144",
+              "start": 40,
+              "url": "https://t.co/MeuijSSQPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931880345932333224",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 968
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931624738834760006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ccc_cloudy: #さきうい  #さきはつ\n🍓「Kiss Me」 https://t.co/MeuijSSQPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931624730660102144"
+          ]
+        },
+        "author_id": "1921514889857949696",
+        "conversation_id": "1931624738834760006",
+        "created_at": "2025-06-08T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931624738834760006"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Kiss Me",
+              "probability": 0.9209,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "さきうい"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "さきはつ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MeuijSSQPh",
+              "end": 47,
+              "expanded_url": "https://x.com/ccc_cloudy/status/1931624738834760006/photo/1",
+              "media_key": "3_1931624730660102144",
+              "start": 24,
+              "url": "https://t.co/MeuijSSQPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931624738834760006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 446,
+          "impression_count": 57743,
+          "like_count": 5039,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 968
+        },
+        "reply_settings": "following",
+        "text": "#さきうい  #さきはつ\n🍓「Kiss Me」 https://t.co/MeuijSSQPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 359,
+          "like_count": 864,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 986
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T10:37:13.000Z",
+        "description": "💙💛左右固定/AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/itroezqu45wx72…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/itroezqu45wx72p?t=PMAhjB&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/NtbGdPzGNy"
+              }
+            ]
+          }
+        },
+        "id": "1921514889857949696",
+        "location": "期間限定アカウント",
+        "name": "くもり",
+        "pinned_tweet_id": "1925177506715586681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925041593788350464/VRi37G0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 12,
+          "like_count": 199,
+          "listed_count": 12,
+          "media_count": 16,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/NtbGdPzGNy",
+        "username": "ccc_cloudy",
+        "verified": false
+      }
+    ]
+  }
+}

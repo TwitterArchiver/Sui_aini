@@ -1,0 +1,728 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1269046653358452736",
+          "name": "Miyuri Shimabukuro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1269046653358452736",
+          "name": "Miyuri Shimabukuro"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1269046653358452736",
+          "name": "Miyuri Shimabukuro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270028504399110144",
+          "name": "Ai Kayano"
+        }
+      }
+    ],
+    "conversation_id": "2009888538658250804",
+    "created_at": "2026-01-10T07:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009888538658250804"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "石見舞菜香",
+          "probability": 0.6974,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 65,
+          "normalized_text": "茅野愛衣",
+          "probability": 0.7479,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "羊宮妃那",
+          "probability": 0.3842,
+          "start": 67,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "島袋美由利",
+          "probability": 0.674,
+          "start": 72,
+          "type": "Person"
+        },
+        {
+          "end": 81,
+          "normalized_text": "白石晴香",
+          "probability": 0.9659,
+          "start": 78,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "まなてく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "171845386",
+          "start": 3,
+          "username": "onsenradio"
+        }
+      ],
+      "urls": [
+        {
+          "description": "東京都のニッショーホールで行われる「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報ページです。日程、会場情報や料金を確認し、「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケットを簡単にオンライン予約・購入できます。",
+          "display_url": "eplus.jp/manaka/",
+          "end": 112,
+          "expanded_url": "https://eplus.jp/manaka/",
+          "images": [
+            {
+              "height": 144,
+              "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=orig",
+              "width": 144
+            },
+            {
+              "height": 144,
+              "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=150x150",
+              "width": 144
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報(東京都) - イープラス",
+          "unwound_url": "https://eplus.jp/sf/detail/4020580001-P0030005?P6=001&P1=0402&P59=1",
+          "url": "https://t.co/8OiLS6P22S"
+        },
+        {
+          "display_url": "t.co/78mu",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/78mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009888538658250804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009792312893743549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onsenradio: 2/15 #まなてく イベント\n一般＆配信チケット販売決定📢\n\n出演：石見舞菜香\nゲスト：茅野愛衣、羊宮妃那、島袋美由利、白石晴香\n\n▼一般販売\nhttps://t.co/8OiLS6P22S\n\n▼配信チケット\nhttps://t.co/78mu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2009617204283953153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OYMyvb0AE2Gwb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          }
+        ],
+        "conversation_id": "2009888538658250804",
+        "created_at": "2026-01-10T07:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009888538658250804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "石見舞菜香",
+              "probability": 0.6974,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "茅野愛衣",
+              "probability": 0.7479,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "羊宮妃那",
+              "probability": 0.3842,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "島袋美由利",
+              "probability": 0.674,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "白石晴香",
+              "probability": 0.9659,
+              "start": 78,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "まなてく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "171845386",
+              "start": 3,
+              "username": "onsenradio"
+            }
+          ],
+          "urls": [
+            {
+              "description": "東京都のニッショーホールで行われる「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報ページです。日程、会場情報や料金を確認し、「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケットを簡単にオンライン予約・購入できます。",
+              "display_url": "eplus.jp/manaka/",
+              "end": 112,
+              "expanded_url": "https://eplus.jp/manaka/",
+              "images": [
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=orig",
+                  "width": 144
+                },
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=150x150",
+                  "width": 144
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報(東京都) - イープラス",
+              "unwound_url": "https://eplus.jp/sf/detail/4020580001-P0030005?P6=001&P1=0402&P59=1",
+              "url": "https://t.co/8OiLS6P22S"
+            },
+            {
+              "display_url": "t.co/78mu",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/78mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009888538658250804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009792312893743549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onsenradio: 2/15 #まなてく イベント\n一般＆配信チケット販売決定📢\n\n出演：石見舞菜香\nゲスト：茅野愛衣、羊宮妃那、島袋美由利、白石晴香\n\n▼一般販売\nhttps://t.co/8OiLS6P22S\n\n▼配信チケット\nhttps://t.co/78mu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009617204283953153"
+          ]
+        },
+        "author_id": "171845386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269046653358452736",
+              "name": "Miyuri Shimabukuro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270028504399110144",
+              "name": "Ai Kayano"
+            }
+          }
+        ],
+        "conversation_id": "2009792312893743549",
+        "created_at": "2026-01-10T01:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T02:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009792312893743549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "石見舞菜香",
+              "probability": 0.7042,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "茅野愛衣",
+              "probability": 0.7483,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "羊宮妃那",
+              "probability": 0.3864,
+              "start": 51,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "島袋美由利",
+              "probability": 0.6651,
+              "start": 56,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "白石晴香",
+              "probability": 0.9661,
+              "start": 62,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "まなてく"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "音泉"
+            }
+          ],
+          "urls": [
+            {
+              "description": "東京都のニッショーホールで行われる「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報ページです。日程、会場情報や料金を確認し、「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケットを簡単にオンライン予約・購入できます。",
+              "display_url": "eplus.jp/manaka/",
+              "end": 96,
+              "expanded_url": "https://eplus.jp/manaka/",
+              "images": [
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=orig",
+                  "width": 144
+                },
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009245720881283072/UWkkrijq?format=png&name=150x150",
+                  "width": 144
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報(東京都) - イープラス",
+              "unwound_url": "https://eplus.jp/sf/detail/4020580001-P0030005?P6=001&P1=0402&P59=1",
+              "url": "https://t.co/8OiLS6P22S"
+            },
+            {
+              "description": "Streaming+で行われる「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報ページです。日程、会場情報や料金を確認し、「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケットを簡単にオンライン予約・購入できます。",
+              "display_url": "eplus.jp/manaka_ol/",
+              "end": 129,
+              "expanded_url": "https://eplus.jp/manaka_ol/",
+              "images": [
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009792360708755456/tOTQgkCt?format=png&name=orig",
+                  "width": 144
+                },
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2009792360708755456/tOTQgkCt?format=png&name=150x150",
+                  "width": 144
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "「石見舞菜香のらじおてくてく」あにばーさりー･まなか!のチケット情報(Streaming+) - イープラス",
+              "unwound_url": "https://eplus.jp/sf/detail/4020580002-P0030006?P6=001&P1=0402&P59=1",
+              "url": "https://t.co/78mun2maRc"
+            },
+            {
+              "display_url": "pic.x.com/OHL7LpguOz",
+              "end": 158,
+              "expanded_url": "https://x.com/onsenradio/status/2009792312893743549/photo/1",
+              "media_key": "3_2009617204283953153",
+              "start": 135,
+              "url": "https://t.co/OHL7LpguOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009792312893743549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17440,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "2/15 #まなてく イベント\n一般＆配信チケット販売決定📢\n\n出演：石見舞菜香\nゲスト：茅野愛衣、羊宮妃那、島袋美由利、白石晴香\n\n▼一般販売\nhttps://t.co/8OiLS6P22S\n\n▼配信チケット\nhttps://t.co/78mun2maRc\n\n#音泉 https://t.co/OHL7LpguOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 543,
+          "like_count": 3004,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2382
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-28T09:06:23.000Z",
+        "description": "アニメ・ゲーム・声優を中心に配信しているインターネットラジオサイト＆アプリ音泉公式アカウント\n好きな時間に好きな番組が基本無料で視聴することができます【PREMIUMサポーター】限定番組・コーナーアリ お問合せはこちら https://t.co/tYtl6EVm1m #音泉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "音泉"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onsen.ag/support/contact",
+                "end": 133,
+                "expanded_url": "http://onsen.ag/support/contact",
+                "start": 110,
+                "url": "https://t.co/tYtl6EVm1m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onsen.ag",
+                "end": 23,
+                "expanded_url": "http://www.onsen.ag/",
+                "start": 0,
+                "url": "https://t.co/oX7yXgtBqL"
+              }
+            ]
+          }
+        },
+        "id": "171845386",
+        "location": "東京都渋谷区（初台）",
+        "name": "インターネットラジオステーション音泉",
+        "pinned_tweet_id": "2009558264862712105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008008260029431808/KTEz-pQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158333,
+          "following_count": 1196,
+          "like_count": 47561,
+          "listed_count": 2005,
+          "media_count": 29310,
+          "tweet_count": 78013
+        },
+        "url": "https://t.co/oX7yXgtBqL",
+        "username": "onsenradio",
+        "verified": true
+      }
+    ]
+  }
+}

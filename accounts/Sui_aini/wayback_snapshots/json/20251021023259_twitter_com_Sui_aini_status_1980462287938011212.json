@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979917929127858176"
+      ],
+      "media_source_tweet_id": [
+        "1980091603571142958"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1980462287938011212",
+    "created_at": "2025-10-21T02:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980462287938011212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "MyGo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1402968111133859843",
+          "start": 3,
+          "username": "jO8BlHrvKTa6DUw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5KGTY3OMPC",
+          "end": 64,
+          "expanded_url": "https://x.com/jO8BlHrvKTa6DUw/status/1980091603571142958/photo/1",
+          "media_key": "3_1979917929127858176",
+          "start": 41,
+          "url": "https://t.co/5KGTY3OMPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980462287938011212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980091603571142958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jO8BlHrvKTa6DUw: #AveMujica #MyGo\n偽人 https://t.co/5KGTY3OMPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_1979917929127858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3oU3dIX0AANnKs.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979917929127858176"
+          ],
+          "media_source_tweet_id": [
+            "1980091603571142958"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1980462287938011212",
+        "created_at": "2025-10-21T02:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980462287938011212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "MyGo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1402968111133859843",
+              "start": 3,
+              "username": "jO8BlHrvKTa6DUw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KGTY3OMPC",
+              "end": 64,
+              "expanded_url": "https://x.com/jO8BlHrvKTa6DUw/status/1980091603571142958/photo/1",
+              "media_key": "3_1979917929127858176",
+              "start": 41,
+              "url": "https://t.co/5KGTY3OMPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980462287938011212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980091603571142958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jO8BlHrvKTa6DUw: #AveMujica #MyGo\n偽人 https://t.co/5KGTY3OMPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979917929127858176"
+          ]
+        },
+        "author_id": "1402968111133859843",
+        "conversation_id": "1980091603571142958",
+        "created_at": "2025-10-20T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980091603571142958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "MyGo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KGTY3OMPC",
+              "end": 43,
+              "expanded_url": "https://x.com/jO8BlHrvKTa6DUw/status/1980091603571142958/photo/1",
+              "media_key": "3_1979917929127858176",
+              "start": 20,
+              "url": "https://t.co/5KGTY3OMPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980091603571142958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 33381,
+          "like_count": 2730,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 344
+        },
+        "reply_settings": "everyone",
+        "text": "#AveMujica #MyGo\n偽人 https://t.co/5KGTY3OMPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 520,
+          "like_count": 2502,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2045
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T12:37:35.000Z",
+        "description": "我喜歡看V 我喜歡活的快樂 好耶\n不定時產圖 主要是V或是假面騎士的圖 最近多了蔚藍檔案 欸嘿\n如果想把圖轉至其他平台 請務必附上來源!!!\nAI學習禁止🚫\n如果想委託的品項在委託平台沒有可以私訊詢問!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58923053",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58923053",
+                "start": 0,
+                "url": "https://t.co/xfzheGZWR4"
+              }
+            ]
+          }
+        },
+        "id": "1402968111133859843",
+        "name": "成江 怪圖委託開放中",
+        "pinned_tweet_id": "1917529661137117677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829377836265472/bhM_dxAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 2475,
+          "like_count": 111091,
+          "listed_count": 4,
+          "media_count": 1211,
+          "tweet_count": 9094
+        },
+        "url": "https://t.co/xfzheGZWR4",
+        "username": "jO8BlHrvKTa6DUw",
+        "verified": false
+      }
+    ]
+  }
+}

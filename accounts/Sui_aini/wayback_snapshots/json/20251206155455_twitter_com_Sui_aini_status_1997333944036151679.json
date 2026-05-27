@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1997325712290672718",
+    "created_at": "2025-12-06T15:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997333944036151679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425759699794726913",
+          "start": 0,
+          "username": "DKPgN1dsa2DuWcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997333944036151679",
+    "in_reply_to_user_id": "1425759699794726913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997331090701537306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKPgN1dsa2DuWcZ 谢谢!!  ありがとう!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1997325712290672718",
+        "created_at": "2025-12-06T15:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997333944036151679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425759699794726913",
+              "start": 0,
+              "username": "DKPgN1dsa2DuWcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997333944036151679",
+        "in_reply_to_user_id": "1425759699794726913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997331090701537306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKPgN1dsa2DuWcZ 谢谢!!  ありがとう!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425759699794726913",
+        "conversation_id": "1997325712290672718",
+        "created_at": "2025-12-06T15:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997331090701537306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997331090701537306",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997325712290672718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 愛して　wo ai ni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 529,
+          "like_count": 2750,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 2216
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T10:03:15.000Z",
+        "description": "qwe",
+        "id": "1425759699794726913",
+        "name": "mqm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425759965394788353/fSCaHm2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "DKPgN1dsa2DuWcZ",
+        "verified": false
+      }
+    ]
+  }
+}

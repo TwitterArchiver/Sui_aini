@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2052990589659169057",
+    "created_at": "2026-05-09T06:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053003879445643372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        },
+        {
+          "end": 27,
+          "id": "1473159080143376385",
+          "start": 12,
+          "username": "Jacque1ineWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053003879445643372",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053002904651608310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree @Jacque1ineWong 国内跨女处境是一点都看不到，怪不得她发的几条都是「我没遇到过……」"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053002904651608310].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053002904651608310",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053002904651608310"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2052990589659169057",
+        "created_at": "2026-05-09T06:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053003879445643372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            },
+            {
+              "end": 27,
+              "id": "1473159080143376385",
+              "start": 12,
+              "username": "Jacque1ineWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053003879445643372",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053002904651608310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree @Jacque1ineWong 国内跨女处境是一点都看不到，怪不得她发的几条都是「我没遇到过……」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 734,
+          "like_count": 4877,
+          "listed_count": 5,
+          "media_count": 538,
+          "tweet_count": 4131
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 290,
+          "like_count": 23793,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 3766
+        },
+        "username": "taro_puree",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:11:17.000Z",
+        "description": "👩‍❤️‍💋‍👨🏳️‍⚧️猎头 | Career Advisor for MTFs | Specialized in BD/MKT/PM/Front-Middle Offices for Web3/Web2 Tech Company, Firms",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/jacque1inewong",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/jacque1inewong",
+                "start": 0,
+                "url": "https://t.co/4VcYD8QOuv"
+              }
+            ]
+          }
+        },
+        "id": "1473159080143376385",
+        "location": "Macau",
+        "name": "茉莉奶绿黄奕缘（猎头版）",
+        "pinned_tweet_id": "1981532932574761001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035239048470732800/28ncdCFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4078,
+          "following_count": 634,
+          "like_count": 34796,
+          "listed_count": 10,
+          "media_count": 675,
+          "tweet_count": 12427
+        },
+        "url": "https://t.co/4VcYD8QOuv",
+        "username": "Jacque1ineWong",
+        "verified": true
+      }
+    ]
+  }
+}

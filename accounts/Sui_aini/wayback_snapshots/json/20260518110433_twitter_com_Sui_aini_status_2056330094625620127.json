@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2056330094625620127",
+    "created_at": "2026-05-18T11:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056330094625620127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimiii_072/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mimiii_072/status/2055491352461512968",
+          "start": 9,
+          "url": "https://t.co/fymdlybsVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056330094625620127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055491352461512968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懒得喷，真懒得喷 https://t.co/fymdlybsVf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2056330094625620127",
+        "created_at": "2026-05-18T11:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056330094625620127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimiii_072/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mimiii_072/status/2055491352461512968",
+              "start": 9,
+              "url": "https://t.co/fymdlybsVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056330094625620127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055491352461512968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懒得喷，真懒得喷 https://t.co/fymdlybsVf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625507097889886208",
+        "conversation_id": "2055491352461512968",
+        "created_at": "2026-05-16T03:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055491352461512968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055491352461512968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 300037,
+          "like_count": 1867,
+          "quote_count": 30,
+          "reply_count": 238,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得暴力sex有家暴前兆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 749,
+          "like_count": 5149,
+          "listed_count": 5,
+          "media_count": 570,
+          "tweet_count": 4503
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T14:49:09.000Z",
+        "description": "🇲🇾 女高\n\n❌互看 ❌🈷️                                                                 不回不友好 不礼貌 莫名其妙 羞辱性的私信",
+        "id": "1625507097889886208",
+        "location": "Malaysia",
+        "name": "咪咪 🇲🇾",
+        "pinned_tweet_id": "2034856538083664344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048673622701780992/qxbHlCXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 188,
+          "like_count": 5192,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 266
+        },
+        "username": "mimiii_072",
+        "verified": false
+      }
+    ]
+  }
+}

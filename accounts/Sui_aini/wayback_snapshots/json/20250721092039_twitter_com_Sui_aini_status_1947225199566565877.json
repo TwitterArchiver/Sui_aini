@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947202257638048105",
+    "created_at": "2025-07-21T09:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T10:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947225199566565877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783494838207606784",
+          "start": 0,
+          "username": "RedStonesmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947225199566565877",
+    "in_reply_to_user_id": "1783494838207606784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947220391895994485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RedStonesmu 好，谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1947202257638048105",
+        "created_at": "2025-07-21T09:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947225199566565877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783494838207606784",
+              "start": 0,
+              "username": "RedStonesmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947225199566565877",
+        "in_reply_to_user_id": "1783494838207606784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947220391895994485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RedStonesmu 好，谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783494838207606784",
+        "conversation_id": "1947202257638048105",
+        "created_at": "2025-07-21T09:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947220391895994485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947220391895994485",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947217939419250802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 可以先来南医呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 470,
+          "like_count": 1843,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 1601
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T13:54:56.000Z",
+        "description": "Dr.Hun in VN",
+        "id": "1783494838207606784",
+        "location": "Yau Tsim Mong District",
+        "name": "Dr.Red_Stone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944836983022297088/9MGip3GR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 54
+        },
+        "username": "RedStonesmu",
+        "verified": false
+      }
+    ]
+  }
+}

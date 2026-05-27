@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000134848154066944"
+      ],
+      "media_source_tweet_id": [
+        "2000158838625046563"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2000241825614094548",
+    "created_at": "2025-12-14T16:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000241825614094548"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "羊宮妃那のこもれびじかん",
+          "probability": 0.6072,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "FM91",
+          "probability": 0.6369,
+          "start": 60,
+          "type": "Organization"
+        },
+        {
+          "end": 72,
+          "normalized_text": "AM1134",
+          "probability": 0.3709,
+          "start": 67,
+          "type": "Organization"
+        },
+        {
+          "end": 79,
+          "normalized_text": "radiko",
+          "probability": 0.5876,
+          "start": 74,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 99,
+          "tag": "こもれびじかん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902302237352980481",
+          "start": 3,
+          "username": "komorebi_jikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wl8QKGrv9r",
+          "end": 131,
+          "expanded_url": "https://x.com/komorebi_jikan/status/2000158838625046563/photo/1",
+          "media_key": "3_2000134848154066944",
+          "start": 108,
+          "url": "https://t.co/Wl8QKGrv9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000241825614094548",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000158838625046563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komorebi_jikan: 今夜も24時30分から🐿️\n『羊宮妃那のこもれびじかん』🌳\n文化放送地上波(FM91.6/AM1134/radiko)で放送📻\n\n今週もぜひ聴いてください🎧\n#こもれびじかん https://t.co/Wl8QKGrv9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2000134848154066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HoDBcaYAArr_x.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000134848154066944"
+          ],
+          "media_source_tweet_id": [
+            "2000158838625046563"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2000241825614094548",
+        "created_at": "2025-12-14T16:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000241825614094548"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "羊宮妃那のこもれびじかん",
+              "probability": 0.6072,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "FM91",
+              "probability": 0.6369,
+              "start": 60,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "AM1134",
+              "probability": 0.3709,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 79,
+              "normalized_text": "radiko",
+              "probability": 0.5876,
+              "start": 74,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 99,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902302237352980481",
+              "start": 3,
+              "username": "komorebi_jikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl8QKGrv9r",
+              "end": 131,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2000158838625046563/photo/1",
+              "media_key": "3_2000134848154066944",
+              "start": 108,
+              "url": "https://t.co/Wl8QKGrv9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000241825614094548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000158838625046563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komorebi_jikan: 今夜も24時30分から🐿️\n『羊宮妃那のこもれびじかん』🌳\n文化放送地上波(FM91.6/AM1134/radiko)で放送📻\n\n今週もぜひ聴いてください🎧\n#こもれびじかん https://t.co/Wl8QKGrv9r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000134848154066944"
+          ]
+        },
+        "author_id": "1902302237352980481",
+        "conversation_id": "2000158838625046563",
+        "created_at": "2025-12-14T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000158838625046563"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "羊宮妃那のこもれびじかん",
+              "probability": 0.6248,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "FM91",
+              "probability": 0.6516,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "AM1134",
+              "probability": 0.3847,
+              "start": 47,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "radiko",
+              "probability": 0.6018,
+              "start": 54,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 79,
+              "tag": "こもれびじかん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wl8QKGrv9r",
+              "end": 111,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2000158838625046563/photo/1",
+              "media_key": "3_2000134848154066944",
+              "start": 88,
+              "url": "https://t.co/Wl8QKGrv9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000158838625046563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 23005,
+          "like_count": 1355,
+          "quote_count": 10,
+          "reply_count": 3,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "今夜も24時30分から🐿️\n『羊宮妃那のこもれびじかん』🌳\n文化放送地上波(FM91.6/AM1134/radiko)で放送📻\n\n今週もぜひ聴いてください🎧\n#こもれびじかん https://t.co/Wl8QKGrv9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 530,
+          "like_count": 2796,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2258
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T10:12:58.000Z",
+        "description": "ラジオ番組公式Xアカウント\n文化放送地上波(radiko)にて毎週日曜24:30～25:00放送\nカルチェラでアーカイブとこもればなしを配信中！\n\nメール：komorebi@joqr.net\nフォーム：https://t.co/qAD2ORz4Gk\n#こもれびじかん\n\n※ラジオや写真等の無断転載はご遠慮ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "こもれびじかん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "form.run/@komorebi",
+                "end": 124,
+                "expanded_url": "https://form.run/@komorebi",
+                "start": 101,
+                "url": "https://t.co/qAD2ORz4Gk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "culuchera.stores.play.jp",
+                "end": 23,
+                "expanded_url": "https://culuchera.stores.play.jp/",
+                "start": 0,
+                "url": "https://t.co/PFofhpyYAw"
+              }
+            ]
+          }
+        },
+        "id": "1902302237352980481",
+        "name": "羊宮妃那のこもれびじかん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905469206323494912/U5feN3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7532,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 55,
+          "media_count": 91,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/PFofhpyYAw",
+        "username": "komorebi_jikan",
+        "verified": false
+      }
+    ]
+  }
+}

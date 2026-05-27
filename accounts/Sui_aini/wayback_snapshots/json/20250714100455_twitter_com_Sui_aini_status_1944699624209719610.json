@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1943232368468537446",
+    "created_at": "2025-07-14T10:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T11:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944699624209719610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1605471434163113984",
+          "start": 0,
+          "username": "Rorosharklady"
+        },
+        {
+          "end": 27,
+          "id": "1228638724583374848",
+          "start": 15,
+          "username": "Plantie_uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944699624209719610",
+    "in_reply_to_user_id": "1605471434163113984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944697982735225018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rorosharklady @Plantie_uwu 那我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1943232368468537446",
+        "created_at": "2025-07-14T10:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T11:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944699624209719610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1605471434163113984",
+              "start": 0,
+              "username": "Rorosharklady"
+            },
+            {
+              "end": 27,
+              "id": "1228638724583374848",
+              "start": 15,
+              "username": "Plantie_uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944699624209719610",
+        "in_reply_to_user_id": "1605471434163113984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944697982735225018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rorosharklady @Plantie_uwu 那我呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605471434163113984",
+        "conversation_id": "1943232368468537446",
+        "created_at": "2025-07-14T09:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T10:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944697982735225018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1228638724583374848",
+              "start": 0,
+              "username": "Plantie_uwu"
+            },
+            {
+              "end": 22,
+              "id": "1913084413942145024",
+              "start": 13,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944697982735225018",
+        "in_reply_to_user_id": "1228638724583374848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944693915485110683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plantie_uwu @Sui_aini 也吃点你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943714290071986176/7NtAF1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 454,
+          "like_count": 1644,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 1491
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T07:53:21.000Z",
+        "description": "⚧transfem🏳️‍🌈saphhic&polyamory | neverland（惨惨的碎花厨）| 这号纯追星惹 | @cut_ur_father",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 61,
+                "username": "cut_ur_father"
+              }
+            ]
+          }
+        },
+        "id": "1605471434163113984",
+        "location": "哥谭市阿卡姆精神病院",
+        "name": "8⃣️9⃣️爆浆流苏6⃣️4⃣️食人鱼Roro🏳️‍⚧️🦈（淡推中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840286854555336704/ZeKaSYqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 565,
+          "like_count": 26528,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 5732
+        },
+        "username": "Rorosharklady",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T11:14:49.000Z",
+        "description": "They/them.🏳️‍🌈🏳️‍⚧️",
+        "id": "1228638724583374848",
+        "location": "bed",
+        "name": "plantie✨💛🤍💜🖤",
+        "pinned_tweet_id": "1936088066541994356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597060717718507523/P_vvl2eW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10479,
+          "following_count": 1788,
+          "like_count": 19069,
+          "listed_count": 38,
+          "media_count": 997,
+          "tweet_count": 5790
+        },
+        "username": "Plantie_uwu",
+        "verified": false
+      }
+    ]
+  }
+}

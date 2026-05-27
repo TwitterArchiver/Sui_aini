@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931399220633993216"
+      ],
+      "media_source_tweet_id": [
+        "1931399236391936498"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1931794929959018814",
+    "created_at": "2025-06-08T19:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T20:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931794929959018814"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "要楽奈",
+          "probability": 0.501,
+          "start": 37,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "MyGO"
+        },
+        {
+          "end": 36,
+          "start": 25,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1613872835201728515",
+          "start": 3,
+          "username": "Usami_Yuko512"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7t3H7HvClY",
+          "end": 64,
+          "expanded_url": "https://x.com/Usami_Yuko512/status/1931399236391936498/photo/1",
+          "media_key": "3_1931399220633993216",
+          "start": 41,
+          "url": "https://t.co/7t3H7HvClY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931794929959018814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931399236391936498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usami_Yuko512: #MyGO #bandoriart\n要楽奈 https://t.co/7t3H7HvClY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1931399220633993216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs21W7FbAAAjkfs.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931399220633993216"
+          ],
+          "media_source_tweet_id": [
+            "1931399236391936498"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1931794929959018814",
+        "created_at": "2025-06-08T19:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T20:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931794929959018814"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "要楽奈",
+              "probability": 0.501,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "MyGO"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1613872835201728515",
+              "start": 3,
+              "username": "Usami_Yuko512"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t3H7HvClY",
+              "end": 64,
+              "expanded_url": "https://x.com/Usami_Yuko512/status/1931399236391936498/photo/1",
+              "media_key": "3_1931399220633993216",
+              "start": 41,
+              "url": "https://t.co/7t3H7HvClY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931794929959018814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931399236391936498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usami_Yuko512: #MyGO #bandoriart\n要楽奈 https://t.co/7t3H7HvClY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931399220633993216"
+          ]
+        },
+        "author_id": "1613872835201728515",
+        "conversation_id": "1931399236391936498",
+        "created_at": "2025-06-07T17:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T18:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931399236391936498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "要楽奈",
+              "probability": 0.6549,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            },
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t3H7HvClY",
+              "end": 45,
+              "expanded_url": "https://x.com/Usami_Yuko512/status/1931399236391936498/photo/1",
+              "media_key": "3_1931399220633993216",
+              "start": 22,
+              "url": "https://t.co/7t3H7HvClY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931399236391936498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 32251,
+          "like_count": 2237,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO #bandoriart\n要楽奈 https://t.co/7t3H7HvClY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 359,
+          "like_count": 863,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 984
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T12:17:50.000Z",
+        "description": "中國人，一個不會畫畫的興趣畫師\nPixivID：25533550 \nweiboID：7205058585",
+        "id": "1613872835201728515",
+        "name": "宇宙柚＿yuko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613881856151392261/leMGztZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 549,
+          "like_count": 4819,
+          "listed_count": 12,
+          "media_count": 117,
+          "tweet_count": 301
+        },
+        "username": "Usami_Yuko512",
+        "verified": false
+      }
+    ]
+  }
+}

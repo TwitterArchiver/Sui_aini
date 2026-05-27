@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1319379000918110208",
+          "name": "D4DJ"
+        }
+      }
+    ],
+    "conversation_id": "1947132318914904383",
+    "created_at": "2025-07-21T03:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947132318914904383"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "好美",
+          "probability": 0.8165,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/okada_mei0519/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/okada_mei0519/status/1947108965130650022",
+          "start": 6,
+          "url": "https://t.co/na0jrddCl5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947132318914904383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947108965130650022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美... https://t.co/na0jrddCl5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_1947108956058312705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWFR4DWYAE08LL.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "1947132318914904383",
+        "created_at": "2025-07-21T03:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947132318914904383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "好美",
+              "probability": 0.8165,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/1947108965130650022",
+              "start": 6,
+              "url": "https://t.co/na0jrddCl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947132318914904383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947108965130650022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美... https://t.co/na0jrddCl5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947108956058312705"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1319379000918110208",
+              "name": "D4DJ"
+            }
+          }
+        ],
+        "conversation_id": "1947108965130650022",
+        "created_at": "2025-07-21T01:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T02:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947108965130650022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "D4DJ"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Merm4id"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "サマキラTHEEND"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtFeFU16NB",
+              "end": 67,
+              "expanded_url": "https://x.com/okada_mei0519/status/1947108965130650022/photo/1",
+              "media_key": "3_1947108956058312705",
+              "start": 44,
+              "url": "https://t.co/EtFeFU16NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947108965130650022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 35534,
+          "like_count": 3178,
+          "quote_count": 20,
+          "reply_count": 67,
+          "retweet_count": 374
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます…っ🌺💛🧸💚\n\n#D4DJ\n#Merm4id #サマキラTHEEND https://t.co/EtFeFU16NB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 467,
+          "like_count": 1817,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 1587
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "Ace Crew Entertainment 所属┊声優 #D4DJ Merm4id 水島茉莉花 / #バンドリ Ave Mujica Ba.🎸八幡海鈴 / #らぶフォー 最上羅巫, etc┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ❥ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 147,
+                "expanded_url": "https://maysland.jp/",
+                "start": 124,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身🐏✦",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1924134506191290600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848344854885171200/sMebPHkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120149,
+          "following_count": 396,
+          "like_count": 65075,
+          "listed_count": 1166,
+          "media_count": 4425,
+          "tweet_count": 14421
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

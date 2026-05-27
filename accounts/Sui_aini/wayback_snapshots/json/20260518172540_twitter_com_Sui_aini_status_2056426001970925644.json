@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2056385757150097582",
+    "created_at": "2026-05-18T17:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056426001970925644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20564…",
+          "end": 34,
+          "expanded_url": "https://x.com/i/status/2056410301323759801",
+          "start": 11,
+          "url": "https://t.co/zljJxidd0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056426001970925644",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056410301323759801",
+        "type": "quoted"
+      },
+      {
+        "id": "2056425712249172200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 https://t.co/zljJxidd0H"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056425712249172200].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056425712249172200",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056425712249172200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056410282348756992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInWQafbwAAV24S.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056410282361311232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInWQaibUAAHYow.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056410282373894147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInWQalbUAM6h-M.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2056385757150097582",
+        "created_at": "2026-05-18T17:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056426001970925644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20564…",
+              "end": 34,
+              "expanded_url": "https://x.com/i/status/2056410301323759801",
+              "start": 11,
+              "url": "https://t.co/zljJxidd0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056426001970925644",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056410301323759801",
+            "type": "quoted"
+          },
+          {
+            "id": "2056425712249172200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 https://t.co/zljJxidd0H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056410282348756992",
+            "3_2056410282361311232",
+            "3_2056410282373894147"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2056410301323759801",
+        "created_at": "2026-05-18T16:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056410301323759801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4n4GX0q86K",
+              "end": 119,
+              "expanded_url": "https://x.com/Sui_aini/status/2056410301323759801/photo/1",
+              "media_key": "3_2056410282348756992",
+              "start": 96,
+              "url": "https://t.co/4n4GX0q86K"
+            },
+            {
+              "display_url": "pic.x.com/4n4GX0q86K",
+              "end": 119,
+              "expanded_url": "https://x.com/Sui_aini/status/2056410301323759801/photo/1",
+              "media_key": "3_2056410282361311232",
+              "start": 96,
+              "url": "https://t.co/4n4GX0q86K"
+            },
+            {
+              "display_url": "pic.x.com/4n4GX0q86K",
+              "end": 119,
+              "expanded_url": "https://x.com/Sui_aini/status/2056410301323759801/photo/1",
+              "media_key": "3_2056410282373894147",
+              "start": 96,
+              "url": "https://t.co/4n4GX0q86K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056410301323759801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真你妈闹麻了，拿你妈伪逻辑去汴京，死不死啊，我翻到这张图真绷不住了，「以一个女人的姿态承担起一个男人的职责」，你妈了个逼，过了这些年，你还是这个傻逼样，我不骂你骂谁。\n还有，假死真有点闹麻了 https://t.co/4n4GX0q86K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 750,
+          "like_count": 5166,
+          "listed_count": 5,
+          "media_count": 573,
+          "tweet_count": 4533
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "杳冥冥兮羌昼晦 东风飘兮神灵雨…",
+        "id": "1150753335881826305",
+        "name": "Charlotte F.",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046258494253273088/2leeLfOB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 277,
+          "like_count": 2905,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1387
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

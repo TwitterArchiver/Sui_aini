@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Saitama",
+          "id": "1009173667677286400",
+          "name": "Saitama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1999081286586220929",
+    "created_at": "2025-12-11T11:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T12:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999081286586220929"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "MyGO!!!!! 9th LIVE",
+          "probability": 0.9015,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 109,
+          "normalized_text": "大阪",
+          "probability": 0.9439,
+          "start": 108,
+          "type": "Place"
+        },
+        {
+          "end": 127,
+          "normalized_text": "埼玉",
+          "probability": 0.8171,
+          "start": 126,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999081286586220929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999079237912059996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\n『MyGO!!!!! 9th LIVE』\n日程┊︎2026年7月18日・19日\n場所┊︎ぴあアリーナMM\n\n『迷子集会 出張版 第三弾』\n日程┊︎2026年5月9日大阪公演\n日程┊︎2026年8月8日埼玉公演\n\n詳細「@ban…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1999081286586220929",
+        "created_at": "2025-12-11T11:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999081286586220929"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "MyGO!!!!! 9th LIVE",
+              "probability": 0.9015,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "大阪",
+              "probability": 0.9439,
+              "start": 108,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "埼玉",
+              "probability": 0.8171,
+              "start": 126,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999081286586220929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999079237912059996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\n『MyGO!!!!! 9th LIVE』\n日程┊︎2026年7月18日・19日\n場所┊︎ぴあアリーナMM\n\n『迷子集会 出張版 第三弾』\n日程┊︎2026年5月9日大阪公演\n日程┊︎2026年8月8日埼玉公演\n\n詳細「@ban…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1999079237912059996",
+        "created_at": "2025-12-11T11:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999079237912059996"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "MyGO!!!!! 9th LIVE",
+              "probability": 0.8803,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "大阪",
+              "probability": 0.941,
+              "start": 90,
+              "type": "Place"
+            },
+            {
+              "end": 109,
+              "normalized_text": "埼玉",
+              "probability": 0.8177,
+              "start": 108,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 177,
+              "start": 172,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 133,
+              "id": "1512315733899837440",
+              "start": 117,
+              "username": "bang_dream_mygo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999079237912059996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4014,
+          "like_count": 416,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\n『MyGO!!!!! 9th LIVE』\n日程┊︎2026年7月18日・19日\n場所┊︎ぴあアリーナMM\n\n『迷子集会 出張版 第三弾』\n日程┊︎2026年5月9日大阪公演\n日程┊︎2026年8月8日埼玉公演\n\n詳細「@bang_dream_mygo」\n\n燈役として出演させていただきます。\n何卒よろしくお願いいたします！✨\n\n#MyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 530,
+          "like_count": 2780,
+          "listed_count": 4,
+          "media_count": 363,
+          "tweet_count": 2243
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225192,
+          "following_count": 290,
+          "like_count": 1975,
+          "listed_count": 1656,
+          "media_count": 151,
+          "tweet_count": 1310
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

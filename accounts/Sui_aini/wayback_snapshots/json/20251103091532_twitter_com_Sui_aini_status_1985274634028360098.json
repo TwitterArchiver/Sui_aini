@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985242834199568384",
+        "3_1985242834262425600",
+        "3_1985242834245672960",
+        "3_1985242834212155392"
+      ],
+      "media_source_tweet_id": [
+        "1985242846312677616",
+        "1985242846312677616",
+        "1985242846312677616",
+        "1985242846312677616"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "1985274634028360098",
+    "created_at": "2025-11-03T09:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T10:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985274634028360098"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "上海",
+          "probability": 0.8945,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xSuGdur5eM",
+          "end": 71,
+          "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+          "media_key": "3_1985242834199568384",
+          "start": 48,
+          "url": "https://t.co/xSuGdur5eM"
+        },
+        {
+          "display_url": "pic.x.com/xSuGdur5eM",
+          "end": 71,
+          "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+          "media_key": "3_1985242834262425600",
+          "start": 48,
+          "url": "https://t.co/xSuGdur5eM"
+        },
+        {
+          "display_url": "pic.x.com/xSuGdur5eM",
+          "end": 71,
+          "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+          "media_key": "3_1985242834245672960",
+          "start": 48,
+          "url": "https://t.co/xSuGdur5eM"
+        },
+        {
+          "display_url": "pic.x.com/xSuGdur5eM",
+          "end": 71,
+          "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+          "media_key": "3_1985242834212155392",
+          "start": 48,
+          "url": "https://t.co/xSuGdur5eM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985274634028360098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985242846312677616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 上海でいただいたご飯や飲み物📷\n\n全部美味しかったー！！✨ https://t.co/xSuGdur5eM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985242834199568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4z_1uVa4AAXPE_.jpg",
+        "width": 1602
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985242834262425600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4z_1ukaAAA5sTb.jpg",
+        "width": 1528
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985242834245672960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4z_1ugaYAAlqUl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985242834212155392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4z_1uYa8AAtZjx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985242834199568384",
+            "3_1985242834262425600",
+            "3_1985242834245672960",
+            "3_1985242834212155392"
+          ],
+          "media_source_tweet_id": [
+            "1985242846312677616",
+            "1985242846312677616",
+            "1985242846312677616",
+            "1985242846312677616"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "1985274634028360098",
+        "created_at": "2025-11-03T09:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985274634028360098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "上海",
+              "probability": 0.8945,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 71,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834199568384",
+              "start": 48,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 71,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834262425600",
+              "start": 48,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 71,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834245672960",
+              "start": 48,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 71,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834212155392",
+              "start": 48,
+              "url": "https://t.co/xSuGdur5eM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985274634028360098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985242846312677616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 上海でいただいたご飯や飲み物📷\n\n全部美味しかったー！！✨ https://t.co/xSuGdur5eM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985242834199568384",
+            "3_1985242834262425600",
+            "3_1985242834245672960",
+            "3_1985242834212155392"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "1985242846312677616",
+        "created_at": "2025-11-03T07:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985242846312677616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "上海",
+              "probability": 0.9062,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 53,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834199568384",
+              "start": 30,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 53,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834262425600",
+              "start": 30,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 53,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834245672960",
+              "start": 30,
+              "url": "https://t.co/xSuGdur5eM"
+            },
+            {
+              "display_url": "pic.x.com/xSuGdur5eM",
+              "end": 53,
+              "expanded_url": "https://x.com/kohinatamika/status/1985242846312677616/photo/1",
+              "media_key": "3_1985242834212155392",
+              "start": 30,
+              "url": "https://t.co/xSuGdur5eM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985242846312677616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18757,
+          "like_count": 1228,
+          "quote_count": 9,
+          "reply_count": 75,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "上海でいただいたご飯や飲み物📷\n\n全部美味しかったー！！✨ https://t.co/xSuGdur5eM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 524,
+          "like_count": 2591,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 2089
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ #こひチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "イマ2"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "こひなたぼっこ"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "こひチャン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk2Xws"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1952709238498984233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952701283900772352/nGxs0NJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110505,
+          "following_count": 471,
+          "like_count": 6134,
+          "listed_count": 813,
+          "media_count": 1438,
+          "tweet_count": 5168
+        },
+        "url": "https://t.co/55PTrk2Xws",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

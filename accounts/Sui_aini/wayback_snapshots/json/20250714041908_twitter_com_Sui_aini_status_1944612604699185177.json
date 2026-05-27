@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1944612604699185177",
+    "created_at": "2025-07-14T04:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T05:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944612604699185177"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "わかれ道の、その先へ",
+          "probability": 0.5565,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944612604699185177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944358658412011979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\nMyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海公演\n燈役として出演させていただきます。\n\n日程┊︎10月11日(土)・12日(日)\n会場┊︎上海·梅赛德斯-奔驰文化\n詳細┊︎https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1944612604699185177",
+        "created_at": "2025-07-14T04:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T05:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944612604699185177"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.5565,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944612604699185177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 306
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944358658412011979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\nMyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海公演\n燈役として出演させていただきます。\n\n日程┊︎10月11日(土)・12日(日)\n会場┊︎上海·梅赛德斯-奔驰文化\n詳細┊︎https://…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1944358658412011979",
+        "created_at": "2025-07-13T11:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944358658412011979"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "わかれ道の、その先へ",
+              "probability": 0.6526,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 165,
+              "start": 160,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 171,
+              "start": 166,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」上海追加公演について掲載中。",
+              "display_url": "bang-dream.com/events/mygo-av…",
+              "end": 136,
+              "expanded_url": "https://bang-dream.com/events/mygo-avemujica2025_shanghai",
+              "images": [
+                {
+                  "height": 1103,
+                  "url": "https://pbs.twimg.com/news_img/1943867924323717120/TCYC08S7?format=jpg&name=orig",
+                  "width": 2109
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1943867924323717120/TCYC08S7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 200,
+              "title": "MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」上海追加公演 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/events/mygo-avemujica2025_shanghai",
+              "url": "https://t.co/6ys79jPqRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944358658412011979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 61687,
+          "like_count": 2519,
+          "quote_count": 8,
+          "reply_count": 73,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\nMyGO!!!!!×Ave Mujica 合同ライブ\n『わかれ道の、その先へ』上海公演\n燈役として出演させていただきます。\n\n日程┊︎10月11日(土)・12日(日)\n会場┊︎上海·梅赛德斯-奔驰文化\n詳細┊︎https://t.co/6ys79jPqRj\n\n追加公演も何卒よろしくお願いいたします✨\n\n#バンドリ #MyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943714290071986176/7NtAF1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 451,
+          "like_count": 1580,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 1464
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控えいただけますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206602,
+          "following_count": 277,
+          "like_count": 1976,
+          "listed_count": 1575,
+          "media_count": 121,
+          "tweet_count": 1187
+        },
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

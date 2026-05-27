@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1995043769264345591",
+    "created_at": "2025-11-30T08:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995043769264345591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okada_mei0519/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/okada_mei0519/status/1995013793651577088",
+          "start": 5,
+          "url": "https://t.co/bfhYvLFiUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995043769264345591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995013793651577088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈…… https://t.co/bfhYvLFiUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1995013771144970240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-2dG8bwAAbzes.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1206,
+        "media_key": "3_1995013771157540864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-2dG_bkAA3aEu.jpg",
+        "width": 1608
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1995013771207835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-2dHLbAAA8TrV.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1995043769264345591",
+        "created_at": "2025-11-30T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995043769264345591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/1995013793651577088",
+              "start": 5,
+              "url": "https://t.co/bfhYvLFiUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995043769264345591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995013793651577088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈…… https://t.co/bfhYvLFiUg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995013771144970240",
+            "3_1995013771157540864",
+            "3_1995013771207835648"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1995013793651577088",
+        "created_at": "2025-11-30T06:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995013793651577088"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "寄居",
+              "probability": 0.2907,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccJdnNth0s",
+              "end": 170,
+              "expanded_url": "https://x.com/okada_mei0519/status/1995013793651577088/photo/1",
+              "media_key": "3_1995013771144970240",
+              "start": 147,
+              "url": "https://t.co/ccJdnNth0s"
+            },
+            {
+              "display_url": "pic.x.com/ccJdnNth0s",
+              "end": 170,
+              "expanded_url": "https://x.com/okada_mei0519/status/1995013793651577088/photo/1",
+              "media_key": "3_1995013771157540864",
+              "start": 147,
+              "url": "https://t.co/ccJdnNth0s"
+            },
+            {
+              "display_url": "pic.x.com/ccJdnNth0s",
+              "end": 170,
+              "expanded_url": "https://x.com/okada_mei0519/status/1995013793651577088/photo/1",
+              "media_key": "3_1995013771207835648",
+              "start": 147,
+              "url": "https://t.co/ccJdnNth0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995013793651577088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 26591,
+          "like_count": 2085,
+          "quote_count": 26,
+          "reply_count": 46,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "〖寄居警察署年末年始特別警戒・冬の交通事故防止運動出発式〗にて\n⋱寄居1日警察署長⋰\nを務めさせていただきました🚨✨\n\n青空の下、大好きな地元で\n貴重な経験と時間を過ごさせていただき光栄でした🪽⁺｡\n\n警察の皆様、地元の皆様\nそして、応援に駆けつけてくれたみんな⟡\nありがとうございました❄️ https://t.co/ccJdnNth0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 523,
+          "like_count": 2711,
+          "listed_count": 4,
+          "media_count": 349,
+          "tweet_count": 2165
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ AveMujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫, etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 154,
+                "expanded_url": "https://maysland.jp/",
+                "start": 131,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身✦🐏",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135809,
+          "following_count": 411,
+          "like_count": 65107,
+          "listed_count": 1237,
+          "media_count": 4573,
+          "tweet_count": 14754
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

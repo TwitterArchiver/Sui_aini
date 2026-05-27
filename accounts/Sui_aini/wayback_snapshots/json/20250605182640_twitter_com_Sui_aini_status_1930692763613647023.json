@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1930692539079909442",
+    "created_at": "2025-06-05T18:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T19:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930692763613647023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1485471835680833536",
+          "start": 0,
+          "username": "AyakaNya_0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930692763613647023",
+    "in_reply_to_user_id": "1485471835680833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930692539079909442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyakaNya_0412 爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1930692539079909442",
+        "created_at": "2025-06-05T18:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930692763613647023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485471835680833536",
+              "start": 0,
+              "username": "AyakaNya_0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930692763613647023",
+        "in_reply_to_user_id": "1485471835680833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930692539079909442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyakaNya_0412 爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485471835680833536",
+        "conversation_id": "1930692539079909442",
+        "created_at": "2025-06-05T18:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930692539079909442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930692539079909442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我愛你們\n我愛大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 352,
+          "like_count": 808,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 957
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T04:39:16.000Z",
+        "description": "All that you touch, you change.",
+        "id": "1485471835680833536",
+        "location": "The Lake",
+        "name": "蔡綺晴提醒你天熱多喝水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778430143486418944/s71yFbfb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 330,
+          "like_count": 6333,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 2853
+        },
+        "username": "AyakaNya_0412",
+        "verified": false
+      }
+    ]
+  }
+}

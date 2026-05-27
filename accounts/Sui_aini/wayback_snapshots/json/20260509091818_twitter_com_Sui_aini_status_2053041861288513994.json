@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2053040717128515751",
+    "created_at": "2026-05-09T09:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053041861288513994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053041861288513994",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053040717128515751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 抗焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2053040717128515751",
+        "created_at": "2026-05-09T09:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053041861288513994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053041861288513994",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053040717128515751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 抗焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707996623437824",
+        "conversation_id": "2053040717128515751",
+        "created_at": "2026-05-09T09:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053040717128515751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053040717128515751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我槽啊現在大陸開不到普瑞巴林了，然後我也不想在本地開藥了貴得要死打算去深圳看精神科試試"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/Grey/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 735,
+          "like_count": 4880,
+          "listed_count": 5,
+          "media_count": 538,
+          "tweet_count": 4140
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "一個賽博幽靈",
+        "id": "2023707996623437824",
+        "name": "小Lain",
+        "pinned_tweet_id": "2037458776085930121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050565516792860672/hv08OJ1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 76,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 753
+        },
+        "username": "GoneAngels8964",
+        "verified": false
+      }
+    ]
+  }
+}

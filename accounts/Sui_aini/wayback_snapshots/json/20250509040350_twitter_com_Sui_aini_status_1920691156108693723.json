@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1920691156108693723",
+    "created_at": "2025-05-09T04:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T05:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920691156108693723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkaneY_STAFF/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/AkaneY_STAFF/status/1920690193365168460",
+          "start": 3,
+          "url": "https://t.co/sB0DDPoIv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920691156108693723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920690193365168460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不赖 https://t.co/sB0DDPoIv7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2282,
+        "media_key": "3_1920688649966063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqeoJqFaEAA2KIV.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1920691156108693723",
+        "created_at": "2025-05-09T04:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920691156108693723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkaneY_STAFF/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/AkaneY_STAFF/status/1920690193365168460",
+              "start": 3,
+              "url": "https://t.co/sB0DDPoIv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920691156108693723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920690193365168460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不赖 https://t.co/sB0DDPoIv7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920688649966063616"
+          ]
+        },
+        "author_id": "1855483526843645952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1920690193365168460",
+        "created_at": "2025-05-09T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920690193365168460"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "中大店",
+              "probability": 0.4145,
+              "start": 52,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkNxgr2ifP",
+              "end": 172,
+              "expanded_url": "https://x.com/AkaneY_STAFF/status/1920690193365168460/photo/1",
+              "media_key": "3_1920688649966063616",
+              "start": 149,
+              "url": "https://t.co/QkNxgr2ifP"
+            },
+            {
+              "display_url": "x.com/AkaneY_STAFF/s…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/AkaneY_STAFF/status/1919723830077227158",
+              "start": 173,
+              "url": "https://t.co/I067rxjlIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920690193365168460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919723830077227158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会場が変更になり、通常チケットの追加販売が決定いたしました。\n\n変更後の会場：MaoLivehouse（中大店）（一号馆）\n販売期間：5月10日（土）13:00~ 日本時間\n\nお問い合わせに関しては下記にお送りいただくようお願いいたします。\npineappleinfo2024@gmail.com https://t.co/QkNxgr2ifP https://t.co/I067rxjlIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 142,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 394
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T05:32:55.000Z",
+        "description": "米澤茜(@AkaneY_banu )のスタッフアカウントです✨  \n#米澤茜 #AkaneYonezawa \nファンレター・プレゼントは \n〒107-0062東京都港区南青山3-3-3リビエラ南青山A402 米澤茜宛\nお仕事の依頼はakaney.staff@gmail.comまで❗️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "米澤茜"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "tag": "AkaneYonezawa"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "AkaneY_banu"
+              }
+            ]
+          }
+        },
+        "id": "1855483526843645952",
+        "name": "米澤茜 STAFF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855898502620184576/zXBGz5_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 23,
+          "media_count": 19,
+          "tweet_count": 130
+        },
+        "username": "AkaneY_STAFF",
+        "verified": false
+      }
+    ]
+  }
+}

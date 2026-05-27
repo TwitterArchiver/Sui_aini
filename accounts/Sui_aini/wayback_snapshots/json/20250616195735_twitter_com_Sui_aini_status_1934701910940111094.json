@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1934694866405216321",
+    "created_at": "2025-06-16T19:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T20:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934701910940111094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1555555281706176512",
+          "start": 0,
+          "username": "lantian_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934701910940111094",
+    "in_reply_to_user_id": "1555555281706176512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934701345325633552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lantian_x 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1934694866405216321",
+        "created_at": "2025-06-16T19:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934701910940111094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1555555281706176512",
+              "start": 0,
+              "username": "lantian_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934701910940111094",
+        "in_reply_to_user_id": "1555555281706176512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934701345325633552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lantian_x 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555555281706176512",
+        "conversation_id": "1934694866405216321",
+        "created_at": "2025-06-16T19:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934701345325633552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934701345325633552",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934694866405216321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 364,
+          "like_count": 919,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1047
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T14:04:23.000Z",
+        "description": "cry for me",
+        "id": "1555555281706176512",
+        "name": "夏莲",
+        "pinned_tweet_id": "1841142382512775530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884291559698620419/BApO_U9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 475,
+          "like_count": 19865,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 4382
+        },
+        "username": "lantian_x",
+        "verified": false
+      }
+    ]
+  }
+}

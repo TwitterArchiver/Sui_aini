@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1953017849351455160",
+    "created_at": "2025-08-07T04:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T05:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953311638494298368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1184498096",
+          "start": 0,
+          "username": "BasuriaDiaspora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953311638494298368",
+    "in_reply_to_user_id": "1184498096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953242714918756629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BasuriaDiaspora 你是?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1953017849351455160",
+        "created_at": "2025-08-07T04:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953311638494298368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1184498096",
+              "start": 0,
+              "username": "BasuriaDiaspora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953311638494298368",
+        "in_reply_to_user_id": "1184498096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953242714918756629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BasuriaDiaspora 你是?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184498096",
+        "conversation_id": "1953017849351455160",
+        "created_at": "2025-08-06T23:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T00:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953242714918756629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953242714918756629",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953017849351455160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 跨畜差不多得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 498,
+          "like_count": 2107,
+          "listed_count": 4,
+          "media_count": 301,
+          "tweet_count": 1831
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-16T03:17:39.000Z",
+        "description": "",
+        "id": "1184498096",
+        "name": "Fringe Basuria Diaspora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866984080501542912/wsQKEWpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 383,
+          "like_count": 164,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 1902
+        },
+        "username": "BasuriaDiaspora",
+        "verified": false
+      }
+    ]
+  }
+}

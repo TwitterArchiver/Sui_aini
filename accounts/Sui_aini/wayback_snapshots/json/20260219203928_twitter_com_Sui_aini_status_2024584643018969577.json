@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2024578469691277672",
+    "created_at": "2026-02-19T20:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024584643018969577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012617076150611968",
+          "start": 0,
+          "username": "HoriyetErkin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lizyhsan178/st…",
+          "end": 37,
+          "expanded_url": "https://x.com/lizyhsan178/status/2023839079981273274?s=19",
+          "start": 14,
+          "url": "https://t.co/adLz329XPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024584643018969577",
+    "in_reply_to_user_id": "2012617076150611968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023839079981273274",
+        "type": "quoted"
+      },
+      {
+        "id": "2024580962416513367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoriyetErkin https://t.co/adLz329XPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023839076856844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYe6uqbUAAMbj-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2024578469691277672",
+        "created_at": "2026-02-19T20:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024584643018969577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012617076150611968",
+              "start": 0,
+              "username": "HoriyetErkin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lizyhsan178/st…",
+              "end": 37,
+              "expanded_url": "https://x.com/lizyhsan178/status/2023839079981273274?s=19",
+              "start": 14,
+              "url": "https://t.co/adLz329XPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024584643018969577",
+        "in_reply_to_user_id": "2012617076150611968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023839079981273274",
+            "type": "quoted"
+          },
+          {
+            "id": "2024580962416513367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoriyetErkin https://t.co/adLz329XPa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023839076856844288"
+          ]
+        },
+        "author_id": "1074011630629838849",
+        "conversation_id": "2023839079981273274",
+        "created_at": "2026-02-17T19:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023839079981273274"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Kirara",
+              "probability": 0.7359,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7xFC4mDbL",
+              "end": 54,
+              "expanded_url": "https://x.com/lizyhsan178/status/2023839079981273274/photo/1",
+              "media_key": "3_2023839076856844288",
+              "start": 31,
+              "url": "https://t.co/q7xFC4mDbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023839079981273274",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7461,
+          "impression_count": 3943836,
+          "like_count": 34318,
+          "quote_count": 741,
+          "reply_count": 210,
+          "retweet_count": 1471
+        },
+        "reply_settings": "following",
+        "text": "Kirara te desea un buen día ;) https://t.co/q7xFC4mDbL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012617076150611968",
+        "conversation_id": "2024578469691277672",
+        "created_at": "2026-02-19T20:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024580962416513367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024580962416513367",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024578469691277672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 哪位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 565,
+          "like_count": 3391,
+          "listed_count": 4,
+          "media_count": 418,
+          "tweet_count": 2793
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:05:14.000Z",
+        "description": "",
+        "id": "2012617076150611968",
+        "name": "You Know Who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024570896619622402/8-zDFuE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 25,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 473
+        },
+        "username": "HoriyetErkin",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-15T18:41:41.000Z",
+        "description": "22💞 Cosplayer 🧸 streamer / 1.58 cm ↓↓para ver más ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/lizyhsan",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/lizyhsan",
+                "start": 0,
+                "url": "https://t.co/H1biosZRdB"
+              }
+            ]
+          }
+        },
+        "id": "1074011630629838849",
+        "name": "LizyhSan",
+        "pinned_tweet_id": "2021664666209194303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641801864462098434/WNMlBA06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524935,
+          "following_count": 447,
+          "like_count": 9078,
+          "listed_count": 808,
+          "media_count": 328,
+          "tweet_count": 6589
+        },
+        "url": "https://t.co/H1biosZRdB",
+        "username": "lizyhsan178",
+        "verified": false
+      }
+    ]
+  }
+}

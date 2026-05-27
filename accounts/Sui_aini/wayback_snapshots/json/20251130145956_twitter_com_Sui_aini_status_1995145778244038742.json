@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1995145778244038742",
+    "created_at": "2025-11-30T14:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995145778244038742"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "深谷テラスパーク",
+          "probability": 0.5821,
+          "start": 36,
+          "type": "Place"
+        },
+        {
+          "end": 86,
+          "normalized_text": "寄居警察署長",
+          "probability": 0.3293,
+          "start": 81,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1207457416855478272",
+          "start": 3,
+          "username": "yorii_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995145778244038742",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994997119858663851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorii_official: 生活環境エコタウン課です。本日、深谷テラスパークで「年末年始特別警戒・冬の交通事故防止運動出発式」が執り行われました。1日寄居警察署長に、声優の岡田夢以(おかだめい)さんが就任され交通安全宣言等を実施いただきました。… https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994997097717010435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-nSllbkAM1qHi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994997097717010438",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-nSllbkAYi5Hc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994997097721192448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-nSlmbYAAsujY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1994997097725308928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-nSlnaMAA3xzP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1995145778244038742",
+        "created_at": "2025-11-30T14:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995145778244038742"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "深谷テラスパーク",
+              "probability": 0.5821,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 86,
+              "normalized_text": "寄居警察署長",
+              "probability": 0.3293,
+              "start": 81,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1207457416855478272",
+              "start": 3,
+              "username": "yorii_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995145778244038742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994997119858663851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorii_official: 生活環境エコタウン課です。本日、深谷テラスパークで「年末年始特別警戒・冬の交通事故防止運動出発式」が執り行われました。1日寄居警察署長に、声優の岡田夢以(おかだめい)さんが就任され交通安全宣言等を実施いただきました。… https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994997097717010435",
+            "3_1994997097717010438",
+            "3_1994997097721192448",
+            "3_1994997097725308928"
+          ]
+        },
+        "author_id": "1207457416855478272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1994997119858663851",
+        "created_at": "2025-11-30T05:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994997119858663851"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "深谷テラスパーク",
+              "probability": 0.5456,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "寄居警察署長",
+              "probability": 0.3379,
+              "start": 61,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3CZnZBJI1",
+              "end": 132,
+              "expanded_url": "https://x.com/yorii_official/status/1994997119858663851/photo/1",
+              "media_key": "3_1994997097717010435",
+              "start": 109,
+              "url": "https://t.co/D3CZnZBJI1"
+            },
+            {
+              "display_url": "pic.x.com/D3CZnZBJI1",
+              "end": 132,
+              "expanded_url": "https://x.com/yorii_official/status/1994997119858663851/photo/1",
+              "media_key": "3_1994997097717010438",
+              "start": 109,
+              "url": "https://t.co/D3CZnZBJI1"
+            },
+            {
+              "display_url": "pic.x.com/D3CZnZBJI1",
+              "end": 132,
+              "expanded_url": "https://x.com/yorii_official/status/1994997119858663851/photo/1",
+              "media_key": "3_1994997097721192448",
+              "start": 109,
+              "url": "https://t.co/D3CZnZBJI1"
+            },
+            {
+              "display_url": "pic.x.com/D3CZnZBJI1",
+              "end": 132,
+              "expanded_url": "https://x.com/yorii_official/status/1994997119858663851/photo/1",
+              "media_key": "3_1994997097725308928",
+              "start": 109,
+              "url": "https://t.co/D3CZnZBJI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994997119858663851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 146,
+                "tag": "寄居町"
+              },
+              {
+                "end": 154,
+                "start": 151,
+                "tag": "防犯"
+              },
+              {
+                "end": 166,
+                "start": 155,
+                "tag": "冬の交通事故防止運動"
+              },
+              {
+                "end": 172,
+                "start": 167,
+                "tag": "岡田夢以"
+              }
+            ]
+          },
+          "text": "生活環境エコタウン課です。本日、深谷テラスパークで「年末年始特別警戒・冬の交通事故防止運動出発式」が執り行われました。1日寄居警察署長に、声優の岡田夢以(おかだめい)さんが就任され交通安全宣言等を実施いただきました。\n年末年始は特に慌ただしくなる時期です。防犯と交通安全を心掛けてください。\n#寄居町 #防犯 #冬の交通事故防止運動 #岡田夢以"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4783,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "生活環境エコタウン課です。本日、深谷テラスパークで「年末年始特別警戒・冬の交通事故防止運動出発式」が執り行われました。1日寄居警察署長に、声優の岡田夢以(おかだめい)さんが就任され交通安全宣言等を実施いただきました。 https://t.co/D3CZnZBJI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 524,
+          "like_count": 2715,
+          "listed_count": 4,
+          "media_count": 350,
+          "tweet_count": 2170
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-19T00:28:11.000Z",
+        "description": "埼玉県寄居町の公式アカウントです。寄居町に関する情報を発信します。原則、質問等への回答は行いません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "town.yorii.saitama.jp",
+                "end": 23,
+                "expanded_url": "https://www.town.yorii.saitama.jp/",
+                "start": 0,
+                "url": "https://t.co/XWnadtezEB"
+              }
+            ]
+          }
+        },
+        "id": "1207457416855478272",
+        "location": "埼玉県大里郡寄居町大字寄居1180番地1",
+        "name": "埼玉県寄居町",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861624863544561664/ql_hIHjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 0,
+          "like_count": 65,
+          "listed_count": 55,
+          "media_count": 4893,
+          "tweet_count": 6669
+        },
+        "url": "https://t.co/XWnadtezEB",
+        "username": "yorii_official",
+        "verified": true
+      }
+    ]
+  }
+}

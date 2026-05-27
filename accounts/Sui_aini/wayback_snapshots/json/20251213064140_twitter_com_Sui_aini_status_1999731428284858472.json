@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999718837097525248"
+      ],
+      "media_source_tweet_id": [
+        "1999718845410607426"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1999731428284858472",
+    "created_at": "2025-12-13T06:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T07:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999731428284858472"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "砂寸奏",
+          "probability": 0.329,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "ひなぴよがやりたいって",
+          "probability": 0.5917,
+          "start": 59,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnG3E8Rwwh",
+          "end": 116,
+          "expanded_url": "https://x.com/aoki__hina/status/1999718845410607426/photo/1",
+          "media_key": "3_1999718837097525248",
+          "start": 93,
+          "url": "https://t.co/JnG3E8Rwwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999731428284858472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999718845410607426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 8th LIVE 配信観れるの今日までーーっ！！\n\n名無声の冒頭と、砂寸奏の冒頭は、\nひなぴよがやりたいって言いました🐱wow🐱\n#バンドリ #MyGO https://t.co/JnG3E8Rwwh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999718837097525248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Btr_fa8AAU4kU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999718837097525248"
+          ],
+          "media_source_tweet_id": [
+            "1999718845410607426"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1999731428284858472",
+        "created_at": "2025-12-13T06:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999731428284858472"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "砂寸奏",
+              "probability": 0.329,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "ひなぴよがやりたいって",
+              "probability": 0.5917,
+              "start": 59,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnG3E8Rwwh",
+              "end": 116,
+              "expanded_url": "https://x.com/aoki__hina/status/1999718845410607426/photo/1",
+              "media_key": "3_1999718837097525248",
+              "start": 93,
+              "url": "https://t.co/JnG3E8Rwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999731428284858472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999718845410607426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 8th LIVE 配信観れるの今日までーーっ！！\n\n名無声の冒頭と、砂寸奏の冒頭は、\nひなぴよがやりたいって言いました🐱wow🐱\n#バンドリ #MyGO https://t.co/JnG3E8Rwwh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999718837097525248"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1999718845410607426",
+        "created_at": "2025-12-13T05:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999718845410607426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "砂寸奏",
+              "probability": 0.34,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 53,
+              "normalized_text": "ひなぴよがやりたいって",
+              "probability": 0.5982,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnG3E8Rwwh",
+              "end": 100,
+              "expanded_url": "https://x.com/aoki__hina/status/1999718845410607426/photo/1",
+              "media_key": "3_1999718837097525248",
+              "start": 77,
+              "url": "https://t.co/JnG3E8Rwwh"
+            },
+            {
+              "display_url": "x.com/bang_dream_myg…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1999660548099604615",
+              "start": 101,
+              "url": "https://t.co/iIxFwzDGz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999718845410607426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 26101,
+          "like_count": 1968,
+          "quote_count": 24,
+          "reply_count": 26,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999660548099604615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8th LIVE 配信観れるの今日までーーっ！！\n\n名無声の冒頭と、砂寸奏の冒頭は、\nひなぴよがやりたいって言いました🐱wow🐱\n#バンドリ #MyGO https://t.co/JnG3E8Rwwh https://t.co/iIxFwzDGz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 530,
+          "like_count": 2787,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2253
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です！アニメと音楽と鳥が好きです🕊┊【Music info】@AokiHina_Staff┊【SNS】https://t.co/yvPs79Redz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "AokiHina_Staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 92,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 69,
+                "url": "https://t.co/yvPs79Redz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWxI2Y"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1991812336001417555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943840334204874758/yOR29OIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157814,
+          "following_count": 328,
+          "like_count": 3,
+          "listed_count": 1113,
+          "media_count": 1450,
+          "tweet_count": 5219
+        },
+        "url": "https://t.co/dnMFfWxI2Y",
+        "username": "aoki__hina",
+        "verified": true
+      }
+    ]
+  }
+}

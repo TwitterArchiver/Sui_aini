@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1947398562666663957",
+    "created_at": "2025-07-21T22:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T23:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947420435722944542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947420435722944542",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947413261730910237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilentNagiyou 好耶，贴贴！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1947398562666663957",
+        "created_at": "2025-07-21T22:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T23:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947420435722944542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947420435722944542",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947413261730910237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilentNagiyou 好耶，贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "1947398562666663957",
+        "created_at": "2025-07-21T21:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T22:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947413261730910237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947413261730910237",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947398562666663957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我们一起网上冲浪呢，贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 473,
+          "like_count": 1868,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 1626
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "我比ai更懂打游戏，因为我关闭了局内数据上传丨言之曰，'时日曷丧？吾与汝皆亡！'丨https://t.co/aI2cuJM2W8丨喜欢影射、单取、史官和理中客交流，如果存在情绪价值那么powered by GPT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 64,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 41,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "疏若巧",
+        "pinned_tweet_id": "1922276630833094989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 720,
+          "like_count": 39613,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 6175
+        },
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

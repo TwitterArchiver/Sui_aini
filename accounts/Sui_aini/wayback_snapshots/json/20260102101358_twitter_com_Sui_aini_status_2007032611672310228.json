@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2007032611672310228",
+    "created_at": "2026-01-02T10:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007032611672310228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NBrosta/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NBrosta/status/2006735681452917111",
+          "start": 7,
+          "url": "https://t.co/sAwMXpzgO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007032611672310228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006735681452917111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额，你无敌了 https://t.co/sAwMXpzgO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2006735592328192000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lbY5ra4AA8RUG.jpg",
+        "width": 3024
+      },
+      {
+        "duration_ms": 44445,
+        "height": 720,
+        "media_key": "13_2006735592332361728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006735592332361728/img/vf7_cwn6nbR-zDk1.jpg",
+        "public_metrics": {
+          "view_count": 1034330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006735592332361728/vid/avc1/480x270/DN4avT78FVLcC6Sn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006735592332361728/vid/avc1/640x360/1C8MWHfAVMQ0BVah.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006735592332361728/vid/avc1/1280x720/Qo-16yyDQUreEyEP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006735592332361728/pl/nBqNS0XuHia0C-Cp.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 858,
+        "media_key": "3_2006735592323973120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lbY5qagAAnXm4.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2007032611672310228",
+        "created_at": "2026-01-02T10:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007032611672310228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NBrosta/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NBrosta/status/2006735681452917111",
+              "start": 7,
+              "url": "https://t.co/sAwMXpzgO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007032611672310228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006735681452917111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，你无敌了 https://t.co/sAwMXpzgO0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006735592328192000",
+            "13_2006735592332361728",
+            "3_2006735592323973120"
+          ]
+        },
+        "author_id": "1364193515073196034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2006735681452917111",
+        "created_at": "2026-01-01T14:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006735681452917111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "優◯せつ菜",
+              "probability": 0.374,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "楠◯ともりさん",
+              "probability": 0.4112,
+              "start": 11,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "木ともりさん",
+              "probability": 0.3059,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "せつ菜",
+              "probability": 0.5105,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53plnbvGJ7",
+              "end": 113,
+              "expanded_url": "https://x.com/NBrosta/status/2006735681452917111/video/1",
+              "media_key": "3_2006735592328192000",
+              "start": 90,
+              "url": "https://t.co/53plnbvGJ7"
+            },
+            {
+              "display_url": "pic.x.com/53plnbvGJ7",
+              "end": 113,
+              "expanded_url": "https://x.com/NBrosta/status/2006735681452917111/video/1",
+              "media_key": "13_2006735592332361728",
+              "start": 90,
+              "url": "https://t.co/53plnbvGJ7"
+            },
+            {
+              "display_url": "pic.x.com/53plnbvGJ7",
+              "end": 113,
+              "expanded_url": "https://x.com/NBrosta/status/2006735681452917111/video/1",
+              "media_key": "3_2006735592323973120",
+              "start": 90,
+              "url": "https://t.co/53plnbvGJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006735681452917111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3625,
+          "impression_count": 3004341,
+          "like_count": 11586,
+          "quote_count": 1724,
+          "reply_count": 385,
+          "retweet_count": 1893
+        },
+        "reply_settings": "everyone",
+        "text": "優◯せつ菜ガチオタクが楠◯ともりさんの結婚報告を聞いて暴走して起きた事件\n\n◯木ともりさんが作り上げた◯木せつ菜ってキャラクターを本気で信じて愛していたそうです......... https://t.co/53plnbvGJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 534,
+          "like_count": 2912,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2324
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T12:41:38.000Z",
+        "description": "❗️",
+        "id": "1364193515073196034",
+        "name": "ね！こ！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006735794921418753/YUJw8xbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1151,
+          "like_count": 118764,
+          "listed_count": 2,
+          "media_count": 4529,
+          "tweet_count": 87317
+        },
+        "username": "NBrosta",
+        "verified": false
+      }
+    ]
+  }
+}

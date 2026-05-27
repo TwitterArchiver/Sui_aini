@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress, seiyÅ«",
+          "id": "1070715936829726720",
+          "name": "Hinata Sato"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress, seiyÅ«",
+          "id": "1070715936829726720",
+          "name": "Hinata Sato"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress, seiyÅ«",
+          "id": "1070715936829726720",
+          "name": "Hinata Sato"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1928052082713489688",
+    "created_at": "2025-05-29T11:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T12:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928052082713489688"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "超時空捜査隊マルキュー",
+          "probability": 0.5542,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 75,
+          "normalized_text": "紫陽琴花",
+          "probability": 0.1686,
+          "start": 72,
+          "type": "Person"
+        },
+        {
+          "end": 98,
+          "normalized_text": "琴花ちゃん",
+          "probability": 0.621,
+          "start": 94,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "シネマダミス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928052082713489688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927912615553999308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: #シネマダミス 『超時空捜査隊マルキュー』のコメント動画が公開となりました🎬\n\n私は、6月22日（日）の〈紫陽琴花役〉を務めさせていただきます💙\n\n琴花ちゃんはタイムパトロールのルーキーということで…推理難しくっても新人だし多めに見てくれます…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927912606448390144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsFSTRFakAACAbd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1928052082713489688",
+        "created_at": "2025-05-29T11:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T12:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928052082713489688"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "超時空捜査隊マルキュー",
+              "probability": 0.5542,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "紫陽琴花",
+              "probability": 0.1686,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "琴花ちゃん",
+              "probability": 0.621,
+              "start": 94,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "シネマダミス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928052082713489688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927912615553999308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: #シネマダミス 『超時空捜査隊マルキュー』のコメント動画が公開となりました🎬\n\n私は、6月22日（日）の〈紫陽琴花役〉を務めさせていただきます💙\n\n琴花ちゃんはタイムパトロールのルーキーということで…推理難しくっても新人だし多めに見てくれます…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927912606448390144"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, seiyÅ«",
+              "id": "1070715936829726720",
+              "name": "Hinata Sato"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1927912615553999308",
+        "created_at": "2025-05-29T02:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T03:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927912615553999308"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "超時空捜査隊マルキュー",
+              "probability": 0.6404,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "紫陽琴花",
+              "probability": 0.1654,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 80,
+              "normalized_text": "琴花ちゃん",
+              "probability": 0.6334,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "シネマダミス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw3Z19UAN4",
+              "end": 169,
+              "expanded_url": "https://x.com/kohinatamika/status/1927912615553999308/photo/1",
+              "media_key": "3_1927912606448390144",
+              "start": 146,
+              "url": "https://t.co/Vw3Z19UAN4"
+            },
+            {
+              "display_url": "x.com/seigura/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/seigura/status/1926851173732024540",
+              "start": 170,
+              "url": "https://t.co/eBHuhOyWBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927912615553999308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 59401,
+          "like_count": 2337,
+          "quote_count": 12,
+          "reply_count": 44,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926851173732024540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#シネマダミス 『超時空捜査隊マルキュー』のコメント動画が公開となりました🎬\n\n私は、6月22日（日）の〈紫陽琴花役〉を務めさせていただきます💙\n\n琴花ちゃんはタイムパトロールのルーキーということで…推理難しくっても新人だし多めに見てくれますよね♪\n\n一緒に楽しい時間を過ごしましょうー！✨ https://t.co/Vw3Z19UAN4 https://t.co/eBHuhOyWBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1923408372054835553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 294,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 702
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "イマ2"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96379,
+          "following_count": 413,
+          "like_count": 5525,
+          "listed_count": 751,
+          "media_count": 1241,
+          "tweet_count": 4564
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

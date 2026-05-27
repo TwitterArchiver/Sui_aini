@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940766792911138816"
+      ],
+      "media_source_tweet_id": [
+        "1940766803132928420"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1940779384224600076",
+    "created_at": "2025-07-03T14:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940779384224600076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SmxkornrG5",
+          "end": 50,
+          "expanded_url": "https://x.com/0u0HaNako666/status/1940766803132928420/photo/1",
+          "media_key": "3_1940766792911138816",
+          "start": 27,
+          "url": "https://t.co/SmxkornrG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940779384224600076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940766803132928420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: ライブあんがと🐼 https://t.co/SmxkornrG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940766792911138816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu79HZNXsAARdYp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940766792911138816"
+          ],
+          "media_source_tweet_id": [
+            "1940766803132928420"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1940779384224600076",
+        "created_at": "2025-07-03T14:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940779384224600076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmxkornrG5",
+              "end": 50,
+              "expanded_url": "https://x.com/0u0HaNako666/status/1940766803132928420/photo/1",
+              "media_key": "3_1940766792911138816",
+              "start": 27,
+              "url": "https://t.co/SmxkornrG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940779384224600076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940766803132928420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: ライブあんがと🐼 https://t.co/SmxkornrG5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940766792911138816"
+          ]
+        },
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1940766803132928420",
+        "created_at": "2025-07-03T13:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940766803132928420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmxkornrG5",
+              "end": 32,
+              "expanded_url": "https://x.com/0u0HaNako666/status/1940766803132928420/photo/1",
+              "media_key": "3_1940766792911138816",
+              "start": 9,
+              "url": "https://t.co/SmxkornrG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940766803132928420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15006,
+          "like_count": 1566,
+          "quote_count": 29,
+          "reply_count": 97,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "ライブあんがと🐼 https://t.co/SmxkornrG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1937368180458160531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 374,
+          "like_count": 1090,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1227
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん🐼ネット配信者.「進撃の巨人」The Final Season主題歌OP・2期ED. 「恋は雨上がりのように」映画主題歌、劇伴.「電波女と青春男」OP担当. 今まで作った自主制作Pv▷:https://t.co/fxmjNE4Euf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 125,
+                "expanded_url": "https://www.youtube.com/user/vivaru",
+                "start": 102,
+                "url": "https://t.co/fxmjNE4Euf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/AVgDmRDB0v"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212352234551275520/YFsOGIOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180747,
+          "following_count": 226,
+          "like_count": 358639,
+          "listed_count": 1385,
+          "media_count": 2639,
+          "tweet_count": 54279
+        },
+        "url": "https://t.co/AVgDmRDB0v",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2054616030937571588",
+    "created_at": "2026-05-13T17:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054621485361508429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1120781959339347969",
+          "start": 0,
+          "username": "gizlikayitlar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054621485361508429",
+    "in_reply_to_user_id": "1120781959339347969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054620982024011884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gizlikayitlar 戒了就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2054616030937571588",
+        "created_at": "2026-05-13T17:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054621485361508429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1120781959339347969",
+              "start": 0,
+              "username": "gizlikayitlar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054621485361508429",
+        "in_reply_to_user_id": "1120781959339347969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054620982024011884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gizlikayitlar 戒了就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120781959339347969",
+        "conversation_id": "2054616030937571588",
+        "created_at": "2026-05-13T17:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054620982024011884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054620982024011884",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054620535326425339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 还好戒了 反正是不想再见到玉米了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2053352792975450570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 743,
+          "like_count": 5012,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 4342
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T20:10:17.000Z",
+        "description": "",
+        "id": "1120781959339347969",
+        "name": "L.yunk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947638309087547393/RCOF7vd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4316,
+          "following_count": 35,
+          "like_count": 2841,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 304
+        },
+        "username": "gizlikayitlar",
+        "verified": false
+      }
+    ]
+  }
+}

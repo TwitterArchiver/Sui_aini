@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2048072183017017420",
+    "created_at": "2026-04-25T16:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048084172443717668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        },
+        {
+          "end": 22,
+          "id": "1956083750661718016",
+          "start": 14,
+          "username": "fly2_1M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048084172443717668",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048073319937605731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot @fly2_1M 请半天事假，不过假如频繁的请，这也明牌是要离职了，假如是不好的上级一定会为难你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048073319937605731].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048073319937605731",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048073319937605731"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2048072183017017420",
+        "created_at": "2026-04-25T16:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048084172443717668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            },
+            {
+              "end": 22,
+              "id": "1956083750661718016",
+              "start": 14,
+              "username": "fly2_1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048084172443717668",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048073319937605731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot @fly2_1M 请半天事假，不过假如频繁的请，这也明牌是要离职了，假如是不好的上级一定会为难你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 684,
+          "like_count": 4533,
+          "listed_count": 6,
+          "media_count": 505,
+          "tweet_count": 3648
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "ⓘ 该账号涉黄已被封禁",
+        "pinned_tweet_id": "2031974761308582369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 315,
+          "like_count": 8188,
+          "listed_count": 10,
+          "media_count": 199,
+          "tweet_count": 2722
+        },
+        "username": "Private_plot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T20:01:43.000Z",
+        "description": "不交易也是一种交易\n等待每一次重仓机会\n记录BTC/A股/美股交易",
+        "id": "1956083750661718016",
+        "name": "从零爬上100wu",
+        "pinned_tweet_id": "2042092692923150576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979837556217819136/RHPCmKP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 151,
+          "like_count": 4934,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 1906
+        },
+        "username": "fly2_1M",
+        "verified": false
+      }
+    ]
+  }
+}

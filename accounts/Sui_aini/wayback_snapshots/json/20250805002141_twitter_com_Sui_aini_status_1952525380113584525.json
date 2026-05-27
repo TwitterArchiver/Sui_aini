@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952223538158657536"
+      ],
+      "media_source_tweet_id": [
+        "1952223712880755045"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952525380113584525",
+    "created_at": "2025-08-05T00:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952525380113584525"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "上海",
+          "probability": 0.6582,
+          "start": 40,
+          "type": "Place"
+        },
+        {
+          "end": 63,
+          "normalized_text": "Faraway MEIさん",
+          "probability": 0.2939,
+          "start": 51,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 21,
+          "tag": "MEI_LiveRadiance"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "MEI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "36947836",
+          "start": 3,
+          "username": "poAlwaysHope519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQbfr1ClSB",
+          "end": 117,
+          "expanded_url": "https://x.com/poAlwaysHope519/status/1952223712880755045/video/1",
+          "media_key": "13_1952223538158657536",
+          "start": 94,
+          "url": "https://t.co/ZQbfr1ClSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952525380113584525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952223712880755045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poAlwaysHope519: #MEI_LiveRadiance \n上海公演 撮影可能曲 Faraway\nMEIさんの魅力、現地の雰囲気が少しでも届きますように☺️\n#MEI https://t.co/ZQbfr1ClSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51313,
+        "height": 720,
+        "media_key": "13_1952223538158657536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952223538158657536/img/l3BtLmIMzxAhUHeU.jpg",
+        "public_metrics": {
+          "view_count": 5609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952223538158657536/vid/avc1/480x270/D-S1HgVZ40KFlkaH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952223538158657536/vid/avc1/640x360/p7IseNP7tWHsI85f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952223538158657536/vid/avc1/1280x720/JyCzszyeSGe1Ism6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952223538158657536/pl/2SiBNQCFqE2b5At9.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952223538158657536"
+          ],
+          "media_source_tweet_id": [
+            "1952223712880755045"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952525380113584525",
+        "created_at": "2025-08-05T00:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952525380113584525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "上海",
+              "probability": 0.6582,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Faraway MEIさん",
+              "probability": 0.2939,
+              "start": 51,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 21,
+              "tag": "MEI_LiveRadiance"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "MEI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "36947836",
+              "start": 3,
+              "username": "poAlwaysHope519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQbfr1ClSB",
+              "end": 117,
+              "expanded_url": "https://x.com/poAlwaysHope519/status/1952223712880755045/video/1",
+              "media_key": "13_1952223538158657536",
+              "start": 94,
+              "url": "https://t.co/ZQbfr1ClSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952525380113584525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952223712880755045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poAlwaysHope519: #MEI_LiveRadiance \n上海公演 撮影可能曲 Faraway\nMEIさんの魅力、現地の雰囲気が少しでも届きますように☺️\n#MEI https://t.co/ZQbfr1ClSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952223538158657536"
+          ]
+        },
+        "author_id": "36947836",
+        "conversation_id": "1952223712880755045",
+        "created_at": "2025-08-04T04:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T05:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952223712880755045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "上海",
+              "probability": 0.7121,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Faraway MEI",
+              "probability": 0.566,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "MEI_LiveRadiance"
+            },
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "MEI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQbfr1ClSB",
+              "end": 96,
+              "expanded_url": "https://x.com/poAlwaysHope519/status/1952223712880755045/video/1",
+              "media_key": "13_1952223538158657536",
+              "start": 73,
+              "url": "https://t.co/ZQbfr1ClSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952223712880755045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 15673,
+          "like_count": 698,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "#MEI_LiveRadiance \n上海公演 撮影可能曲 Faraway\nMEIさんの魅力、現地の雰囲気が少しでも届きますように☺️\n#MEI https://t.co/ZQbfr1ClSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 499,
+          "like_count": 2083,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 1808
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-01T14:01:32.000Z",
+        "description": "声優、俳優の #岡田夢以 さん、そして #Merm4id #AveMujica #らぶフォー #DIVINE を応援するめいっこ、らぶファン。No Mei No life. Merm4id公認癒し担当オタク、If you can dream it, you can do it. #1日1めいしゃん #しゃんきいて 🥺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 7,
+                "tag": "岡田夢以"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "Merm4id"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "tag": "DIVINE"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "tag": "1日1めいしゃん"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "tag": "しゃんきいて"
+              }
+            ]
+          }
+        },
+        "id": "36947836",
+        "location": "MAY's LANDの住民",
+        "name": "水島ポン太🐏🧜‍♀️👩‍🎨🔮🤍",
+        "pinned_tweet_id": "1898752652969980298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212389316049035266/yWXYvh6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1414,
+          "like_count": 99771,
+          "listed_count": 8,
+          "media_count": 6715,
+          "tweet_count": 91629
+        },
+        "username": "poAlwaysHope519",
+        "verified": false
+      }
+    ]
+  }
+}

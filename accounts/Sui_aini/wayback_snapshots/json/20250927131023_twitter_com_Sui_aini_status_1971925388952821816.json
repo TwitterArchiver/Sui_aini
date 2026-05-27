@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1971925388952821816",
+    "created_at": "2025-09-27T13:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T14:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971925388952821816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hina_Youmiya/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Hina_Youmiya/status/1971923108518043668",
+          "start": 6,
+          "url": "https://t.co/7gtD6hZp6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971925388952821816",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971923108518043668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hina… https://t.co/7gtD6hZp6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971923024862687232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12tix1asAAKcjf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971923024845975552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12tixxbsAAFmau.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1971925388952821816",
+        "created_at": "2025-09-27T13:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971925388952821816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hina_Youmiya/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1971923108518043668",
+              "start": 6,
+              "url": "https://t.co/7gtD6hZp6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971925388952821816",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971923108518043668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hina… https://t.co/7gtD6hZp6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971923024862687232",
+            "3_1971923024845975552"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1971923108518043668",
+        "created_at": "2025-09-27T13:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971923108518043668"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ワンダンス",
+              "probability": 0.7557,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 141,
+              "tag": "ワンダンス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXEQRimxmF",
+              "end": 171,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1971923108518043668/photo/1",
+              "media_key": "3_1971923024862687232",
+              "start": 148,
+              "url": "https://t.co/PXEQRimxmF"
+            },
+            {
+              "display_url": "pic.x.com/PXEQRimxmF",
+              "end": 171,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1971923108518043668/photo/1",
+              "media_key": "3_1971923024845975552",
+              "start": 148,
+              "url": "https://t.co/PXEQRimxmF"
+            },
+            {
+              "display_url": "x.com/aoni_official/…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/aoni_official/status/1971903289160839542",
+              "start": 172,
+              "url": "https://t.co/c53cJ9L6q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971923108518043668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 9902,
+          "like_count": 746,
+          "quote_count": 8,
+          "reply_count": 35,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971903289160839542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "『ワンダンス』先行上映会\n\nご来場ありがとうございました！✨\n今回はダンスにちなんだお洋服を\n着させていただいておりました✨\n放送までいよいよあと少し...。\nとても楽しみですし、早く皆さんにも\n見ていただきたい気持ちでいっぱいです✨\nぜひ\"ワンダンス\"をよろしくお願いします！\n\n#ワンダンス https://t.co/PXEQRimxmF https://t.co/c53cJ9L6q2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 512,
+          "like_count": 2368,
+          "listed_count": 4,
+          "media_count": 326,
+          "tweet_count": 1982
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215551,
+          "following_count": 287,
+          "like_count": 1975,
+          "listed_count": 1611,
+          "media_count": 137,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

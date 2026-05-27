@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      }
+    ],
+    "conversation_id": "2009289076965273842",
+    "created_at": "2026-01-08T15:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009289076965273842"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "中国",
+          "probability": 0.8826,
+          "start": 13,
+          "type": "Place"
+        },
+        {
+          "end": 53,
+          "normalized_text": "中国商務省",
+          "probability": 0.382,
+          "start": 49,
+          "type": "Place"
+        },
+        {
+          "end": 57,
+          "normalized_text": "日本",
+          "probability": 0.8124,
+          "start": 56,
+          "type": "Place"
+        },
+        {
+          "end": 82,
+          "normalized_text": "日本",
+          "probability": 0.7399,
+          "start": 81,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "60039840",
+          "start": 3,
+          "username": "de_giko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009289076965273842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2686
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009078789616357464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de_giko: 中国のプリント基板屋さんである ALLPCB に問い合わせました。今週、中国商務省から日本への輸出禁止の通知を受け取ったそうです。今後、日本の顧客からの注文は受け付けない事も確認しました。\n\n以上、情報共有でした。\n\n日中関係の悪化の影響がここにも…。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2009289076965273842",
+        "created_at": "2026-01-08T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009289076965273842"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "中国",
+              "probability": 0.8826,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 53,
+              "normalized_text": "中国商務省",
+              "probability": 0.382,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "日本",
+              "probability": 0.8124,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "日本",
+              "probability": 0.7399,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "60039840",
+              "start": 3,
+              "username": "de_giko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009289076965273842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2686
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009078789616357464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de_giko: 中国のプリント基板屋さんである ALLPCB に問い合わせました。今週、中国商務省から日本への輸出禁止の通知を受け取ったそうです。今後、日本の顧客からの注文は受け付けない事も確認しました。\n\n以上、情報共有でした。\n\n日中関係の悪化の影響がここにも…。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60039840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "2009078789616357464",
+        "created_at": "2026-01-08T01:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009078789616357464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8976,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 40,
+              "normalized_text": "中国商務省",
+              "probability": 0.3996,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "日本",
+              "probability": 0.8176,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "日本",
+              "probability": 0.7509,
+              "start": 68,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009078789616357464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 639509,
+          "like_count": 4353,
+          "quote_count": 259,
+          "reply_count": 38,
+          "retweet_count": 2686
+        },
+        "reply_settings": "everyone",
+        "text": "中国のプリント基板屋さんである ALLPCB に問い合わせました。今週、中国商務省から日本への輸出禁止の通知を受け取ったそうです。今後、日本の顧客からの注文は受け付けない事も確認しました。\n\n以上、情報共有でした。\n\n日中関係の悪化の影響がここにも…。改善の糸口が見つかるといいなあ😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 542,
+          "like_count": 2984,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 2376
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:37:58.000Z",
+        "description": "ちびキャラやケモノ、ネット文化、世界のニュースや、たまに日々の生活の中で感じたほんわかなツイートをします。\n精神の障害を持っています。宗教はキリスト教でLGBTQ＋アライ🏳️‍🌈🏳️‍⚧️\n頼れる「力持ち」を目指しているよ😉\n\nアラサーのペポン民💗💛💙\n現在は別SNSにいることが多いです。以下URL参照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/daibaka",
+                "end": 23,
+                "expanded_url": "https://lit.link/daibaka",
+                "start": 0,
+                "url": "https://t.co/xk72AqDHRF"
+              }
+            ]
+          }
+        },
+        "id": "60039840",
+        "location": "Japan",
+        "name": "💛🤍だいちゃん💜🖤†🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1346475095695376395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780702234948640769/-S_pJ19G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 2129,
+          "like_count": 338809,
+          "listed_count": 62,
+          "media_count": 1713,
+          "tweet_count": 99797
+        },
+        "url": "https://t.co/xk72AqDHRF",
+        "username": "de_giko",
+        "verified": false
+      }
+    ]
+  }
+}

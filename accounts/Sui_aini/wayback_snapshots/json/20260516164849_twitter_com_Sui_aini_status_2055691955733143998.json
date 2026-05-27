@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2055682118207094835",
+    "created_at": "2026-05-16T16:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055691955733143998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521173997261848576",
+          "start": 0,
+          "username": "n_CharSiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055691955733143998",
+    "in_reply_to_user_id": "1521173997261848576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055691834366796104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_CharSiu 吃定彩虹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2055682118207094835",
+        "created_at": "2026-05-16T16:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055691955733143998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521173997261848576",
+              "start": 0,
+              "username": "n_CharSiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055691955733143998",
+        "in_reply_to_user_id": "1521173997261848576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055691834366796104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_CharSiu 吃定彩虹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521173997261848576",
+        "conversation_id": "2055682118207094835",
+        "created_at": "2026-05-16T16:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055691834366796104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055691834366796104",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682118207094835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 碰上彩虹，吃定彩虹！("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "小号：@honoka_520 /enby（They/Them/It）/淡推了吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2054662478139969979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 745,
+          "like_count": 5064,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 4404
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T17:05:25.000Z",
+        "description": "💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/uLVZBXiXJ8"
+              }
+            ]
+          }
+        },
+        "id": "1521173997261848576",
+        "name": "叉烧",
+        "pinned_tweet_id": "1840737473011351907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005193218556932096/HKDaP0-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 232,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/uLVZBXiXJ8",
+        "username": "n_CharSiu",
+        "verified": false
+      }
+    ]
+  }
+}

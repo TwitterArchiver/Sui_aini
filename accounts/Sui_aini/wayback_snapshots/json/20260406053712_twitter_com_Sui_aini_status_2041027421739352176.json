@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2041027421739352176",
+    "created_at": "2026-04-06T05:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041027421739352176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1990633723885465602",
+          "start": 3,
+          "username": "bang_dream_on"
+        },
+        {
+          "end": 102,
+          "id": "1990633723885465602",
+          "start": 88,
+          "username": "bang_dream_on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041027421739352176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040987977963491646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_on: MyGO!!!!!のVo.高松 燈を紹介🧭\n\nまた「羊宮 妃那さんのサイン入りポストカード」を抽選で1名様にプレゼント！\n\n参加方法\n1.@bang_dream_onをフォロー\n2.この投稿をRP\n\n期間：4月13日(月)23:59まで…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2040985598786486273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMJlqdbQAEPwiE.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2041027421739352176",
+        "created_at": "2026-04-06T05:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041027421739352176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1990633723885465602",
+              "start": 3,
+              "username": "bang_dream_on"
+            },
+            {
+              "end": 102,
+              "id": "1990633723885465602",
+              "start": 88,
+              "username": "bang_dream_on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041027421739352176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040987977963491646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_on: MyGO!!!!!のVo.高松 燈を紹介🧭\n\nまた「羊宮 妃那さんのサイン入りポストカード」を抽選で1名様にプレゼント！\n\n参加方法\n1.@bang_dream_onをフォロー\n2.この投稿をRP\n\n期間：4月13日(月)23:59まで…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040985598786486273"
+          ]
+        },
+        "author_id": "1990633723885465602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2040987977963491646",
+        "created_at": "2026-04-06T03:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040987977963491646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "アツドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1990633723885465602",
+              "start": 69,
+              "username": "bang_dream_on"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4V5xtdTaG2",
+              "end": 176,
+              "expanded_url": "https://x.com/bang_dream_on/status/2040987977963491646/photo/1",
+              "media_key": "3_2040985598786486273",
+              "start": 153,
+              "url": "https://t.co/4V5xtdTaG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040987977963491646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 108083,
+          "like_count": 4337,
+          "quote_count": 63,
+          "reply_count": 54,
+          "retweet_count": 5207
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!のVo.高松 燈を紹介🧭\n\nまた「羊宮 妃那さんのサイン入りポストカード」を抽選で1名様にプレゼント！\n\n参加方法\n1.@bang_dream_onをフォロー\n2.この投稿をRP\n\n期間：4月13日(月)23:59まで\n\n燈の詳しいプロフィールはリプライ欄へ✨\n\n#バンドリ #アツドリ https://t.co/4V5xtdTaG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 640,
+          "like_count": 4085,
+          "listed_count": 5,
+          "media_count": 459,
+          "tweet_count": 3299
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T04:11:15.000Z",
+        "description": "「BanG Dream! Our Notes」の公式アカウントです。 #アツドリ の最新情報をお届けします。\n現在、CBT参加者募集中です。応募・詳細はこちらから：https://t.co/9t8DgHGaS5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "アツドリ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp/cbt/",
+                "end": 105,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/cbt/",
+                "start": 82,
+                "url": "https://t.co/9t8DgHGaS5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 23,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/",
+                "start": 0,
+                "url": "https://t.co/L3fVZlgyfN"
+              }
+            ]
+          }
+        },
+        "id": "1990633723885465602",
+        "name": "BanG Dream! Our Notes（アツドリ）",
+        "pinned_tweet_id": "2039704406988349934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027760062811582464/OCTIieef_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43792,
+          "following_count": 28,
+          "like_count": 0,
+          "listed_count": 106,
+          "media_count": 8,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/L3fVZlgyfN",
+        "username": "bang_dream_on",
+        "verified": true
+      }
+    ]
+  }
+}

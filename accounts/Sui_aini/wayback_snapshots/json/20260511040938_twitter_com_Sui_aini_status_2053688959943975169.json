@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2053671456245190945",
+    "created_at": "2026-05-11T04:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053688959943975169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053688959943975169",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053671456245190945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 串什么?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053671267295969280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAbIwSaQAAf6th.jpg",
+        "width": 1228
+      },
+      {
+        "duration_ms": 130504,
+        "height": 1280,
+        "media_key": "13_2053671267308539904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053671267308539904/img/-5vyFXscbS99ztTG.jpg",
+        "public_metrics": {
+          "view_count": 575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053671267308539904/vid/avc1/320x568/HrU9rCSE663L8C6H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053671267308539904/vid/avc1/480x852/tSjQvQ429c9d1h6J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053671267308539904/vid/avc1/720x1280/67y-kDbKLXm3kYic.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053671267308539904/pl/rcbDd9W8ntFsHH26.m3u8?v=378"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2053671456245190945",
+        "created_at": "2026-05-11T04:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053688959943975169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053688959943975169",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053671456245190945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 串什么?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053671267295969280",
+            "13_2053671267308539904"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2053671456245190945",
+        "created_at": "2026-05-11T03:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053671456245190945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/de5WlaVeWE",
+              "end": 47,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053671456245190945/video/1",
+              "media_key": "3_2053671267295969280",
+              "start": 24,
+              "url": "https://t.co/de5WlaVeWE"
+            },
+            {
+              "display_url": "pic.x.com/de5WlaVeWE",
+              "end": 47,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053671456245190945/video/1",
+              "media_key": "13_2053671267308539904",
+              "start": 24,
+              "url": "https://t.co/de5WlaVeWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053671456245190945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1282,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微博上偶然刷到的，好奇这种放药娘里算天赋党嘛🧐 https://t.co/de5WlaVeWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2053352792975450570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 733,
+          "like_count": 4908,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 4208
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 3362,
+          "like_count": 1280,
+          "listed_count": 18,
+          "media_count": 242,
+          "tweet_count": 1655
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

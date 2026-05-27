@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1934694866405216321",
+    "created_at": "2025-06-16T19:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T20:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934695268404089075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826961681886355456",
+          "start": 0,
+          "username": "luotutu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934695268404089075",
+    "in_reply_to_user_id": "1826961681886355456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934695052472930720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luotutu111 收到！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934695052472930720].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934695052472930720",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934695052472930720"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1934694866405216321",
+        "created_at": "2025-06-16T19:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934695268404089075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826961681886355456",
+              "start": 0,
+              "username": "luotutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934695268404089075",
+        "in_reply_to_user_id": "1826961681886355456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934695052472930720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luotutu111 收到！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 363,
+          "like_count": 919,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1038
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T12:36:56.000Z",
+        "description": "所有在魁北克市-温莎走廊的人来找我玩 求地球OL修改器",
+        "id": "1826961681886355456",
+        "location": "Montréal, Québec",
+        "name": "444xibiwx",
+        "pinned_tweet_id": "1846719580258832681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826962492183965696/Hn0zcCCg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 2070,
+          "like_count": 53103,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 9169
+        },
+        "username": "luotutu111",
+        "verified": false
+      }
+    ]
+  }
+}

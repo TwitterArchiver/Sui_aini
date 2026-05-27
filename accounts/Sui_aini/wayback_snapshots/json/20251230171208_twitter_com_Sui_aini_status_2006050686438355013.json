@@ -1,0 +1,639 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2006050686438355013",
+    "created_at": "2025-12-30T17:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006050686438355013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amane_bushi/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/amane_bushi/status/2006030122470511067",
+          "start": 3,
+          "url": "https://t.co/KipXqc5aQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006050686438355013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006030122470511067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/KipXqc5aQQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ピンク、イエロー、レッド、ホワイト色とりどりのあたたかい色味の素敵なお祝い花ありがとうございます💐\n心がぽかぽか癒されました(* ´  ` *)ᐝ",
+        "height": 2048,
+        "media_key": "3_2006030013817397248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bZq05boAAvESz.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "ブルー、ホワイト、グリーンでMorfonicaや倉田ましろちゃんを感じる色味の素敵なお祝い花ありがとうございます💐\n美しくて心が安らぐ〜(*´˘`*)",
+        "height": 2048,
+        "media_key": "3_2006030013863481344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bZq1Ea0AAj1z5.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "月ノ森女子学園高等部の制服を着た、倉田ましろちゃんと私の素敵なイラストパネルをブルーのお花畑が広がってるようなお祝い花ありがとうございます💐\n同じポーズで撮影したよ📸💙",
+        "height": 2048,
+        "media_key": "3_2006030013850918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bZq1BbIAAJKaU.jpg",
+        "width": 1536
+      },
+      {
+        "alt_text": "イノセントフラップ衣装に身を包んだMorfonicaメンバーの素敵なイラストパネルを魔法陣と共に囲む綺麗なお花💐\nありがとうございます✨️\nブラッディラヴィアンローズ‼️‼️‼️‼️‼️",
+        "height": 2048,
+        "media_key": "3_2006030013829976064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bZq08bkAAYjPq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2006050686438355013",
+        "created_at": "2025-12-30T17:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006050686438355013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amane_bushi/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/amane_bushi/status/2006030122470511067",
+              "start": 3,
+              "url": "https://t.co/KipXqc5aQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006050686438355013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006030122470511067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/KipXqc5aQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006030013817397248",
+            "3_2006030013863481344",
+            "3_2006030013850918912",
+            "3_2006030013829976064"
+          ]
+        },
+        "author_id": "1041938828682911744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2006030122470511067",
+        "created_at": "2025-12-30T15:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006030122470511067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "モニカ5周年ライブ"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "ガルパ"
+            },
+            {
+              "end": 115,
+              "start": 105,
+              "tag": "Morfonica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxSrlG76dJ",
+              "end": 139,
+              "expanded_url": "https://x.com/amane_bushi/status/2006030122470511067/photo/1",
+              "media_key": "3_2006030013817397248",
+              "start": 116,
+              "url": "https://t.co/vxSrlG76dJ"
+            },
+            {
+              "display_url": "pic.x.com/vxSrlG76dJ",
+              "end": 139,
+              "expanded_url": "https://x.com/amane_bushi/status/2006030122470511067/photo/1",
+              "media_key": "3_2006030013863481344",
+              "start": 116,
+              "url": "https://t.co/vxSrlG76dJ"
+            },
+            {
+              "display_url": "pic.x.com/vxSrlG76dJ",
+              "end": 139,
+              "expanded_url": "https://x.com/amane_bushi/status/2006030122470511067/photo/1",
+              "media_key": "3_2006030013850918912",
+              "start": 116,
+              "url": "https://t.co/vxSrlG76dJ"
+            },
+            {
+              "display_url": "pic.x.com/vxSrlG76dJ",
+              "end": 139,
+              "expanded_url": "https://x.com/amane_bushi/status/2006030122470511067/photo/1",
+              "media_key": "3_2006030013829976064",
+              "start": 116,
+              "url": "https://t.co/vxSrlG76dJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006030122470511067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 29848,
+          "like_count": 1015,
+          "quote_count": 10,
+          "reply_count": 12,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "#モニカ5周年ライブ 素敵なお祝い花ありがとうございます💐✨️\n\nいつも「ブルームブルーム」歌う時は皆さんから頂いたお花思い出してます( *´艸`)🌸\n本当にありがとうございます✨️\n\n #バンドリ #ガルパ #Morfonica https://t.co/vxSrlG76dJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 534,
+          "like_count": 2877,
+          "listed_count": 4,
+          "media_count": 369,
+          "tweet_count": 2310
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T06:35:49.000Z",
+        "description": "響 所属🌱 #蓮ノ空 #lovelive 桂城泉 #アニメ100カノ 原賀胡桃 #バンドリ 倉田ましろ #D4DJ 春日春奈 #ヴァンガード 大倉メグミ #温泉むすめ かみのやま庵  #仮面ライダー555 #Vシネ555 スマートレディ 等…/ #プレバンのライブショッピング MC / #あまね部🦈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "蓮ノ空"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "lovelive"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "ヴァンガード"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "温泉むすめ"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "tag": "仮面ライダー555"
+              },
+              {
+                "end": 110,
+                "start": 103,
+                "tag": "Vシネ555"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "tag": "プレバンのライブショッピング"
+              },
+              {
+                "end": 149,
+                "start": 144,
+                "tag": "あまね部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/shind…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/shindou_amane/",
+                "start": 0,
+                "url": "https://t.co/MTfQVgpNHc"
+              }
+            ]
+          }
+        },
+        "id": "1041938828682911744",
+        "location": "愛知県出身🌱",
+        "name": "進藤あまね",
+        "pinned_tweet_id": "1910328568523169896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913618796620967936/0hmjTtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270815,
+          "following_count": 895,
+          "like_count": 57760,
+          "listed_count": 3213,
+          "media_count": 4922,
+          "tweet_count": 31748
+        },
+        "url": "https://t.co/MTfQVgpNHc",
+        "username": "amane_bushi",
+        "verified": true
+      }
+    ]
+  }
+}

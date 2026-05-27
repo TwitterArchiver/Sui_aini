@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1950120391701053505",
+    "created_at": "2025-07-29T09:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950120391701053505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677383468660191232",
+          "start": 3,
+          "username": "mtfmtx138248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950120391701053505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950060599695544384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtfmtx138248: 这就是水门做的烂批，外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管任我自生自灭，这就是水门srs，千万不要来水门，就算是切蛋也不要来，总是要srs的切了蛋等于是多挨一刀，想要来水门srs的好好看看这烂批 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950120391701053505].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950120391701053505",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950120391701053505"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950060534294028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuV0aoAAPlko.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950060532448579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuO8bUAAbzYI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950060534004666370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuUvbUAIHH3R.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 16579,
+        "height": 1280,
+        "media_key": "7_1950060533065142272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1950060533065142272/pu/img/wVyS34fH9tvDewFa.jpg",
+        "public_metrics": {
+          "view_count": 648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/320x568/Qf36-ac8J9j1NTAM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/480x852/ZWWBck58ZE466XT_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/720x1280/7jVZmELpfJGuNtNy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/pl/817fJFby370y2HXh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950060534294028288",
+            "3_1950060532448579584",
+            "3_1950060534004666370",
+            "7_1950060533065142272"
+          ]
+        },
+        "author_id": "1677383468660191232",
+        "conversation_id": "1950060599695544384",
+        "created_at": "2025-07-29T05:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950060599695544384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060534294028288",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060532448579584",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060534004666370",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "7_1950060533065142272",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950060599695544384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1929,
+          "like_count": 33,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这就是水门做的烂批，外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管任我自生自灭，这就是水门srs，千万不要来水门，就算是切蛋也不要来，总是要srs的切了蛋等于是多挨一刀，想要来水门srs的好好看看这烂批 https://t.co/hXxUDsBTwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 489,
+          "like_count": 2002,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1743
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1950060599695544384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 341,
+          "like_count": 109482,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1594
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

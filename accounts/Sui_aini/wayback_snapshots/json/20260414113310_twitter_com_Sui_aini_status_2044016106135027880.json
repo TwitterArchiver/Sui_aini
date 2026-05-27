@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2044016106135027880",
+    "created_at": "2026-04-14T11:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044016106135027880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hina_Youmiya/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Hina_Youmiya/status/2044015446643617842",
+          "start": 8,
+          "url": "https://t.co/1MaaeK0mMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044016106135027880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044015446643617842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝啊啊啊啊啊 https://t.co/1MaaeK0mMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044015324069277696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3NG4qasAAvO6C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044015323788259331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3NG3nasAMFRdP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2044015323624681476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3NG3AasAQuEct.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2044016106135027880",
+        "created_at": "2026-04-14T11:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044016106135027880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hina_Youmiya/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/2044015446643617842",
+              "start": 8,
+              "url": "https://t.co/1MaaeK0mMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044016106135027880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044015446643617842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝啊啊啊啊啊 https://t.co/1MaaeK0mMy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044015324069277696",
+            "3_2044015323788259331",
+            "3_2044015323624681476"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2044015446643617842",
+        "created_at": "2026-04-14T11:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044015446643617842"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "声グラ"
+            },
+            {
+              "end": 141,
+              "start": 133,
+              "tag": "ひつじさんの夢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNJX9G1bEV",
+              "end": 165,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2044015446643617842/photo/1",
+              "media_key": "3_2044015324069277696",
+              "start": 142,
+              "url": "https://t.co/oNJX9G1bEV"
+            },
+            {
+              "display_url": "pic.x.com/oNJX9G1bEV",
+              "end": 165,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2044015446643617842/photo/1",
+              "media_key": "3_2044015323788259331",
+              "start": 142,
+              "url": "https://t.co/oNJX9G1bEV"
+            },
+            {
+              "display_url": "pic.x.com/oNJX9G1bEV",
+              "end": 165,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2044015446643617842/photo/1",
+              "media_key": "3_2044015323624681476",
+              "start": 142,
+              "url": "https://t.co/oNJX9G1bEV"
+            },
+            {
+              "display_url": "x.com/seigura/status…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/seigura/status/2042448854898061783",
+              "start": 166,
+              "url": "https://t.co/iORhpKeWr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044015446643617842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 3916,
+          "like_count": 528,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042448854898061783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【掲載情報】\n\n『声優グランプリ』5月号\n連載┊︎羊さんは○○の夢を見る\n今回は「本」の夢でした✨\n\nたくさんの本に囲まれながら\nメイクやお洋服を仕立てていただきました📚\nオシャレな空間に思わず心がはずみます✨\nよろしければご覧いただけますと幸いです。\n\n#声グラ #ひつじさんの夢 https://t.co/oNJX9G1bEV https://t.co/iORhpKeWr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 661,
+          "like_count": 4322,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 3412
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241406,
+          "following_count": 309,
+          "like_count": 1974,
+          "listed_count": 1735,
+          "media_count": 181,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000216323864092672"
+      ],
+      "media_source_tweet_id": [
+        "2000216329291432148"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2000242998752563353",
+    "created_at": "2025-12-14T16:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000242998752563353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 59,
+          "start": 38,
+          "tag": "UlteriusProcedere_東京"
+        },
+        {
+          "end": 65,
+          "start": 60,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1253494572841201665",
+          "start": 3,
+          "username": "Watase_Yuzuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T3D6CfUTex",
+          "end": 89,
+          "expanded_url": "https://x.com/Watase_Yuzuki/status/2000216329291432148/photo/1",
+          "media_key": "3_2000216323864092672",
+          "start": 66,
+          "url": "https://t.co/T3D6CfUTex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000242998752563353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 815
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000216329291432148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Watase_Yuzuki: おにゅー衣装🆕\n#AveMujica\n#UlteriusProcedere_東京\n#バンドリ https://t.co/T3D6CfUTex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000216323864092672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IyJiHbYAAcPqQ.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000216323864092672"
+          ],
+          "media_source_tweet_id": [
+            "2000216329291432148"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2000242998752563353",
+        "created_at": "2025-12-14T16:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000242998752563353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 59,
+              "start": 38,
+              "tag": "UlteriusProcedere_東京"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1253494572841201665",
+              "start": 3,
+              "username": "Watase_Yuzuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3D6CfUTex",
+              "end": 89,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/2000216329291432148/photo/1",
+              "media_key": "3_2000216323864092672",
+              "start": 66,
+              "url": "https://t.co/T3D6CfUTex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000242998752563353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 815
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000216329291432148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Watase_Yuzuki: おにゅー衣装🆕\n#AveMujica\n#UlteriusProcedere_東京\n#バンドリ https://t.co/T3D6CfUTex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000216323864092672"
+          ]
+        },
+        "author_id": "1253494572841201665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2000216329291432148",
+        "created_at": "2025-12-14T14:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000216329291432148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 40,
+              "start": 19,
+              "tag": "UlteriusProcedere_東京"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3D6CfUTex",
+              "end": 70,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/2000216329291432148/photo/1",
+              "media_key": "3_2000216323864092672",
+              "start": 47,
+              "url": "https://t.co/T3D6CfUTex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000216329291432148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 34924,
+          "like_count": 4190,
+          "quote_count": 44,
+          "reply_count": 53,
+          "retweet_count": 815
+        },
+        "reply_settings": "everyone",
+        "text": "おにゅー衣装🆕\n#AveMujica\n#UlteriusProcedere_東京\n#バンドリ https://t.co/T3D6CfUTex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 530,
+          "like_count": 2798,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2260
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T01:24:07.000Z",
+        "description": "響の声優、渡瀬結月(わたせゆづき)です🐶#D4DJ 「Lyrical Lily」竹下みいこ┊︎#黒ウィズ 『魔法使いと黒猫のウィズ』 オーリア┊︎ #STARDOM リングアナ🎤┊︎#バンドリ 若葉睦・モーティス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "黒ウィズ"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "STARDOM"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/watas…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/watase_yuzuki/",
+                "start": 0,
+                "url": "https://t.co/KaShLomC2F"
+              }
+            ]
+          }
+        },
+        "id": "1253494572841201665",
+        "location": "｢ゆずき｣じゃなくて｢ゆづき｣🌙",
+        "name": "渡瀬 結月",
+        "pinned_tweet_id": "1915924287808278730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915924842475671552/NR21FUt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104786,
+          "following_count": 633,
+          "like_count": 15006,
+          "listed_count": 988,
+          "media_count": 1298,
+          "tweet_count": 6185
+        },
+        "url": "https://t.co/KaShLomC2F",
+        "username": "Watase_Yuzuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1929111184550359164",
+    "created_at": "2025-06-02T11:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929498215000256728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922943207643709440",
+          "start": 0,
+          "username": "paidax08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929498215000256728",
+    "in_reply_to_user_id": "1922943207643709440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929497747041800623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paidax08 那你说你爹呢，滚吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1929111184550359164",
+        "created_at": "2025-06-02T11:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929498215000256728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922943207643709440",
+              "start": 0,
+              "username": "paidax08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929498215000256728",
+        "in_reply_to_user_id": "1922943207643709440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929497747041800623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paidax08 那你说你爹呢，滚吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922943207643709440",
+        "conversation_id": "1929111184550359164",
+        "created_at": "2025-06-02T11:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929497747041800623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929497747041800623",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929395697742139647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 给你钱 你配吗 你们这帮死人妖不配得到任何资源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 325,
+          "like_count": 730,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 832
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T09:12:52.000Z",
+        "description": "19岁北京在读大学生，喜欢运动、摄影和看书，颜值小帅，谦逊温柔礼貌不是我的优点，而是我的习惯，欢迎大家素质交友\n————老婆：@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1922943207643709440",
+        "name": "速溶奶酪（浴火重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923636762858991616/c8Xfih-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "paidax08",
+        "verified": false
+      }
+    ]
+  }
+}

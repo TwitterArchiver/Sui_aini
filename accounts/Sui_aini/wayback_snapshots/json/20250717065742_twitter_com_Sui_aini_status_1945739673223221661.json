@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913572686443487233"
+      ],
+      "media_source_tweet_id": [
+        "1913572699474890986"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1945739673223221661",
+    "created_at": "2025-07-17T06:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945739673223221661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1796143322173759488",
+          "start": 3,
+          "username": "miexiaomieQaQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sz6VJVz913",
+          "end": 60,
+          "expanded_url": "https://x.com/miexiaomieQaQ/status/1913572699474890986/photo/1",
+          "media_key": "3_1913572686443487233",
+          "start": 37,
+          "url": "https://t.co/sz6VJVz913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945739673223221661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913572699474890986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miexiaomieQaQ: 我喜欢这个我还要再发一次😋 #男娘 https://t.co/sz6VJVz913"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1913572686443487233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5gOENaoAEBmAM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913572686443487233"
+          ],
+          "media_source_tweet_id": [
+            "1913572699474890986"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1945739673223221661",
+        "created_at": "2025-07-17T06:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945739673223221661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1796143322173759488",
+              "start": 3,
+              "username": "miexiaomieQaQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sz6VJVz913",
+              "end": 60,
+              "expanded_url": "https://x.com/miexiaomieQaQ/status/1913572699474890986/photo/1",
+              "media_key": "3_1913572686443487233",
+              "start": 37,
+              "url": "https://t.co/sz6VJVz913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945739673223221661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913572699474890986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miexiaomieQaQ: 我喜欢这个我还要再发一次😋 #男娘 https://t.co/sz6VJVz913"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913572686443487233"
+          ]
+        },
+        "author_id": "1796143322173759488",
+        "conversation_id": "1913572699474890986",
+        "created_at": "2025-04-19T12:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T13:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913572699474890986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sz6VJVz913",
+              "end": 41,
+              "expanded_url": "https://x.com/miexiaomieQaQ/status/1913572699474890986/photo/1",
+              "media_key": "3_1913572686443487233",
+              "start": 18,
+              "url": "https://t.co/sz6VJVz913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913572699474890986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4085,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢这个我还要再发一次😋 #男娘 https://t.co/sz6VJVz913"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 464,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1534
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T11:35:21.000Z",
+        "description": "我是爱 会在最幸福的时侯死去",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amore26620",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amore26620",
+                "start": 0,
+                "url": "https://t.co/RX3q2ayoom"
+              }
+            ]
+          }
+        },
+        "id": "1796143322173759488",
+        "location": "失乐园",
+        "name": "Amore",
+        "pinned_tweet_id": "1878956220704489550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879141231227494400/TYJrONzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 103,
+          "like_count": 2542,
+          "listed_count": 11,
+          "media_count": 27,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/RX3q2ayoom",
+        "username": "miexiaomieQaQ",
+        "verified": true
+      }
+    ]
+  }
+}

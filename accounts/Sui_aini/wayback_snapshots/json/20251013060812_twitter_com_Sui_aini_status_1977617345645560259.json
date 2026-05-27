@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1977617345645560259",
+    "created_at": "2025-10-13T06:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977617345645560259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+          "start": 7,
+          "url": "https://t.co/XphK1YduRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977617345645560259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976162098297352517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给老资历跪了 https://t.co/XphK1YduRO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1977617345645560259",
+        "created_at": "2025-10-13T06:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977617345645560259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 7,
+              "url": "https://t.co/XphK1YduRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977617345645560259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给老资历跪了 https://t.co/XphK1YduRO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1975851291915235332",
+        "created_at": "2025-10-09T05:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976162098297352517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 83,
+              "id": "1224250577086906369",
+              "start": 71,
+              "username": "Husurusheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976162098297352517",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 75153,
+          "like_count": 39,
+          "quote_count": 107,
+          "reply_count": 75,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975895677868880192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 你有什么资历？我21年的时候就是跨性别了，当时吃了半年左右的补佳乐。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@Husurusheng ，只不过后面我们发现国内根本就没有跨性别的土壤，就在22年左右都退圈了也不吃药了。结果你们这些新生代自顾自的又跨起来了。我只是在感叹你们悲惨的结局而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 515,
+          "like_count": 2438,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 2027
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977451053349265466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 2472
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

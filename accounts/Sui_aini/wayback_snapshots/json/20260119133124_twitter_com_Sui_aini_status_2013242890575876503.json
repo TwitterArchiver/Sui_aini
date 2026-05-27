@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1969965312134037504",
+          "name": "RESCENE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1969965312134037504",
+          "name": "RESCENE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2013242890575876503",
+    "created_at": "2026-01-19T13:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T14:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013242890575876503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minamitto_/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/minamitto_/status/2012936471116910622",
+          "start": 9,
+          "url": "https://t.co/wl6cFJ0LdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013242890575876503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012936471116910622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算是工伤了吧，， https://t.co/wl6cFJ0LdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2012936462849703937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9jDEeWgAEKEFI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1969965312134037504",
+              "name": "RESCENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1969965312134037504",
+              "name": "RESCENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2013242890575876503",
+        "created_at": "2026-01-19T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013242890575876503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minamitto_/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/minamitto_/status/2012936471116910622",
+              "start": 9,
+              "url": "https://t.co/wl6cFJ0LdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013242890575876503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012936471116910622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算是工伤了吧，， https://t.co/wl6cFJ0LdB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012936462849703937"
+          ]
+        },
+        "author_id": "1759460568015187968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1969965312134037504",
+              "name": "RESCENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1969965312134037504",
+              "name": "RESCENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2012936471116910622",
+        "created_at": "2026-01-18T17:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:58:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012932697795301871",
+          "2012933188998267336",
+          "2012936471116910622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "RESCENE"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "리센느"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1605353766185668608",
+              "start": 59,
+              "username": "MillionMusic_kr"
+            },
+            {
+              "end": 92,
+              "id": "1745050913872691200",
+              "start": 76,
+              "username": "RESCENEofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNncnBkqCy",
+              "end": 132,
+              "expanded_url": "https://x.com/minamitto_/status/2012936471116910622/photo/1",
+              "media_key": "3_2012936462849703937",
+              "start": 109,
+              "url": "https://t.co/zNncnBkqCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012936471116910622",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 575533,
+          "like_count": 1427,
+          "quote_count": 834,
+          "reply_count": 30,
+          "retweet_count": 340
+        },
+        "reply_settings": "everyone",
+        "text": "혹시… 밀리언뮤직 직원들은 아무도 문제를 못 느꼈나요? 남자와 깍지 끼고? 지하도 그렇게 안 찍는데??😅 @MillionMusic_kr @RESCENEofficial \n\n#RESCENE #리센느 https://t.co/zNncnBkqCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 547,
+          "like_count": 3070,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2417
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T06:11:50.000Z",
+        "description": "#MINAMI #미나미",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "MINAMI"
+              },
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "미나미"
+              }
+            ]
+          }
+        },
+        "id": "1759460568015187968",
+        "name": "mitto",
+        "pinned_tweet_id": "1995306969838825798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779722595132469248/_YyNvjOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 46,
+          "like_count": 914,
+          "listed_count": 15,
+          "media_count": 516,
+          "tweet_count": 929
+        },
+        "username": "minamitto_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2007375835230265565",
+    "created_at": "2026-01-03T08:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007375835230265565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "779275798758854656",
+          "start": 3,
+          "username": "momiji3_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007375835230265565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007328462844154068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momiji3_3: 推しをGrokから守りたい方へ\n推しのID(@ からはじまるやつ)を検索にかけてみてください。そうすると@ Grokで画像改変してるユーザーを炙り出せます\nそこから報告→ブロックじゃああああ！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2007375835230265565",
+        "created_at": "2026-01-03T08:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007375835230265565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "779275798758854656",
+              "start": 3,
+              "username": "momiji3_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007375835230265565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007328462844154068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momiji3_3: 推しをGrokから守りたい方へ\n推しのID(@ からはじまるやつ)を検索にかけてみてください。そうすると@ Grokで画像改変してるユーザーを炙り出せます\nそこから報告→ブロックじゃああああ！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779275798758854656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "2007328462844154068",
+        "created_at": "2026-01-03T05:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007328462844154068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007328462844154068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 22329,
+          "like_count": 390,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "推しをGrokから守りたい方へ\n推しのID(@ からはじまるやつ)を検索にかけてみてください。そうすると@ Grokで画像改変してるユーザーを炙り出せます\nそこから報告→ブロックじゃああああ！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 532,
+          "like_count": 2922,
+          "listed_count": 4,
+          "media_count": 370,
+          "tweet_count": 2333
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T11:06:43.000Z",
+        "description": "【くりばら】読みです/フリーランスモデル⚡️股下80cmと98cmもみじり⚡️グラビアとコスプレ🍁ﾌｧﾝｸﾗﾌﾞ▷▶【https://t.co/ozRf81Ebcr】🍁 《推しマ:🐻🍁》ﾀｸﾞ:#もみじ見つけて お仕事依頼はリンク内メールにて✉️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 97,
+                "tag": "もみじ見つけて"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/k_momiji",
+                "end": 82,
+                "expanded_url": "https://fantia.jp/k_momiji",
+                "start": 59,
+                "url": "https://t.co/ozRf81Ebcr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kuribaramomiji",
+                "end": 23,
+                "expanded_url": "https://lit.link/kuribaramomiji",
+                "start": 0,
+                "url": "https://t.co/ga4ev028BP"
+              }
+            ]
+          }
+        },
+        "id": "779275798758854656",
+        "location": "お布団の中",
+        "name": "栗原 もみじ🐻🍁",
+        "pinned_tweet_id": "2000867093747744874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996406056197738496/6gSIE5yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40003,
+          "following_count": 620,
+          "like_count": 15238,
+          "listed_count": 292,
+          "media_count": 3126,
+          "tweet_count": 19194
+        },
+        "url": "https://t.co/ga4ev028BP",
+        "username": "momiji3_3",
+        "verified": true
+      }
+    ]
+  }
+}

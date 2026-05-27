@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000190719831801856"
+      ],
+      "media_source_tweet_id": [
+        "2000190732968358000"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2000241793242456335",
+    "created_at": "2025-12-14T16:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000241793242456335"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQmKbw0AlX",
+          "end": 65,
+          "expanded_url": "https://x.com/sasakirico/status/2000190732968358000/photo/1",
+          "media_key": "3_2000190719831801856",
+          "start": 42,
+          "url": "https://t.co/gQmKbw0AlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000241793242456335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1899
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000190732968358000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: 何度でも立ち上がる\n大丈夫\n\n#AveMujica https://t.co/gQmKbw0AlX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2000190719831801856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Ia3LqbgAAxZGF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000190719831801856"
+          ],
+          "media_source_tweet_id": [
+            "2000190732968358000"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2000241793242456335",
+        "created_at": "2025-12-14T16:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000241793242456335"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQmKbw0AlX",
+              "end": 65,
+              "expanded_url": "https://x.com/sasakirico/status/2000190732968358000/photo/1",
+              "media_key": "3_2000190719831801856",
+              "start": 42,
+              "url": "https://t.co/gQmKbw0AlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000241793242456335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1899
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000190732968358000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: 何度でも立ち上がる\n大丈夫\n\n#AveMujica https://t.co/gQmKbw0AlX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000190719831801856"
+          ]
+        },
+        "author_id": "707778526963830784",
+        "conversation_id": "2000190732968358000",
+        "created_at": "2025-12-14T13:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000190732968358000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQmKbw0AlX",
+              "end": 49,
+              "expanded_url": "https://x.com/sasakirico/status/2000190732968358000/photo/1",
+              "media_key": "3_2000190719831801856",
+              "start": 26,
+              "url": "https://t.co/gQmKbw0AlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000190732968358000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 104861,
+          "like_count": 7727,
+          "quote_count": 139,
+          "reply_count": 279,
+          "retweet_count": 1899
+        },
+        "reply_settings": "everyone",
+        "text": "何度でも立ち上がる\n大丈夫\n\n#AveMujica https://t.co/gQmKbw0AlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 530,
+          "like_count": 2795,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 2257
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "歌手/声優/作詞作曲/バンドリ・三角初華/日本へようこそエルフさん・ミュイ/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 124,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 101,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918608427531845632/ugG4Hl_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131898,
+          "following_count": 1266,
+          "like_count": 26894,
+          "listed_count": 1117,
+          "media_count": 3931,
+          "tweet_count": 14421
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": true
+      }
+    ]
+  }
+}

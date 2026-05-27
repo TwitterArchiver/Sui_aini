@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2029863646260777470",
+    "created_at": "2026-03-06T10:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029863646260777470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kappumen12/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kappumen12/status/2029764636720123973",
+          "start": 17,
+          "url": "https://t.co/SMITuTmt2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029863646260777470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029764636720123973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本宅男真你妈压抑完了，一群疯子 https://t.co/SMITuTmt2M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2029863646260777470",
+        "created_at": "2026-03-06T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029863646260777470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kappumen12/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kappumen12/status/2029764636720123973",
+              "start": 17,
+              "url": "https://t.co/SMITuTmt2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029863646260777470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029764636720123973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本宅男真你妈压抑完了，一群疯子 https://t.co/SMITuTmt2M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60313513",
+        "conversation_id": "2029764636720123973",
+        "created_at": "2026-03-06T03:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029764636720123973"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "岡田夢以",
+              "probability": 0.5394,
+              "start": 4,
+              "type": "Person"
+            },
+            {
+              "end": 12,
+              "normalized_text": "反田葉月",
+              "probability": 0.8828,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kappumen12/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kappumen12/status/2029762606295355812",
+              "start": 23,
+              "url": "https://t.co/dTvgf5pRoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029764636720123973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 31747,
+          "like_count": 194,
+          "quote_count": 17,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029762606295355812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使用例「岡田夢以、反田葉月はAV女優みたい」 https://t.co/dTvgf5pRoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 586,
+          "like_count": 3672,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 3023
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-26T14:21:13.000Z",
+        "description": "女性声優はガンダム",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=nmVPzy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=nmVPzyq0NvA&feature=youtu.be",
+                "start": 0,
+                "url": "https://t.co/4viNbZbMWg"
+              }
+            ]
+          }
+        },
+        "id": "60313513",
+        "location": "味噌の国",
+        "name": "カップ",
+        "pinned_tweet_id": "2000213426942144802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957797004949745664/AJ6c8W0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3843,
+          "following_count": 5057,
+          "like_count": 47858,
+          "listed_count": 3,
+          "media_count": 4881,
+          "tweet_count": 138587
+        },
+        "url": "https://t.co/4viNbZbMWg",
+        "username": "kappumen12",
+        "verified": false
+      }
+    ]
+  }
+}

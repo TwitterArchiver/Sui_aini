@@ -1,0 +1,702 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2027976784755757188",
+    "created_at": "2026-03-01T05:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027976784755757188"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "進藤あまねちゃん",
+          "probability": 0.6872,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Raychellさん",
+          "probability": 0.601,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 96,
+          "normalized_text": "🧭",
+          "probability": 0.5436,
+          "start": 95,
+          "type": "Person"
+        },
+        {
+          "end": 103,
+          "normalized_text": "羊宮妃那ちゃん",
+          "probability": 0.1663,
+          "start": 97,
+          "type": "Person"
+        },
+        {
+          "end": 125,
+          "normalized_text": "仲町あられちゃん",
+          "probability": 0.6154,
+          "start": 118,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 135,
+          "start": 123,
+          "tag": "バンドリ10周年ライブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027976784755757188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027976178783686739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: #バンドリ！ボーカル全員と🌟②\n\nMorfonica\n🦋進藤あまねちゃん\n\nRAISE A SUILEN\n🎧Raychellさん\n\nMyGO!!!!!\n🧭羊宮妃那ちゃん\n\n夢限大みゅーたいぷ\n📣仲町あられちゃん\n\n#バンドリ10周年ライブ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2027976169199636480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTRlMoaEAAvFPC.jpg",
+        "width": 2880
+      },
+      {
+        "height": 2585,
+        "media_key": "3_2027976169208020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTRlMqaAAAtwnn.jpg",
+        "width": 1939
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2027976169208090630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTRlMqbEAYWkak.jpg",
+        "width": 2880
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2027976169203871745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTRlMpasAE9sqv.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2027976784755757188",
+        "created_at": "2026-03-01T05:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027976784755757188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "進藤あまねちゃん",
+              "probability": 0.6872,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Raychellさん",
+              "probability": 0.601,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 96,
+              "normalized_text": "🧭",
+              "probability": 0.5436,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "羊宮妃那ちゃん",
+              "probability": 0.1663,
+              "start": 97,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "仲町あられちゃん",
+              "probability": 0.6154,
+              "start": 118,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 135,
+              "start": 123,
+              "tag": "バンドリ10周年ライブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027976784755757188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027976178783686739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: #バンドリ！ボーカル全員と🌟②\n\nMorfonica\n🦋進藤あまねちゃん\n\nRAISE A SUILEN\n🎧Raychellさん\n\nMyGO!!!!!\n🧭羊宮妃那ちゃん\n\n夢限大みゅーたいぷ\n📣仲町あられちゃん\n\n#バンドリ10周年ライブ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027976169199636480",
+            "3_2027976169208020992",
+            "3_2027976169208090630",
+            "3_2027976169203871745"
+          ]
+        },
+        "author_id": "707778526963830784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2027976178783686739",
+        "created_at": "2026-03-01T05:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027976178783686739"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "進藤あまねちゃん",
+              "probability": 0.6904,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Raychellさん",
+              "probability": 0.5686,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "宮妃那ちゃん",
+              "probability": 0.2818,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "仲町あられちゃん",
+              "probability": 0.6275,
+              "start": 102,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 119,
+              "start": 107,
+              "tag": "バンドリ10周年ライブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/91EI95Y7Ta",
+              "end": 143,
+              "expanded_url": "https://x.com/sasakirico/status/2027976178783686739/photo/1",
+              "media_key": "3_2027976169199636480",
+              "start": 120,
+              "url": "https://t.co/91EI95Y7Ta"
+            },
+            {
+              "display_url": "pic.x.com/91EI95Y7Ta",
+              "end": 143,
+              "expanded_url": "https://x.com/sasakirico/status/2027976178783686739/photo/1",
+              "media_key": "3_2027976169208020992",
+              "start": 120,
+              "url": "https://t.co/91EI95Y7Ta"
+            },
+            {
+              "display_url": "pic.x.com/91EI95Y7Ta",
+              "end": 143,
+              "expanded_url": "https://x.com/sasakirico/status/2027976178783686739/photo/1",
+              "media_key": "3_2027976169208090630",
+              "start": 120,
+              "url": "https://t.co/91EI95Y7Ta"
+            },
+            {
+              "display_url": "pic.x.com/91EI95Y7Ta",
+              "end": 143,
+              "expanded_url": "https://x.com/sasakirico/status/2027976178783686739/photo/1",
+              "media_key": "3_2027976169203871745",
+              "start": 120,
+              "url": "https://t.co/91EI95Y7Ta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027976178783686739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 786,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリ！ボーカル全員と🌟②\n\nMorfonica\n🦋進藤あまねちゃん\n\nRAISE A SUILEN\n🎧Raychellさん\n\nMyGO!!!!!\n🧭羊宮妃那ちゃん\n\n夢限大みゅーたいぷ\n📣仲町あられちゃん\n\n#バンドリ10周年ライブ https://t.co/91EI95Y7Ta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 585,
+          "like_count": 3618,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 2963
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "歌手/声優/作詞作曲/バンドリ・三角初華/日本へようこそエルフさん・ミュイ/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 124,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 101,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子＠夏ワンマン開催🎤",
+        "pinned_tweet_id": "2022518259665506618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022506371590262784/JdOwYSlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138257,
+          "following_count": 1282,
+          "like_count": 29138,
+          "listed_count": 1162,
+          "media_count": 4059,
+          "tweet_count": 14810
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": true
+      }
+    ]
+  }
+}

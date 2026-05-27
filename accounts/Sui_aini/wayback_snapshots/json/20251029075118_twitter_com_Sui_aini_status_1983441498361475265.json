@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971397524603928576"
+      ],
+      "media_source_tweet_id": [
+        "1972068484223000669"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1983441498361475265",
+    "created_at": "2025-10-29T07:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T08:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983441498361475265"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "光が死んだ夏",
+          "probability": 0.6787,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "モクモクれん先生",
+          "probability": 0.6356,
+          "start": 52,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932974080145375232",
+          "start": 3,
+          "username": "CyberAgentANIME"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZyZ8SLTKn",
+          "end": 111,
+          "expanded_url": "https://x.com/CyberAgentANIME/status/1972068484223000669/photo/1",
+          "media_key": "3_1971397524603928576",
+          "start": 88,
+          "url": "https://t.co/jZyZ8SLTKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983441498361475265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972068484223000669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberAgentANIME: TVアニメ「光が死んだ夏」\n\n第2期制作決定を記念して\n原作・モクモクれん先生より\n描き下ろしイラストが到着！\n\n是非ご覧ください✨ https://t.co/jZyZ8SLTKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3748,
+        "media_key": "3_1971397524603928576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1vPmo0aAAAkP9l.jpg",
+        "width": 3335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971397524603928576"
+          ],
+          "media_source_tweet_id": [
+            "1972068484223000669"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1983441498361475265",
+        "created_at": "2025-10-29T07:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T08:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983441498361475265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "光が死んだ夏",
+              "probability": 0.6787,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "モクモクれん先生",
+              "probability": 0.6356,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932974080145375232",
+              "start": 3,
+              "username": "CyberAgentANIME"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZyZ8SLTKn",
+              "end": 111,
+              "expanded_url": "https://x.com/CyberAgentANIME/status/1972068484223000669/photo/1",
+              "media_key": "3_1971397524603928576",
+              "start": 88,
+              "url": "https://t.co/jZyZ8SLTKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983441498361475265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972068484223000669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberAgentANIME: TVアニメ「光が死んだ夏」\n\n第2期制作決定を記念して\n原作・モクモクれん先生より\n描き下ろしイラストが到着！\n\n是非ご覧ください✨ https://t.co/jZyZ8SLTKn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971397524603928576"
+          ]
+        },
+        "author_id": "1932974080145375232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1972068484223000669",
+        "created_at": "2025-09-27T22:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T23:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972068484223000669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "光が死んだ夏",
+              "probability": 0.6601,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "モクモクれん先生",
+              "probability": 0.6553,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZyZ8SLTKn",
+              "end": 90,
+              "expanded_url": "https://x.com/CyberAgentANIME/status/1972068484223000669/photo/1",
+              "media_key": "3_1971397524603928576",
+              "start": 67,
+              "url": "https://t.co/jZyZ8SLTKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972068484223000669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 3236,
+          "like_count": 1935,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "TVアニメ「光が死んだ夏」\n\n第2期制作決定を記念して\n原作・モクモクれん先生より\n描き下ろしイラストが到着！\n\n是非ご覧ください✨ https://t.co/jZyZ8SLTKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 522,
+          "like_count": 2538,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 2064
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T01:32:53.000Z",
+        "description": "株式会社サイバーエージェントのアニメーションレーベル CyberAgent ANIME 公式アカウントです。\n【YouTube】https://t.co/n8zKVHTn8S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@CyberAgent_AN…",
+                "end": 87,
+                "expanded_url": "http://youtube.com/@CyberAgent_ANIME",
+                "start": 64,
+                "url": "https://t.co/n8zKVHTn8S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "caanime.cyberagent.co.jp",
+                "end": 23,
+                "expanded_url": "https://caanime.cyberagent.co.jp/",
+                "start": 0,
+                "url": "https://t.co/kKhYclgZ80"
+              }
+            ]
+          }
+        },
+        "id": "1932974080145375232",
+        "name": "CyberAgent ANIME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932974766602027008/Fx3YRgFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 14,
+          "like_count": 21,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/kKhYclgZ80",
+        "username": "CyberAgentANIME",
+        "verified": true
+      }
+    ]
+  }
+}

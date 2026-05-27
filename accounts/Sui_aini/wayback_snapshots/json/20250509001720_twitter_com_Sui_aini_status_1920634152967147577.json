@@ -1,0 +1,765 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WEGO",
+          "id": "1035223802358054912",
+          "name": "WEGO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1920634152967147577",
+    "created_at": "2025-05-09T00:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T01:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920634152967147577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WEGO_press/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/WEGO_press/status/1920478889866113351",
+          "start": 8,
+          "url": "https://t.co/NYW0Et14iH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920634152967147577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920478889866113351",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "精神小妹回村了 https://t.co/NYW0Et14iH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_1920478879434625024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbpXZ9XUAA8vaE.jpg",
+        "width": 1036
+      },
+      {
+        "height": 639,
+        "media_key": "3_1920478879396876288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbpXZ0XUAA0oID.jpg",
+        "width": 1036
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920478879375892480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqbpXZvXIAA8ouQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1920634152967147577",
+        "created_at": "2025-05-09T00:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T01:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920634152967147577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WEGO_press/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/WEGO_press/status/1920478889866113351",
+              "start": 8,
+              "url": "https://t.co/NYW0Et14iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920634152967147577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920478889866113351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精神小妹回村了 https://t.co/NYW0Et14iH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920478879434625024",
+            "3_1920478879396876288",
+            "3_1920478879375892480"
+          ]
+        },
+        "author_id": "158268358",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "ideas for outfits to wear.",
+              "id": "1255971854306562048",
+              "name": "Everyday style"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1920478889866113351",
+        "created_at": "2025-05-08T14:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920478889866113351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.7716,
+              "start": 45,
+              "type": "Person"
+            },
+            {
+              "end": 105,
+              "normalized_text": "WEGO本店",
+              "probability": 0.399,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 181,
+              "start": 171,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ、ゲーム、コミック、声優によるリアルライブなど様々なメディアミックスを展開する次世代ガールズバンドプロジェクト「BanG Dream! 」より、Ave Mujicaとのコラボレーションアイテムが5月31日(土)より全国のWEGO一部店舗とWEGO ONLINESTOREにて発売が決定！！描き下ろし着用限定アイテムはWEGOでしか手に入らないスペシャルなアイテムとなります！この機会を是非お見逃しなく！☆ ＜販売詳細＞■販売開始日店頭販売：5月31日(土)〜オンラインストア販売：6月2日(月) 12:00〜＞＞URLはこちら＜＜※6月2日(月)10:00～公開予定 ■販売店舗【WEGO】原宿本店／心斎橋店／札幌店／大宮アルシェ／池",
+              "display_url": "wego.jp/blogs/news/ave…",
+              "end": 164,
+              "expanded_url": "https://wego.jp/blogs/news/avemujica_wego",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1920480800178401280/rcvsx1Ei?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1920480800178401280/rcvsx1Ei?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 404,
+              "title": "BanG Dream!×WEGOコラボレーションアイテムの発売が決定！",
+              "unwound_url": "https://wego.jp/blogs/news/avemujica_wego",
+              "url": "https://t.co/V808LsJI39"
+            },
+            {
+              "display_url": "pic.x.com/HOhjnBFGp5",
+              "end": 205,
+              "expanded_url": "https://x.com/WEGO_press/status/1920478889866113351/photo/1",
+              "media_key": "3_1920478879434625024",
+              "start": 182,
+              "url": "https://t.co/HOhjnBFGp5"
+            },
+            {
+              "display_url": "pic.x.com/HOhjnBFGp5",
+              "end": 205,
+              "expanded_url": "https://x.com/WEGO_press/status/1920478889866113351/photo/1",
+              "media_key": "3_1920478879396876288",
+              "start": 182,
+              "url": "https://t.co/HOhjnBFGp5"
+            },
+            {
+              "display_url": "pic.x.com/HOhjnBFGp5",
+              "end": 205,
+              "expanded_url": "https://x.com/WEGO_press/status/1920478889866113351/photo/1",
+              "media_key": "3_1920478879375892480",
+              "start": 182,
+              "url": "https://t.co/HOhjnBFGp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920478889866113351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 170,
+                "start": 165,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 181,
+                "start": 171,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 187,
+                "start": 182,
+                "tag": "WEGO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wego.jp/blogs/news/ave…",
+                "end": 164,
+                "expanded_url": "https://wego.jp/blogs/news/avemujica_wego",
+                "start": 141,
+                "url": "https://t.co/3M3MuZhqKb"
+              }
+            ]
+          },
+          "text": "🌙⚙️BanG Dram!×WEGOコラボ🌙⚙️\n今年もバンドリ！コラボが決定！📢\nAve Mujicaの描き下ろしヴィジュアル解禁！\n今年はコラボ史上初めての夏アイテムの発売!!\n発売当日にはWEGO本店にてウィンドウラッピングなど盛りだくさん！❤️‍🔥\n︎︎︎︎🔻詳細はこちら\nhttps://t.co/3M3MuZhqKb\n#バンドリ #AveMujica #WEGO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 612,
+          "impression_count": 343034,
+          "like_count": 3057,
+          "quote_count": 466,
+          "reply_count": 5,
+          "retweet_count": 1363
+        },
+        "reply_settings": "everyone",
+        "text": "🌙⚙️BanG Dram!×WEGOコラボ🌙⚙️\n今年もバンドリ！コラボが決定！📢\nAve Mujicaの描き下ろしヴィジュアル解禁！\n今年はコラボ史上初めての夏アイテムの発売!!\n発売当日にはWEGO本店にてウィンドウラッピングなど盛りだくさん！❤️‍🔥\n︎︎︎︎🔻詳細はこちら\nhttps://t.co/V808LsJI39\n#バンドリ #AveMujica https://t.co/HOhjnBFGp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/Demisexual有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1914232754155516338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 142,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 392
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-22T06:28:20.000Z",
+        "description": "全国約170店舗を展開するWEGO公式アカウント。ファッション、カルチャー、 ライフスタイルの最新情報を発信。お問い合わせ: https://t.co/W0LUrNwiyH  アプリ: https://t.co/F02Tv09IvY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wego.jp/pages/faq",
+                "end": 86,
+                "expanded_url": "https://wego.jp/pages/faq",
+                "start": 63,
+                "url": "https://t.co/W0LUrNwiyH"
+              },
+              {
+                "display_url": "apps.apple.com/jp/app/wego/id…",
+                "end": 116,
+                "expanded_url": "https://apps.apple.com/jp/app/wego/id431461174",
+                "start": 93,
+                "url": "https://t.co/F02Tv09IvY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wego.jp/?utm_source=X_…",
+                "end": 23,
+                "expanded_url": "https://wego.jp/?utm_source=X_press&utm_medium=profile&utm_campaign=240122&utm_content=item&utm_term",
+                "start": 0,
+                "url": "https://t.co/gMx5tFqYKS"
+              }
+            ]
+          }
+        },
+        "id": "158268358",
+        "name": "WEGO ウィゴー",
+        "pinned_tweet_id": "1909803600580428175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212082864310734848/5_sM09Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390464,
+          "following_count": 498,
+          "like_count": 3235,
+          "listed_count": 1507,
+          "media_count": 6380,
+          "tweet_count": 16526
+        },
+        "url": "https://t.co/gMx5tFqYKS",
+        "username": "WEGO_press",
+        "verified": true
+      }
+    ]
+  }
+}

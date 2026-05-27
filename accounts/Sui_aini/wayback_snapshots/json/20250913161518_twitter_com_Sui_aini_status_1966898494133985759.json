@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1966898494133985759",
+    "created_at": "2025-09-13T16:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T17:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966898494133985759"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "千歳くんはラムネ瓶のなか",
+          "probability": 0.3224,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "福井上映会 福井",
+          "probability": 0.3483,
+          "start": 32,
+          "type": "Place"
+        },
+        {
+          "end": 78,
+          "normalized_text": "朔くん",
+          "probability": 0.8425,
+          "start": 76,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966898494133985759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 993
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966838912577663081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『千歳くんはラムネ瓶のなか』福井上映会\n\n福井に来ることができてとても嬉しいです✨\n本日はありがとうございました✨\n朔くんたちの素敵な青春を\nぜひ皆さんと一緒に\n見守らせていただけますと幸いです。\n10月からの放送をよろしくお願いします！\nP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "羊宮妃那専用のコッペパンと\nチラシをいただきました✨\nとても美味しくて、とても素敵で\nお腹も心も満たされました...✨\n皆さんにも、お写真から少しでも幸せをお届けできておりましたら幸いです✨\n\nそしてこちらのお衣装や髪型は優空ちゃんを意識してご用意、ヘアアレンジしていただきました...✨",
+        "height": 2048,
+        "media_key": "3_1966838848367063041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0udgwdbcAEEXd6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966838848396423169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0udgwkbcAEnv_7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966838848371167232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0udgweaEAAbPEs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966898494133985759",
+        "created_at": "2025-09-13T16:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966898494133985759"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "千歳くんはラムネ瓶のなか",
+              "probability": 0.3224,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "福井上映会 福井",
+              "probability": 0.3483,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "朔くん",
+              "probability": 0.8425,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966898494133985759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 993
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966838912577663081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『千歳くんはラムネ瓶のなか』福井上映会\n\n福井に来ることができてとても嬉しいです✨\n本日はありがとうございました✨\n朔くんたちの素敵な青春を\nぜひ皆さんと一緒に\n見守らせていただけますと幸いです。\n10月からの放送をよろしくお願いします！\nP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966838848367063041",
+            "3_1966838848396423169",
+            "3_1966838848371167232"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966838912577663081",
+        "created_at": "2025-09-13T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966838912577663081"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "千歳くんはラムネ瓶のなか",
+              "probability": 0.3255,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 22,
+              "normalized_text": "福井上映会 福井",
+              "probability": 0.3214,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 60,
+              "normalized_text": "朔くん",
+              "probability": 0.8407,
+              "start": 58,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "チラムネ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zotISelxmJ",
+              "end": 170,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1966838912577663081/photo/1",
+              "media_key": "3_1966838848367063041",
+              "start": 147,
+              "url": "https://t.co/zotISelxmJ"
+            },
+            {
+              "display_url": "pic.x.com/zotISelxmJ",
+              "end": 170,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1966838912577663081/photo/1",
+              "media_key": "3_1966838848396423169",
+              "start": 147,
+              "url": "https://t.co/zotISelxmJ"
+            },
+            {
+              "display_url": "pic.x.com/zotISelxmJ",
+              "end": 170,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1966838912577663081/photo/1",
+              "media_key": "3_1966838848371167232",
+              "start": 147,
+              "url": "https://t.co/zotISelxmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966838912577663081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 352,
+          "impression_count": 146164,
+          "like_count": 5545,
+          "quote_count": 128,
+          "reply_count": 104,
+          "retweet_count": 993
+        },
+        "reply_settings": "everyone",
+        "text": "『千歳くんはラムネ瓶のなか』福井上映会\n\n福井に来ることができてとても嬉しいです✨\n本日はありがとうございました✨\n朔くんたちの素敵な青春を\nぜひ皆さんと一緒に\n見守らせていただけますと幸いです。\n10月からの放送をよろしくお願いします！\nP.Sチラムネコラボのコッペパンです✨\n\n#チラムネ https://t.co/zotISelxmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 512,
+          "like_count": 2298,
+          "listed_count": 4,
+          "media_count": 320,
+          "tweet_count": 1943
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213679,
+          "following_count": 286,
+          "like_count": 1975,
+          "listed_count": 1601,
+          "media_count": 130,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

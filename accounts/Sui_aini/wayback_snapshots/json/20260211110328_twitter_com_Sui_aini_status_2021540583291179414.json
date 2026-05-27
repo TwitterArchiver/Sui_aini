@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2021540583291179414",
+    "created_at": "2026-02-11T11:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021540583291179414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/giga_yuuki/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/giga_yuuki/status/2021194594961195419",
+          "start": 11,
+          "url": "https://t.co/mZGgUi3hVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021540583291179414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021194594961195419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪里的肯德基里面的鸡 https://t.co/mZGgUi3hVh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2021540583291179414",
+        "created_at": "2026-02-11T11:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021540583291179414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/giga_yuuki/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/giga_yuuki/status/2021194594961195419",
+              "start": 11,
+              "url": "https://t.co/mZGgUi3hVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021540583291179414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021194594961195419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪里的肯德基里面的鸡 https://t.co/mZGgUi3hVh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2607489157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2021155612499787981",
+        "created_at": "2026-02-10T12:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021194594961195419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 107,
+              "normalized_text": "日本",
+              "probability": 0.6029,
+              "start": 106,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1526940165175799810",
+              "start": 0,
+              "username": "50man8sen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021194594961195419",
+        "in_reply_to_user_id": "1526940165175799810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 176022,
+          "like_count": 1884,
+          "quote_count": 19,
+          "reply_count": 23,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021155612499787981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@50man8sen すまんな。俺もゲイだけど\n今回は自民にいれたわ。\n\n結婚して何を得たいの？\n去年俺はパートナーシップ\n連れと一緒にとりにいった。\n\nだいぶ昔より世の中変わった思うが\n\n今やるべきことは現在の日本を\nどう立て直すか。未来の子供に\nどう希望を持たせるかだと思う\n\n同性の自分は後回しでいい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 554,
+          "like_count": 3220,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 2591
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-06T13:30:15.000Z",
+        "description": "おいらゲイなのでよろしくｗ最近は原神、スタレばっか。原神、スタレする人は基本ブロックしない。あと同じ組合の人もw",
+        "id": "2607489157",
+        "name": "ゆうき",
+        "pinned_tweet_id": "2008976660268515488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/485780793461993473/Tfhe3PxI_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 37,
+          "like_count": 1226,
+          "listed_count": 2,
+          "media_count": 1056,
+          "tweet_count": 7908
+        },
+        "username": "giga_yuuki",
+        "verified": false
+      }
+    ]
+  }
+}

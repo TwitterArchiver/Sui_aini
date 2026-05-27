@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2042469296463626499",
+    "created_at": "2026-04-10T05:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042469296463626499"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 102,
+          "start": 94,
+          "tag": "ひつじさんの夢"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "声グラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "104074131",
+          "start": 3,
+          "username": "seigura"
+        }
+      ],
+      "urls": [
+        {
+          "description": "この三つ編みは…… 羊宮妃那さんが「夢」の世界に入り込む連載、「ヒツジさんは○○の夢を見る」。今回は「本」の夢の中へ。 実際の本屋さんをお借りして撮影！ インタビューでは、普段読む本へのこだわりや思い出の絵本についても教えていただきました。",
+          "display_url": "seigura.com/news/167732/",
+          "end": 131,
+          "expanded_url": "https://seigura.com/news/167732/",
+          "images": [
+            {
+              "height": 1326,
+              "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=orig",
+              "width": 967
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "【声グラ5月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「本」の夢 | seigura.com",
+          "unwound_url": "https://seigura.com/news/167732/",
+          "url": "https://t.co/tm2eiP2pVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042469296463626499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042448854898061783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seigura: 声優グランプリ5月号は本日発売📖\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「本」の夢📚\nずっと探している思い出の絵本があるそうですが……🤔\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/tm2eiP2pVV https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1326,
+        "media_key": "3_2042448658537594885",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFg8O8wbQAU-9hm.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2042469296463626499",
+        "created_at": "2026-04-10T05:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042469296463626499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 102,
+              "start": 94,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "声グラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "104074131",
+              "start": 3,
+              "username": "seigura"
+            }
+          ],
+          "urls": [
+            {
+              "description": "この三つ編みは…… 羊宮妃那さんが「夢」の世界に入り込む連載、「ヒツジさんは○○の夢を見る」。今回は「本」の夢の中へ。 実際の本屋さんをお借りして撮影！ インタビューでは、普段読む本へのこだわりや思い出の絵本についても教えていただきました。",
+              "display_url": "seigura.com/news/167732/",
+              "end": 131,
+              "expanded_url": "https://seigura.com/news/167732/",
+              "images": [
+                {
+                  "height": 1326,
+                  "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=orig",
+                  "width": 967
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "【声グラ5月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「本」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/167732/",
+              "url": "https://t.co/tm2eiP2pVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042469296463626499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042448854898061783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seigura: 声優グランプリ5月号は本日発売📖\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「本」の夢📚\nずっと探している思い出の絵本があるそうですが……🤔\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/tm2eiP2pVV https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042448658537594885"
+          ]
+        },
+        "author_id": "104074131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2042448854898061783",
+        "created_at": "2026-04-10T03:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042448854898061783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "ひつじさんの夢"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "声グラ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "この三つ編みは…… 羊宮妃那さんが「夢」の世界に入り込む連載、「ヒツジさんは○○の夢を見る」。今回は「本」の夢の中へ。 実際の本屋さんをお借りして撮影！ インタビューでは、普段読む本へのこだわりや思い出の絵本についても教えていただきました。",
+              "display_url": "seigura.com/news/167732/",
+              "end": 118,
+              "expanded_url": "https://seigura.com/news/167732/",
+              "images": [
+                {
+                  "height": 1326,
+                  "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=orig",
+                  "width": 967
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042448906362241028/PQt8BxBf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "【声グラ5月号】羊宮妃那さん連載「羊さんは○○の夢を見る」。今回は「本」の夢 | seigura.com",
+              "unwound_url": "https://seigura.com/news/167732/",
+              "url": "https://t.co/tm2eiP2pVV"
+            },
+            {
+              "display_url": "pic.x.com/IU9DcqMC9J",
+              "end": 142,
+              "expanded_url": "https://x.com/seigura/status/2042448854898061783/photo/1",
+              "media_key": "3_2042448658537594885",
+              "start": 119,
+              "url": "https://t.co/IU9DcqMC9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042448854898061783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 19435,
+          "like_count": 748,
+          "quote_count": 21,
+          "reply_count": 1,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "声優グランプリ5月号は本日発売📖\n羊宮妃那さんの連載「羊さんは○○の夢を見る」今回は「本」の夢📚\nずっと探している思い出の絵本があるそうですが……🤔\n#羊宮妃那 #ひつじさんの夢 #声グラ\nhttps://t.co/tm2eiP2pVV https://t.co/IU9DcqMC9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 656,
+          "like_count": 4243,
+          "listed_count": 5,
+          "media_count": 461,
+          "tweet_count": 3328
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-12T04:59:16.000Z",
+        "description": "創刊31周年のNo.1月刊声優誌『声優グランプリ』(声グラ：せいぐら)公式です。 毎月10日発売！ #声グラ\nonline shopインフォスクエア🛒https://t.co/slpP7MAu61\n撮り下ろし写真販売「声グラ+」https://t.co/LtJzfuCm8r",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "声グラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "infosquare.shop",
+                "end": 98,
+                "expanded_url": "https://infosquare.shop/",
+                "start": 75,
+                "url": "https://t.co/slpP7MAu61"
+              },
+              {
+                "display_url": "seigura.emii.photo",
+                "end": 137,
+                "expanded_url": "https://seigura.emii.photo/",
+                "start": 114,
+                "url": "https://t.co/LtJzfuCm8r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seigura.com",
+                "end": 23,
+                "expanded_url": "https://seigura.com/",
+                "start": 0,
+                "url": "https://t.co/c0lvETCJcL"
+              }
+            ]
+          }
+        },
+        "id": "104074131",
+        "location": "東京 神保町",
+        "name": "声優グランプリ＠31周年",
+        "pinned_tweet_id": "2039976581226250297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006424390072877061/10gftBES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211363,
+          "following_count": 2000,
+          "like_count": 8868,
+          "listed_count": 1886,
+          "media_count": 10879,
+          "tweet_count": 32841
+        },
+        "url": "https://t.co/c0lvETCJcL",
+        "username": "seigura",
+        "verified": true
+      }
+    ]
+  }
+}

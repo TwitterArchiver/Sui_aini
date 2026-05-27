@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "In a world where those with powers are known as \"Quirks,\" Izuku Midoriya has aspirations to one day become a hero but there's a catch -- he isn't a Quirk. After a tragic accident involving his friend Katuski Bakugo; Midoriya is the only one to have stepped forward to help protect Bakugo from a villain, because of his acts, he is given a gift by the world's greatest hero, All Might. Now, Midoriya attends U.A. School--a school that cultivates the next generation of superheroes.",
+          "id": "10053460334",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207461450236563457",
+          "name": "My Hero Academia"
+        }
+      }
+    ],
+    "conversation_id": "2019090265617858901",
+    "created_at": "2026-02-04T16:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019090265617858901"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "My Hero Academia",
+          "probability": 0.9244,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "Guinness World Record",
+          "probability": 0.8941,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 121,
+          "normalized_text": "TV",
+          "probability": 0.5864,
+          "start": 120,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363585324660776970",
+          "start": 3,
+          "username": "animeupdates"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019090265617858901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018883649127784473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animeupdates: 'My Hero Academia' has Officially obtained the Guinness World Record for the \"Most in-demand Animated TV Show\" of 2025! h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2018883241529253888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASDnJZXIAAjvtX.jpg",
+        "width": 1076
+      },
+      {
+        "height": 483,
+        "media_key": "3_2018883241537679360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASDnJbXsAARdys.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "In a world where those with powers are known as \"Quirks,\" Izuku Midoriya has aspirations to one day become a hero but there's a catch -- he isn't a Quirk. After a tragic accident involving his friend Katuski Bakugo; Midoriya is the only one to have stepped forward to help protect Bakugo from a villain, because of his acts, he is given a gift by the world's greatest hero, All Might. Now, Midoriya attends U.A. School--a school that cultivates the next generation of superheroes.",
+              "id": "10053460334",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "2019090265617858901",
+        "created_at": "2026-02-04T16:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019090265617858901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "My Hero Academia",
+              "probability": 0.9244,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Guinness World Record",
+              "probability": 0.8941,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "TV",
+              "probability": 0.5864,
+              "start": 120,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363585324660776970",
+              "start": 3,
+              "username": "animeupdates"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019090265617858901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018883649127784473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animeupdates: 'My Hero Academia' has Officially obtained the Guinness World Record for the \"Most in-demand Animated TV Show\" of 2025! h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018883241529253888",
+            "3_2018883241537679360"
+          ]
+        },
+        "author_id": "1363585324660776970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "In a world where those with powers are known as \"Quirks,\" Izuku Midoriya has aspirations to one day become a hero but there's a catch -- he isn't a Quirk. After a tragic accident involving his friend Katuski Bakugo; Midoriya is the only one to have stepped forward to help protect Bakugo from a villain, because of his acts, he is given a gift by the world's greatest hero, All Might. Now, Midoriya attends U.A. School--a school that cultivates the next generation of superheroes.",
+              "id": "10053460334",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207461450236563457",
+              "name": "My Hero Academia"
+            }
+          }
+        ],
+        "conversation_id": "2018883649127784473",
+        "created_at": "2026-02-04T03:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018883649127784473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "My Hero Academia",
+              "probability": 0.9368,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Guinness World Record",
+              "probability": 0.8761,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuhwVcdMT3",
+              "end": 143,
+              "expanded_url": "https://x.com/animeupdates/status/2018883649127784473/photo/1",
+              "media_key": "3_2018883241529253888",
+              "start": 120,
+              "url": "https://t.co/GuhwVcdMT3"
+            },
+            {
+              "display_url": "pic.x.com/GuhwVcdMT3",
+              "end": 143,
+              "expanded_url": "https://x.com/animeupdates/status/2018883649127784473/photo/1",
+              "media_key": "3_2018883241537679360",
+              "start": 120,
+              "url": "https://t.co/GuhwVcdMT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018883649127784473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1706,
+          "impression_count": 515878,
+          "like_count": 19018,
+          "quote_count": 350,
+          "reply_count": 105,
+          "retweet_count": 2877
+        },
+        "reply_settings": "everyone",
+        "text": "'My Hero Academia' has Officially obtained the Guinness World Record for the \"Most in-demand Animated TV Show\" of 2025! https://t.co/GuhwVcdMT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 552,
+          "like_count": 3167,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 2524
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T20:25:00.000Z",
+        "description": "Bringing you the latest Anime News & Updates!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animeupdates.com",
+                "end": 23,
+                "expanded_url": "https://animeupdates.com",
+                "start": 0,
+                "url": "https://t.co/WoNejyK2lU"
+              }
+            ]
+          }
+        },
+        "id": "1363585324660776970",
+        "name": "Anime Updates",
+        "pinned_tweet_id": "2018883649127784473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010821631636123648/xsHY0Wg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176910,
+          "following_count": 105,
+          "like_count": 8588,
+          "listed_count": 1181,
+          "media_count": 9102,
+          "tweet_count": 9738
+        },
+        "url": "https://t.co/WoNejyK2lU",
+        "username": "animeupdates",
+        "verified": true
+      }
+    ]
+  }
+}

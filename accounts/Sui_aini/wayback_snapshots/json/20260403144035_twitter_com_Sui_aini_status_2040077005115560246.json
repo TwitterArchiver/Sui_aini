@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2040077005115560246",
+    "created_at": "2026-04-03T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040077005115560246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "人気アニメ「BanGDream!」で椎名立希役などを務める声優の林鼓子（23）が6月18日から公演するミュージカル「妻と飛んだ特攻兵」の出演を「諸般の事情により」辞退することを3日、所属事務所の公式Xで発表した。",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 75,
+          "expanded_url": "https://news.livedoor.com/article/detail/30903533/",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=orig",
+              "width": 788
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "バンドリ！声優・林鼓子　ミュージカルの出演辞退　「諸般の事情により」急きょ降板「心よりお詫び」",
+          "unwound_url": "https://news.livedoor.com/article/detail/30903533/",
+          "url": "https://t.co/xYOcUqdK10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040077005115560246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040066802152247326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【発表】声優・林鼓子、ミュージカルの出演辞退 「諸般の事情により」\nhttps://t.co/xYOcUqdK10\n\n6月18日から公演するミュージカル『妻と飛んだ特攻兵』の出演を辞退することを発表。劇団の公式サイトは「所属事務所の方針による…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2040064762848186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_EF9RbkAARrka.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2040077005115560246",
+        "created_at": "2026-04-03T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040077005115560246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "人気アニメ「BanGDream!」で椎名立希役などを務める声優の林鼓子（23）が6月18日から公演するミュージカル「妻と飛んだ特攻兵」の出演を「諸般の事情により」辞退することを3日、所属事務所の公式Xで発表した。",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 75,
+              "expanded_url": "https://news.livedoor.com/article/detail/30903533/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=orig",
+                  "width": 788
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "バンドリ！声優・林鼓子　ミュージカルの出演辞退　「諸般の事情により」急きょ降板「心よりお詫び」",
+              "unwound_url": "https://news.livedoor.com/article/detail/30903533/",
+              "url": "https://t.co/xYOcUqdK10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040077005115560246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040066802152247326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【発表】声優・林鼓子、ミュージカルの出演辞退 「諸般の事情により」\nhttps://t.co/xYOcUqdK10\n\n6月18日から公演するミュージカル『妻と飛んだ特攻兵』の出演を辞退することを発表。劇団の公式サイトは「所属事務所の方針による…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040064762848186368"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Entertainment News",
+              "id": "840160477514612736",
+              "name": "Entertainment news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          }
+        ],
+        "conversation_id": "2040066802152247326",
+        "created_at": "2026-04-03T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040066802152247326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "人気アニメ「BanGDream!」で椎名立希役などを務める声優の林鼓子（23）が6月18日から公演するミュージカル「妻と飛んだ特攻兵」の出演を「諸般の事情により」辞退することを3日、所属事務所の公式Xで発表した。",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 57,
+              "expanded_url": "https://news.livedoor.com/article/detail/30903533/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=orig",
+                  "width": 788
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040066846116999168/fLF-gPmg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "バンドリ！声優・林鼓子　ミュージカルの出演辞退　「諸般の事情により」急きょ降板「心よりお詫び」",
+              "unwound_url": "https://news.livedoor.com/article/detail/30903533/",
+              "url": "https://t.co/xYOcUqdK10"
+            },
+            {
+              "display_url": "pic.x.com/UgQiibAdet",
+              "end": 174,
+              "expanded_url": "https://x.com/livedoornews/status/2040066802152247326/photo/1",
+              "media_key": "3_2040064762848186368",
+              "start": 151,
+              "url": "https://t.co/UgQiibAdet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040066802152247326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 72011,
+          "like_count": 234,
+          "quote_count": 14,
+          "reply_count": 51,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "【発表】声優・林鼓子、ミュージカルの出演辞退 「諸般の事情により」\nhttps://t.co/xYOcUqdK10\n\n6月18日から公演するミュージカル『妻と飛んだ特攻兵』の出演を辞退することを発表。劇団の公式サイトは「所属事務所の方針によるお申し出により、急遽降板することとなりました」と報告した。 https://t.co/UgQiibAdet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 642,
+          "like_count": 4053,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3281
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159179,
+          "following_count": 106,
+          "like_count": 2288,
+          "listed_count": 13888,
+          "media_count": 285875,
+          "tweet_count": 461332
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

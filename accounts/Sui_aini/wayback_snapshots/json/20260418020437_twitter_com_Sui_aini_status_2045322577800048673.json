@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045289071526969344"
+      ],
+      "media_source_tweet_id": [
+        "2045289073653547298"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2045322577800048673",
+    "created_at": "2026-04-18T02:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045322577800048673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860857853738901504",
+          "start": 3,
+          "username": "KUDO_404NF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MWuXOOVVFj",
+          "end": 86,
+          "expanded_url": "https://x.com/KUDO_404NF/status/2045289073653547298/photo/1",
+          "media_key": "3_2045289071526969344",
+          "start": 63,
+          "url": "https://t.co/MWuXOOVVFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045322577800048673",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 299
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045289073653547298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KUDO_404NF: 게임 공식 계정도 피해갈 수 없는 일론의 개짓거리\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄲㅋㅋ https://t.co/MWuXOOVVFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2045289071526969344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJTkvtagAAsYXe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045289071526969344"
+          ],
+          "media_source_tweet_id": [
+            "2045289073653547298"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2045322577800048673",
+        "created_at": "2026-04-18T02:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045322577800048673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860857853738901504",
+              "start": 3,
+              "username": "KUDO_404NF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWuXOOVVFj",
+              "end": 86,
+              "expanded_url": "https://x.com/KUDO_404NF/status/2045289073653547298/photo/1",
+              "media_key": "3_2045289071526969344",
+              "start": 63,
+              "url": "https://t.co/MWuXOOVVFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045322577800048673",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 299
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045289073653547298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KUDO_404NF: 게임 공식 계정도 피해갈 수 없는 일론의 개짓거리\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄲㅋㅋ https://t.co/MWuXOOVVFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045289071526969344"
+          ]
+        },
+        "author_id": "1860857853738901504",
+        "conversation_id": "2045289073653547298",
+        "created_at": "2026-04-17T23:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045289073653547298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWuXOOVVFj",
+              "end": 70,
+              "expanded_url": "https://x.com/KUDO_404NF/status/2045289073653547298/photo/1",
+              "media_key": "3_2045289071526969344",
+              "start": 47,
+              "url": "https://t.co/MWuXOOVVFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045289073653547298",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17852,
+          "like_count": 368,
+          "quote_count": 101,
+          "reply_count": 1,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "게임 공식 계정도 피해갈 수 없는 일론의 개짓거리\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄲㅋㅋ https://t.co/MWuXOOVVFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 666,
+          "like_count": 4356,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 3448
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T01:27:51.000Z",
+        "description": "AI❌️ / 🇰🇷 / 日本語 OK, English OK / 프사 부개님 헤더 감자차님 커미션 / 비팔 알림X / 푸슝으로 리퀘나 잡담 다 괜찮아요~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/KUDO_404NF",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/KUDO_404NF",
+                "start": 0,
+                "url": "https://t.co/26mQgROVYX"
+              }
+            ]
+          }
+        },
+        "id": "1860857853738901504",
+        "location": "🪨🐈",
+        "name": "KK🎗🌺",
+        "pinned_tweet_id": "2044238288161255486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039353123387625472/I4Rdq4xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 157,
+          "like_count": 21290,
+          "listed_count": 4,
+          "media_count": 542,
+          "tweet_count": 42334
+        },
+        "url": "https://t.co/26mQgROVYX",
+        "username": "KUDO_404NF",
+        "verified": false
+      }
+    ]
+  }
+}

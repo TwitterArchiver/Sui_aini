@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      }
+    ],
+    "conversation_id": "2016834750783312369",
+    "created_at": "2026-01-29T11:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016834750783312369"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 101,
+          "normalized_text": "僕の心のヤバイやつ",
+          "probability": 0.6038,
+          "start": 93,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "変身"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "堀江瞬"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "僕ヤバ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1552835457313951744",
+          "start": 3,
+          "username": "bokuyaba_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016834750783312369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016813962265055391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokuyaba_anime: 🌸映画公開まであと1️⃣5️⃣日✨️3カウントで #変身 するよ！🌸\n\n#堀江瞬 さん＆ #羊宮妃那 さんがへーんしんっ☆彡\n\n🎧️劇場版「僕の心のヤバイやつ」劇中歌 Primary COLOR「つづく」\n#僕ヤバ 🎬 2026.2.13…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18400,
+        "height": 1280,
+        "media_key": "7_2016813874520215553",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016813874520215553/pu/img/8aO_R9hbS_aGF4Wo.jpg",
+        "public_metrics": {
+          "view_count": 5396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016813874520215553/pu/vid/avc1/320x568/GidP_MS5ATCIVz6v.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016813874520215553/pu/vid/avc1/480x852/Brc8X7EAF3Q6AXP-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016813874520215553/pu/vid/avc1/720x1280/iqC8qIEFPOvE9TRu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016813874520215553/pu/pl/EYOUQSRefoNnq8Jz.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2016834750783312369",
+        "created_at": "2026-01-29T11:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016834750783312369"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.6038,
+              "start": 93,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "変身"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "堀江瞬"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1552835457313951744",
+              "start": 3,
+              "username": "bokuyaba_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016834750783312369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016813962265055391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokuyaba_anime: 🌸映画公開まであと1️⃣5️⃣日✨️3カウントで #変身 するよ！🌸\n\n#堀江瞬 さん＆ #羊宮妃那 さんがへーんしんっ☆彡\n\n🎧️劇場版「僕の心のヤバイやつ」劇中歌 Primary COLOR「つづく」\n#僕ヤバ 🎬 2026.2.13…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016813874520215553"
+          ]
+        },
+        "author_id": "1552835457313951744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "2016813962265055391",
+        "created_at": "2026-01-29T10:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T11:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016813962265055391"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.6406,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "変身"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "堀江瞬"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3EaHDvX9e",
+              "end": 146,
+              "expanded_url": "https://x.com/bokuyaba_anime/status/2016813962265055391/video/1",
+              "media_key": "7_2016813874520215553",
+              "start": 123,
+              "url": "https://t.co/q3EaHDvX9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016813962265055391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 18928,
+          "like_count": 615,
+          "quote_count": 27,
+          "reply_count": 2,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "🌸映画公開まであと1️⃣5️⃣日✨️3カウントで #変身 するよ！🌸\n\n#堀江瞬 さん＆ #羊宮妃那 さんがへーんしんっ☆彡\n\n🎧️劇場版「僕の心のヤバイやつ」劇中歌 Primary COLOR「つづく」\n#僕ヤバ 🎬 2026.2.13㊎公開 https://t.co/q3EaHDvX9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 552,
+          "like_count": 3127,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 2461
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T01:57:16.000Z",
+        "description": "🌸2026年2月13日㊎全国公開　🌸原作 #桜井のりお（秋田書店「チャンピオンクロス」連載）／🌸CAST 市川京太郎役 #堀江瞬 山田杏奈役 #羊宮妃那 ／推奨▶#僕ヤバ ©桜井のりお（秋田書店）／僕ヤバ製作委員会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "桜井のりお"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "堀江瞬"
+              },
+              {
+                "end": 76,
+                "start": 71,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "僕ヤバ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bokuyaba-anime-movie.com",
+                "end": 23,
+                "expanded_url": "https://bokuyaba-anime-movie.com/",
+                "start": 0,
+                "url": "https://t.co/J8L1YYCq0j"
+              }
+            ]
+          }
+        },
+        "id": "1552835457313951744",
+        "name": "劇場版「僕の心のヤバイやつ」【公式】2026年2月13日㊎全国公開",
+        "pinned_tweet_id": "2012691476543918392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995417837012414464/GEmY3Hfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243636,
+          "following_count": 75,
+          "like_count": 294,
+          "listed_count": 807,
+          "media_count": 1136,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/J8L1YYCq0j",
+        "username": "bokuyaba_anime",
+        "verified": true
+      }
+    ]
+  }
+}

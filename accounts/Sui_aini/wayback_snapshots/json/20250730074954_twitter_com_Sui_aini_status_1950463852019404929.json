@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1950463852019404929",
+    "created_at": "2025-07-30T07:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T08:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950463852019404929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZhouCher2983/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ZhouCher2983/status/1950120168207638799",
+          "start": 4,
+          "url": "https://t.co/6GTKkVJMWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950463852019404929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950120168207638799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好土… https://t.co/6GTKkVJMWR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1950463852019404929",
+        "created_at": "2025-07-30T07:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950463852019404929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZhouCher2983/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ZhouCher2983/status/1950120168207638799",
+              "start": 4,
+              "url": "https://t.co/6GTKkVJMWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950463852019404929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950120168207638799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好土… https://t.co/6GTKkVJMWR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849315255379460096",
+        "conversation_id": "1949782351573098505",
+        "created_at": "2025-07-29T09:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950120168207638799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950120168207638799",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949782351573098505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 我滴妈宝子你这辈子都不可能是女的🥹跨÷别给女的招黑好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 490,
+          "like_count": 2035,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 1756
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T05:01:55.000Z",
+        "description": "本人生理性别女 心理性别男 跨性别男同 劳攻：@gnawizvj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "gnawizvj"
+              }
+            ]
+          }
+        },
+        "id": "1849315255379460096",
+        "location": "新西兰",
+        "name": "重启的恶魔🩸",
+        "pinned_tweet_id": "1927962348699947383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943932918163750913/KTqQ-BUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 3,
+          "like_count": 3456,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1855
+        },
+        "username": "ZhouCher2983",
+        "verified": false
+      }
+    ]
+  }
+}

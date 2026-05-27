@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2049929147175330140",
+    "created_at": "2026-04-30T19:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T20:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049929670712603006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031768515741696000",
+          "start": 0,
+          "username": "SmingE41117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049929670712603006",
+    "in_reply_to_user_id": "2031768515741696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049929147175330140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SmingE41117 假如很痛的话，现在一定要去急诊，让医生帮你冲洗一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2049929147175330140",
+        "created_at": "2026-04-30T19:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049929670712603006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031768515741696000",
+              "start": 0,
+              "username": "SmingE41117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049929670712603006",
+        "in_reply_to_user_id": "2031768515741696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049929147175330140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SmingE41117 假如很痛的话，现在一定要去急诊，让医生帮你冲洗一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031768515741696000",
+        "conversation_id": "2049929147175330140",
+        "created_at": "2026-04-30T19:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T20:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049929147175330140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049929147175330140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辣椒水撒到眼睛里了，洗干净了，好痛，左眼现在看不清东西，明天去医院……已经失去了一半听力不要再失去一半视力了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048602261493088256/8bA64K7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 696,
+          "like_count": 4653,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 3783
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T16:25:55.000Z",
+        "description": "碎碎念…… | 拒绝政治内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sming99845",
+                "end": 23,
+                "expanded_url": "http://ngl.link/sming99845",
+                "start": 0,
+                "url": "https://t.co/lUkUacLs51"
+              }
+            ]
+          }
+        },
+        "id": "2031768515741696000",
+        "location": "米饭",
+        "name": "Tan sming",
+        "pinned_tweet_id": "2032094672374644858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031768591440437248/32C2jkOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 64,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/lUkUacLs51",
+        "username": "SmingE41117",
+        "verified": false
+      }
+    ]
+  }
+}

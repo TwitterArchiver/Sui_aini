@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2001994492921200991",
+    "created_at": "2025-12-19T12:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001994492921200991"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "My Story Your Story",
+          "probability": 0.9346,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 35,
+          "tag": "MEI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001994492921200991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001979825926668477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: 【お知らせ】\n1/25(日)\n#MEI 2nd LIVE\n「My Story Your Story」\nDay2の1部に出演させていただきます！✨\nめいしゃん〜💕\nたくさんお話しできるの楽しみ！！\n\nチケット一般販売受付中です！🎫\nぜひ！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001979819253542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8h2CeYbsAAevRb.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2001994492921200991",
+        "created_at": "2025-12-19T12:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001994492921200991"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "My Story Your Story",
+              "probability": 0.9346,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "MEI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001994492921200991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001979825926668477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: 【お知らせ】\n1/25(日)\n#MEI 2nd LIVE\n「My Story Your Story」\nDay2の1部に出演させていただきます！✨\nめいしゃん〜💕\nたくさんお話しできるの楽しみ！！\n\nチケット一般販売受付中です！🎫\nぜひ！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001979819253542912"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "conversation_id": "2001979825926668477",
+        "created_at": "2025-12-19T11:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001979825926668477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "My Story Your Story",
+              "probability": 0.9408,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "MEI"
+            },
+            {
+              "end": 128,
+              "start": 119,
+              "tag": "MEI_MSYS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7VN7CNa9M",
+              "end": 152,
+              "expanded_url": "https://x.com/cocohayashi515/status/2001979825926668477/photo/1",
+              "media_key": "3_2001979819253542912",
+              "start": 129,
+              "url": "https://t.co/H7VN7CNa9M"
+            },
+            {
+              "display_url": "x.com/ace_crew_ent/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/ace_crew_ent/status/2001852900843380768",
+              "start": 153,
+              "url": "https://t.co/sh8CzdOuPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001979825926668477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 39512,
+          "like_count": 1866,
+          "quote_count": 27,
+          "reply_count": 13,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001852900843380768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\n1/25(日)\n#MEI 2nd LIVE\n「My Story Your Story」\nDay2の1部に出演させていただきます！✨\nめいしゃん〜💕\nたくさんお話しできるの楽しみ！！\n\nチケット一般販売受付中です！🎫\nぜひ！\n#MEI_MSYS https://t.co/H7VN7CNa9M https://t.co/sh8CzdOuPZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 531,
+          "like_count": 2829,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 2280
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "株式会社LIBERTE｜声優・俳優｜ドラム｜ミュージカルと宝塚、ロックと映画が好きです。｜NEXT⤑ 【舞台】 ミュージカル「スキップとローファー」 #スキミュ 江頭ミカ｜Instagram⤑ https://t.co/PVDKZdpjVo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "スキミュ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/coco_hayashi.o…",
+                "end": 120,
+                "expanded_url": "http://instagram.com/coco_hayashi.official",
+                "start": 97,
+                "url": "https://t.co/PVDKZdpjVo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fan.pia.jp/cocohayashi/",
+                "end": 23,
+                "expanded_url": "https://fan.pia.jp/cocohayashi/",
+                "start": 0,
+                "url": "https://t.co/CCW7qMh3w3"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "location": "林鼓子 Official Fanclub-鼓星-",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1939897035395932334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929015942136344580/JsSltbSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157786,
+          "following_count": 583,
+          "like_count": 8737,
+          "listed_count": 2828,
+          "media_count": 1646,
+          "tweet_count": 7888
+        },
+        "url": "https://t.co/CCW7qMh3w3",
+        "username": "cocohayashi515",
+        "verified": true
+      }
+    ]
+  }
+}

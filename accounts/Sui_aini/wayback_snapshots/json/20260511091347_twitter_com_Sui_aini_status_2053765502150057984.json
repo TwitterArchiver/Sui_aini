@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2053765502150057984",
+    "created_at": "2026-05-11T09:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053765502150057984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2052633666149650924",
+          "start": 36,
+          "url": "https://t.co/PcLCdBS2qQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053765502150057984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052633666149650924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "950的维修费，也太倒霉了，上个月刚过保，这个月就出了问题…什么倒霉鬼 https://t.co/PcLCdBS2qQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2053765502150057984",
+        "created_at": "2026-05-11T09:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053765502150057984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2052633666149650924",
+              "start": 36,
+              "url": "https://t.co/PcLCdBS2qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053765502150057984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052633666149650924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "950的维修费，也太倒霉了，上个月刚过保，这个月就出了问题…什么倒霉鬼 https://t.co/PcLCdBS2qQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2052633666149650924",
+        "created_at": "2026-05-08T06:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052633666149650924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052633666149650924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1006,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机上面的屏幕摔坏了靠，没钱修，只能等发了工资再去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2053352792975450570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051107425839915008/aTAeaTEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 735,
+          "like_count": 4936,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 4236
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

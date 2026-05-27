@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "1997376605979639984",
+    "created_at": "2025-12-06T18:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997376605979639984"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "想いのかたちが積もるとき",
+          "probability": 0.5279,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "エガクミライ",
+          "probability": 0.3703,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "明弦音",
+          "probability": 0.894,
+          "start": 65,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "静降想",
+          "probability": 0.5415,
+          "start": 70,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "910441789768720385",
+          "start": 3,
+          "username": "aniverse_brs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2025年12月6日（土）、京王アリーナTOKYOで開催された MyGO!!!!! 8th LIVE「想いのか",
+          "display_url": "aniverse-mag.com/archives/349855",
+          "end": 138,
+          "expanded_url": "https://aniverse-mag.com/archives/349855",
+          "images": [
+            {
+              "height": 667,
+              "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 115,
+          "status": 200,
+          "title": "MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」開催！「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！次回単独ライブなど新情報も解禁！ – アニバース",
+          "unwound_url": "https://aniverse-mag.com/archives/349855",
+          "url": "https://t.co/3MlVtCrbbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997376605979639984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997318716091207810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aniverse_brs: MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」レポート！\n「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！\n次回単独ライブなど新情報も解禁！\n\nhttps://t.co/3MlVtCrbbR…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1997318610667425792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fmsbQb0AAWL_9.jpg",
+        "width": 1000
+      },
+      {
+        "height": 667,
+        "media_key": "3_1997318610679889920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fmsbTaAAA82Ic.jpg",
+        "width": 1000
+      },
+      {
+        "height": 667,
+        "media_key": "3_1997318639880695808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fmuIFa8AA1D4T.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "1997376605979639984",
+        "created_at": "2025-12-06T18:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997376605979639984"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "想いのかたちが積もるとき",
+              "probability": 0.5279,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "エガクミライ",
+              "probability": 0.3703,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "明弦音",
+              "probability": 0.894,
+              "start": 65,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "静降想",
+              "probability": 0.5415,
+              "start": 70,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "910441789768720385",
+              "start": 3,
+              "username": "aniverse_brs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2025年12月6日（土）、京王アリーナTOKYOで開催された MyGO!!!!! 8th LIVE「想いのか",
+              "display_url": "aniverse-mag.com/archives/349855",
+              "end": 138,
+              "expanded_url": "https://aniverse-mag.com/archives/349855",
+              "images": [
+                {
+                  "height": 667,
+                  "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」開催！「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！次回単独ライブなど新情報も解禁！ – アニバース",
+              "unwound_url": "https://aniverse-mag.com/archives/349855",
+              "url": "https://t.co/3MlVtCrbbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997376605979639984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997318716091207810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aniverse_brs: MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」レポート！\n「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！\n次回単独ライブなど新情報も解禁！\n\nhttps://t.co/3MlVtCrbbR…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997318610667425792",
+            "3_1997318610679889920",
+            "3_1997318639880695808"
+          ]
+        },
+        "author_id": "910441789768720385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1997318716091207810",
+        "created_at": "2025-12-06T14:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997318716091207810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "想いのかたちが積もるとき",
+              "probability": 0.5916,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "エガクミライ",
+              "probability": 0.4086,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "明弦音",
+              "probability": 0.9042,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "静降想",
+              "probability": 0.5696,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 122,
+              "tag": "想いのかたちが積もるとき"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "MyGO"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2025年12月6日（土）、京王アリーナTOKYOで開催された MyGO!!!!! 8th LIVE「想いのか",
+              "display_url": "aniverse-mag.com/archives/349855",
+              "end": 120,
+              "expanded_url": "https://aniverse-mag.com/archives/349855",
+              "images": [
+                {
+                  "height": 667,
+                  "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997318724848844800/IedS7Ad8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」開催！「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！次回単独ライブなど新情報も解禁！ – アニバース",
+              "unwound_url": "https://aniverse-mag.com/archives/349855",
+              "url": "https://t.co/3MlVtCrbbR"
+            },
+            {
+              "display_url": "pic.x.com/B82UH1W9Wp",
+              "end": 171,
+              "expanded_url": "https://x.com/aniverse_brs/status/1997318716091207810/photo/1",
+              "media_key": "3_1997318610667425792",
+              "start": 148,
+              "url": "https://t.co/B82UH1W9Wp"
+            },
+            {
+              "display_url": "pic.x.com/B82UH1W9Wp",
+              "end": 171,
+              "expanded_url": "https://x.com/aniverse_brs/status/1997318716091207810/photo/1",
+              "media_key": "3_1997318610679889920",
+              "start": 148,
+              "url": "https://t.co/B82UH1W9Wp"
+            },
+            {
+              "display_url": "pic.x.com/B82UH1W9Wp",
+              "end": 171,
+              "expanded_url": "https://x.com/aniverse_brs/status/1997318716091207810/photo/1",
+              "media_key": "3_1997318639880695808",
+              "start": 148,
+              "url": "https://t.co/B82UH1W9Wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997318716091207810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 9514,
+          "like_count": 329,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!! 8th LIVE「想いのかたちが積もるとき」レポート！\n「エガクミライ」「明弦音」「静降想」の初披露を含む過去最大楽曲数の17曲を熱演！\n次回単独ライブなど新情報も解禁！\n\nhttps://t.co/3MlVtCrbbR\n\n#想いのかたちが積もるとき\n#MyGO\n#バンドリ https://t.co/B82UH1W9Wp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 529,
+          "like_count": 2755,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 2218
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-20T09:53:32.000Z",
+        "description": "アニメ情報Webマガジン「アニバース」です。新作や続編情報がありましたらDMでも募集中です。\n今後はインタビューなどオリジナル記事も充実させていく予定なので、取材して欲しい人、作品があればリクエストもお待ちしています！\nまたスポンサーや掲載希望のメーカー様や企業様も募集中です。\nお気軽のお問い合わせください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aniverse-mag.com",
+                "end": 23,
+                "expanded_url": "http://aniverse-mag.com/",
+                "start": 0,
+                "url": "https://t.co/ukDFSljO3E"
+              }
+            ]
+          }
+        },
+        "id": "910441789768720385",
+        "location": "日本",
+        "name": "アニバース編集部",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390240338741121025/-wOl2FGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11102,
+          "following_count": 1529,
+          "like_count": 1027,
+          "listed_count": 79,
+          "media_count": 26891,
+          "tweet_count": 35660
+        },
+        "url": "https://t.co/ukDFSljO3E",
+        "username": "aniverse_brs",
+        "verified": true
+      }
+    ]
+  }
+}

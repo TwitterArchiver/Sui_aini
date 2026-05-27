@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004772243222806528"
+      ],
+      "media_source_tweet_id": [
+        "2004772248444698924"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2004872692336656560",
+    "created_at": "2025-12-27T11:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004872692336656560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775220154810630145",
+          "start": 3,
+          "username": "ychluvrch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qeekm8JdgO",
+          "end": 84,
+          "expanded_url": "https://x.com/ychluvrch/status/2004772248444698924/photo/1",
+          "media_key": "3_2004772243222806528",
+          "start": 61,
+          "url": "https://t.co/qeekm8JdgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004872692336656560",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004772248444698924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ychluvrch: สองคนนี้คบกันแล้วแน่ ๆ นี่แค่ยังพิสูจน์ไม่ได้ https://t.co/qeekm8JdgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 333,
+        "media_key": "3_2004772243222806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Jhu8TbwAAysF9.jpg",
+        "width": 333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004772243222806528"
+          ],
+          "media_source_tweet_id": [
+            "2004772248444698924"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2004872692336656560",
+        "created_at": "2025-12-27T11:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004872692336656560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775220154810630145",
+              "start": 3,
+              "username": "ychluvrch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeekm8JdgO",
+              "end": 84,
+              "expanded_url": "https://x.com/ychluvrch/status/2004772248444698924/photo/1",
+              "media_key": "3_2004772243222806528",
+              "start": 61,
+              "url": "https://t.co/qeekm8JdgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004872692336656560",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004772248444698924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ychluvrch: สองคนนี้คบกันแล้วแน่ ๆ นี่แค่ยังพิสูจน์ไม่ได้ https://t.co/qeekm8JdgO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004772243222806528"
+          ]
+        },
+        "author_id": "1775220154810630145",
+        "conversation_id": "2004772248444698924",
+        "created_at": "2025-12-27T04:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004772248444698924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qeekm8JdgO",
+              "end": 69,
+              "expanded_url": "https://x.com/ychluvrch/status/2004772248444698924/photo/1",
+              "media_key": "3_2004772243222806528",
+              "start": 46,
+              "url": "https://t.co/qeekm8JdgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004772248444698924",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1693,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "สองคนนี้คบกันแล้วแน่ ๆ นี่แค่ยังพิสูจน์ไม่ได้ https://t.co/qeekm8JdgO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 533,
+          "like_count": 2857,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 2299
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T17:54:10.000Z",
+        "description": "20 | multifandom ー โลกหมุนรอบเคะ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/6I2Xl5fZ…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/6I2Xl5fZP0tdFOUjgekK4p?si=02GnVLe9Qx20t29HY3DfHw",
+                "start": 0,
+                "url": "https://t.co/tzfH3DkXWy"
+              }
+            ]
+          }
+        },
+        "id": "1775220154810630145",
+        "location": "personal acc 🖍️🗯️",
+        "name": "yach",
+        "pinned_tweet_id": "2001680954285547635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996592920686923776/MFr8ZuWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 758,
+          "like_count": 9640,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 6519
+        },
+        "url": "https://t.co/tzfH3DkXWy",
+        "username": "ychluvrch",
+        "verified": false
+      }
+    ]
+  }
+}

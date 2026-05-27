@@ -1,0 +1,914 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053189462",
+          "name": "バンドリ!TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      }
+    ],
+    "conversation_id": "1948371631975657634",
+    "created_at": "2025-07-24T13:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T14:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948371631975657634"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "バンドリ！TV LIVE 2025",
+          "probability": 0.7506,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "佐々木李子",
+          "probability": 0.6313,
+          "start": 67,
+          "type": "Person"
+        },
+        {
+          "end": 75,
+          "normalized_text": "渡瀬結",
+          "probability": 0.8679,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 81,
+          "normalized_text": "岡田夢以",
+          "probability": 0.521,
+          "start": 78,
+          "type": "Person"
+        },
+        {
+          "end": 85,
+          "normalized_text": "米澤茜",
+          "probability": 0.9732,
+          "start": 83,
+          "type": "Person"
+        },
+        {
+          "end": 89,
+          "normalized_text": "高尾奏",
+          "probability": 0.854,
+          "start": 87,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「バンドリ！TV LIVE」がリニューアルした「バンドリ！TV LIVE 2025」！！毎週木曜日22:00から1時間、バンドリ！プロジェクトに関する最新情報などをお届けします。番組終了後の23時からは、 TOKYO MXほかにてアニメ「BanG Dream! 2nd Season」を再放送いたします！「バンドリ...",
+          "display_url": "youtube.com/live/NrGBiTE-1…",
+          "end": 134,
+          "expanded_url": "https://youtube.com/live/NrGBiTE-1Ag",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "バンドリ！TV LIVE 2025 #274",
+          "unwound_url": "https://www.youtube.com/live/NrGBiTE-1Ag",
+          "url": "https://t.co/uJriayjzhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948371631975657634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948364732936949985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: このあと22:00〜生配信📺✨\n「バンドリ！TV LIVE 2025」＃274\n\n出演者\n佐々木李子、渡瀬結月、岡田夢以、米澤茜、高尾奏音\n\nYouTube Liveで生配信📺✨\nhttps://t.co/uJriayjzhZ\n\nhtt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1948364659159113728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwn7VaoaoAARfgc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1948371631975657634",
+        "created_at": "2025-07-24T13:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948371631975657634"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "バンドリ！TV LIVE 2025",
+              "probability": 0.7506,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "佐々木李子",
+              "probability": 0.6313,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "渡瀬結",
+              "probability": 0.8679,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "岡田夢以",
+              "probability": 0.521,
+              "start": 78,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "米澤茜",
+              "probability": 0.9732,
+              "start": 83,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "高尾奏",
+              "probability": 0.854,
+              "start": 87,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「バンドリ！TV LIVE」がリニューアルした「バンドリ！TV LIVE 2025」！！毎週木曜日22:00から1時間、バンドリ！プロジェクトに関する最新情報などをお届けします。番組終了後の23時からは、 TOKYO MXほかにてアニメ「BanG Dream! 2nd Season」を再放送いたします！「バンドリ...",
+              "display_url": "youtube.com/live/NrGBiTE-1…",
+              "end": 134,
+              "expanded_url": "https://youtube.com/live/NrGBiTE-1Ag",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "バンドリ！TV LIVE 2025 #274",
+              "unwound_url": "https://www.youtube.com/live/NrGBiTE-1Ag",
+              "url": "https://t.co/uJriayjzhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948371631975657634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948364732936949985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: このあと22:00〜生配信📺✨\n「バンドリ！TV LIVE 2025」＃274\n\n出演者\n佐々木李子、渡瀬結月、岡田夢以、米澤茜、高尾奏音\n\nYouTube Liveで生配信📺✨\nhttps://t.co/uJriayjzhZ\n\nhtt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948364659159113728"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1948364732936949985",
+        "created_at": "2025-07-24T12:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948364732936949985"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "バンドリ！TV LIVE 2025",
+              "probability": 0.764,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "佐々木李子",
+              "probability": 0.6229,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "渡瀬結",
+              "probability": 0.863,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "岡田夢以",
+              "probability": 0.4752,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "米澤茜",
+              "probability": 0.9733,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "高尾奏",
+              "probability": 0.8407,
+              "start": 66,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 156,
+              "start": 145,
+              "tag": "バンドリTVLIVE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「バンドリ！TV LIVE」がリニューアルした「バンドリ！TV LIVE 2025」！！毎週木曜日22:00から1時間、バンドリ！プロジェクトに関する最新情報などをお届けします。番組終了後の23時からは、 TOKYO MXほかにてアニメ「BanG Dream! 2nd Season」を再放送いたします！「バンドリ...",
+              "display_url": "youtube.com/live/NrGBiTE-1…",
+              "end": 113,
+              "expanded_url": "https://youtube.com/live/NrGBiTE-1Ag",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945845418304409601/7ilsGkld?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "バンドリ！TV LIVE 2025 #274",
+              "unwound_url": "https://www.youtube.com/live/NrGBiTE-1Ag",
+              "url": "https://t.co/uJriayjzhZ"
+            },
+            {
+              "description": "「バンドリ！TV LIVE 2025」第274回放送のお知らせについて掲載中。",
+              "display_url": "bang-dream.com/news/2147",
+              "end": 138,
+              "expanded_url": "https://bang-dream.com/news/2147",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1945845455642132480/Os76FJ9o?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945845455642132480/Os76FJ9o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "「バンドリ！TV LIVE 2025」第274回放送のお知らせ | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/news/2147",
+              "url": "https://t.co/0PmAFSLro3"
+            },
+            {
+              "display_url": "pic.x.com/BKkCVqkSau",
+              "end": 180,
+              "expanded_url": "https://x.com/bang_dream_info/status/1948364732936949985/photo/1",
+              "media_key": "3_1948364659159113728",
+              "start": 157,
+              "url": "https://t.co/BKkCVqkSau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948364732936949985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 38774,
+          "like_count": 836,
+          "quote_count": 33,
+          "reply_count": 1,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "このあと22:00〜生配信📺✨\n「バンドリ！TV LIVE 2025」＃274\n\n出演者\n佐々木李子、渡瀬結月、岡田夢以、米澤茜、高尾奏音\n\nYouTube Liveで生配信📺✨\nhttps://t.co/uJriayjzhZ\n\nhttps://t.co/0PmAFSLro3\n#バンドリ #バンドリTVLIVE https://t.co/BKkCVqkSau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 481,
+          "like_count": 1916,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 1657
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式Xです。 #バンドリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085592925773824/MHpcI3N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795880,
+          "following_count": 134,
+          "like_count": 411,
+          "listed_count": 4722,
+          "media_count": 14825,
+          "tweet_count": 31927
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

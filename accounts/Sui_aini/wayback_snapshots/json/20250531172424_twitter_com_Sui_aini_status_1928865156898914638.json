@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928578999741227008",
+        "3_1928579000345194496",
+        "3_1928579000672333828",
+        "3_1928579000936574978"
+      ],
+      "media_source_tweet_id": [
+        "1928579090119819764",
+        "1928579090119819764",
+        "1928579090119819764",
+        "1928579090119819764"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1928865156898914638",
+    "created_at": "2025-05-31T17:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T18:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928865156898914638"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1570569082763902978",
+          "start": 3,
+          "username": "super_yurufuwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urDsIoIWkF",
+          "end": 61,
+          "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+          "media_key": "3_1928578999741227008",
+          "start": 38,
+          "url": "https://t.co/urDsIoIWkF"
+        },
+        {
+          "display_url": "pic.x.com/urDsIoIWkF",
+          "end": 61,
+          "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+          "media_key": "3_1928579000345194496",
+          "start": 38,
+          "url": "https://t.co/urDsIoIWkF"
+        },
+        {
+          "display_url": "pic.x.com/urDsIoIWkF",
+          "end": 61,
+          "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+          "media_key": "3_1928579000672333828",
+          "start": 38,
+          "url": "https://t.co/urDsIoIWkF"
+        },
+        {
+          "display_url": "pic.x.com/urDsIoIWkF",
+          "end": 61,
+          "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+          "media_key": "3_1928579000936574978",
+          "start": 38,
+          "url": "https://t.co/urDsIoIWkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928865156898914638",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928579090119819764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @super_yurufuwa: バンのドリ #今月描いた絵を晒そう https://t.co/urDsIoIWkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928578999741227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOwYdjaoAAn4TN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928579000345194496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOwYfzacAAaEDZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1400,
+        "media_key": "3_1928579000672333828",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOwYhBaMAQVJej.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1800,
+        "media_key": "3_1928579000936574978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsOwYiAaMAIZtrL.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928578999741227008",
+            "3_1928579000345194496",
+            "3_1928579000672333828",
+            "3_1928579000936574978"
+          ],
+          "media_source_tweet_id": [
+            "1928579090119819764",
+            "1928579090119819764",
+            "1928579090119819764",
+            "1928579090119819764"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1928865156898914638",
+        "created_at": "2025-05-31T17:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T18:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928865156898914638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1570569082763902978",
+              "start": 3,
+              "username": "super_yurufuwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 61,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928578999741227008",
+              "start": 38,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 61,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000345194496",
+              "start": 38,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 61,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000672333828",
+              "start": 38,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 61,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000936574978",
+              "start": 38,
+              "url": "https://t.co/urDsIoIWkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928865156898914638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928579090119819764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @super_yurufuwa: バンのドリ #今月描いた絵を晒そう https://t.co/urDsIoIWkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928578999741227008",
+            "3_1928579000345194496",
+            "3_1928579000672333828",
+            "3_1928579000936574978"
+          ]
+        },
+        "author_id": "1570569082763902978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1928579090119819764",
+        "created_at": "2025-05-30T22:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T23:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928579090119819764"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 41,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928578999741227008",
+              "start": 18,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 41,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000345194496",
+              "start": 18,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 41,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000672333828",
+              "start": 18,
+              "url": "https://t.co/urDsIoIWkF"
+            },
+            {
+              "display_url": "pic.x.com/urDsIoIWkF",
+              "end": 41,
+              "expanded_url": "https://x.com/super_yurufuwa/status/1928579090119819764/photo/1",
+              "media_key": "3_1928579000936574978",
+              "start": 18,
+              "url": "https://t.co/urDsIoIWkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928579090119819764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 10672,
+          "like_count": 362,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "reply_settings": "following",
+        "text": "バンのドリ #今月描いた絵を晒そう https://t.co/urDsIoIWkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/od喝酒/🩸相关/跨权斗士（自封的）/不要询问指派性别",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1928847462501920778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913086386200301568/E4c1sVt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 298,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 740
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-16T00:24:05.000Z",
+        "description": "Let me be the one,Let me be the one 'YES'八芒星へ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/_0FI8xSgI1s?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/_0FI8xSgI1s?si=vKeoc7C8EDXpsGkI",
+                "start": 0,
+                "url": "https://t.co/E0XmJ455Gs"
+              }
+            ]
+          }
+        },
+        "id": "1570569082763902978",
+        "location": "〒170-0012 東京都豊島区上池袋２丁目５−１",
+        "name": "こんぺいとう？",
+        "pinned_tweet_id": "1776090705242575252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912099326718771200/qHealut5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 284,
+          "like_count": 46865,
+          "listed_count": 14,
+          "media_count": 4890,
+          "tweet_count": 64112
+        },
+        "url": "https://t.co/E0XmJ455Gs",
+        "username": "super_yurufuwa",
+        "verified": false
+      }
+    ]
+  }
+}

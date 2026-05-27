@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962867120594980864"
+      ],
+      "media_source_tweet_id": [
+        "1962867140404576677"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "1962911673200869754",
+    "created_at": "2025-09-02T16:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962911673200869754"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "エムルちゃん",
+          "probability": 0.7427,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 40,
+          "tag": "マイノグーラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwwIXvQC5R",
+          "end": 71,
+          "expanded_url": "https://x.com/sasakirico/status/1962867140404576677/photo/1",
+          "media_key": "3_1962867120594980864",
+          "start": 48,
+          "url": "https://t.co/GwwIXvQC5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962911673200869754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962867140404576677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: 形違うけど。。\nエムルちゃん意識でメガネ👓😈\n\n#マイノグーラ https://t.co/GwwIXvQC5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1962867120594980864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2BPxhbkAArIdl.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962867120594980864"
+          ],
+          "media_source_tweet_id": [
+            "1962867140404576677"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "1962911673200869754",
+        "created_at": "2025-09-02T16:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962911673200869754"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "エムルちゃん",
+              "probability": 0.7427,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "マイノグーラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwwIXvQC5R",
+              "end": 71,
+              "expanded_url": "https://x.com/sasakirico/status/1962867140404576677/photo/1",
+              "media_key": "3_1962867120594980864",
+              "start": 48,
+              "url": "https://t.co/GwwIXvQC5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962911673200869754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962867140404576677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: 形違うけど。。\nエムルちゃん意識でメガネ👓😈\n\n#マイノグーラ https://t.co/GwwIXvQC5R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962867120594980864"
+          ]
+        },
+        "author_id": "707778526963830784",
+        "conversation_id": "1962867140404576677",
+        "created_at": "2025-09-02T13:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962867140404576677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "エムルちゃん",
+              "probability": 0.7411,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "マイノグーラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwwIXvQC5R",
+              "end": 55,
+              "expanded_url": "https://x.com/sasakirico/status/1962867140404576677/photo/1",
+              "media_key": "3_1962867120594980864",
+              "start": 32,
+              "url": "https://t.co/GwwIXvQC5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962867140404576677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 31879,
+          "like_count": 2699,
+          "quote_count": 24,
+          "reply_count": 58,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "形違うけど。。\nエムルちゃん意識でメガネ👓😈\n\n#マイノグーラ https://t.co/GwwIXvQC5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/不要询问指派性别/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊噶",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 503,
+          "like_count": 2227,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 1908
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "歌手/声優/作詞作曲/バンドリ・三角初華/日本へようこそエルフさん・ミュイ/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 124,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 101,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子",
+        "pinned_tweet_id": "1937797930414420207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918608427531845632/ugG4Hl_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121025,
+          "following_count": 1224,
+          "like_count": 23248,
+          "listed_count": 1072,
+          "media_count": 3750,
+          "tweet_count": 13897
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": true
+      }
+    ]
+  }
+}
