@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060392423902359815",
+    "created_at": "2026-05-29T16:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060405101475549289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060405101475549289",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060404018250490282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 我草，不是，我纯文盲啊，原来是草字头，我草"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060404018250490282].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060404018250490282",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060404018250490282"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060392423902359815",
+        "created_at": "2026-05-29T16:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060405101475549289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060405101475549289",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060404018250490282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 我草，不是，我纯文盲啊，原来是草字头，我草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 769,
+          "like_count": 5493,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4991
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 7499,
+          "like_count": 822540,
+          "listed_count": 31,
+          "media_count": 624,
+          "tweet_count": 33475
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

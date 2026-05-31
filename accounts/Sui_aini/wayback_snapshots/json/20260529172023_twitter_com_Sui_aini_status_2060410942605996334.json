@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060405243679240663",
+    "created_at": "2026-05-29T17:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060410942605996334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498893713178644482",
+          "start": 0,
+          "username": "ParanQidAndrQid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060410942605996334",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060410870216413622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ParanQidAndrQid 不过也确实好像是那么个事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060405243679240663",
+        "created_at": "2026-05-29T17:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060410942605996334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060410942605996334",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410870216413622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid 不过也确实好像是那么个事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060405243679240663",
+        "created_at": "2026-05-29T17:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060410870216413622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498893713178644482",
+              "start": 0,
+              "username": "ParanQidAndrQid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060410870216413622",
+        "in_reply_to_user_id": "1498893713178644482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410801568329757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ParanQidAndrQid 误打正着了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 769,
+          "like_count": 5494,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4995
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T05:31:35.000Z",
+        "description": "「八寶山最後的少女偶像」 \n抒澄/Cassie ｜ She/They ｜ Aro-Ace",
+        "id": "1498893713178644482",
+        "location": "在你背后！",
+        "name": "呆頭鵝Cassie🍭",
+        "pinned_tweet_id": "1815959150519804155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039443279473958913/Ulx2qoUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 527,
+          "like_count": 29176,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 5722
+        },
+        "username": "ParanQidAndrQid",
+        "verified": false
+      }
+    ]
+  }
+}

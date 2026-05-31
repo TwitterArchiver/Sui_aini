@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059744689293779443",
+    "created_at": "2026-05-29T06:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249656618320282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2054962114830483456",
+          "start": 0,
+          "username": "SNWCC2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249656618320282",
+    "in_reply_to_user_id": "2054962114830483456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060234079153557722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNWCC2026 「去年的七月八月九月十月我就被这样对待过」，为什么理解能力这么差呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059744689293779443",
+        "created_at": "2026-05-29T06:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249656618320282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2054962114830483456",
+              "start": 0,
+              "username": "SNWCC2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249656618320282",
+        "in_reply_to_user_id": "2054962114830483456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060234079153557722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNWCC2026 「去年的七月八月九月十月我就被这样对待过」，为什么理解能力这么差呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054962114830483456",
+        "conversation_id": "2059744689293779443",
+        "created_at": "2026-05-29T05:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060234079153557722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060234079153557722",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060231220676677777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我还以为你盗图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 763,
+          "like_count": 5420,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 4918
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "男娘 175 67kg 坐标苏州 新手s",
+        "id": "2054962114830483456",
+        "name": "🐖S女王CC",
+        "pinned_tweet_id": "2056354900083397064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530867090423808/oAlukSmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 66,
+          "like_count": 789,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 163
+        },
+        "username": "SNWCC2026",
+        "verified": false
+      }
+    ]
+  }
+}

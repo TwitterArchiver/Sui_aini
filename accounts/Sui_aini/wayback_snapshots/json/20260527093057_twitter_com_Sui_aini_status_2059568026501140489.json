@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059486739757195720",
+    "created_at": "2026-05-27T09:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059568026501140489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103821331588571136",
+          "start": 0,
+          "username": "recatorseky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059568026501140489",
+    "in_reply_to_user_id": "1103821331588571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059567255466418275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recatorseky 这是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059486739757195720",
+        "created_at": "2026-05-27T09:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059568026501140489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103821331588571136",
+              "start": 0,
+              "username": "recatorseky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059568026501140489",
+        "in_reply_to_user_id": "1103821331588571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059567255466418275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recatorseky 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103821331588571136",
+        "conversation_id": "2059486739757195720",
+        "created_at": "2026-05-27T09:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059567255466418275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059567255466418275",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059486739757195720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 莫名想起舞萌的牛奶猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 759,
+          "like_count": 5350,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 4780
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T00:54:48.000Z",
+        "description": "中文 Eng/奥克兰AKL/FF14/R6S/buhurt/cosplay/Gundam/ COC TRPG/\n恋人@AOHITOM1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "AOHITOM1"
+              }
+            ]
+          }
+        },
+        "id": "1103821331588571136",
+        "location": "RE",
+        "name": "REC470R",
+        "pinned_tweet_id": "1984171567253967185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973030013831364608/nOg1CYWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 105,
+          "like_count": 27374,
+          "listed_count": 0,
+          "media_count": 558,
+          "tweet_count": 3410
+        },
+        "username": "recatorseky",
+        "verified": false
+      }
+    ]
+  }
+}

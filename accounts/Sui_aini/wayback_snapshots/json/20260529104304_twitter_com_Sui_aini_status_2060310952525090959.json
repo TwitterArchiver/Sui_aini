@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060309275793358981",
+    "created_at": "2026-05-29T10:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060310952525090959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060310952525090959",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060310494674862098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 我试试吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060309275793358981",
+        "created_at": "2026-05-29T10:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060310952525090959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060310952525090959",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060310494674862098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 我试试吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2060309275793358981",
+        "created_at": "2026-05-29T10:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060310494674862098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060310494674862098",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060309275793358981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 也许 试着创作什么（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 767,
+          "like_count": 5457,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4954
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1891,
+          "like_count": 482223,
+          "listed_count": 10,
+          "media_count": 2954,
+          "tweet_count": 17067
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

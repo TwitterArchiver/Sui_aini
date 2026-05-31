@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059571181473456135",
+    "created_at": "2026-05-27T09:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059573885222481970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059573885222481970",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059573625234330046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 本来就是，女厕排队我就上男厕，没有无障碍或者说无障碍是摆设，我就上女厕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059571181473456135",
+        "created_at": "2026-05-27T09:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059573885222481970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059573885222481970",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059573625234330046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 本来就是，女厕排队我就上男厕，没有无障碍或者说无障碍是摆设，我就上女厕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2059571181473456135",
+        "created_at": "2026-05-27T09:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059573625234330046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059573625234330046",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059571181473456135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我也觉得上厕所应该是自主选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 759,
+          "like_count": 5351,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 4784
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用号@Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "弓張",
+        "name": "小学茜",
+        "pinned_tweet_id": "2054859575267131548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053372636898725888/9buW95xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 1406,
+          "like_count": 164197,
+          "listed_count": 57,
+          "media_count": 6168,
+          "tweet_count": 65278
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

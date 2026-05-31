@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060394500867186736",
+    "created_at": "2026-05-29T17:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060420236910961110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060420236910961110",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060419691428950237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 只是有些厌烦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060394500867186736",
+        "created_at": "2026-05-29T17:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060420236910961110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060420236910961110",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060419691428950237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 只是有些厌烦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2060394500867186736",
+        "created_at": "2026-05-29T17:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060419691428950237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060419691428950237",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060394500867186736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我觉得不能因为一些话题老生常谈就默认所有人都有一样的共识 很显然这次也是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 769,
+          "like_count": 5497,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4999
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035584401178775552/Y64IybTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 130,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060186978436644969",
+    "created_at": "2026-05-29T03:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060196812234051837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1591761041133895680",
+          "start": 0,
+          "username": "Robert_Bumaro11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060196812234051837",
+    "in_reply_to_user_id": "1591761041133895680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060187542604186046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robert_Bumaro11 太可怜了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060186978436644969",
+        "created_at": "2026-05-29T03:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060196812234051837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1591761041133895680",
+              "start": 0,
+              "username": "Robert_Bumaro11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060196812234051837",
+        "in_reply_to_user_id": "1591761041133895680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060187542604186046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robert_Bumaro11 太可怜了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2060186978436644969",
+        "created_at": "2026-05-29T02:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060187542604186046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060187542604186046",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060186978436644969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 太可怜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 761,
+          "like_count": 5364,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 4863
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4Yoz"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "location": "后户之国",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "1957208951289958452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 441,
+          "like_count": 10993,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/lrYzuP4Yoz",
+        "username": "Robert_Bumaro11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059612515135594598",
+    "created_at": "2026-05-27T18:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059700108103733572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987445988626481152",
+          "start": 0,
+          "username": "aka_yun123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059700108103733572",
+    "in_reply_to_user_id": "1987445988626481152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059699995109171385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aka_yun123 我还没开始，等待等待"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059699995109171385].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059699995109171385",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059699995109171385"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059612515135594598",
+        "created_at": "2026-05-27T18:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059700108103733572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987445988626481152",
+              "start": 0,
+              "username": "aka_yun123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059700108103733572",
+        "in_reply_to_user_id": "1987445988626481152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059699995109171385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aka_yun123 我还没开始，等待等待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 760,
+          "like_count": 5361,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 4833
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T09:04:18.000Z",
+        "description": "只过前世熟人 也许有一天会变成华胥的亡灵\n幽冥组的另一半：@Youmu_Reunion 姐姐妈妈我家的狗狗：@nayuki_leung",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Youmu_Reunion"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "nayuki_leung"
+              }
+            ]
+          }
+        },
+        "id": "1987445988626481152",
+        "name": "幽々子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057589321667121152/bWnq32PT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 112,
+          "like_count": 2586,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 667
+        },
+        "username": "aka_yun123",
+        "verified": false
+      }
+    ]
+  }
+}

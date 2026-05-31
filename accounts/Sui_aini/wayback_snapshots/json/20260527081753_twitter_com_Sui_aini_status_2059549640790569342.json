@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059549640790569342",
+    "created_at": "2026-05-27T08:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059549640790569342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Octocat01/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Octocat01/status/2059547242462347469",
+          "start": 18,
+          "url": "https://t.co/KWHVIoOXrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059549640790569342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059547242462347469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你是跨女吗，你要是跨女当我没说 https://t.co/KWHVIoOXrA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059549640790569342",
+        "created_at": "2026-05-27T08:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059549640790569342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Octocat01/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Octocat01/status/2059547242462347469",
+              "start": 18,
+              "url": "https://t.co/KWHVIoOXrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059549640790569342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059547242462347469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你是跨女吗，你要是跨女当我没说 https://t.co/KWHVIoOXrA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2059476176121254149",
+        "created_at": "2026-05-27T08:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059547242462347469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059547242462347469",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059546725467963605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra 想成为跨性别底线就是HRT，否则你跟生理性男同有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 757,
+          "like_count": 5345,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 4774
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "ゲームをするのが好きです...🍰",
+        "id": "2015624869665456129",
+        "location": "iceland",
+        "name": "干物妹！サメサメ🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021916387657363460/3TeRpEVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "username": "Octocat01",
+        "verified": false
+      }
+    ]
+  }
+}

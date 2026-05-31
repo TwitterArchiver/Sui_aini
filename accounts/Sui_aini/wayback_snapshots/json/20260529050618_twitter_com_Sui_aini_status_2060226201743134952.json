@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060225722468479028",
+    "created_at": "2026-05-29T05:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060226201743134952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060226201743134952",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060226060785234283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 我一直以为我挺烂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060225722468479028",
+        "created_at": "2026-05-29T05:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060226201743134952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060226201743134952",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060226060785234283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 我一直以为我挺烂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2060225722468479028",
+        "created_at": "2026-05-29T05:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060226060785234283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060226060785234283",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060225722468479028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 是喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 762,
+          "like_count": 5393,
+          "listed_count": 4,
+          "media_count": 597,
+          "tweet_count": 4884
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "喜欢术力口 术人口 小⭕ 是含糖mtf🏳️‍⚧️ 友一切🏳️‍⚧️🏳️‍🌈 不紫餐不od不鉴证 希望交朋友*⁠\\⁠0⁠/⁠*",
+        "id": "1565691463685795840",
+        "name": "巴尔坦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 307,
+          "like_count": 15633,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2584
+        },
+        "username": "barutan8964",
+        "verified": true
+      }
+    ]
+  }
+}

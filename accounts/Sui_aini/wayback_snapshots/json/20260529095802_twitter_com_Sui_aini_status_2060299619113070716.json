@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060225722468479028",
+    "created_at": "2026-05-29T09:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060299619113070716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060299619113070716",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060279291183837512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus 是的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060225722468479028",
+        "created_at": "2026-05-29T09:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060299619113070716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060299619113070716",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060279291183837512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 是的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2060225722468479028",
+        "created_at": "2026-05-29T08:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060279291183837512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060279291183837512",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060225722468479028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 767,
+          "like_count": 5443,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 4938
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11960,
+          "following_count": 223,
+          "like_count": 7419,
+          "listed_count": 35,
+          "media_count": 346,
+          "tweet_count": 8556
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

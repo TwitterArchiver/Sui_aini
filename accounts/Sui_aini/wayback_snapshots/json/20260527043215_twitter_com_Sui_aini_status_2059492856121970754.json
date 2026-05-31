@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059361149024604380",
+    "created_at": "2026-05-27T04:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059492856121970754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "McFlurry_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059492856121970754",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059492612118286505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McFlurry_2001 不要死，一定不要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059361149024604380",
+        "created_at": "2026-05-27T04:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059492856121970754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059492856121970754",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059492612118286505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McFlurry_2001 不要死，一定不要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378376814389694468",
+        "conversation_id": "2059361149024604380",
+        "created_at": "2026-05-27T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059492612118286505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059492612118286505",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059492108051067037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 不要死，还有很多事可以做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 755,
+          "like_count": 5331,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 4756
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "萨莉亚焗蜗牛配红酒",
+        "pinned_tweet_id": "2050730304349024739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058899322029449216/VBxJXTks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 7293,
+          "like_count": 160743,
+          "listed_count": 3,
+          "media_count": 925,
+          "tweet_count": 27226
+        },
+        "username": "McFlurry_2001",
+        "verified": false
+      }
+    ]
+  }
+}

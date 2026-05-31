@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059612515135594598",
+    "created_at": "2026-05-27T18:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059708374762365185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680390281777278977",
+          "start": 0,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059708374762365185",
+    "in_reply_to_user_id": "1680390281777278977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059696468924277108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@josana3xluv 不，要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059612515135594598",
+        "created_at": "2026-05-27T18:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059708374762365185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680390281777278977",
+              "start": 0,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059708374762365185",
+        "in_reply_to_user_id": "1680390281777278977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059696468924277108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@josana3xluv 不，要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680390281777278977",
+        "conversation_id": "2059612515135594598",
+        "created_at": "2026-05-27T18:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059696468924277108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059696468924277108",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059612515135594598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 760,
+          "like_count": 5361,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 4835
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "朝三爱/josana    可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1686,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 966
+        },
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

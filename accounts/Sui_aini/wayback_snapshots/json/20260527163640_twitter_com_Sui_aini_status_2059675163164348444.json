@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2059672288199643340",
+    "created_at": "2026-05-27T16:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059675163164348444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963694775770685440",
+          "start": 0,
+          "username": "Fiona_Coyn3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059675163164348444",
+    "in_reply_to_user_id": "1963694775770685440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059674971681788222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fiona_Coyn3 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2059672288199643340",
+        "created_at": "2026-05-27T16:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059675163164348444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963694775770685440",
+              "start": 0,
+              "username": "Fiona_Coyn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059675163164348444",
+        "in_reply_to_user_id": "1963694775770685440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059674971681788222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fiona_Coyn3 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963694775770685440",
+        "conversation_id": "2059672288199643340",
+        "created_at": "2026-05-27T16:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059674971681788222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059674971681788222",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059672288199643340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 媽媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 759,
+          "like_count": 5361,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 4823
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T20:05:00.000Z",
+        "description": "预备役個人勢vtuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rlj8mjsb5ypk9n…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rlj8mjsb5ypk9nm?t=OzCbre&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/YTE3M9naBr"
+              }
+            ]
+          }
+        },
+        "id": "1963694775770685440",
+        "location": "中南海",
+        "name": "49🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2012465630654484482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053059149144240128/66WKW1f2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 65,
+          "like_count": 6355,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 3653
+        },
+        "url": "https://t.co/YTE3M9naBr",
+        "username": "Fiona_Coyn3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060309275793358981",
+    "created_at": "2026-05-29T13:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060353159185469789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1535875269759602689",
+          "start": 0,
+          "username": "linyongqin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060353159185469789",
+    "in_reply_to_user_id": "1535875269759602689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060320386135560305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyongqin9 我试试，虽然我现实没什么朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060309275793358981",
+        "created_at": "2026-05-29T13:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060353159185469789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1535875269759602689",
+              "start": 0,
+              "username": "linyongqin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060353159185469789",
+        "in_reply_to_user_id": "1535875269759602689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060320386135560305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyongqin9 我试试，虽然我现实没什么朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535875269759602689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2060309275793358981",
+        "created_at": "2026-05-29T11:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060320386135560305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060320386135560305",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060309275793358981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 可以試著多運動曬曬太陽把自己弄得精神點\n然後找些現實的朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 768,
+          "like_count": 5474,
+          "listed_count": 4,
+          "media_count": 599,
+          "tweet_count": 4965
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T06:43:20.000Z",
+        "description": "",
+        "id": "1535875269759602689",
+        "location": "肯德基（不是肯德基州）",
+        "name": "三小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059640209843884032/euJTjKpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 242,
+          "like_count": 257,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 260
+        },
+        "username": "linyongqin9",
+        "verified": false
+      }
+    ]
+  }
+}
