@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060885930391818288",
+    "created_at": "2026-05-31T00:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T01:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060885930391818288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/samIereye/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/samIereye/status/2060802881364606982",
+          "start": 4,
+          "url": "https://t.co/iJfvVGjlXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060885930391818288",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060802881364606982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yes https://t.co/iJfvVGjlXq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060885930391818288",
+        "created_at": "2026-05-31T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060885930391818288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samIereye/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/samIereye/status/2060802881364606982",
+              "start": 4,
+              "url": "https://t.co/iJfvVGjlXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060885930391818288",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060802881364606982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes https://t.co/iJfvVGjlXq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045621020283858945",
+        "conversation_id": "2060802881364606982",
+        "created_at": "2026-05-30T19:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060802881364606982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060802881364606982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1300,
+          "impression_count": 257726,
+          "like_count": 36096,
+          "quote_count": 234,
+          "reply_count": 36,
+          "retweet_count": 6769
+        },
+        "reply_settings": "everyone",
+        "text": "The queer experience is ur family knowing nothing abt u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 771,
+          "like_count": 5575,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 5104
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T21:50:47.000Z",
+        "description": "18\n#yaoitwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 3,
+                "tag": "yaoitwt"
+              }
+            ]
+          }
+        },
+        "id": "2045621020283858945",
+        "name": "sam",
+        "pinned_tweet_id": "2060835802544771288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059449640609587203/4iHXr8SW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 215,
+          "like_count": 833,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 657
+        },
+        "username": "samIereye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060643988068253983",
+    "created_at": "2026-05-30T09:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060661266721681730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729877467979259904",
+          "start": 0,
+          "username": "pri_marily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060661266721681730",
+    "in_reply_to_user_id": "1729877467979259904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060647045623673154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pri_marily 没关系，我刚刚看完我想看的演出，现在去吃饭了，然后等十一点在火车上睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060643988068253983",
+        "created_at": "2026-05-30T09:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060661266721681730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729877467979259904",
+              "start": 0,
+              "username": "pri_marily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060661266721681730",
+        "in_reply_to_user_id": "1729877467979259904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060647045623673154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pri_marily 没关系，我刚刚看完我想看的演出，现在去吃饭了，然后等十一点在火车上睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729877467979259904",
+        "conversation_id": "2060643988068253983",
+        "created_at": "2026-05-30T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060647045623673154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060647045623673154",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643988068253983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini Go to sleep, friend, please 🥹🥹 Im worried about you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 770,
+          "like_count": 5537,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 5065
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T14:58:36.000Z",
+        "description": "Ill figure it out                                      \n\nhttps://t.co/LlL8zSKL8x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "primarilyyours.straw.page",
+                "end": 80,
+                "expanded_url": "https://primarilyyours.straw.page",
+                "start": 57,
+                "url": "https://t.co/LlL8zSKL8x"
+              }
+            ]
+          }
+        },
+        "id": "1729877467979259904",
+        "location": "16!",
+        "name": "𝙈𝘼𝙍𝙄",
+        "pinned_tweet_id": "2060352727406845989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059680238058024964/nez_CdEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 271,
+          "like_count": 6955,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 3124
+        },
+        "username": "pri_marily",
+        "verified": false
+      }
+    ]
+  }
+}

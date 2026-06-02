@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060516159020302820",
+    "created_at": "2026-05-30T00:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060519575473799566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729877467979259904",
+          "start": 0,
+          "username": "pri_marily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060519575473799566",
+    "in_reply_to_user_id": "1729877467979259904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060516159020302820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pri_marily 抱抱你，遇到这种人直接拉黑就好了，这是不可避免的，要自己保护好自己，不要再去想这件事了，抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060516159020302820",
+        "created_at": "2026-05-30T00:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060519575473799566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729877467979259904",
+              "start": 0,
+              "username": "pri_marily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060519575473799566",
+        "in_reply_to_user_id": "1729877467979259904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060516159020302820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pri_marily 抱抱你，遇到这种人直接拉黑就好了，这是不可避免的，要自己保护好自己，不要再去想这件事了，抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729877467979259904",
+        "conversation_id": "2060516159020302820",
+        "created_at": "2026-05-30T00:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060516159020302820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pri_marily/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/pri_marily/status/2060452746562584948",
+              "start": 30,
+              "url": "https://t.co/n2hZIveZnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060516159020302820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060452746562584948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Im STILL thinking about this. https://t.co/n2hZIveZnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 769,
+          "like_count": 5512,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 5012
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T14:58:36.000Z",
+        "description": "Ill figure it out                                      \n\nhttps://t.co/LlL8zSKL8x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "primarilyyours.straw.page",
+                "end": 80,
+                "expanded_url": "https://primarilyyours.straw.page",
+                "start": 57,
+                "url": "https://t.co/LlL8zSKL8x"
+              }
+            ]
+          }
+        },
+        "id": "1729877467979259904",
+        "location": "16!",
+        "name": "𝙈𝙖𝙧𝙞",
+        "pinned_tweet_id": "2060352727406845989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059680238058024964/nez_CdEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 269,
+          "like_count": 6854,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3060
+        },
+        "username": "pri_marily",
+        "verified": false
+      }
+    ]
+  }
+}

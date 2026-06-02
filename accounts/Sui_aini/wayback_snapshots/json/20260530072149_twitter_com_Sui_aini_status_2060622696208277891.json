@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2060620108264058967",
+    "created_at": "2026-05-30T07:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060622696208277891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556358219949379584",
+          "start": 0,
+          "username": "imdubger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060622696208277891",
+    "in_reply_to_user_id": "1556358219949379584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060620108264058967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imdubger 因为我没钱去看我这傻逼精神问题，假如可以用医保报销，我就去医院弄个病历开点药，假如只能自费，我只能转头走，我浑身上下加起来的钱只有四百块，我还要吃饭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060620108264058967].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060620108264058967",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060620108264058967"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2060620108264058967",
+        "created_at": "2026-05-30T07:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060622696208277891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556358219949379584",
+              "start": 0,
+              "username": "imdubger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060622696208277891",
+        "in_reply_to_user_id": "1556358219949379584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060620108264058967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imdubger 因为我没钱去看我这傻逼精神问题，假如可以用医保报销，我就去医院弄个病历开点药，假如只能自费，我只能转头走，我浑身上下加起来的钱只有四百块，我还要吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 770,
+          "like_count": 5533,
+          "listed_count": 4,
+          "media_count": 602,
+          "tweet_count": 5055
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T19:14:56.000Z",
+        "description": "=^• _ •^= 仿生机器人(they/she)/Childless Cat Lady/残忍变性坏女巫 变态人妖二椅子/苟且偷生直到自杀",
+        "id": "1556358219949379584",
+        "name": "dubger 🍊",
+        "pinned_tweet_id": "1972579919491391674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003903039065956352/vsWAfOkI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 72,
+          "like_count": 9809,
+          "listed_count": 0,
+          "media_count": 1501,
+          "tweet_count": 7461
+        },
+        "username": "imdubger",
+        "verified": false
+      }
+    ]
+  }
+}
