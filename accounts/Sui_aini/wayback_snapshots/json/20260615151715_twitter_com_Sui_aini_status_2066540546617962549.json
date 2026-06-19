@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066540539290558464"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066540546617962549",
+    "created_at": "2026-06-15T15:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066540546617962549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/duzdaAmxe0",
+          "end": 36,
+          "expanded_url": "https://x.com/Sui_aini/status/2066540546617962549/photo/1",
+          "media_key": "3_2066540539290558464",
+          "start": 13,
+          "url": "https://t.co/duzdaAmxe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066540546617962549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们不od了，我们混酒喝 https://t.co/duzdaAmxe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2066540539290558464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3Tq-ZboAAdytX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066540539290558464"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066540546617962549",
+        "created_at": "2026-06-15T15:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066540546617962549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duzdaAmxe0",
+              "end": 36,
+              "expanded_url": "https://x.com/Sui_aini/status/2066540546617962549/photo/1",
+              "media_key": "3_2066540539290558464",
+              "start": 13,
+              "url": "https://t.co/duzdaAmxe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066540546617962549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们不od了，我们混酒喝 https://t.co/duzdaAmxe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 782,
+          "like_count": 5639,
+          "listed_count": 5,
+          "media_count": 628,
+          "tweet_count": 5283
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

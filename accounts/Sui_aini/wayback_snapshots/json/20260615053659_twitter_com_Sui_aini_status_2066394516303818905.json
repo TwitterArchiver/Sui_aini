@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2066393270931128538",
+    "created_at": "2026-06-15T05:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066394516303818905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919258471096352768",
+          "start": 0,
+          "username": "selenic_lullaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066394516303818905",
+    "in_reply_to_user_id": "1919258471096352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066394279510216722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@selenic_lullaby 我读书的时候也这样…上了班也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2066393270931128538",
+        "created_at": "2026-06-15T05:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066394516303818905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919258471096352768",
+              "start": 0,
+              "username": "selenic_lullaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066394516303818905",
+        "in_reply_to_user_id": "1919258471096352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066394279510216722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@selenic_lullaby 我读书的时候也这样…上了班也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919258471096352768",
+        "conversation_id": "2066393270931128538",
+        "created_at": "2026-06-15T05:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066394279510216722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066394279510216722",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066393270931128538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我小时候写作业就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 782,
+          "like_count": 5635,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 5271
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T05:10:59.000Z",
+        "description": "我是左蛆",
+        "id": "1919258471096352768",
+        "location": "127.0.0.1",
+        "name": "selenic! :D",
+        "pinned_tweet_id": "1919265589979202001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919260762067152896/YlgyuGBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 128,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 399
+        },
+        "username": "selenic_lullaby",
+        "verified": false
+      }
+    ]
+  }
+}

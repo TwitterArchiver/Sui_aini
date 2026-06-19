@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2066156398279569679",
+    "created_at": "2026-06-14T13:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066156398279569679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1533028134378938372",
+          "start": 3,
+          "username": "exhaustedmeat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066156398279569679",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 526
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065884870232998382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @exhaustedmeat: I have literally no reason to live anymore"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2066156398279569679",
+        "created_at": "2026-06-14T13:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066156398279569679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1533028134378938372",
+              "start": 3,
+              "username": "exhaustedmeat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066156398279569679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 526
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065884870232998382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @exhaustedmeat: I have literally no reason to live anymore"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533028134378938372",
+        "conversation_id": "2065884870232998382",
+        "created_at": "2026-06-13T19:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065884870232998382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065884870232998382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 21322,
+          "like_count": 1479,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 526
+        },
+        "reply_settings": "everyone",
+        "text": "I have literally no reason to live anymore"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 781,
+          "like_count": 5622,
+          "listed_count": 5,
+          "media_count": 624,
+          "tweet_count": 5246
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T10:10:06.000Z",
+        "description": "nobody unfortunately",
+        "id": "1533028134378938372",
+        "location": "Earth",
+        "name": "nobody",
+        "pinned_tweet_id": "1614276821922496513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948299622209773568/tojNB5oh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 4,
+          "like_count": 12255,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 19893
+        },
+        "username": "exhaustedmeat",
+        "verified": false
+      }
+    ]
+  }
+}

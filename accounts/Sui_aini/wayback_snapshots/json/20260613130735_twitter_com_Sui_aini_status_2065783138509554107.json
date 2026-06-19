@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2065783138509554107",
+    "created_at": "2026-06-13T13:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065783138509554107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1574734182156185600",
+          "start": 3,
+          "username": "MyCatCatSoCute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065783138509554107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065726490990579894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyCatCatSoCute: 剛上大學時，我被同系的學姐吸引，因為同樣對文學的熱愛，也關注同志運動，我們交往以後就像所有U-Haul lesbian那樣，恨不得每天都能膩在一起，馬上就同居了。\n\n但是我們的戀情沒有公開，所有人都以為我們只是想省房租的室友關係，包括我的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2065783138509554107",
+        "created_at": "2026-06-13T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065783138509554107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1574734182156185600",
+              "start": 3,
+              "username": "MyCatCatSoCute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065783138509554107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065726490990579894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MyCatCatSoCute: 剛上大學時，我被同系的學姐吸引，因為同樣對文學的熱愛，也關注同志運動，我們交往以後就像所有U-Haul lesbian那樣，恨不得每天都能膩在一起，馬上就同居了。\n\n但是我們的戀情沒有公開，所有人都以為我們只是想省房租的室友關係，包括我的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574734182156185600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2065726490990579894",
+        "created_at": "2026-06-13T09:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065726490990579894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MyCatCatSoCute…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/MyCatCatSoCute/status/2065292017379549404",
+              "start": 123,
+              "url": "https://t.co/Avq2MBNSvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726490990579894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1214,
+                "start": 1210,
+                "tag": "女同志"
+              },
+              {
+                "end": 1223,
+                "start": 1215,
+                "tag": "lesbian"
+              },
+              {
+                "end": 1235,
+                "start": 1224,
+                "tag": "PrideMonth"
+              },
+              {
+                "end": 1243,
+                "start": 1237,
+                "tag": "LGBTQ"
+              }
+            ]
+          },
+          "text": "剛上大學時，我被同系的學姐吸引，因為同樣對文學的熱愛，也關注同志運動，我們交往以後就像所有U-Haul lesbian那樣，恨不得每天都能膩在一起，馬上就同居了。\n\n但是我們的戀情沒有公開，所有人都以為我們只是想省房租的室友關係，包括我的家人。\n\n剛開始熱戀期當然一切都很好，可是感情就是這樣，進入磨合期後一切都不好了，日常的稜角逐漸浮現，所有的不適合，都不是愛能磨合的。\n\n最後分手得相當慘烈，是我狼狽地搬離那個同住過的家，另尋其他租屋處。\n\n還記得搬家不久後，她傳來訊息，一打開手機簡訊（沒錯，那是一個台灣還沒有748同志婚姻專法，智慧型手機也還不算流行的年代），竟然是跟我索要同居時她買洗衣粉一半的錢！還跟我說我們以前一起蓋的棉被有一小塊血漬，可能是我的月經，要我去她家把那塊血漬洗乾淨。\n\n姑且不論那塊血漬到底是誰的，收到簡訊簡直氣到笑出來，交往時一起蓋過的棉被髒了，到底還留著幹嘛！然後洗衣粉一半的錢也不算多少，感情好的時候，我也不是沒有付過其他生活用品，原來當一個人由愛生恨的時刻，這段感情連洗衣粉的錢都不值。\n\n剛分手那段期間根本像惡夢一樣。在一起時雖然都不敢公開戀情，可是以為只要有彼此的愛，即使不符合社會主流想像，我們都能相互扶持。\n\n然而分手後，身邊的人馬上就察覺到我們不像從前那麼要好，同學們之間開始八卦，連老師也會不知道是出自於關心還是好奇地問我：「某某最近還好嗎？她以前不是會來接妳下課嗎？」\n\n我的家人也很納悶為什麼突然要搬出來，兩個女孩子一起住得好好的，彼此互相有個照應，我卻在租約還沒到期的時候搬出來一個人住，可是在那個會說出歧視同志言論的大家族裡，我什麼話也說不出口。\n\n最難受的是，我畢業典禮那一天，她毫無預警地出現在我面前給我驚喜，就像以前下課時她來接我那樣。\n\n學姐送了我一束花，我不知道她是怎麼想的，是想要在我人生重要的一天獻上祝福嗎？還是飽含著歉意？我永遠都不想知道，為什麼她都畢業了，早就離開這個地方了，還要特地舟車勞頓，花幾個小時的車程，回她的母校來找我，為了送一束花，來玷汙我的畢典回憶。\n\n很難堪的是，我的家人們當然也有參加我的畢典，我的爸媽看到學姐還很熱情跟她打招呼，說謝謝她對我的照顧，我卻越聽越心酸，明明當時分得那麼難看，學姐對我說過好多我一直忘不掉的負面評價，而我當時幾乎像是被趕出來一樣急著尋覓新住所，結果只因為她來送一束花，我的家人還要謝謝她？\n\n在她轉身離去以後，這一切的荒謬都讓我很想大哭，在畢業典禮那一天，我卻只能一直忍著不讓自己情緒崩潰。\n\n我無法告訴家人當初為什麼搬家，不敢讓同學知道我們曾經在一起過，我沒有辦法像其他人失戀那樣，坦然地說出自己到底失去了什麼。\n\n如果哭了出來，我甚至不能說出自己哭泣的真實理由，於是所有的委屈、忿懣、思慕、抱恨與痛楚，從分手以來就只能暗暗地傷懷，默默地埋葬。\n\n當時的我，連光明正大悼念這段關係的資格都沒有。\n\n#女同志\n#lesbian\n#PrideMonth \n#LGBTQ+"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 14020,
+          "like_count": 300,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065292017379549404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剛上大學時，我被同系的學姐吸引，因為同樣對文學的熱愛，也關注同志運動，我們交往以後就像所有U-Haul lesbian那樣，恨不得每天都能膩在一起，馬上就同居了。\n\n但是我們的戀情沒有公開，所有人都以為我們只是想省房租的室友關係，包括我的家人。 https://t.co/Avq2MBNSvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 779,
+          "like_count": 5617,
+          "listed_count": 5,
+          "media_count": 621,
+          "tweet_count": 5233
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T12:14:55.000Z",
+        "description": "Lesbian | Librarian | Literature Lover\n\n偶ㄉ頭貼by @Olafufuu\n橫幅ㄉ圖書館by @TanHoeChih\n\nVTuber初配信準備中！\n女同志的婆\n前圖書館員\n推特頁籤「精選內容」看更多寫過的字\nhttps://t.co/B9DMLvna0U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Olafufuu"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "TanHoeChih"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@mycatcatsocut…",
+                "end": 146,
+                "expanded_url": "https://youtube.com/@mycatcatsocutech",
+                "start": 123,
+                "url": "https://t.co/B9DMLvna0U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mycatcatsocute",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mycatcatsocute",
+                "start": 0,
+                "url": "https://t.co/NHj3D6Nvtl"
+              }
+            ]
+          }
+        },
+        "id": "1574734182156185600",
+        "name": "偶ㄉ貓貓最卡愛惹 💖 My Cat Cat So Cute",
+        "pinned_tweet_id": "2028858338860323235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021590704737390592/ib5v8l_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 3450,
+          "like_count": 28108,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 6525
+        },
+        "url": "https://t.co/NHj3D6Nvtl",
+        "username": "MyCatCatSoCute",
+        "verified": true
+      }
+    ]
+  }
+}

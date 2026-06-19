@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2065360620401328307",
+    "created_at": "2026-06-12T09:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065368754935214478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064699214022754304",
+          "start": 0,
+          "username": "Sp00nfulOfSpell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065368754935214478",
+    "in_reply_to_user_id": "2064699214022754304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065360620401328307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sp00nfulOfSpell love"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2065360620401328307",
+        "created_at": "2026-06-12T09:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065368754935214478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064699214022754304",
+              "start": 0,
+              "username": "Sp00nfulOfSpell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065368754935214478",
+        "in_reply_to_user_id": "2064699214022754304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065360620401328307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sp00nfulOfSpell love"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064699214022754304",
+        "conversation_id": "2065360620401328307",
+        "created_at": "2026-06-12T09:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065360620401328307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065360620401328307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人喜歡我這個可憐的小lainlain嗎🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 775,
+          "like_count": 5597,
+          "listed_count": 5,
+          "media_count": 611,
+          "tweet_count": 5180
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T13:22:35.000Z",
+        "description": "小號",
+        "id": "2064699214022754304",
+        "name": "小小Lain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065061792909516800/D_Fnsyqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 14,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Sp00nfulOfSpell",
+        "verified": false
+      }
+    ]
+  }
+}

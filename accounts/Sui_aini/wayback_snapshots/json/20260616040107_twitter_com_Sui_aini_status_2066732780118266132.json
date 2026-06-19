@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2066584068750442505",
+    "created_at": "2026-06-16T04:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066732780118266132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1604313808096202752",
+          "start": 0,
+          "username": "tdfhi8"
+        },
+        {
+          "end": 18,
+          "id": "1294873066984488960",
+          "start": 8,
+          "username": "Qiji67373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066732780118266132",
+    "in_reply_to_user_id": "1604313808096202752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066719505045426278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdfhi8 @Qiji67373 离公司近，没招"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2066584068750442505",
+        "created_at": "2026-06-16T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066732780118266132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604313808096202752",
+              "start": 0,
+              "username": "tdfhi8"
+            },
+            {
+              "end": 18,
+              "id": "1294873066984488960",
+              "start": 8,
+              "username": "Qiji67373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066732780118266132",
+        "in_reply_to_user_id": "1604313808096202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066719505045426278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdfhi8 @Qiji67373 离公司近，没招"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604313808096202752",
+        "conversation_id": "2066584068750442505",
+        "created_at": "2026-06-16T03:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066719505045426278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 20,
+              "id": "1294873066984488960",
+              "start": 10,
+              "username": "Qiji67373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066719505045426278",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066604560479916036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @Qiji67373 去南沙啊，别住城中村了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 782,
+          "like_count": 5622,
+          "listed_count": 5,
+          "media_count": 632,
+          "tweet_count": 5306
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T03:13:21.000Z",
+        "description": "。",
+        "id": "1604313808096202752",
+        "location": "海南",
+        "name": "述影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 518,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 789
+        },
+        "username": "tdfhi8",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "跨性别女性/被缚/不会绑绳但可以陪你玩玩😋；\n是一只互联网幽灵花枝鼠",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "奇迹",
+        "pinned_tweet_id": "1959290540090106260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033849624193372160/97-kegq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 804,
+          "like_count": 4925,
+          "listed_count": 10,
+          "media_count": 540,
+          "tweet_count": 7401
+        },
+        "username": "Qiji67373",
+        "verified": false
+      }
+    ]
+  }
+}

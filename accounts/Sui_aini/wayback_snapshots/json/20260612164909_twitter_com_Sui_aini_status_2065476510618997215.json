@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2065400756195520566",
+    "created_at": "2026-06-12T16:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065476510618997215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1449665210520793095",
+          "start": 0,
+          "username": "x_nyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065476510618997215",
+    "in_reply_to_user_id": "1449665210520793095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065475746509033866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_nyanya 爱是友情、亲情、爱情…所有感情融合的东西，爱是我无条件的信任你，你无条件的信任我，爱是潇洒放手，爱是一切事物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2065400756195520566",
+        "created_at": "2026-06-12T16:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065476510618997215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1449665210520793095",
+              "start": 0,
+              "username": "x_nyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065476510618997215",
+        "in_reply_to_user_id": "1449665210520793095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065475746509033866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_nyanya 爱是友情、亲情、爱情…所有感情融合的东西，爱是我无条件的信任你，你无条件的信任我，爱是潇洒放手，爱是一切事物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449665210520793095",
+        "conversation_id": "2065400756195520566",
+        "created_at": "2026-06-12T16:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065475746509033866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065475746509033866",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065400756195520566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 779,
+          "like_count": 5613,
+          "listed_count": 5,
+          "media_count": 619,
+          "tweet_count": 5214
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T09:15:06.000Z",
+        "description": "",
+        "id": "1449665210520793095",
+        "name": "蜜汁叉烧",
+        "pinned_tweet_id": "1807910626506989978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670804119831937028/93fVCaiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 26,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "x_nyanya",
+        "verified": false
+      }
+    ]
+  }
+}

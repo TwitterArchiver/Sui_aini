@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2065263733350470020",
+    "created_at": "2026-06-12T02:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065263733350470020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JanexieL/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/JanexieL/status/2064901699035078762",
+          "start": 21,
+          "url": "https://t.co/72WFUjxWTK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065263733350470020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064901699035078762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你疯了，把子宫定义成女性，你在物化女性吗 https://t.co/72WFUjxWTK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2065263733350470020",
+        "created_at": "2026-06-12T02:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065263733350470020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JanexieL/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/JanexieL/status/2064901699035078762",
+              "start": 21,
+              "url": "https://t.co/72WFUjxWTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065263733350470020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064901699035078762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你疯了，把子宫定义成女性，你在物化女性吗 https://t.co/72WFUjxWTK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2305516323",
+        "conversation_id": "2064756816660324811",
+        "created_at": "2026-06-11T02:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064901699035078762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835255377803251712",
+              "start": 0,
+              "username": "linzhichan152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064901699035078762",
+        "in_reply_to_user_id": "1835255377803251712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5405,
+          "like_count": 1,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064756816660324811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linzhichan152 再说一遍\n强奸罪的受害者只有女性\n男性被侵害只能定强制猥亵\n这是子宫和身体结构、睾酮爆发力等因素决定的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 766,
+          "like_count": 5589,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 5162
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-26T11:44:28.000Z",
+        "description": "₍˄·͈༝·͈˄₎ʃ 拒绝男权、女权叙事，愿普法考试纳入征信，愿物理叙事统一世界",
+        "id": "2305516323",
+        "name": "JaneX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/584383649837031424/Z3wyr3vG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 178,
+          "like_count": 29156,
+          "listed_count": 4,
+          "media_count": 2227,
+          "tweet_count": 10992
+        },
+        "username": "JanexieL",
+        "verified": false
+      }
+    ]
+  }
+}

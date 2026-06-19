@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2067178247528521817",
+    "created_at": "2026-06-17T14:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067256578261299614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978142123779133440",
+          "start": 0,
+          "username": "huaiYuYu40347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067256578261299614",
+    "in_reply_to_user_id": "1978142123779133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067241978669203600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaiYuYu40347 黑魔法师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2067178247528521817",
+        "created_at": "2026-06-17T14:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067256578261299614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978142123779133440",
+              "start": 0,
+              "username": "huaiYuYu40347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067256578261299614",
+        "in_reply_to_user_id": "1978142123779133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067241978669203600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaiYuYu40347 黑魔法师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978142123779133440",
+        "conversation_id": "2067178247528521817",
+        "created_at": "2026-06-17T13:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067241978669203600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067241978669203600",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067178247528521817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 感觉这身穿搭的人会拿出来个水晶球开始占卜，或许还搭配一根魔杖什么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 779,
+          "like_count": 5643,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 5347
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T16:53:37.000Z",
+        "description": "🚪绝地武士尖晶石（严格要求霓虹感）/赵之谦名品一方或黄士陵两方/宋拓集王圣教序一册/雍正粉彩茶圆一对（珐琅彩亦可）",
+        "id": "1978142123779133440",
+        "name": "螺丝起子多加西柚",
+        "pinned_tweet_id": "2045083040431685854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978144187729035265/Ub-ENlH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 20,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 594
+        },
+        "username": "huaiYuYu40347",
+        "verified": false
+      }
+    ]
+  }
+}

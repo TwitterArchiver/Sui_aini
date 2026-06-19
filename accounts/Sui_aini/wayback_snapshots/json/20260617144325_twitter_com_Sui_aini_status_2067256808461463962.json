@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2067182377315823786",
+    "created_at": "2026-06-17T14:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067256808461463962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1324778451946020865",
+          "start": 0,
+          "username": "beastere_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067256808461463962",
+    "in_reply_to_user_id": "1324778451946020865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067254847611797541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beastere_susu 我也不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2067182377315823786",
+        "created_at": "2026-06-17T14:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067256808461463962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1324778451946020865",
+              "start": 0,
+              "username": "beastere_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067256808461463962",
+        "in_reply_to_user_id": "1324778451946020865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067254847611797541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beastere_susu 我也不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324778451946020865",
+        "conversation_id": "2067182377315823786",
+        "created_at": "2026-06-17T14:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067254847611797541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067254847611797541",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067182377315823786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我真看不懂了他们为什么要打架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 779,
+          "like_count": 5643,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 5348
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T18:19:39.000Z",
+        "description": "一个下流又恶心的白痴🥴\n出厂日期2005.8.10／💛🤍💜🖤&泛性恋/enby（？）hrt进行中/💔我有唐氏综合征💔/brony🐴/不建政🤗／妈咪🥰：@wwl15956a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "wwl15956a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/beastere_xy",
+                "end": 23,
+                "expanded_url": "http://t.me/beastere_xy",
+                "start": 0,
+                "url": "https://t.co/eJDnjwZgYt"
+              }
+            ]
+          }
+        },
+        "id": "1324778451946020865",
+        "location": "山的东边",
+        "name": "✨star小悦੭ ᐕ)੭",
+        "pinned_tweet_id": "2012212308722712655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067096663890767872/Bz-WMM9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 353,
+          "like_count": 20876,
+          "listed_count": 5,
+          "media_count": 1111,
+          "tweet_count": 7952
+        },
+        "url": "https://t.co/eJDnjwZgYt",
+        "username": "beastere_susu",
+        "verified": false
+      }
+    ]
+  }
+}
