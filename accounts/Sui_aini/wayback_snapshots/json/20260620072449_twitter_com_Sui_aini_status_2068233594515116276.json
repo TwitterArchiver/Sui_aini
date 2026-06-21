@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2068024027332178218",
+    "created_at": "2026-06-20T07:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068233594515116276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767453480065839104",
+          "start": 0,
+          "username": "Lone_Wolf_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068233594515116276",
+    "in_reply_to_user_id": "1767453480065839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068131341762457644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lone_Wolf_CYK 但完全没感觉，三个40度的混在一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2068024027332178218",
+        "created_at": "2026-06-20T07:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068233594515116276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767453480065839104",
+              "start": 0,
+              "username": "Lone_Wolf_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068233594515116276",
+        "in_reply_to_user_id": "1767453480065839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068131341762457644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lone_Wolf_CYK 但完全没感觉，三个40度的混在一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767453480065839104",
+        "conversation_id": "2068024027332178218",
+        "created_at": "2026-06-20T00:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068131341762457644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068131341762457644",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068024027332178218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 欸不是，光右邊那個就40°了也"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 781,
+          "like_count": 5661,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 5400
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T07:32:24.000Z",
+        "description": "悲傷的大薩摩耶;\n學生,ISSAO成員。",
+        "id": "1767453480065839104",
+        "location": "Taiwan",
+        "name": "YK C",
+        "pinned_tweet_id": "2046060980032225741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059903559278440448/DzORE7-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1546,
+          "like_count": 71210,
+          "listed_count": 4,
+          "media_count": 1770,
+          "tweet_count": 16658
+        },
+        "url": "",
+        "username": "Lone_Wolf_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

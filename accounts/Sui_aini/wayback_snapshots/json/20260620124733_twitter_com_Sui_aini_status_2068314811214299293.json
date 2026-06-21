@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2068313544567992485",
+    "created_at": "2026-06-20T12:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068314811214299293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1541103667486437376",
+          "start": 0,
+          "username": "Zonneeeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068314811214299293",
+    "in_reply_to_user_id": "1541103667486437376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068314532091720050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zonneeeeee 没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2068313544567992485",
+        "created_at": "2026-06-20T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068314811214299293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1541103667486437376",
+              "start": 0,
+              "username": "Zonneeeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068314811214299293",
+        "in_reply_to_user_id": "1541103667486437376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068314532091720050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zonneeeeee 没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541103667486437376",
+        "conversation_id": "2068313544567992485",
+        "created_at": "2026-06-20T12:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068314532091720050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068314532091720050",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068313544567992485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 还没醉啊😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 781,
+          "like_count": 5663,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 5410
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T16:58:52.000Z",
+        "description": "🐭｜🏳️‍⚧️\n发一些日常和碎碎念，对于在网络上讨论各类观点不感兴趣",
+        "id": "1541103667486437376",
+        "location": "迷路了…",
+        "name": "Lior",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065099729785286656/8kdOpOyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 163,
+          "like_count": 2396,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "Zonneeeeee",
+        "verified": true
+      }
+    ]
+  }
+}
