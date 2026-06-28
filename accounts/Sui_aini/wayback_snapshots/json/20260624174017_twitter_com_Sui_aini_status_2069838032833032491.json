@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2069828501327548638",
+    "created_at": "2026-06-24T17:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069838032833032491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836732689279508481",
+          "start": 0,
+          "username": "PowehiChan01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069838032833032491",
+    "in_reply_to_user_id": "1836732689279508481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069837582515814874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PowehiChan01 我换成了强爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2069828501327548638",
+        "created_at": "2026-06-24T17:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069838032833032491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836732689279508481",
+              "start": 0,
+              "username": "PowehiChan01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069838032833032491",
+        "in_reply_to_user_id": "1836732689279508481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069837582515814874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PowehiChan01 我换成了强爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836732689279508481",
+        "conversation_id": "2069828501327548638",
+        "created_at": "2026-06-24T17:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069837582515814874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069837582515814874",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069828501327548638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 会头疼…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 784,
+          "like_count": 5695,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 5557
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T11:43:03.000Z",
+        "description": "🌈 ｜ 由🦉和窥视小鸡🦉之人共同管理",
+        "id": "1836732689279508481",
+        "name": "猫头毛豆鹰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836735034302345216/C0DpLOSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 335,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "PowehiChan01",
+        "verified": false
+      }
+    ]
+  }
+}

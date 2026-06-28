@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2070733529206735088",
+    "created_at": "2026-06-27T07:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070771120207475097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663205241419100162",
+          "start": 0,
+          "username": "CaramelAster00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070771120207475097",
+    "in_reply_to_user_id": "1663205241419100162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070761836748968293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaramelAster00 唉，好不专业"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070761836748968293].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070761836748968293",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070761836748968293"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2070733529206735088",
+        "created_at": "2026-06-27T07:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070771120207475097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663205241419100162",
+              "start": 0,
+              "username": "CaramelAster00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070771120207475097",
+        "in_reply_to_user_id": "1663205241419100162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070761836748968293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaramelAster00 唉，好不专业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 785,
+          "like_count": 5712,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 5629
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T15:27:27.000Z",
+        "description": "巨人啊 请你奔跑吧\n三重伟大赫尔墨斯  德勒兹\n潮酷骚孩/后人类主义/超个体主义/无性恋\n支持二元性别/“生理性别”的别来沾边",
+        "id": "1663205241419100162",
+        "location": "405,500km",
+        "name": "焦糖星",
+        "pinned_tweet_id": "1983477626032558312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058528155342934016/Bo8YJnzu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 468,
+          "like_count": 29322,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 4806
+        },
+        "url": "",
+        "username": "CaramelAster00",
+        "verified": false
+      }
+    ]
+  }
+}

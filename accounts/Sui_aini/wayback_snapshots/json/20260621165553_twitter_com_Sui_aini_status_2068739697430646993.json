@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2068732179543371831",
+    "created_at": "2026-06-21T16:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068739697430646993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1449665210520793095",
+          "start": 0,
+          "username": "x_nyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068739697430646993",
+    "in_reply_to_user_id": "1449665210520793095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068739280562999511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_nyanya 我也想飞，去泰国吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2068732179543371831",
+        "created_at": "2026-06-21T16:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068739697430646993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1449665210520793095",
+              "start": 0,
+              "username": "x_nyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739697430646993",
+        "in_reply_to_user_id": "1449665210520793095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068739280562999511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_nyanya 我也想飞，去泰国吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449665210520793095",
+        "conversation_id": "2068732179543371831",
+        "created_at": "2026-06-21T16:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068739280562999511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739280562999511",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068732179543371831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 叶子在哪里领"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 782,
+          "like_count": 5676,
+          "listed_count": 4,
+          "media_count": 657,
+          "tweet_count": 5475
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T09:15:06.000Z",
+        "description": "",
+        "id": "1449665210520793095",
+        "name": "蜜汁叉烧",
+        "pinned_tweet_id": "1807910626506989978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065672795003183104/fZol3Jg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 64,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "x_nyanya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2068987035940196408",
+    "created_at": "2026-06-22T09:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068996384620196224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655455133579481088",
+          "start": 0,
+          "username": "xiaolang000"
+        },
+        {
+          "end": 29,
+          "id": "1852895432269234176",
+          "start": 13,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068996384620196224",
+    "in_reply_to_user_id": "1655455133579481088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068994454489620749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolang000 @432Ifantrygroup 我懂了，她们＝mtf"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068994454489620749].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068994454489620749",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068994454489620749"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2068987035940196408",
+        "created_at": "2026-06-22T09:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068996384620196224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655455133579481088",
+              "start": 0,
+              "username": "xiaolang000"
+            },
+            {
+              "end": 29,
+              "id": "1852895432269234176",
+              "start": 13,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068996384620196224",
+        "in_reply_to_user_id": "1655455133579481088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068994454489620749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolang000 @432Ifantrygroup 我懂了，她们＝mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 781,
+          "like_count": 5678,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 5491
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T06:11:05.000Z",
+        "description": "不定期更换头像，我会画画，另一个号：@langlanglan2\nTransfeminine & Enby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "langlanglan2"
+              }
+            ]
+          }
+        },
+        "id": "1655455133579481088",
+        "name": "👁️",
+        "pinned_tweet_id": "1845685401060864408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898309694554562560/xKM-CrNg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 937,
+          "like_count": 17680,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "xiaolang000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 4194,
+          "like_count": 43578,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 12371
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

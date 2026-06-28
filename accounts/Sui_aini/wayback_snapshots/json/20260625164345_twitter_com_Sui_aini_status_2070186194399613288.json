@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2070141957423378569",
+    "created_at": "2026-06-25T16:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070186194399613288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        },
+        {
+          "end": 26,
+          "id": "1680390281777278977",
+          "start": 14,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070186194399613288",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070183582103171351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot @josana3xluv 不是，因为那个当事人也叫海月好像，可能是理解成同一个人了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2070183582103171351].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2070183582103171351",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2070183582103171351"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2070141957423378569",
+        "created_at": "2026-06-25T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070186194399613288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            },
+            {
+              "end": 26,
+              "id": "1680390281777278977",
+              "start": 14,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070186194399613288",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070183582103171351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot @josana3xluv 不是，因为那个当事人也叫海月好像，可能是理解成同一个人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 783,
+          "like_count": 5699,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 5578
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 415,
+          "like_count": 12292,
+          "listed_count": 10,
+          "media_count": 313,
+          "tweet_count": 4132
+        },
+        "url": "",
+        "username": "Private_plot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "=josana    \n义乌旗帜厂流水线女工\n可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 1844,
+          "like_count": 5141,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

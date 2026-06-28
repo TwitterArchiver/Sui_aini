@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2070207657227813092",
+    "created_at": "2026-06-25T18:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070209633307005127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070209633307005127",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070209102584987945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 也不是很稳，昨天早上洗澡的时候呕了一大口血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2070207657227813092",
+        "created_at": "2026-06-25T18:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070209633307005127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070209633307005127",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070209102584987945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 也不是很稳，昨天早上洗澡的时候呕了一大口血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171043978201878528",
+        "conversation_id": "2070207657227813092",
+        "created_at": "2026-06-25T18:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070209102584987945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070209102584987945",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070208855024529752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 那你很稳了....我一不小心就会喝多，一喝多就要cd半年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 783,
+          "like_count": 5702,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 5594
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）欢迎来戳",
+        "id": "1171043978201878528",
+        "location": "关你屁事，关我屁事",
+        "name": "Claris🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 214,
+          "like_count": 550,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "Claris73645268",
+        "verified": false
+      }
+    ]
+  }
+}
