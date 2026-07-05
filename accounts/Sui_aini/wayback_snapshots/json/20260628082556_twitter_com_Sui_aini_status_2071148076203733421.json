@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2070802320099823877",
+    "created_at": "2026-06-28T08:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071148076203733421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064699214022754304",
+          "start": 0,
+          "username": "Sp00nfulOfSpell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071148076203733421",
+    "in_reply_to_user_id": "2064699214022754304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071147866593316918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sp00nfulOfSpell 嗨呀，不过能上这个排名好像也不是好事诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2070802320099823877",
+        "created_at": "2026-06-28T08:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071148076203733421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064699214022754304",
+              "start": 0,
+              "username": "Sp00nfulOfSpell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071148076203733421",
+        "in_reply_to_user_id": "2064699214022754304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071147866593316918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sp00nfulOfSpell 嗨呀，不过能上这个排名好像也不是好事诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064699214022754304",
+        "conversation_id": "2070802320099823877",
+        "created_at": "2026-06-28T08:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071147866593316918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071147866593316918",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070802320099823877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 猜到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 790,
+          "like_count": 5720,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 5671
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T13:22:35.000Z",
+        "description": "小號",
+        "id": "2064699214022754304",
+        "name": "小小Lain",
+        "pinned_tweet_id": "2066425271260254316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067383365205139456/0QrTk-UI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 34,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "Sp00nfulOfSpell",
+        "verified": false
+      }
+    ]
+  }
+}

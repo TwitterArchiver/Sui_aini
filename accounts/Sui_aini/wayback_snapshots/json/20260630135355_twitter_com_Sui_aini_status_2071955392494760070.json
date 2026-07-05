@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2071953718921281917",
+    "created_at": "2026-06-30T13:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071955392494760070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813894970744430592",
+          "start": 0,
+          "username": "Verrrrse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071955392494760070",
+    "in_reply_to_user_id": "1813894970744430592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071955144951148830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verrrrse 731是可以原谅的，引狼入室也是可以原谅的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2071953718921281917",
+        "created_at": "2026-06-30T13:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071955392494760070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813894970744430592",
+              "start": 0,
+              "username": "Verrrrse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071955392494760070",
+        "in_reply_to_user_id": "1813894970744430592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071955144951148830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verrrrse 731是可以原谅的，引狼入室也是可以原谅的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813894970744430592",
+        "conversation_id": "2071953718921281917",
+        "created_at": "2026-06-30T13:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071955144951148830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071955144951148830",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071953718921281917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 乙小妹其实也是欠图了额。。没见过戏这么多的游戏和这么脑残的玩家。两坨屎美美双向奔赴了捏😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 794,
+          "like_count": 5743,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 5739
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T11:14:34.000Z",
+        "description": "bio | https://t.co/OMCRCZuaUQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/verrse",
+                "end": 29,
+                "expanded_url": "https://ngl.link/verrse",
+                "start": 6,
+                "url": "https://t.co/OMCRCZuaUQ"
+              }
+            ]
+          }
+        },
+        "id": "1813894970744430592",
+        "name": "Verse",
+        "pinned_tweet_id": "2068023986001424843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069415422643040256/qWDyX4QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 360,
+          "like_count": 8024,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 3938
+        },
+        "url": "",
+        "username": "Verrrrse",
+        "verified": false
+      }
+    ]
+  }
+}

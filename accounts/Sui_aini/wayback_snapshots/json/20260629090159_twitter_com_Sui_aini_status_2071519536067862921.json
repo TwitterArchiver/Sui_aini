@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2071173039954526665",
+    "created_at": "2026-06-29T09:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071519536067862921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867157221345464320",
+          "start": 0,
+          "username": "Eglantine257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071519536067862921",
+    "in_reply_to_user_id": "1867157221345464320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071511253009457557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eglantine257 社会化是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2071173039954526665",
+        "created_at": "2026-06-29T09:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071519536067862921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867157221345464320",
+              "start": 0,
+              "username": "Eglantine257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071519536067862921",
+        "in_reply_to_user_id": "1867157221345464320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071511253009457557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eglantine257 社会化是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867157221345464320",
+        "conversation_id": "2071173039954526665",
+        "created_at": "2026-06-29T08:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071511253009457557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071511253009457557",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071173039954526665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 确实是，社会化训练...我上大学之前几乎没有一个人去过商场，尤其是开始跨之后，出门总是心惊胆战的，各种不适，很久之后才稍微适应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 790,
+          "like_count": 5733,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 5712
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T10:39:24.000Z",
+        "description": "小青desu | 深圳 CS 在读 | 🏳️‍⚧️ HRT 25.01.01 | ♥️ @SweeetSugarTea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 44,
+                "username": "SweeetSugarTea"
+              }
+            ]
+          }
+        },
+        "id": "1867157221345464320",
+        "name": "Eglantine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023406678792900608/_zHFFdyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 1227,
+          "like_count": 10917,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "Eglantine257",
+        "verified": false
+      }
+    ]
+  }
+}
