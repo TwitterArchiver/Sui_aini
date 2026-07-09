@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2073417737247105352",
+    "created_at": "2026-07-04T14:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073421322974310524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918323203518435328",
+          "start": 0,
+          "username": "blue969731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073421322974310524",
+    "in_reply_to_user_id": "1918323203518435328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073417737247105352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blue969731 宝宝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2073417737247105352",
+        "created_at": "2026-07-04T14:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073421322974310524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918323203518435328",
+              "start": 0,
+              "username": "blue969731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073421322974310524",
+        "in_reply_to_user_id": "1918323203518435328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073417737247105352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blue969731 宝宝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918323203518435328",
+        "conversation_id": "2073417737247105352",
+        "created_at": "2026-07-04T14:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073417737247105352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073417737247105352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复活！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 795,
+          "like_count": 5775,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 5808
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T15:14:35.000Z",
+        "description": "enby/友lgbt+/互fo大欢迎",
+        "id": "1918323203518435328",
+        "name": "绝望爆浆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030598255009206272/OSzqPwnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 66,
+          "like_count": 4164,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "blue969731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2073760529135632707",
+    "created_at": "2026-07-05T14:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073775082854584728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2009293014204858368",
+          "start": 0,
+          "username": "zhandeng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073775082854584728",
+    "in_reply_to_user_id": "2009293014204858368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073760529135632707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhandeng_ 让我喝一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073760248389906433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd59WqbMAEqnBo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2073760529135632707",
+        "created_at": "2026-07-05T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073775082854584728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2009293014204858368",
+              "start": 0,
+              "username": "zhandeng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775082854584728",
+        "in_reply_to_user_id": "2009293014204858368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073760529135632707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhandeng_ 让我喝一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073760248389906433"
+          ]
+        },
+        "author_id": "2009293014204858368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073760529135632707",
+        "created_at": "2026-07-05T13:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073760529135632707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoiIffgF08",
+              "end": 26,
+              "expanded_url": "https://x.com/zhandeng_/status/2073760529135632707/photo/1",
+              "media_key": "3_2073760248389906433",
+              "start": 3,
+              "url": "https://t.co/hoiIffgF08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073760529135632707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加1 https://t.co/hoiIffgF08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2073730796901568917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 798,
+          "like_count": 5805,
+          "listed_count": 4,
+          "media_count": 715,
+          "tweet_count": 5854
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-08T15:56:15.000Z",
+        "description": "mtf🏳️‍⚧️//无证含糖🍥//06//中焦重抑//推上负能偏多//不od//infp//上海or成都（喜欢面基）//姐控//玩1999//欢迎私信找我玩喵",
+        "id": "2009293014204858368",
+        "location": "梦里",
+        "name": "akari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009310336781045760/mh0pBc9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 132,
+          "like_count": 11316,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "zhandeng_",
+        "verified": false
+      }
+    ]
+  }
+}

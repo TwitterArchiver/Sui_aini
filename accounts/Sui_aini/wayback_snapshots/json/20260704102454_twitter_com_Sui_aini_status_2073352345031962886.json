@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2073086527937343983",
+    "created_at": "2026-07-04T10:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073352345031962886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987445988626481152",
+          "start": 0,
+          "username": "aka_yun123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073352345031962886",
+    "in_reply_to_user_id": "1987445988626481152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073350480697454950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aka_yun123 还好现在不下了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073350480697454950].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073350480697454950",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073350480697454950"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2073086527937343983",
+        "created_at": "2026-07-04T10:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073352345031962886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987445988626481152",
+              "start": 0,
+              "username": "aka_yun123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073352345031962886",
+        "in_reply_to_user_id": "1987445988626481152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073350480697454950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aka_yun123 还好现在不下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 795,
+          "like_count": 5768,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 5797
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T09:04:18.000Z",
+        "description": "FtX 只过前世熟人 请不要用刻板女性化规训我  也许有一天会变成华胥的亡灵\nuuz死后的形态即是我的终极自我理想形态\n幽冥组的另一半：@Youmu_Reunion  好妹妹：@RyousangataRei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Youmu_Reunion"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "RyousangataRei"
+              }
+            ]
+          }
+        },
+        "id": "1987445988626481152",
+        "name": "幽々子",
+        "pinned_tweet_id": "2065682983546499493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072019619544702976/BQ2bEb8G_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 150,
+          "like_count": 6728,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1762
+        },
+        "url": "",
+        "username": "aka_yun123",
+        "verified": false
+      }
+    ]
+  }
+}

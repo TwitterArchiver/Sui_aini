@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2073404623692665029",
+    "created_at": "2026-07-05T09:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073705138368491732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042257245027602432",
+          "start": 0,
+          "username": "haikon198767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073705138368491732",
+    "in_reply_to_user_id": "2042257245027602432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073684675252330787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haikon198767 我只会开场前拍一下大屏幕，开场之后，手机就放在包里，不拿出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2073404623692665029",
+        "created_at": "2026-07-05T09:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073705138368491732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042257245027602432",
+              "start": 0,
+              "username": "haikon198767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073705138368491732",
+        "in_reply_to_user_id": "2042257245027602432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073684675252330787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haikon198767 我只会开场前拍一下大屏幕，开场之后，手机就放在包里，不拿出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042257245027602432",
+        "conversation_id": "2073404623692665029",
+        "created_at": "2026-07-05T08:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073684675252330787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073684675252330787",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073404623692665029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 以前刚开始看的时候好听的都会录。后来就开场前一张＋15s＋结束后一张，基本也不发，就是提醒自己一下我看过这场。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 798,
+          "like_count": 5792,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 5840
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T15:05:03.000Z",
+        "description": "",
+        "id": "2042257245027602432",
+        "name": "anh_offline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052038656467345408/yWMR3DMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 118,
+          "like_count": 9568,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "haikon198767",
+        "verified": false
+      }
+    ]
+  }
+}

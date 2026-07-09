@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2073404623692665029",
+    "created_at": "2026-07-04T16:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073445239646454228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029581409959178240",
+          "start": 0,
+          "username": "reZubmarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073445239646454228",
+    "in_reply_to_user_id": "2029581409959178240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073443546129166340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reZubmarine 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2073404623692665029",
+        "created_at": "2026-07-04T16:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073445239646454228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029581409959178240",
+              "start": 0,
+              "username": "reZubmarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073445239646454228",
+        "in_reply_to_user_id": "2029581409959178240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073443546129166340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reZubmarine 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029581409959178240",
+        "conversation_id": "2073404623692665029",
+        "created_at": "2026-07-04T16:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073443546129166340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073443546129166340",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073404623692665029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 全心享受真的很棒！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 798,
+          "like_count": 5776,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 5810
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:35:01.000Z",
+        "description": "I'm the countless sections of myself :: 🏳️‍🌈 in a relationship :: Backup @VoidZubmarine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "VoidZubmarine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zubmarine.net",
+                "end": 23,
+                "expanded_url": "http://zubmarine.net",
+                "start": 0,
+                "url": "https://t.co/HTYaFoTfBQ"
+              }
+            ]
+          }
+        },
+        "id": "2029581409959178240",
+        "location": "Limbus Company",
+        "name": "广南东路提点刑狱公事希尔大人",
+        "pinned_tweet_id": "2067044255261221282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029587258609995776/eBwfjRF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 459,
+          "like_count": 8791,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/HTYaFoTfBQ",
+        "username": "reZubmarine",
+        "verified": false
+      }
+    ]
+  }
+}
