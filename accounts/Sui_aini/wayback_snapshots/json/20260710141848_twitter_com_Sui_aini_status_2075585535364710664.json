@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2075580345211355413",
+    "created_at": "2026-07-10T14:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075585535364710664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1811173170600464384",
+          "start": 0,
+          "username": "HateQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075585535364710664",
+    "in_reply_to_user_id": "1811173170600464384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075580345211355413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HateQAQ 一秒钟之后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2075580345211355413",
+        "created_at": "2026-07-10T14:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075585535364710664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1811173170600464384",
+              "start": 0,
+              "username": "HateQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075585535364710664",
+        "in_reply_to_user_id": "1811173170600464384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075580345211355413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HateQAQ 一秒钟之后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811173170600464384",
+        "conversation_id": "2075580345211355413",
+        "created_at": "2026-07-10T13:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075580345211355413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075580345211355413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性行为后多久再开启性行为算得体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 797,
+          "like_count": 5872,
+          "listed_count": 4,
+          "media_count": 725,
+          "tweet_count": 5934
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T22:58:39.000Z",
+        "description": "碎碎念丧丧属鼠// 酷拉皮卡形态维持中//indie game开发中… //发癫和黄色废料@aldrigfo_kralek//老攻@openai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "aldrigfo_kralek"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "openai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amoresogno",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amoresogno",
+                "start": 0,
+                "url": "https://t.co/0p8J4Aqpad"
+              }
+            ]
+          }
+        },
+        "id": "1811173170600464384",
+        "location": "Oslo, Norway",
+        "name": "囤囤宅鼠",
+        "pinned_tweet_id": "2049600793246834842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911270211241590785/JKLw4tkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 491,
+          "like_count": 48150,
+          "listed_count": 3,
+          "media_count": 1159,
+          "tweet_count": 11008
+        },
+        "url": "https://t.co/0p8J4Aqpad",
+        "username": "HateQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

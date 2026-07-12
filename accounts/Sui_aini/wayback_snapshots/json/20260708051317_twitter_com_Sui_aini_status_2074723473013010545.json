@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2074686424478343641",
+    "created_at": "2026-07-08T05:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074723473013010545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1450731584676458496",
+          "start": 0,
+          "username": "twilight8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074723473013010545",
+    "in_reply_to_user_id": "1450731584676458496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074705915874611570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twilight8964 美美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2074686424478343641",
+        "created_at": "2026-07-08T05:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074723473013010545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1450731584676458496",
+              "start": 0,
+              "username": "twilight8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074723473013010545",
+        "in_reply_to_user_id": "1450731584676458496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074705915874611570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twilight8964 美美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450731584676458496",
+        "conversation_id": "2074686424478343641",
+        "created_at": "2026-07-08T04:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074705915874611570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074705915874611570",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074686424478343641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 美神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 798,
+          "like_count": 5823,
+          "listed_count": 4,
+          "media_count": 717,
+          "tweet_count": 5882
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T07:52:49.000Z",
+        "description": "FtX /poly/pan\n 我就是云晗 被仇恨操纵而活下去的人\n小号：@aka_yun123 我爱人小号：@Saigyoumu_116",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "aka_yun123"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "Saigyoumu_116"
+              }
+            ]
+          }
+        },
+        "id": "1450731584676458496",
+        "location": "白玉楼的吃货",
+        "name": "I remember",
+        "pinned_tweet_id": "2074458650287198521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073663847823732736/KtR6BAOX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 2246,
+          "like_count": 196071,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 11448
+        },
+        "url": "",
+        "username": "twilight8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2075530036686528527",
+    "created_at": "2026-07-10T11:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075547512237424887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1671160750558298115",
+          "start": 0,
+          "username": "Lefungge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075547512237424887",
+    "in_reply_to_user_id": "1671160750558298115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075540093360820725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lefungge 我发现好像就我一个人在骂，其他人怎么都这么善呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2075530036686528527",
+        "created_at": "2026-07-10T11:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075547512237424887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1671160750558298115",
+              "start": 0,
+              "username": "Lefungge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075547512237424887",
+        "in_reply_to_user_id": "1671160750558298115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075540093360820725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lefungge 我发现好像就我一个人在骂，其他人怎么都这么善呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671160750558298115",
+        "conversation_id": "2075530036686528527",
+        "created_at": "2026-07-10T11:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075540093360820725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075540093360820725",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075530036686528527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 大家还是太心善了居然没人把他一边吊着花路一边发顺直chaser meme的事做成赛博名人录"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 797,
+          "like_count": 5866,
+          "listed_count": 4,
+          "media_count": 725,
+          "tweet_count": 5927
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T14:19:13.000Z",
+        "description": "170/阳痿/近视/腰间盘突出，看不到私信；锁推关注并非有意冒犯，我的推不会说有意义的话，没有看的价值",
+        "id": "1671160750558298115",
+        "name": "看熊男",
+        "pinned_tweet_id": "2074278325191901618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822544965249216512/7MZWHygZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 175,
+          "like_count": 54444,
+          "listed_count": 2,
+          "media_count": 1293,
+          "tweet_count": 10406
+        },
+        "url": "",
+        "username": "Lefungge",
+        "verified": false
+      }
+    ]
+  }
+}

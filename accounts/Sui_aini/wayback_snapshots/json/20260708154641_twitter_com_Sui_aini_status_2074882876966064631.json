@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2074882876966064631",
+    "created_at": "2026-07-08T15:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074882876966064631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2074875146180219010",
+          "start": 39,
+          "url": "https://t.co/hVOkIyjakY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074882876966064631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074875146180219010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自由是自己对自己有百分百的支配权，自由是拥有决定的权利，自由是死亡，自由是风 https://t.co/hVOkIyjakY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2074882876966064631",
+        "created_at": "2026-07-08T15:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074882876966064631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2074875146180219010",
+              "start": 39,
+              "url": "https://t.co/hVOkIyjakY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882876966064631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074875146180219010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自由是自己对自己有百分百的支配权，自由是拥有决定的权利，自由是死亡，自由是风 https://t.co/hVOkIyjakY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2074875146180219010",
+        "created_at": "2026-07-08T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074875146180219010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074875146180219010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥是自由啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 798,
+          "like_count": 5830,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 5888
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      }
+    ]
+  }
+}
