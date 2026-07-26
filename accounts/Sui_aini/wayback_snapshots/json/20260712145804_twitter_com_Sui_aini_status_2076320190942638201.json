@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2076308532924977447",
+    "created_at": "2026-07-12T14:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076320190942638201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671174134884364291",
+          "start": 0,
+          "username": "YouXi6783"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076320190942638201",
+    "in_reply_to_user_id": "1671174134884364291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076314700774846912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouXi6783 我的头发根本扎不起来，一扎就散了，纯流浪汉发型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2076308532924977447",
+        "created_at": "2026-07-12T14:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076320190942638201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671174134884364291",
+              "start": 0,
+              "username": "YouXi6783"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076320190942638201",
+        "in_reply_to_user_id": "1671174134884364291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076314700774846912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouXi6783 我的头发根本扎不起来，一扎就散了，纯流浪汉发型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671174134884364291",
+        "conversation_id": "2076308532924977447",
+        "created_at": "2026-07-12T14:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076314700774846912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076314700774846912",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076308532924977447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 头发扎起来也不行吗，不过在肯德基打工体验就是纯狗屎这点深有体会，如果不是实在没有办法千万别去这种连锁快餐店打工。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 802,
+          "like_count": 5929,
+          "listed_count": 4,
+          "media_count": 740,
+          "tweet_count": 6019
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T15:13:14.000Z",
+        "description": "希望和大家做朋友           \n\n平常什么都会发一点",
+        "id": "1671174134884364291",
+        "name": "西行の幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671176863941812224/V2y_REJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 177,
+          "like_count": 18686,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 3004
+        },
+        "url": "",
+        "username": "YouXi6783",
+        "verified": false
+      }
+    ]
+  }
+}

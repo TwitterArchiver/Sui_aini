@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2080757747834867884",
+    "created_at": "2026-07-25T02:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080839962665025536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029581409959178240",
+          "start": 0,
+          "username": "reZubmarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080839962665025536",
+    "in_reply_to_user_id": "2029581409959178240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080831627828277611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reZubmarine 僕は 僕の味方でいようよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2080757747834867884",
+        "created_at": "2026-07-25T02:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080839962665025536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029581409959178240",
+              "start": 0,
+              "username": "reZubmarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080839962665025536",
+        "in_reply_to_user_id": "2029581409959178240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080831627828277611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reZubmarine 僕は 僕の味方でいようよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029581409959178240",
+        "conversation_id": "2080757747834867884",
+        "created_at": "2026-07-25T01:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080831627828277611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080831627828277611",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080757747834867884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 痛いの痛いの飛んでゆけ…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 832,
+          "like_count": 6171,
+          "listed_count": 5,
+          "media_count": 787,
+          "tweet_count": 6358
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T15:35:01.000Z",
+        "description": "I'm the countless sections of myself :: 🏳️‍🌈 in a relationship :: Backup @VoidZubmarine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "VoidZubmarine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zubmarine.net",
+                "end": 23,
+                "expanded_url": "http://zubmarine.net",
+                "start": 0,
+                "url": "https://t.co/HTYaFoTfBQ"
+              }
+            ]
+          }
+        },
+        "id": "2029581409959178240",
+        "location": "Limbus Company",
+        "name": "广南东路提点刑狱公事希尔大人",
+        "pinned_tweet_id": "2067044255261221282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029587258609995776/eBwfjRF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 483,
+          "like_count": 9853,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2193
+        },
+        "url": "https://t.co/HTYaFoTfBQ",
+        "username": "reZubmarine",
+        "verified": false
+      }
+    ]
+  }
+}

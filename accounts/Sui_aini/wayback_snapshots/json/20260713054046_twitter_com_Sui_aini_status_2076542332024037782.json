@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2076472471289831851",
+    "created_at": "2026-07-13T05:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076542332024037782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874901736303046656",
+          "start": 0,
+          "username": "jidediebeizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076542332024037782",
+    "in_reply_to_user_id": "1874901736303046656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076540592595816777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidediebeizi 唉唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2076472471289831851",
+        "created_at": "2026-07-13T05:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076542332024037782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874901736303046656",
+              "start": 0,
+              "username": "jidediebeizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076542332024037782",
+        "in_reply_to_user_id": "1874901736303046656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076540592595816777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidediebeizi 唉唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874901736303046656",
+        "conversation_id": "2076472471289831851",
+        "created_at": "2026-07-13T05:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076540592595816777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076540592595816777",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076526278631665873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 人家是女人又不是酷儿，要酷儿的声望做什么😄报应吧这就是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 804,
+          "like_count": 5937,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 6042
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T19:33:42.000Z",
+        "description": "一些碎片",
+        "id": "1874901736303046656",
+        "name": "记得叠被子",
+        "pinned_tweet_id": "2053357564080128283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874909613201772544/cETc1g2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 22,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "jidediebeizi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2076169596328169838",
+    "created_at": "2026-07-12T06:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076193411900833801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1029738883523653632",
+          "start": 0,
+          "username": "gammapla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076193411900833801",
+    "in_reply_to_user_id": "1029738883523653632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076187292168024257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gammapla 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2076169596328169838",
+        "created_at": "2026-07-12T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076193411900833801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1029738883523653632",
+              "start": 0,
+              "username": "gammapla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076193411900833801",
+        "in_reply_to_user_id": "1029738883523653632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076187292168024257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gammapla 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1029738883523653632",
+        "conversation_id": "2076169596328169838",
+        "created_at": "2026-07-12T06:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076187292168024257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076187292168024257",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076169596328169838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 其实乞丐也是工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 798,
+          "like_count": 5918,
+          "listed_count": 4,
+          "media_count": 737,
+          "tweet_count": 6002
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-15T14:37:36.000Z",
+        "description": "Memoryless｜低能量",
+        "id": "1029738883523653632",
+        "name": "竹",
+        "pinned_tweet_id": "1275060905932238848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628590432589586432/nDco8E6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 134,
+          "like_count": 11252,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1908
+        },
+        "url": "",
+        "username": "gammapla",
+        "verified": false
+      }
+    ]
+  }
+}

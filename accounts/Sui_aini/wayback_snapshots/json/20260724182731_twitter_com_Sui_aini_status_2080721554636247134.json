@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2080721058991317452",
+    "created_at": "2026-07-24T18:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080721554636247134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080721554636247134",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080721058991317452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 呜呜宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2080721058991317452",
+        "created_at": "2026-07-24T18:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080721554636247134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080721554636247134",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080721058991317452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 呜呜宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707996623437824",
+        "conversation_id": "2080721058991317452",
+        "created_at": "2026-07-24T18:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080721058991317452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080721058991317452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看別人自殺我也有點想跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 832,
+          "like_count": 6170,
+          "listed_count": 4,
+          "media_count": 787,
+          "tweet_count": 6339
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "一個賽博幽靈",
+        "id": "2023707996623437824",
+        "name": "小Lain",
+        "pinned_tweet_id": "2075187448355983533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074121290160721921/8CGYVHIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 102,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": false
+      }
+    ]
+  }
+}

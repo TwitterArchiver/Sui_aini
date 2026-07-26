@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077332483331510272",
+        "3_2077332483289522176",
+        "3_2077332483235037184"
+      ],
+      "media_source_tweet_id": [
+        "2077332500490371307",
+        "2077332500490371307",
+        "2077332500490371307"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077335900334485567",
+    "created_at": "2026-07-15T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077335900334485567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1490675894238986251",
+          "start": 3,
+          "username": "SayoriCat8964"
+        },
+        {
+          "end": 59,
+          "id": "1561806114274287616",
+          "start": 46,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d1W0yHTkHm",
+          "end": 83,
+          "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+          "media_key": "3_2077332483331510272",
+          "start": 60,
+          "url": "https://t.co/d1W0yHTkHm"
+        },
+        {
+          "display_url": "pic.x.com/d1W0yHTkHm",
+          "end": 83,
+          "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+          "media_key": "3_2077332483289522176",
+          "start": 60,
+          "url": "https://t.co/d1W0yHTkHm"
+        },
+        {
+          "display_url": "pic.x.com/d1W0yHTkHm",
+          "end": 83,
+          "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+          "media_key": "3_2077332483235037184",
+          "start": 60,
+          "url": "https://t.co/d1W0yHTkHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077335900334485567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077332500490371307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SayoriCat8964: Az老师号被封了呜呜 大家看到了的话帮忙转一下吧🥺🥺🥺@crossyangshe https://t.co/d1W0yHTkHm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077332483331510272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQq4y1a0AACRaT.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077332483289522176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQq4yraIAAQI4K.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077332483235037184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQq4yeawAAaEEO.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077332483331510272",
+            "3_2077332483289522176",
+            "3_2077332483235037184"
+          ],
+          "media_source_tweet_id": [
+            "2077332500490371307",
+            "2077332500490371307",
+            "2077332500490371307"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077335900334485567",
+        "created_at": "2026-07-15T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077335900334485567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1490675894238986251",
+              "start": 3,
+              "username": "SayoriCat8964"
+            },
+            {
+              "end": 59,
+              "id": "1561806114274287616",
+              "start": 46,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 83,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483331510272",
+              "start": 60,
+              "url": "https://t.co/d1W0yHTkHm"
+            },
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 83,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483289522176",
+              "start": 60,
+              "url": "https://t.co/d1W0yHTkHm"
+            },
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 83,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483235037184",
+              "start": 60,
+              "url": "https://t.co/d1W0yHTkHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077335900334485567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077332500490371307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SayoriCat8964: Az老师号被封了呜呜 大家看到了的话帮忙转一下吧🥺🥺🥺@crossyangshe https://t.co/d1W0yHTkHm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077332483331510272",
+            "3_2077332483289522176",
+            "3_2077332483235037184"
+          ]
+        },
+        "author_id": "1490675894238986251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077332500490371307",
+        "created_at": "2026-07-15T10:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077332500490371307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1561806114274287616",
+              "start": 27,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 64,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483331510272",
+              "start": 41,
+              "url": "https://t.co/d1W0yHTkHm"
+            },
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 64,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483289522176",
+              "start": 41,
+              "url": "https://t.co/d1W0yHTkHm"
+            },
+            {
+              "display_url": "pic.x.com/d1W0yHTkHm",
+              "end": 64,
+              "expanded_url": "https://x.com/SayoriCat8964/status/2077332500490371307/photo/1",
+              "media_key": "3_2077332483235037184",
+              "start": 41,
+              "url": "https://t.co/d1W0yHTkHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077332500490371307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Az老师号被封了呜呜 大家看到了的话帮忙转一下吧🥺🥺🥺@crossyangshe https://t.co/d1W0yHTkHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 805,
+          "like_count": 5946,
+          "listed_count": 4,
+          "media_count": 747,
+          "tweet_count": 6067
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 1254,
+          "like_count": 150684,
+          "listed_count": 13,
+          "media_count": 1743,
+          "tweet_count": 22632
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 438,
+          "like_count": 3212,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

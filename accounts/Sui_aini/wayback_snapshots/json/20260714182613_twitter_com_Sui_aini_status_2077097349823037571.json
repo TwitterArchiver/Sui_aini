@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2077097349823037571",
+    "created_at": "2026-07-14T18:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077097349823037571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omggggsad/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/omggggsad/status/2076986802041241914",
+          "start": 5,
+          "url": "https://t.co/E2aXQ5tWC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077097349823037571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076986802041241914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你帮个蛋 https://t.co/E2aXQ5tWC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076986786115424256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLwekWXEAAkWkT.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2077097349823037571",
+        "created_at": "2026-07-14T18:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077097349823037571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omggggsad/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/omggggsad/status/2076986802041241914",
+              "start": 5,
+              "url": "https://t.co/E2aXQ5tWC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077097349823037571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076986802041241914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你帮个蛋 https://t.co/E2aXQ5tWC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076986786115424256"
+          ]
+        },
+        "author_id": "2054233823899160576",
+        "conversation_id": "2076986802041241914",
+        "created_at": "2026-07-14T11:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076986802041241914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42iahhm6NL",
+              "end": 94,
+              "expanded_url": "https://x.com/omggggsad/status/2076986802041241914/photo/1",
+              "media_key": "3_2076986786115424256",
+              "start": 71,
+              "url": "https://t.co/42iahhm6NL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076986802041241914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 16,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这公狗咋了 之前他被全推骂的时候我也没说啥啊 我一直都没种族歧视过 我都还专门说刻板印象的 我帮黑人女孩说话你咋不说 就这样装刻薄寻求存在感 https://t.co/42iahhm6NL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 805,
+          "like_count": 5940,
+          "listed_count": 4,
+          "media_count": 745,
+          "tweet_count": 6060
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T16:15:29.000Z",
+        "description": "🚪28 没有任何黄色内容只是加微信好友一起玩哦 可以看朋友圈然后偶尔聊聊天 收门槛是因为我想吃小蛋糕 女孩可以免费加",
+        "id": "2054233823899160576",
+        "name": "当我爱上一个天使的缺点",
+        "pinned_tweet_id": "2073572196090298415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071077099876843520/RZZrmLE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 150,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 880
+        },
+        "url": "",
+        "username": "omggggsad",
+        "verified": false
+      }
+    ]
+  }
+}

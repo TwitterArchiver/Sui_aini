@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2079788903159218235",
+    "created_at": "2026-07-22T04:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079789278817849456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981918860883488768",
+          "start": 0,
+          "username": "Anonymous_L13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079789278817849456",
+    "in_reply_to_user_id": "1981918860883488768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079788903159218235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anonymous_L13 已经没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2079788903159218235",
+        "created_at": "2026-07-22T04:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079789278817849456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981918860883488768",
+              "start": 0,
+              "username": "Anonymous_L13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079789278817849456",
+        "in_reply_to_user_id": "1981918860883488768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079788903159218235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anonymous_L13 已经没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981918860883488768",
+        "conversation_id": "2079788903159218235",
+        "created_at": "2026-07-22T04:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079788903159218235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MiraOmicronCet…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/MiraOmicronCeti/status/2079763365908631591",
+              "start": 4,
+              "url": "https://t.co/QtdcSc0uSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079788903159218235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079763365908631591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊？！ https://t.co/QtdcSc0uSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 828,
+          "like_count": 6107,
+          "listed_count": 4,
+          "media_count": 777,
+          "tweet_count": 6278
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "Pink noise of the internet",
+        "id": "1981918860883488768",
+        "location": "Akashic records",
+        "name": "❅超絶最でんぱ莉ちゃん💜",
+        "pinned_tweet_id": "2028620996916191515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073033584664018944/u7_u-yNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 183,
+          "like_count": 3048,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1775
+        },
+        "url": "",
+        "username": "Anonymous_L13",
+        "verified": false
+      }
+    ]
+  }
+}

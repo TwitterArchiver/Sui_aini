@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2077421482091888839",
+    "created_at": "2026-07-15T16:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077424916945903699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1813894970744430592",
+          "start": 0,
+          "username": "Verrrrse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077424916945903699",
+    "in_reply_to_user_id": "1813894970744430592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077424642550346102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verrrrse 甘草片味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2077421482091888839",
+        "created_at": "2026-07-15T16:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077424916945903699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1813894970744430592",
+              "start": 0,
+              "username": "Verrrrse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077424916945903699",
+        "in_reply_to_user_id": "1813894970744430592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077424642550346102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verrrrse 甘草片味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813894970744430592",
+        "conversation_id": "2077421482091888839",
+        "created_at": "2026-07-15T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077424642550346102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077424642550346102",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077421482091888839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 野格是苦的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 807,
+          "like_count": 5961,
+          "listed_count": 4,
+          "media_count": 750,
+          "tweet_count": 6085
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T11:14:34.000Z",
+        "description": "bio | https://t.co/OMCRCZuaUQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/verrse",
+                "end": 29,
+                "expanded_url": "https://ngl.link/verrse",
+                "start": 6,
+                "url": "https://t.co/OMCRCZuaUQ"
+              }
+            ]
+          }
+        },
+        "id": "1813894970744430592",
+        "name": "Verse",
+        "pinned_tweet_id": "2075161547689849233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069415422643040256/qWDyX4QB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 370,
+          "like_count": 9699,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 4366
+        },
+        "url": "",
+        "username": "Verrrrse",
+        "verified": false
+      }
+    ]
+  }
+}

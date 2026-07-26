@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2076164576157253876",
+    "created_at": "2026-07-12T08:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076224503773004058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        },
+        {
+          "end": 21,
+          "id": "1515668818013696000",
+          "start": 12,
+          "username": "jym66662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076224503773004058",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076224395702665338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 @jym66662 爆了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2076164576157253876",
+        "created_at": "2026-07-12T08:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076224503773004058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            },
+            {
+              "end": 21,
+              "id": "1515668818013696000",
+              "start": 12,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076224503773004058",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076224395702665338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 @jym66662 爆了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2076164576157253876",
+        "created_at": "2026-07-12T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076224395702665338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 19,
+              "id": "1515668818013696000",
+              "start": 10,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076224395702665338",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076222323024425271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @jym66662 爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 802,
+          "like_count": 5921,
+          "listed_count": 4,
+          "media_count": 739,
+          "tweet_count": 6014
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "18y.o. \nFPS 一般路过爱好者\n非现充\n头像by@washiya0",
+        "id": "2044319134326964224",
+        "name": "EternalSubconsciencƎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076052589754425344/MgnGKGEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 406,
+          "like_count": 16833,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1992563536263049420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024807860392296448/Juy1qxhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 597,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 3468
+        },
+        "url": "",
+        "username": "jym66662",
+        "verified": false
+      }
+    ]
+  }
+}

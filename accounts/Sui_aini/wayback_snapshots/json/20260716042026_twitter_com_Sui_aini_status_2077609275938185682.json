@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2077472010738000112",
+    "created_at": "2026-07-16T04:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077609275938185682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2077230282604961792",
+          "start": 0,
+          "username": "SLRIGHT1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077609275938185682",
+    "in_reply_to_user_id": "2077230282604961792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077477747509883366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SLRIGHT1227 我小时候没有这个意识，但总会感觉怪怪的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2077472010738000112",
+        "created_at": "2026-07-16T04:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077609275938185682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2077230282604961792",
+              "start": 0,
+              "username": "SLRIGHT1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077609275938185682",
+        "in_reply_to_user_id": "2077230282604961792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077477747509883366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SLRIGHT1227 我小时候没有这个意识，但总会感觉怪怪的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077230282604961792",
+        "conversation_id": "2077472010738000112",
+        "created_at": "2026-07-15T19:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077477747509883366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077477747509883366",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077472010738000112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 穗小时候也这么想吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 810,
+          "like_count": 5982,
+          "listed_count": 4,
+          "media_count": 755,
+          "tweet_count": 6108
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T03:15:47.000Z",
+        "description": "私は中国から来た日本語の学生、日本語はまだ上手じゃないので、中国語で話してください。よろしくお願いします",
+        "id": "2077230282604961792",
+        "name": "SLRIGHT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077230914955104256/geu9PpxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "SLRIGHT1227",
+        "verified": false
+      }
+    ]
+  }
+}

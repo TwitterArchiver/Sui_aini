@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2076724076870275496",
+    "created_at": "2026-07-14T14:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077035551539245123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "133225891",
+          "start": 0,
+          "username": "hisuiibmpower4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077035551539245123",
+    "in_reply_to_user_id": "133225891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077035175465378057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hisuiibmpower4 一氧化碳中毒也没去医院看过，我感觉暂时还死不了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077035175465378057].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077035175465378057",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077035175465378057"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2076724076870275496",
+        "created_at": "2026-07-14T14:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077035551539245123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "133225891",
+              "start": 0,
+              "username": "hisuiibmpower4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077035551539245123",
+        "in_reply_to_user_id": "133225891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077035175465378057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hisuiibmpower4 一氧化碳中毒也没去医院看过，我感觉暂时还死不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 804,
+          "like_count": 5934,
+          "listed_count": 4,
+          "media_count": 745,
+          "tweet_count": 6057
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-15T09:41:18.000Z",
+        "description": "Senior sci-fi geek,hard core anime otaku,interested in:sci-fi,science,politics,history,art,anime,visual_novel,doujinshi,anything moe",
+        "id": "133225891",
+        "location": "shanghai.china",
+        "name": "hisui",
+        "pinned_tweet_id": "1669898654579306496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/973198180647976961/hRRMuIm8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 2898,
+          "like_count": 84697,
+          "listed_count": 29,
+          "media_count": 743,
+          "tweet_count": 48629
+        },
+        "url": "",
+        "username": "hisuiibmpower4",
+        "verified": false
+      }
+    ]
+  }
+}

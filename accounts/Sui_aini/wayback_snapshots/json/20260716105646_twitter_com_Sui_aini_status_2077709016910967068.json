@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2077701678657425750",
+    "created_at": "2026-07-16T10:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077709016910967068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "Hiro8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077709016910967068",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077701678657425750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiro8964 戒断了吧你们，诶，今天难受了吧你们，去go9那帮人，你们怎么不笑了，不嘚瑟了？你难不难受今天，回归到现实生活，你想不想死啊你，一下子就问到你心里，我啥事没有，我没去，我浑身轻松，某些人看到这又汗流浃背了，前天我破防，今天该你们破防了，去，接着看，接着去玩去吧，看看余额还剩多少钱了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077701678657425750].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077701678657425750",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077701678657425750"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2077701678657425750",
+        "created_at": "2026-07-16T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077709016910967068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077709016910967068",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077701678657425750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 戒断了吧你们，诶，今天难受了吧你们，去go9那帮人，你们怎么不笑了，不嘚瑟了？你难不难受今天，回归到现实生活，你想不想死啊你，一下子就问到你心里，我啥事没有，我没去，我浑身轻松，某些人看到这又汗流浃背了，前天我破防，今天该你们破防了，去，接着看，接着去玩去吧，看看余额还剩多少钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 813,
+          "like_count": 5996,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 6115
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "还没被选中的ネクサス适能者/严重失眠/焦虑max",
+        "id": "1989191439339933696",
+        "name": "宝↗生↘永↗梦↘ ！👾",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028386939498496/p5KowUOz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 301,
+          "like_count": 5861,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2307
+        },
+        "url": "",
+        "username": "Hiro8964",
+        "verified": false
+      }
+    ]
+  }
+}

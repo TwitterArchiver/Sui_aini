@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2079261648116920715",
+    "created_at": "2026-07-20T19:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079283134613573748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263368268103860227",
+          "start": 0,
+          "username": "kano_258025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079283134613573748",
+    "in_reply_to_user_id": "1263368268103860227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079261648116920715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kano_258025 给我远集"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 727,
+        "media_key": "3_2079261635613708288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsFcPHaUAAiPv8.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1114,
+        "media_key": "3_2079261643155128320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsFcrNbQAAblEa.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2079261648116920715",
+        "created_at": "2026-07-20T19:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079283134613573748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263368268103860227",
+              "start": 0,
+              "username": "kano_258025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079283134613573748",
+        "in_reply_to_user_id": "1263368268103860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079261648116920715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kano_258025 给我远集"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079261635613708288",
+            "3_2079261643155128320"
+          ]
+        },
+        "author_id": "1263368268103860227",
+        "conversation_id": "2079261648116920715",
+        "created_at": "2026-07-20T17:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079261648116920715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCis1a2azw",
+              "end": 23,
+              "expanded_url": "https://x.com/kano_258025/status/2079261648116920715/photo/1",
+              "media_key": "3_2079261635613708288",
+              "start": 0,
+              "url": "https://t.co/iCis1a2azw"
+            },
+            {
+              "display_url": "pic.x.com/iCis1a2azw",
+              "end": 23,
+              "expanded_url": "https://x.com/kano_258025/status/2079261648116920715/photo/1",
+              "media_key": "3_2079261643155128320",
+              "start": 0,
+              "url": "https://t.co/iCis1a2azw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079261648116920715",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iCis1a2azw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 826,
+          "like_count": 6087,
+          "listed_count": 4,
+          "media_count": 775,
+          "tweet_count": 6250
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "trans，性别是武装直升机\n现在是此人已死形态，有人，我恨你一辈子……一个多月了，连个道歉都没有，我不好说，你可能是连日本人都不如的存在，日本人好歹还会道歉呢",
+        "id": "1263368268103860227",
+        "name": "モカ",
+        "pinned_tweet_id": "2079228179710144520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068247431683391488/XjKcAHRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 2416,
+          "like_count": 85724,
+          "listed_count": 5,
+          "media_count": 512,
+          "tweet_count": 7837
+        },
+        "url": "",
+        "username": "kano_258025",
+        "verified": false
+      }
+    ]
+  }
+}
