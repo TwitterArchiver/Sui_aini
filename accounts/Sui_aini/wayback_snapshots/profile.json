@@ -1,12 +1,20 @@
 {
   "name": "穗_🌾",
   "username": "@Sui_aini",
-  "bio": "Enby（They/Them/It）",
+  "bio": "Enby（They/Them/It）｜超可愛い@Sattakom",
   "location": "你的心",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2076608935323410586",
-  "bio_entities": {},
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg"
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 32,
+        "start": 23,
+        "username": "Sattakom"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg"
 }
