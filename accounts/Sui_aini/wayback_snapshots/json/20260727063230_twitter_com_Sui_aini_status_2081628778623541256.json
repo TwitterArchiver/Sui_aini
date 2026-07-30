@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081611733450281379",
+    "created_at": "2026-07-27T06:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081628778623541256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081628778623541256",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081628421432779248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 就像是，农村老人吃止痛药一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081611733450281379",
+        "created_at": "2026-07-27T06:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081628778623541256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081628778623541256",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081628421432779248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 就像是，农村老人吃止痛药一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "conversation_id": "2081611733450281379",
+        "created_at": "2026-07-27T06:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081628421432779248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081628421432779248",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081611733450281379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 唉，还是钱的缘故吧，就像是很多身体不舒服不肯去医院查，结果小病变成大病的老一辈人一样😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 837,
+          "like_count": 6229,
+          "listed_count": 4,
+          "media_count": 798,
+          "tweet_count": 6468
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 2549,
+          "like_count": 178036,
+          "listed_count": 18,
+          "media_count": 2713,
+          "tweet_count": 57004
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

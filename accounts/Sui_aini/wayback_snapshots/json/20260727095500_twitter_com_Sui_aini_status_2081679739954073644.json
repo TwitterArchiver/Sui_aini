@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081592730333974943",
+    "created_at": "2026-07-27T09:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081679739954073644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1449665210520793095",
+          "start": 0,
+          "username": "x_nyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081679739954073644",
+    "in_reply_to_user_id": "1449665210520793095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081679580507799601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_nyanya 上个医生，有说让我去物质成瘾科，这个医生估计忙着下班吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081592730333974943",
+        "created_at": "2026-07-27T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081679739954073644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1449665210520793095",
+              "start": 0,
+              "username": "x_nyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081679739954073644",
+        "in_reply_to_user_id": "1449665210520793095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081679580507799601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_nyanya 上个医生，有说让我去物质成瘾科，这个医生估计忙着下班吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449665210520793095",
+        "conversation_id": "2081592730333974943",
+        "created_at": "2026-07-27T09:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081679580507799601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081679580507799601",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081592730333974943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 真的没有把你强行拉进物质依赖科我们看到的只是最后的告别吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 837,
+          "like_count": 6234,
+          "listed_count": 4,
+          "media_count": 799,
+          "tweet_count": 6477
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-17T09:15:06.000Z",
+        "description": "",
+        "id": "1449665210520793095",
+        "name": "生我不如生叉烧",
+        "pinned_tweet_id": "1807910626506989978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065672795003183104/fZol3Jg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 102,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "x_nyanya",
+        "verified": false
+      }
+    ]
+  }
+}

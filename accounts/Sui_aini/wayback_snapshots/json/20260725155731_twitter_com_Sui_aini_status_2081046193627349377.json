@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081039994542522455",
+    "created_at": "2026-07-25T15:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081046193627349377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738640912564297728",
+          "start": 0,
+          "username": "GalileoMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081046193627349377",
+    "in_reply_to_user_id": "1738640912564297728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081041263323730257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GalileoMoon 很傻的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081039994542522455",
+        "created_at": "2026-07-25T15:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081046193627349377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738640912564297728",
+              "start": 0,
+              "username": "GalileoMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081046193627349377",
+        "in_reply_to_user_id": "1738640912564297728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081041263323730257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GalileoMoon 很傻的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738640912564297728",
+        "conversation_id": "2081039994542522455",
+        "created_at": "2026-07-25T15:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081041263323730257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081041263323730257",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039994542522455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 很漂亮的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 832,
+          "like_count": 6178,
+          "listed_count": 4,
+          "media_count": 789,
+          "tweet_count": 6377
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-23T19:21:20.000Z",
+        "description": "相顧無言，惟有淚千行。",
+        "id": "1738640912564297728",
+        "name": "顧言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048070800398520320/MuMJq49R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 44,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "GalileoMoon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081374612428882340",
+    "created_at": "2026-07-26T14:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081381474951954872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836732689279508481",
+          "start": 0,
+          "username": "PowehiChan01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081381474951954872",
+    "in_reply_to_user_id": "1836732689279508481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081380842430173309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PowehiChan01 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081374612428882340",
+        "created_at": "2026-07-26T14:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081381474951954872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836732689279508481",
+              "start": 0,
+              "username": "PowehiChan01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081381474951954872",
+        "in_reply_to_user_id": "1836732689279508481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081380842430173309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PowehiChan01 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836732689279508481",
+        "conversation_id": "2081374612428882340",
+        "created_at": "2026-07-26T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081380842430173309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081380842430173309",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374612428882340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 诶卧槽是猫小妹吗？rip…唉…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 834,
+          "like_count": 6192,
+          "listed_count": 4,
+          "media_count": 791,
+          "tweet_count": 6410
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-19T11:43:03.000Z",
+        "description": "🌈 ｜ 由🦉和窥视小鸡之人共同管理",
+        "id": "1836732689279508481",
+        "name": "猫头毛豆鹰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074817287144849408/AnxODo3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 358,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "PowehiChan01",
+        "verified": false
+      }
+    ]
+  }
+}

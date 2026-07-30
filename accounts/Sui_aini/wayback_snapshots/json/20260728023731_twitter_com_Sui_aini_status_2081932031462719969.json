@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081932031462719969",
+    "created_at": "2026-07-28T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081932031462719969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmmammm_a/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/mmmammm_a/status/2081829022867050802",
+          "start": 33,
+          "url": "https://t.co/9zC5xX3p4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081932031462719969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081829022867050802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人是靠鲜活的、逝去的人活着，而不是靠一堆死板没有生命力的理论活着 https://t.co/9zC5xX3p4Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081932031462719969",
+        "created_at": "2026-07-28T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081932031462719969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmmammm_a/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mmmammm_a/status/2081829022867050802",
+              "start": 33,
+              "url": "https://t.co/9zC5xX3p4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081932031462719969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081829022867050802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人是靠鲜活的、逝去的人活着，而不是靠一堆死板没有生命力的理论活着 https://t.co/9zC5xX3p4Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2081829022867050802",
+        "created_at": "2026-07-27T19:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081829022867050802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081829022867050802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 651,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对理论真的没什么兴趣，我只希望大家都能活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 837,
+          "like_count": 6236,
+          "listed_count": 4,
+          "media_count": 799,
+          "tweet_count": 6482
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She/ They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 290,
+          "like_count": 15648,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 6203
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

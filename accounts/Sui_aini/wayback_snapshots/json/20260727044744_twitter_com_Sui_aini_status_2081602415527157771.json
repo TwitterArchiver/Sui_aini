@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081589339705008442",
+    "created_at": "2026-07-27T04:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081602415527157771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1298647438849433605",
+          "start": 0,
+          "username": "SakurasawaAkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081602415527157771",
+    "in_reply_to_user_id": "1298647438849433605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081589339705008442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurasawaAkira 这不我吗，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081589339705008442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081589339705008442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081589339705008442"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081589339705008442",
+        "created_at": "2026-07-27T04:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081602415527157771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1298647438849433605",
+              "start": 0,
+              "username": "SakurasawaAkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081602415527157771",
+        "in_reply_to_user_id": "1298647438849433605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081589339705008442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurasawaAkira 这不我吗，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 837,
+          "like_count": 6224,
+          "listed_count": 4,
+          "media_count": 798,
+          "tweet_count": 6465
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-26T15:44:18.000Z",
+        "description": "发疯胡言乱语日记",
+        "id": "1298647438849433605",
+        "location": "精神病院",
+        "name": "桃子罐头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935261380455579648/4INkAuIx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 447,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 501
+        },
+        "url": "",
+        "username": "SakurasawaAkira",
+        "verified": false
+      }
+    ]
+  }
+}

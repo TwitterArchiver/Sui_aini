@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081392399960445398",
+    "created_at": "2026-07-27T01:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081549689892020315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053514947909603328",
+          "start": 0,
+          "username": "Akagi525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081549689892020315",
+    "in_reply_to_user_id": "2053514947909603328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081458686816608572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akagi525 笑死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081392399960445398",
+        "created_at": "2026-07-27T01:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081549689892020315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053514947909603328",
+              "start": 0,
+              "username": "Akagi525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081549689892020315",
+        "in_reply_to_user_id": "2053514947909603328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081458686816608572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akagi525 笑死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053514947909603328",
+        "conversation_id": "2081392399960445398",
+        "created_at": "2026-07-26T19:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081458686816608572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081458686816608572",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081392399960445398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 笑死我了这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 835,
+          "like_count": 6205,
+          "listed_count": 4,
+          "media_count": 794,
+          "tweet_count": 6441
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T16:41:16.000Z",
+        "description": "#楠同一枚#Bass糕手",
+        "id": "2053514947909603328",
+        "location": "5km",
+        "name": "Akagi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081263026544721920/X_4hDCsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 2916,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Akagi525",
+        "verified": false
+      }
+    ]
+  }
+}

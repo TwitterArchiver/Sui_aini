@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081649059215900966",
+    "created_at": "2026-07-27T08:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081652537107644489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "affinepipe47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081652537107644489",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081649059215900966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affinepipe47 还真是啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081649059215900966",
+        "created_at": "2026-07-27T08:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081652537107644489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "affinepipe47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081652537107644489",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081649059215900966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affinepipe47 还真是啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745799972576968705",
+        "conversation_id": "2081649059215900966",
+        "created_at": "2026-07-27T07:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081649059215900966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/sui_aini/status/2081592730333974943",
+              "start": 23,
+              "url": "https://t.co/Yqonrfn3WO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081649059215900966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081592730333974943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老医生说话都比较漂亮 只有年轻医生敢说没的治 https://t.co/Yqonrfn3WO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 837,
+          "like_count": 6230,
+          "listed_count": 4,
+          "media_count": 798,
+          "tweet_count": 6470
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "一个伪人",
+        "id": "1745799972576968705",
+        "name": "全推最权威恐术咨询",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070894276805042176/4HZi8qRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 964,
+          "like_count": 9909,
+          "listed_count": 5,
+          "media_count": 375,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "affinepipe47",
+        "verified": false
+      }
+    ]
+  }
+}
