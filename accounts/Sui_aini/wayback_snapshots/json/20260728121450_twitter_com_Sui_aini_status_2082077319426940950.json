@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2081952229032919489",
+    "created_at": "2026-07-28T12:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082077319426940950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056703191597920256",
+          "start": 0,
+          "username": "Mandrake8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082077319426940950",
+    "in_reply_to_user_id": "2056703191597920256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082076815334764986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandrake8964 力竭。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2081952229032919489",
+        "created_at": "2026-07-28T12:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082077319426940950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056703191597920256",
+              "start": 0,
+              "username": "Mandrake8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082077319426940950",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082076815334764986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandrake8964 力竭。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2081952229032919489",
+        "created_at": "2026-07-28T12:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082076815334764986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082076815334764986",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081952229032919489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 嗚啊我前男友就是這種順直男\n這種人最會把自己放在被傷害方來博取同情了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）｜超可愛い@Sattakom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Sattakom"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 838,
+          "like_count": 6256,
+          "listed_count": 4,
+          "media_count": 802,
+          "tweet_count": 6503
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 116,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      }
+    ]
+  }
+}

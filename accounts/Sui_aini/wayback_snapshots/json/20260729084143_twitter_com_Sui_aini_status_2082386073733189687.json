@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2082170819178828014",
+    "created_at": "2026-07-29T08:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082386073733189687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082386073733189687",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082385242208477645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 属于我的逼在哪"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082385242208477645].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082385242208477645",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082385242208477645"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2082170819178828014",
+        "created_at": "2026-07-29T08:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082386073733189687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082386073733189687",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082385242208477645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 属于我的逼在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）｜超可愛い@Sattakom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Sattakom"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 838,
+          "like_count": 6261,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 6513
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "",
+        "id": "1504387273919401987",
+        "name": "神谷纱良",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069637016992587776/X1KGhVKT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 411,
+          "like_count": 28012,
+          "listed_count": 3,
+          "media_count": 1007,
+          "tweet_count": 36292
+        },
+        "url": "",
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}
