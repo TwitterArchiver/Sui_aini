@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2085085586805907918",
+    "created_at": "2026-08-05T20:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085096798331273333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983965341865885696",
+          "start": 0,
+          "username": "zudnefukaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085096798331273333",
+    "in_reply_to_user_id": "1983965341865885696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085085586805907918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zudnefukaos 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2085085576899035136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-2SPFbgAAo6In.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2085085586805907918",
+        "created_at": "2026-08-05T20:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085096798331273333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983965341865885696",
+              "start": 0,
+              "username": "zudnefukaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085096798331273333",
+        "in_reply_to_user_id": "1983965341865885696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085085586805907918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zudnefukaos 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085085576899035136"
+          ]
+        },
+        "author_id": "1983965341865885696",
+        "conversation_id": "2085085586805907918",
+        "created_at": "2026-08-05T19:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085085586805907918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTMJKdR9LG",
+              "end": 40,
+              "expanded_url": "https://x.com/zudnefukaos/status/2085085586805907918/photo/1",
+              "media_key": "3_2085085576899035136",
+              "start": 17,
+              "url": "https://t.co/yTMJKdR9LG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085085586805907918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我有钱了，一定要在家放一台这个 https://t.co/yTMJKdR9LG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471,
+          "following_count": 847,
+          "like_count": 6359,
+          "listed_count": 4,
+          "media_count": 831,
+          "tweet_count": 6710
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T18:33:01.000Z",
+        "description": "健康快乐成长\n有问题请⬇️\nhttps://t.co/BPA4b2DTYi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoodiesfighter",
+                "end": 37,
+                "expanded_url": "https://ngl.link/hoodiesfighter",
+                "start": 14,
+                "url": "https://t.co/BPA4b2DTYi"
+              }
+            ]
+          }
+        },
+        "id": "1983965341865885696",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046428467479330816/abrofo_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 20,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "zudnefukaos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2083982104275157249",
+    "created_at": "2026-08-02T20:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084008400359174241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084008400359174241",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084008269820121403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2083982104275157249",
+        "created_at": "2026-08-02T20:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084008400359174241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084008400359174241",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084008269820121403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461728708935385088",
+        "conversation_id": "2083982104275157249",
+        "created_at": "2026-08-02T20:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084008269820121403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084008269820121403",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083982104275157249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 这些词如果用于自称那也是非常重量级了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 843,
+          "like_count": 6346,
+          "listed_count": 4,
+          "media_count": 818,
+          "tweet_count": 6638
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "poly、pan/这不是你的错，也不是我们的问题，但是我们需要一些关于小猫的问题/给荒诞留一个位置，然后去吃一顿有黑胡椒、芝士和蜂蜜的水果火腿/🥰喵粒子柚子代糖水水ted",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maj-wind.qbb.moe",
+                "end": 23,
+                "expanded_url": "http://maj-wind.qbb.moe",
+                "start": 0,
+                "url": "https://t.co/ooAlNHfsel"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "location": "休息日欢迎请我打日麻",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2075846918308254166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14863,
+          "following_count": 1194,
+          "like_count": 114701,
+          "listed_count": 37,
+          "media_count": 1237,
+          "tweet_count": 8035
+        },
+        "url": "https://t.co/ooAlNHfsel",
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

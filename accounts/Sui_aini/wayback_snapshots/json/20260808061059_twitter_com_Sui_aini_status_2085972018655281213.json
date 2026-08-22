@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2085964705370386532",
+    "created_at": "2026-08-08T06:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085972018655281213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085972018655281213",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085964705370386532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot 评论区都是对家粉丝发的黑图吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085964705370386532].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085964705370386532",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085964705370386532"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2085964705370386532",
+        "created_at": "2026-08-08T06:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085972018655281213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085972018655281213",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085964705370386532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot 评论区都是对家粉丝发的黑图吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2085147957532209575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 848,
+          "like_count": 6388,
+          "listed_count": 4,
+          "media_count": 842,
+          "tweet_count": 6770
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 480,
+          "like_count": 15158,
+          "listed_count": 9,
+          "media_count": 419,
+          "tweet_count": 5377
+        },
+        "url": "",
+        "username": "Private_plot",
+        "verified": true
+      }
+    ]
+  }
+}

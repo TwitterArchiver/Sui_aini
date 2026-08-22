@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2083786748207808681",
+    "created_at": "2026-08-02T14:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083924643748917474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822014639389003776",
+          "start": 0,
+          "username": "staffyFang0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083924643748917474",
+    "in_reply_to_user_id": "1822014639389003776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083894114651955537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staffyFang0518 我是我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083894114651955537].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083894114651955537",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083894114651955537"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2083786748207808681",
+        "created_at": "2026-08-02T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083924643748917474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822014639389003776",
+              "start": 0,
+              "username": "staffyFang0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083924643748917474",
+        "in_reply_to_user_id": "1822014639389003776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083894114651955537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staffyFang0518 我是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 843,
+          "like_count": 6339,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 6627
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T20:58:50.000Z",
+        "description": "Staffy | English /繁體中文/한국어/Español | Anarchy🚩🏴 |🏳️‍🌈🏳️‍⚧️AroAce-Agender |it/its｜Autism bipolar ADHD|인류학 만세| International anthropology student",
+        "id": "1822014639389003776",
+        "location": "London, England",
+        "name": "Staaaaaaaffffffffy0518🏳️‍⚧️🏳️‍🌈🍉🎗️",
+        "pinned_tweet_id": "1995491435672653999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075564581272100864/O1bqVg4D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 336,
+          "like_count": 7247,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3496
+        },
+        "url": "",
+        "username": "staffyFang0518",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2087967929698746762",
+    "created_at": "2026-08-13T18:26:23.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087969025855013073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000111596371410944",
+          "start": 0,
+          "username": "Chenhj__mussssk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087969025855013073",
+    "in_reply_to_user_id": "2000111596371410944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087967929698746762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenhj__mussssk e+吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2087967929698746762",
+        "created_at": "2026-08-13T18:26:23.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087969025855013073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000111596371410944",
+              "start": 0,
+              "username": "Chenhj__mussssk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087969025855013073",
+        "in_reply_to_user_id": "2000111596371410944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087967929698746762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenhj__mussssk e+吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000111596371410944",
+        "conversation_id": "2087967929698746762",
+        "created_at": "2026-08-13T18:22:01.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087967929698746762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087967929698746762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有日音老资历教教我这个纯小白怎么收票😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2087969025855013073",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 848,
+          "like_count": 6472,
+          "listed_count": 4,
+          "media_count": 862,
+          "tweet_count": 6911
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-14T07:52:32.000Z",
+        "description": "东山再起罢 被献祭的原号 @chenhj_sakana 推友寻回ing 误ban致歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "chenhj_sakana"
+              }
+            ]
+          }
+        },
+        "id": "2000111596371410944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087967929698746762",
+        "name": "晨晖",
+        "pinned_tweet_id": "2000148722723041435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000111596371410944/1765812003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000113285878935552/JdvA5BET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 548,
+          "like_count": 12565,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "Chenhj__mussssk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

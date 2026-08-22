@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2088866432524468709",
+    "created_at": "2026-08-16T06:41:08.000Z",
+    "display_text_range": [
+      21,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088878708811874810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SayoriCat8964"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        },
+        {
+          "end": 26,
+          "id": "1720665183188922368",
+          "start": 21,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088878708811874810",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088866432524468709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SayoriCat8964 @grok @grok 回答她"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088866432524468709].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088866432524468709",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088866432524468709"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2088866432524468709",
+        "created_at": "2026-08-16T06:41:08.000Z",
+        "display_text_range": [
+          21,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088878708811874810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SayoriCat8964"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            },
+            {
+              "end": 26,
+              "id": "1720665183188922368",
+              "start": 21,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088878708811874810",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088866432524468709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SayoriCat8964 @grok @grok 回答她"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2088878708811874810",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 847,
+          "like_count": 6510,
+          "listed_count": 4,
+          "media_count": 885,
+          "tweet_count": 7050
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/双極性障害/BPD/💗@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayoricat8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayoricat8964",
+                "start": 0,
+                "url": "https://t.co/sYom873U47"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "is_identity_verified": false,
+        "location": "小马里亚 马哈顿",
+        "most_recent_tweet_id": "2088644843522445443",
+        "name": "善良纱世理✨",
+        "pinned_tweet_id": "2079755765771026899",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490675894238986251/1786276714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 1313,
+          "like_count": 153205,
+          "listed_count": 13,
+          "media_count": 1762,
+          "tweet_count": 23349
+        },
+        "url": "https://t.co/sYom873U47",
+        "username": "SayoriCat8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088878723378327590",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8971823,
+          "following_count": 6,
+          "like_count": 131,
+          "listed_count": 7362,
+          "media_count": 9261724,
+          "tweet_count": 136063967
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

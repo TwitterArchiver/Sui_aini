@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2085990565825683666",
+    "created_at": "2026-08-08T13:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T14:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086087393946509625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684241711080574976",
+          "start": 0,
+          "username": "KY_SNWAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086087393946509625",
+    "in_reply_to_user_id": "1684241711080574976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086082797526253867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KY_SNWAZ 是跨畜啊，那怪不得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2085990565825683666",
+        "created_at": "2026-08-08T13:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086087393946509625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684241711080574976",
+              "start": 0,
+              "username": "KY_SNWAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086087393946509625",
+        "in_reply_to_user_id": "1684241711080574976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086082797526253867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KY_SNWAZ 是跨畜啊，那怪不得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684241711080574976",
+        "conversation_id": "2085990565825683666",
+        "created_at": "2026-08-08T13:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T14:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086082797526253867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086082797526253867",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085990565825683666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 支持跨畜互撕😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 849,
+          "like_count": 6396,
+          "listed_count": 4,
+          "media_count": 845,
+          "tweet_count": 6794
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T16:38:20.000Z",
+        "description": "十七岁/非二元/青春期阻断剂使用中/无业游民",
+        "id": "1684241711080574976",
+        "location": "Palma, Spain",
+        "name": "KY丶SNWAZ",
+        "pinned_tweet_id": "1723753179148423506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780256438344089600/3ceStlfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 62,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 3258
+        },
+        "url": "",
+        "username": "KY_SNWAZ",
+        "verified": true
+      }
+    ]
+  }
+}

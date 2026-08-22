@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2086336781117706263",
+    "created_at": "2026-08-10T09:55:58.000Z",
+    "display_text_range": [
+      28,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086753412461244818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        },
+        {
+          "end": 27,
+          "id": "2052592592244858880",
+          "start": 16,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086753412461244818",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086710654833221779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 @honoka_520 这是什么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086710654833221779].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086710654833221779",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086710654833221779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2086336781117706263",
+        "created_at": "2026-08-10T09:55:58.000Z",
+        "display_text_range": [
+          28,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086753412461244818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            },
+            {
+              "end": 27,
+              "id": "2052592592244858880",
+              "start": 16,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086753412461244818",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086710654833221779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 @honoka_520 这是什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2086753412461244818",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 850,
+          "like_count": 6406,
+          "listed_count": 4,
+          "media_count": 846,
+          "tweet_count": 6814
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "enby/再听到社群这个词就自刎归天",
+        "id": "1504387273919401987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2072517249366478898",
+        "name": "神谷纱良",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504387273919401987/1764944020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083582769716994048/jZA1xXso_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 409,
+          "like_count": 28210,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 36538
+        },
+        "url": "",
+        "username": "KamiyaSara8972",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "光、Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2065459829729382486",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2079405471669329963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052592592244858880/1778211652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 294,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "honoka_520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

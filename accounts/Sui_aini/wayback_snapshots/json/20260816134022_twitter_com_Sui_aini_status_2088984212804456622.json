@@ -1,0 +1,803 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1232757619615387648",
+          "name": "Babymetal"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1232757619615387648",
+          "name": "Babymetal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232757619615387648",
+          "name": "Babymetal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2088984212804456622",
+    "created_at": "2026-08-16T13:40:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088984212804456622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "767910567071801344",
+          "start": 3,
+          "username": "Kanon_Takao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088984212804456622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088823105057853755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Takao: 本日…⚙️\nSUMMER SONIC 2026 TOKYO！✨\n\n〚SONIC \"METAL\" STAGE \n- Curated by BABYMETAL -〛 \n14:50~出演します🔥\n\nAve Mujica Key. Oblivionis…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1698,
+        "media_key": "3_2088813946992291840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz1N8BbcAA9PAj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2088984212804456622",
+        "created_at": "2026-08-16T13:40:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088984212804456622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "767910567071801344",
+              "start": 3,
+              "username": "Kanon_Takao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088984212804456622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088823105057853755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Takao: 本日…⚙️\nSUMMER SONIC 2026 TOKYO！✨\n\n〚SONIC \"METAL\" STAGE \n- Curated by BABYMETAL -〛 \n14:50~出演します🔥\n\nAve Mujica Key. Oblivionis…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088813946992291840"
+          ]
+        },
+        "author_id": "767910567071801344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232757619615387648",
+              "name": "Babymetal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2088823105057853755",
+        "created_at": "2026-08-16T03:00:11.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:23:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088813953807970541",
+          "2088823105057853755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 175,
+              "start": 163,
+              "tag": "summersonic"
+            },
+            {
+              "end": 182,
+              "start": 177,
+              "tag": "サマソニ"
+            },
+            {
+              "end": 194,
+              "start": 184,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOMpL1dKSk",
+              "end": 218,
+              "expanded_url": "https://x.com/Kanon_Takao/status/2088823105057853755/photo/1",
+              "media_key": "3_2088813946992291840",
+              "start": 195,
+              "url": "https://t.co/JOMpL1dKSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088823105057853755",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088813946992291840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 32420,
+          "like_count": 2252,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "本日…⚙️\nSUMMER SONIC 2026 TOKYO！✨\n\n〚SONIC \"METAL\" STAGE \n- Curated by BABYMETAL -〛 \n14:50~出演します🔥\n\nAve Mujica Key. Oblivionis 🎹🌙\n\n©SUMMER SONIC All Rights Reserved. \n#summersonic \n#サマソニ \n#AveMujica https://t.co/JOMpL1dKSk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2088984212804456622",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 845,
+          "like_count": 6520,
+          "listed_count": 4,
+          "media_count": 889,
+          "tweet_count": 7071
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-23T02:25:21.000Z",
+        "description": "声優です✨ #バンドリ #AveMujica 豊川祥子•オブリビオニス #アニメ100カノ 華暮愛々 #世界最強の後衛 マドカ #たんもし 斎川唯 #灰原くん 星宮陽花里 #アイプラ 白石千紗 #このすば アイリス #NIKKE ミント #ゼンゼロ 南宮羽 #プリコネR プレシア #かのんカフェ #あぐのん #のんひな",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "世界最強の後衛"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "たんもし"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "灰原くん"
+              },
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "アイプラ"
+              },
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "このすば"
+              },
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "ゼンゼロ"
+              },
+              {
+                "end": 135,
+                "start": 129,
+                "tag": "プリコネR"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "tag": "かのんカフェ"
+              },
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "あぐのん"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "のんひな"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ancheri.co.jp/talent/kanon_t…",
+                "end": 23,
+                "expanded_url": "https://ancheri.co.jp/talent/kanon_takao.html",
+                "start": 0,
+                "url": "https://t.co/N3OjnAUcvR"
+              }
+            ]
+          }
+        },
+        "id": "767910567071801344",
+        "is_identity_verified": false,
+        "location": "株式会社アンシェリ　🍀高尾山のんのん村🍀",
+        "most_recent_tweet_id": "2088976409033351562",
+        "name": "高尾奏音",
+        "pinned_tweet_id": "2081004061927829737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/767910567071801344/1776217495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044230408041291776/reFZEh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163474,
+          "following_count": 964,
+          "like_count": 34157,
+          "listed_count": 1556,
+          "media_count": 4052,
+          "tweet_count": 19887
+        },
+        "url": "https://t.co/N3OjnAUcvR",
+        "username": "Kanon_Takao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
