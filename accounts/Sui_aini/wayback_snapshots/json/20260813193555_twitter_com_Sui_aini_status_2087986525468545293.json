@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2087971681218519368",
+    "created_at": "2026-08-13T19:35:55.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087986525468545293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1878828387369926656",
+          "start": 0,
+          "username": "hmj404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087986525468545293",
+    "in_reply_to_user_id": "1878828387369926656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087986258559832566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hmj404 能否看一下我的转发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2087971681218519368",
+        "created_at": "2026-08-13T19:35:55.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087986525468545293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878828387369926656",
+              "start": 0,
+              "username": "hmj404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087986525468545293",
+        "in_reply_to_user_id": "1878828387369926656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087986258559832566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmj404 能否看一下我的转发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878828387369926656",
+        "conversation_id": "2087971681218519368",
+        "created_at": "2026-08-13T19:34:51.000Z",
+        "display_text_range": [
+          10,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087986258559832566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087986258559832566",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087971681218519368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 我理解的主要矛盾点是a认为b偷拍了，b说只是拿着手机（可能在快闪店里拍商品或玩手机），那就该后续民警确认一下，看看手机相册和删除记录里有没有，马上就清楚了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2087986525468545293",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 848,
+          "like_count": 6476,
+          "listed_count": 4,
+          "media_count": 864,
+          "tweet_count": 6918
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T15:36:29.000Z",
+        "description": "如果一个人把政策评分作为自己的至高追求，那么他就是这个政策的牺牲品。",
+        "id": "1878828387369926656",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2087986258559832566",
+        "name": "烬欢Ashley",
+        "pinned_tweet_id": "2087793867169104261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878828387369926656/1780715754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066008787765624834/6pa3K0At_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 125,
+          "like_count": 4541,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "hmj404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

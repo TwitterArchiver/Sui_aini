@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096797563286618112",
+        "3_2096797563290873856",
+        "3_2096797563282456576"
+      ],
+      "media_source_tweet_id": [
+        "2096797569712267771",
+        "2096797569712267771",
+        "2096797569712267771"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2096806571854717148",
+    "created_at": "2026-09-07T03:43:38.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096806571854717148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2023707996623437824",
+          "start": 3,
+          "username": "GoneAngels8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFb1yTAbDR",
+          "end": 128,
+          "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+          "media_key": "3_2096797563286618112",
+          "start": 105,
+          "url": "https://t.co/yFb1yTAbDR"
+        },
+        {
+          "display_url": "pic.x.com/yFb1yTAbDR",
+          "end": 128,
+          "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+          "media_key": "3_2096797563290873856",
+          "start": 105,
+          "url": "https://t.co/yFb1yTAbDR"
+        },
+        {
+          "display_url": "pic.x.com/yFb1yTAbDR",
+          "end": 128,
+          "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+          "media_key": "3_2096797563282456576",
+          "start": 105,
+          "url": "https://t.co/yFb1yTAbDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096806571854717148",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096797563286618112"
+      },
+      {
+        "media_key": "3_2096797563290873856"
+      },
+      {
+        "media_key": "3_2096797563282456576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096797569712267771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GoneAngels8964: 我是莎樂美，以下是我的成分，是半個男娘，品牌最喜歡Secret Honey，有錢就會cosplay，喜歡我的請跟我聊天，我喜歡和有趣的人交朋友，通常沒啥問題就會回Fol https://t.co/yFb1yTAbDR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2096797563286618112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlSRkWagAAHv9K.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096797563290873856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlSRkXbcAA7Fkp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096797563282456576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlSRkVbAAA38v8.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096797563286618112",
+            "3_2096797563290873856",
+            "3_2096797563282456576"
+          ],
+          "media_source_tweet_id": [
+            "2096797569712267771",
+            "2096797569712267771",
+            "2096797569712267771"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2096806571854717148",
+        "created_at": "2026-09-07T03:43:38.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096806571854717148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2023707996623437824",
+              "start": 3,
+              "username": "GoneAngels8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 128,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563286618112",
+              "start": 105,
+              "url": "https://t.co/yFb1yTAbDR"
+            },
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 128,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563290873856",
+              "start": 105,
+              "url": "https://t.co/yFb1yTAbDR"
+            },
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 128,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563282456576",
+              "start": 105,
+              "url": "https://t.co/yFb1yTAbDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096806571854717148",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096797563286618112"
+          },
+          {
+            "media_key": "3_2096797563290873856"
+          },
+          {
+            "media_key": "3_2096797563282456576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096797569712267771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GoneAngels8964: 我是莎樂美，以下是我的成分，是半個男娘，品牌最喜歡Secret Honey，有錢就會cosplay，喜歡我的請跟我聊天，我喜歡和有趣的人交朋友，通常沒啥問題就會回Fol https://t.co/yFb1yTAbDR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096797563286618112",
+            "3_2096797563290873856",
+            "3_2096797563282456576"
+          ]
+        },
+        "author_id": "2023707996623437824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2096797569712267771",
+        "created_at": "2026-09-07T03:07:51.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096797569712267771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 108,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563286618112",
+              "start": 85,
+              "url": "https://t.co/yFb1yTAbDR"
+            },
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 108,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563290873856",
+              "start": 85,
+              "url": "https://t.co/yFb1yTAbDR"
+            },
+            {
+              "display_url": "pic.x.com/yFb1yTAbDR",
+              "end": 108,
+              "expanded_url": "https://x.com/GoneAngels8964/status/2096797569712267771/photo/1",
+              "media_key": "3_2096797563282456576",
+              "start": 85,
+              "url": "https://t.co/yFb1yTAbDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096797569712267771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096797563286618112"
+          },
+          {
+            "media_key": "3_2096797563290873856"
+          },
+          {
+            "media_key": "3_2096797563282456576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是莎樂美，以下是我的成分，是半個男娘，品牌最喜歡Secret Honey，有錢就會cosplay，喜歡我的請跟我聊天，我喜歡和有趣的人交朋友，通常沒啥問題就會回Fol https://t.co/yFb1yTAbDR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2096806571854717148",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 858,
+          "like_count": 6912,
+          "listed_count": 4,
+          "media_count": 959,
+          "tweet_count": 7514
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "🏳️‍⚧️Transgender/Non-binary",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096802791687884961",
+        "name": "小Lain",
+        "pinned_tweet_id": "2096797569712267771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095699403013345280/FwLb5GKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 129,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1239
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

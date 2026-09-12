@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2093908138219184419",
+    "created_at": "2026-08-30T03:46:17.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093908138219184419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093908138219184419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093853302006100332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『名探偵プリキュア』第31話\n\nアフレコ現場には\nマシュタンポーチを連れて\n一緒に見守っておりました。\nるるかちゃんにとっても\nマシュタンにとっても\n大切な日になったと思います。\nみんなの笑顔がみられて\nうれしい気持ちでいっぱいです...✨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093853295999946752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7cep_bkAAmubS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2093908138219184419",
+        "created_at": "2026-08-30T03:46:17.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093908138219184419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093908138219184419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093853302006100332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『名探偵プリキュア』第31話\n\nアフレコ現場には\nマシュタンポーチを連れて\n一緒に見守っておりました。\nるるかちゃんにとっても\nマシュタンにとっても\n大切な日になったと思います。\nみんなの笑顔がみられて\nうれしい気持ちでいっぱいです...✨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093853295999946752"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2093853302006100332",
+        "created_at": "2026-08-30T00:08:23.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093853302006100332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "プリキュア"
+            },
+            {
+              "end": 148,
+              "start": 140,
+              "tag": "precure"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "たんプリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wRbMyKEpp",
+              "end": 178,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2093853302006100332/photo/1",
+              "media_key": "3_2093853295999946752",
+              "start": 155,
+              "url": "https://t.co/5wRbMyKEpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093853302006100332",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093853295999946752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 147375,
+          "like_count": 8364,
+          "quote_count": 32,
+          "reply_count": 85,
+          "retweet_count": 2217
+        },
+        "reply_settings": "everyone",
+        "text": "『名探偵プリキュア』第31話\n\nアフレコ現場には\nマシュタンポーチを連れて\n一緒に見守っておりました。\nるるかちゃんにとっても\nマシュタンにとっても\n大切な日になったと思います。\nみんなの笑顔がみられて\nうれしい気持ちでいっぱいです...✨\nおかえり、アルカナ✨\n\n#プリキュア #precure #たんプリ https://t.co/5wRbMyKEpp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2093908138219184419",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 851,
+          "like_count": 6737,
+          "listed_count": 4,
+          "media_count": 939,
+          "tweet_count": 7367
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093853302006100332",
+        "name": "羊宮妃那",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476931325646884879/1640962955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252452,
+          "following_count": 317,
+          "like_count": 1971,
+          "listed_count": 1804,
+          "media_count": 203,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

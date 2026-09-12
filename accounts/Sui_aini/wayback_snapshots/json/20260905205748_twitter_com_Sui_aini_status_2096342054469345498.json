@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2096254731895407082",
+    "created_at": "2026-09-05T20:57:48.000Z",
+    "display_text_range": [
+      12,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T21:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096342054469345498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614219417541578757",
+          "start": 0,
+          "username": "feiwuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096342054469345498",
+    "in_reply_to_user_id": "1614219417541578757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096254731895407082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feiwuuuuuu 好像是看号的权重，有些能看到引用，有些看不到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2096254726212079616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdkkSqa0AADMDJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2096254731895407082",
+        "created_at": "2026-09-05T20:57:48.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096342054469345498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614219417541578757",
+              "start": 0,
+              "username": "feiwuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096342054469345498",
+        "in_reply_to_user_id": "1614219417541578757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096254731895407082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feiwuuuuuu 好像是看号的权重，有些能看到引用，有些看不到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096254726212079616"
+          ]
+        },
+        "author_id": "1614219417541578757",
+        "conversation_id": "2096254731895407082",
+        "created_at": "2026-09-05T15:10:49.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096254731895407082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YdNY8kVVTg",
+              "end": 54,
+              "expanded_url": "https://x.com/feiwuuuuuu/status/2096254731895407082/photo/1",
+              "media_key": "3_2096254726212079616",
+              "start": 31,
+              "url": "https://t.co/YdNY8kVVTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096254731895407082",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096254726212079616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在推特已经不让人看引用推文了吗？明明看到有人引用了的... https://t.co/YdNY8kVVTg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2096342054469345498",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 857,
+          "like_count": 6875,
+          "listed_count": 4,
+          "media_count": 957,
+          "tweet_count": 7485
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-14T11:15:13.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈｜🍟🍔｜😽🐹",
+        "id": "1614219417541578757",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096278193837924765",
+        "name": "散木🏳️‍⚧️",
+        "pinned_tweet_id": "1997320427761529336",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614219417541578757/1696535334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093949697438408705/1U8n32F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 826,
+          "like_count": 24401,
+          "listed_count": 3,
+          "media_count": 461,
+          "tweet_count": 2056
+        },
+        "url": "",
+        "username": "feiwuuuuuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

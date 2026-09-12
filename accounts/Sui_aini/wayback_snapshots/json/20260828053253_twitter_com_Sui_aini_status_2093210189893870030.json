@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2093210189893870030",
+    "created_at": "2026-08-28T05:32:53.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093210189893870030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure8964a/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shigure8964a/status/2092996006719660507",
+          "start": 4,
+          "url": "https://t.co/kVOkJ6XBhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093210189893870030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092996006719660507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你魔了 https://t.co/kVOkJ6XBhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2093210189893870030",
+        "created_at": "2026-08-28T05:32:53.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093210189893870030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure8964a/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shigure8964a/status/2092996006719660507",
+              "start": 4,
+              "url": "https://t.co/kVOkJ6XBhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093210189893870030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092996006719660507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你魔了 https://t.co/kVOkJ6XBhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2092996006719660507",
+        "created_at": "2026-08-27T15:21:48.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092996006719660507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092996006719660507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3870,
+          "like_count": 25,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我承认我说的很多信息都是假的，至于哪个是真的你们自己猜吧，我搁这里鉴证还说真实信息？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2093210189893870030",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 854,
+          "like_count": 6696,
+          "listed_count": 4,
+          "media_count": 933,
+          "tweet_count": 7323
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "📕🌈|INTP-A|自发毛主义|左翼共产主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "is_identity_verified": false,
+        "location": "中华公社",
+        "most_recent_tweet_id": "2093176582072611204",
+        "name": "時雨☭Leftcom🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2087767031273893902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986828541930119168/1773817315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091095507284447232/D0y3DsEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 689,
+          "like_count": 8321,
+          "listed_count": 8,
+          "media_count": 728,
+          "tweet_count": 9637
+        },
+        "url": "",
+        "username": "shigure8964a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

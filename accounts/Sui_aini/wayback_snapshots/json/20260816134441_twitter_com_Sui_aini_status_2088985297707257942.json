@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2088914034364236150",
+    "created_at": "2026-08-16T13:44:41.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088985297707257942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1934663702349017088",
+          "start": 0,
+          "username": "ally37to"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088985297707257942",
+    "in_reply_to_user_id": "1934663702349017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088925587960463594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ally37to 感觉要佩戴什么监护仪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2088914034364236150",
+        "created_at": "2026-08-16T13:44:41.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088985297707257942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934663702349017088",
+              "start": 0,
+              "username": "ally37to"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088985297707257942",
+        "in_reply_to_user_id": "1934663702349017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088925587960463594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ally37to 感觉要佩戴什么监护仪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934663702349017088",
+        "conversation_id": "2088914034364236150",
+        "created_at": "2026-08-16T09:47:25.000Z",
+        "display_text_range": [
+          10,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088925587960463594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088925587960463594",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088914034364236150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 检查的范围有限，或者某些症状是偶发性的检查的时候没发现，检查结果没事只代表检查项在当时没事。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2088985297707257942",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 845,
+          "like_count": 6520,
+          "listed_count": 4,
+          "media_count": 889,
+          "tweet_count": 7072
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T17:25:59.000Z",
+        "description": "因你而在的故事。",
+        "id": "1934663702349017088",
+        "is_identity_verified": false,
+        "location": "Beijing&Tianjin",
+        "most_recent_tweet_id": "2088979546234085879",
+        "name": "Ally",
+        "pinned_tweet_id": "2085317693931180056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934663702349017088/1783127175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074762557500633088/Vs0HWhgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 61,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "ally37to",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2086382633232318843",
+    "created_at": "2026-08-09T09:22:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T10:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086382633232318843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086382633232318843",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086374131466137615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『LuckyFes'26』DAY2\n\nMyGO!!!!!だからこその音楽を\n燈ちゃんとして精一杯叫びました。\n初出演の「LuckyFes」もまた\n野外フェスの素敵な思い出の1ページです。\nこれからも、燈ちゃんたちの歩いていく道のりを\n見守って…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086374069474304000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRKKX-aIAAxCra.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086374069172350976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRKKW2asAAU78t.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086374069117829120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRKKWpawAA9LrO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2086382633232318843",
+        "created_at": "2026-08-09T09:22:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086382633232318843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086382633232318843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086374131466137615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『LuckyFes'26』DAY2\n\nMyGO!!!!!だからこその音楽を\n燈ちゃんとして精一杯叫びました。\n初出演の「LuckyFes」もまた\n野外フェスの素敵な思い出の1ページです。\nこれからも、燈ちゃんたちの歩いていく道のりを\n見守って…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086374069474304000",
+            "3_2086374069172350976",
+            "3_2086374069117829120"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2086374131466137615",
+        "created_at": "2026-08-09T08:48:50.000Z",
+        "display_text_range": [
+          0,
+          168
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086374131466137615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 153,
+              "tag": "LuckyFes"
+            },
+            {
+              "end": 168,
+              "start": 163,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Db4iba7Sst",
+              "end": 192,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2086374131466137615/photo/1",
+              "media_key": "3_2086374069474304000",
+              "start": 169,
+              "url": "https://t.co/Db4iba7Sst"
+            },
+            {
+              "display_url": "pic.x.com/Db4iba7Sst",
+              "end": 192,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2086374131466137615/photo/1",
+              "media_key": "3_2086374069172350976",
+              "start": 169,
+              "url": "https://t.co/Db4iba7Sst"
+            },
+            {
+              "display_url": "pic.x.com/Db4iba7Sst",
+              "end": 192,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/2086374131466137615/photo/1",
+              "media_key": "3_2086374069117829120",
+              "start": 169,
+              "url": "https://t.co/Db4iba7Sst"
+            },
+            {
+              "display_url": "x.com/aoni_official/…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/aoni_official/status/2086372927638028401",
+              "start": 193,
+              "url": "https://t.co/nr3xDqFxHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086374131466137615",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086374069474304000"
+          },
+          {
+            "media_key": "3_2086374069172350976"
+          },
+          {
+            "media_key": "3_2086374069117829120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 30982,
+          "like_count": 1770,
+          "quote_count": 9,
+          "reply_count": 45,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086372927638028401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "『LuckyFes'26』DAY2\n\nMyGO!!!!!だからこその音楽を\n燈ちゃんとして精一杯叫びました。\n初出演の「LuckyFes」もまた\n野外フェスの素敵な思い出の1ページです。\nこれからも、燈ちゃんたちの歩いていく道のりを\n見守っていただけましたら幸いです✨\n本日も、ありがとうございました！\n\n#LuckyFes #MyGO https://t.co/Db4iba7Sst https://t.co/nr3xDqFxHe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2086382633232318843",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 848,
+          "like_count": 6398,
+          "listed_count": 4,
+          "media_count": 845,
+          "tweet_count": 6801
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/yomiya-…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/yomiya-hina.html",
+                "start": 0,
+                "url": "https://t.co/Jf7D3eWRie"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086374131466137615",
+        "name": "羊宮妃那",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1476931325646884879/1640962955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250572,
+          "following_count": 317,
+          "like_count": 1971,
+          "listed_count": 1795,
+          "media_count": 197,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/Jf7D3eWRie",
+        "username": "Hina_Youmiya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2090849027516776853",
+    "created_at": "2026-08-21T19:06:59.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090878346213388713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768309380108406784",
+          "start": 0,
+          "username": "abaablon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090878346213388713",
+    "in_reply_to_user_id": "1768309380108406784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090849027516776853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abaablon 全是诡辩啊。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2090849027516776853",
+        "created_at": "2026-08-21T19:06:59.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090878346213388713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768309380108406784",
+              "start": 0,
+              "username": "abaablon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090878346213388713",
+        "in_reply_to_user_id": "1768309380108406784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090849027516776853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abaablon 全是诡辩啊。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768309380108406784",
+        "conversation_id": "2090849027516776853",
+        "created_at": "2026-08-21T17:10:28.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090849027516776853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090849027516776853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌amber（已block）但是其实她说的很多东西我觉得还挺对的（小声）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）/小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2090878346213388713",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 848,
+          "like_count": 6602,
+          "listed_count": 4,
+          "media_count": 913,
+          "tweet_count": 7217
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "❤️平等 科学 自由☀️\n激进(顺)男(同)权 坚决反对剥夺童权",
+        "id": "1768309380108406784",
+        "is_identity_verified": false,
+        "location": "kuishuu",
+        "most_recent_tweet_id": "2090853727951544629",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1981677439614087425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1768309380108406784/1758065748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002788092428836865/obEOgkd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 459,
+          "like_count": 32904,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "abaablon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

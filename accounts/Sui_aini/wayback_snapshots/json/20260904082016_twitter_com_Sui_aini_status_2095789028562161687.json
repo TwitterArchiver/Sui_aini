@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2095789028562161687",
+    "created_at": "2026-09-04T08:20:16.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095789028562161687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "250062335",
+          "start": 3,
+          "username": "kidanit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095789028562161687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095725232141262997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kidanit: 何か凄い。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2095789028562161687",
+        "created_at": "2026-09-04T08:20:16.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095789028562161687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "250062335",
+              "start": 3,
+              "username": "kidanit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095789028562161687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095725232141262997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kidanit: 何か凄い。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "250062335",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2095725232141262997",
+        "created_at": "2026-09-04T04:06:46.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095725232141262997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/highland_sh/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/highland_sh/status/2094387227761754598",
+              "start": 9,
+              "url": "https://t.co/FZ81rr3VWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095725232141262997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 37123,
+          "like_count": 489,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094387227761754598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何か凄い。。。。 https://t.co/FZ81rr3VWq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2095789028562161687",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 858,
+          "like_count": 6836,
+          "listed_count": 4,
+          "media_count": 952,
+          "tweet_count": 7457
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/881797398393004032/2TTSwzDd_bigger.jpg",
+          "description": "ブシロード公式",
+          "url": "https://twitter.com/bushi_PR",
+          "user_id": [
+            "498788645"
+          ]
+        },
+        "created_at": "2011-02-10T10:22:30.000Z",
+        "description": "ブシロードの木谷です。コンテンツ開発の「前線」から「最前線」へ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad.com",
+                "end": 22,
+                "expanded_url": "http://bushiroad.com",
+                "start": 0,
+                "url": "http://t.co/A5VpAgW4vA"
+              }
+            ]
+          }
+        },
+        "id": "250062335",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095725232141262997",
+        "name": "木谷高明",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879594058531749888/4Wkj-Cyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109204,
+          "following_count": 391,
+          "like_count": 52,
+          "listed_count": 1438,
+          "media_count": 2005,
+          "tweet_count": 51705
+        },
+        "url": "http://t.co/A5VpAgW4vA",
+        "username": "kidanit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

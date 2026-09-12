@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094092882080931840"
+      ],
+      "media_source_tweet_id": [
+        "2094092889685184619"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2094152086808318055",
+    "created_at": "2026-08-30T19:55:39.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094152086808318055"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 101,
+          "tag": "こもれびじかん"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1902302237352980481",
+          "start": 3,
+          "username": "komorebi_jikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZy4tSBfzb",
+          "end": 139,
+          "expanded_url": "https://x.com/komorebi_jikan/status/2094092889685184619/photo/1",
+          "media_key": "3_2094092882080931840",
+          "start": 116,
+          "url": "https://t.co/AZy4tSBfzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094152086808318055",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094092882080931840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094092889685184619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @komorebi_jikan: 『羊宮妃那のこもれびじかん』🌳\n第74回放送もお聴きいただきありがとうございました🐿️\n\nお菓子を冷凍庫に入れることを共感してもらえて得意げな羊宮さんです❄️\n\n#こもれびじかん #羊宮妃那 https://t.co/AZy4tSBfzb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2094092882080931840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-2YZsboAA4HnG.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094092882080931840"
+          ],
+          "media_source_tweet_id": [
+            "2094092889685184619"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2094152086808318055",
+        "created_at": "2026-08-30T19:55:39.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094152086808318055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 101,
+              "tag": "こもれびじかん"
+            },
+            {
+              "end": 115,
+              "start": 110,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1902302237352980481",
+              "start": 3,
+              "username": "komorebi_jikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZy4tSBfzb",
+              "end": 139,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2094092889685184619/photo/1",
+              "media_key": "3_2094092882080931840",
+              "start": 116,
+              "url": "https://t.co/AZy4tSBfzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094152086808318055",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094092882080931840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094092889685184619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @komorebi_jikan: 『羊宮妃那のこもれびじかん』🌳\n第74回放送もお聴きいただきありがとうございました🐿️\n\nお菓子を冷凍庫に入れることを共感してもらえて得意げな羊宮さんです❄️\n\n#こもれびじかん #羊宮妃那 https://t.co/AZy4tSBfzb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094092882080931840"
+          ]
+        },
+        "author_id": "1902302237352980481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2094092889685184619",
+        "created_at": "2026-08-30T16:00:25.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094092889685184619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "こもれびじかん"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZy4tSBfzb",
+              "end": 119,
+              "expanded_url": "https://x.com/komorebi_jikan/status/2094092889685184619/photo/1",
+              "media_key": "3_2094092882080931840",
+              "start": 96,
+              "url": "https://t.co/AZy4tSBfzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094092889685184619",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094092882080931840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 10519,
+          "like_count": 768,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "『羊宮妃那のこもれびじかん』🌳\n第74回放送もお聴きいただきありがとうございました🐿️\n\nお菓子を冷凍庫に入れることを共感してもらえて得意げな羊宮さんです❄️\n\n#こもれびじかん #羊宮妃那 https://t.co/AZy4tSBfzb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2094152086808318055",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 851,
+          "like_count": 6753,
+          "listed_count": 4,
+          "media_count": 943,
+          "tweet_count": 7391
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T10:12:58.000Z",
+        "description": "ラジオ番組公式Xアカウント\n文化放送地上波(radiko)にて毎週日曜24:30～25:00放送\nカルチェラでアーカイブとこもればなしを配信中！\n\nメール：komorebi@joqr.net\nフォーム：https://t.co/qAD2ORywQM\n#こもれびじかん\n\n※ラジオや写真等の無断転載はご遠慮ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 125,
+                "tag": "こもれびじかん"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "form.run/@komorebi",
+                "end": 124,
+                "expanded_url": "https://form.run/@komorebi",
+                "start": 101,
+                "url": "https://t.co/qAD2ORywQM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "culuchera.stores.play.jp",
+                "end": 23,
+                "expanded_url": "https://culuchera.stores.play.jp/",
+                "start": 0,
+                "url": "https://t.co/PFofhpyqKY"
+              }
+            ]
+          }
+        },
+        "id": "1902302237352980481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094092889685184619",
+        "name": "羊宮妃那のこもれびじかん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902302237352980481/1787537882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905469206323494912/U5feN3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10769,
+          "following_count": 4,
+          "like_count": 4,
+          "listed_count": 73,
+          "media_count": 184,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/PFofhpyqKY",
+        "username": "komorebi_jikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
