@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099872507113472000"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099866941993443453",
+    "created_at": "2026-09-15T14:46:36.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099872516089192863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ac3Zx9BZs",
+          "end": 57,
+          "expanded_url": "https://x.com/Sui_aini/status/2099872516089192863/photo/1",
+          "media_key": "3_2099872507113472000",
+          "start": 34,
+          "url": "https://t.co/0ac3Zx9BZs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099872516089192863",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099872507113472000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099866941993443453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分都是保安个人行为吧只能说，但也有些是主办方完全没有契约精神的 https://t.co/0ac3Zx9BZs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2099872507113472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQ-62wbgAApWRn.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099872507113472000"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099866941993443453",
+        "created_at": "2026-09-15T14:46:36.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099872516089192863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ac3Zx9BZs",
+              "end": 57,
+              "expanded_url": "https://x.com/Sui_aini/status/2099872516089192863/photo/1",
+              "media_key": "3_2099872507113472000",
+              "start": 34,
+              "url": "https://t.co/0ac3Zx9BZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099872516089192863",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099872507113472000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099866941993443453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分都是保安个人行为吧只能说，但也有些是主办方完全没有契约精神的 https://t.co/0ac3Zx9BZs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337471181788614658",
+              "name": "Jolin Tsai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337471181788614658",
+              "name": "Jolin Tsai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337471181788614658",
+              "name": "Jolin Tsai"
+            }
+          }
+        ],
+        "conversation_id": "2099866941993443453",
+        "created_at": "2026-09-15T14:24:27.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099866941993443453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QueerLawWatchC…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2099615130216505598",
+              "start": 101,
+              "url": "https://t.co/XPZvDmI70m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099866941993443453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099615130216505598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为单依纯有很多酷儿粉丝，这就是针对 queer queen的围剿，包括像前年蔡依林全国演唱会也是这样，还有很多国外LGBT ally小众乐队在国内开巡演，明明票卖的很好，但多多少少也都会被不可抗力掉 https://t.co/XPZvDmI70m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我有个屁的新生活，一辈子活在那人的阴影下//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2099872516089192863",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 861,
+          "like_count": 7051,
+          "listed_count": 4,
+          "media_count": 995,
+          "tweet_count": 7660
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

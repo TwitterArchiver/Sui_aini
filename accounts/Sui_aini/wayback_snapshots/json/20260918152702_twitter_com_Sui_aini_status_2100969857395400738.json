@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100941283837833216"
+      ],
+      "media_source_tweet_id": [
+        "2100963065298874458"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "conversation_id": "2100969857395400738",
+    "created_at": "2026-09-18T15:27:02.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100969857395400738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 23,
+          "tag": "藤都子生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1712839187546992640",
+          "start": 3,
+          "username": "miyako_yumemita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFfM8NGGjl",
+          "end": 61,
+          "expanded_url": "https://x.com/miyako_yumemita/status/2100963065298874458/video/1",
+          "media_key": "13_2100941283837833216",
+          "start": 38,
+          "url": "https://t.co/yFfM8NGGjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100969857395400738",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2100941283837833216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100963065298874458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyako_yumemita: ✨🦆#藤都子生誕祭2026 🦆✨ https://t.co/yFfM8NGGjl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25634,
+        "height": 1080,
+        "media_key": "13_2100941283837833216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100941283837833216/img/mH4PwqIlm2U-gLDf.jpg",
+        "public_metrics": {
+          "view_count": 4185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100941283837833216/vid/avc1/640x360/iGPXU1BD2xW2oIVN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100941283837833216/pl/vdIQLVzYkRYC2DOU.m3u8?v=0dd"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100941283837833216/vid/avc1/1280x720/l-IenEqXSt_nf5NA.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100941283837833216/vid/avc1/480x270/0XIiyBirpf1Lg8Ng.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100941283837833216/vid/avc1/1920x1080/heO1ZoDvasvvXk8r.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100941283837833216"
+          ],
+          "media_source_tweet_id": [
+            "2100963065298874458"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2100969857395400738",
+        "created_at": "2026-09-18T15:27:02.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100969857395400738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "藤都子生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1712839187546992640",
+              "start": 3,
+              "username": "miyako_yumemita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFfM8NGGjl",
+              "end": 61,
+              "expanded_url": "https://x.com/miyako_yumemita/status/2100963065298874458/video/1",
+              "media_key": "13_2100941283837833216",
+              "start": 38,
+              "url": "https://t.co/yFfM8NGGjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100969857395400738",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100941283837833216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 461
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100963065298874458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyako_yumemita: ✨🦆#藤都子生誕祭2026 🦆✨ https://t.co/yFfM8NGGjl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100941283837833216"
+          ]
+        },
+        "author_id": "1712839187546992640",
+        "conversation_id": "2100963065298874458",
+        "created_at": "2026-09-18T15:00:03.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100963065298874458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 2,
+              "tag": "藤都子生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFfM8NGGjl",
+              "end": 40,
+              "expanded_url": "https://x.com/miyako_yumemita/status/2100963065298874458/video/1",
+              "media_key": "13_2100941283837833216",
+              "start": 17,
+              "url": "https://t.co/yFfM8NGGjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100963065298874458",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100941283837833216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 11927,
+          "like_count": 1292,
+          "quote_count": 15,
+          "reply_count": 194,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "✨🦆#藤都子生誕祭2026 🦆✨ https://t.co/yFfM8NGGjl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我有个屁的新生活，一辈子活在那人的阴影下//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2100969857395400738",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 864,
+          "like_count": 7112,
+          "listed_count": 4,
+          "media_count": 1002,
+          "tweet_count": 7717
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-13T14:34:45.000Z",
+        "description": "夢限大みゅーたいぷ @BDP_yumemita key.\n健康まんが家•イラストレーター💪🐶🍤 \n📖ちゃおプラスにて #マジるる 連載中♪\n🏷️総合 #みるみやこ FA #かくみやこ ログ #みやこが描いた\n💜Instagram https://t.co/xUJSRpiiET",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "マジるる"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "tag": "みるみやこ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "かくみやこ"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "みやこが描いた"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "BDP_yumemita"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/38_385_popo",
+                "end": 138,
+                "expanded_url": "https://www.instagram.com/38_385_popo",
+                "start": 115,
+                "url": "https://t.co/xUJSRpiiET"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@miyako_yumemi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@miyako_yumemita",
+                "start": 0,
+                "url": "https://t.co/qYNlly7tvN"
+              }
+            ]
+          }
+        },
+        "id": "1712839187546992640",
+        "is_identity_verified": true,
+        "location": "♰🥮🏺🦆♰",
+        "most_recent_tweet_id": "2100963065298874458",
+        "name": "藤都子",
+        "pinned_tweet_id": "1976958282242965858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712839187546992640/1716250957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722603009677701120/ive9TlKN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65821,
+          "following_count": 88,
+          "like_count": 52559,
+          "listed_count": 341,
+          "media_count": 1688,
+          "tweet_count": 10478
+        },
+        "url": "https://t.co/qYNlly7tvN",
+        "username": "miyako_yumemita",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

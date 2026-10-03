@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2098757658002264570",
+    "created_at": "2026-09-12T13:59:06.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098773398830891427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684226518690697223",
+          "start": 0,
+          "username": "gongyao1186890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098773398830891427",
+    "in_reply_to_user_id": "1684226518690697223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098761244958503042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongyao1186890 喷射"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098761244958503042].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098761244958503042",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098761244958503042"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2098757658002264570",
+        "created_at": "2026-09-12T13:59:06.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098773398830891427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684226518690697223",
+              "start": 0,
+              "username": "gongyao1186890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098773398830891427",
+        "in_reply_to_user_id": "1684226518690697223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098761244958503042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongyao1186890 喷射"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我有个屁的新生活，一辈子活在那人的阴影下//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2098773398830891427",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 861,
+          "like_count": 7008,
+          "listed_count": 4,
+          "media_count": 979,
+          "tweet_count": 7589
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T15:38:36.000Z",
+        "description": "一生还有多少次眼泪可以用于许愿的机会\n被shadowban的我@Verrrrse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Verrrrse"
+              }
+            ]
+          }
+        },
+        "id": "1684226518690697223",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098659375447417273",
+        "name": "idk",
+        "pinned_tweet_id": "2096790371145863522",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089340489619443713/rk7RhhID_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 186,
+          "like_count": 2441,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1184
+        },
+        "url": "",
+        "username": "gongyao1186890",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

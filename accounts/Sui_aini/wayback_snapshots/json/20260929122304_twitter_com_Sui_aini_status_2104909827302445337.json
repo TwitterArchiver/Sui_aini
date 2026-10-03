@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104856914907865089"
+      ],
+      "media_source_tweet_id": [
+        "2104873823892103333"
+      ]
+    },
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2104909827302445337",
+    "created_at": "2026-09-29T12:23:04.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104909827302445337"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "家団"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044999225755238400",
+          "start": 3,
+          "username": "DumbRock_ofc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QxZtu6BhwY",
+          "end": 120,
+          "expanded_url": "https://x.com/DumbRock_ofc/status/2104873823892103333/photo/1",
+          "media_key": "3_2104856914907865089",
+          "start": 97,
+          "url": "https://t.co/QxZtu6BhwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104909827302445337",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104856914907865089"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 861
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104873823892103333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DumbRock_ofc: ＼MV公開決定🎉／\n\n🏠一家Dumb Rock!\n「ピースフル・ピーシーズ！」MV\n\n9/30(水) 19:00に公開📢\nお楽しみに✌\n\n#バンドリ #家団 https://t.co/QxZtu6BhwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2104856914907865089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTX0NkwboAEqaRu.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104856914907865089"
+          ],
+          "media_source_tweet_id": [
+            "2104873823892103333"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2104909827302445337",
+        "created_at": "2026-09-29T12:23:04.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104909827302445337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "家団"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044999225755238400",
+              "start": 3,
+              "username": "DumbRock_ofc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxZtu6BhwY",
+              "end": 120,
+              "expanded_url": "https://x.com/DumbRock_ofc/status/2104873823892103333/photo/1",
+              "media_key": "3_2104856914907865089",
+              "start": 97,
+              "url": "https://t.co/QxZtu6BhwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104909827302445337",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104856914907865089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 861
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104873823892103333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DumbRock_ofc: ＼MV公開決定🎉／\n\n🏠一家Dumb Rock!\n「ピースフル・ピーシーズ！」MV\n\n9/30(水) 19:00に公開📢\nお楽しみに✌\n\n#バンドリ #家団 https://t.co/QxZtu6BhwY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104856914907865089"
+          ]
+        },
+        "author_id": "2044999225755238400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2104873823892103333",
+        "created_at": "2026-09-29T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104873823892103333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "家団"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxZtu6BhwY",
+              "end": 102,
+              "expanded_url": "https://x.com/DumbRock_ofc/status/2104873823892103333/photo/1",
+              "media_key": "3_2104856914907865089",
+              "start": 79,
+              "url": "https://t.co/QxZtu6BhwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104873823892103333",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104856914907865089"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 43190,
+          "like_count": 2648,
+          "quote_count": 71,
+          "reply_count": 0,
+          "retweet_count": 861
+        },
+        "reply_settings": "everyone",
+        "text": "＼MV公開決定🎉／\n\n🏠一家Dumb Rock!\n「ピースフル・ピーシーズ！」MV\n\n9/30(水) 19:00に公開📢\nお楽しみに✌\n\n#バンドリ #家団 https://t.co/QxZtu6BhwY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "人妖（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2104909827302445337",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 865,
+          "like_count": 7351,
+          "listed_count": 4,
+          "media_count": 1051,
+          "tweet_count": 8007
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T04:41:21.000Z",
+        "description": "始めようか、マイ・ファミリー！「バンドリ！」から生まれた新バンド「一家Dumb Rock!」の公式アカウントです。9月30日(水)に1st Singleリリース！\n#バンドリ #家団\n\nhttps://t.co/ZkHxzKsHxd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 82,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 91,
+                "start": 88,
+                "tag": "家団"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@DumbRock_ofc",
+                "end": 116,
+                "expanded_url": "https://www.youtube.com/@DumbRock_ofc",
+                "start": 93,
+                "url": "https://t.co/ZkHxzKsHxd"
+              }
+            ]
+          }
+        },
+        "id": "2044999225755238400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104874073482281417",
+        "name": "一家Dumb Rock!",
+        "pinned_tweet_id": "2095844329415696417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044999225755238400/1782459306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070410469089935360/v2EfpRSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24294,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 87,
+          "media_count": 140,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "DumbRock_ofc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

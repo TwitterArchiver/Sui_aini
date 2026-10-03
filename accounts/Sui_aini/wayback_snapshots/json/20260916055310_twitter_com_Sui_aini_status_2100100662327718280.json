@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2100017203219509374",
+    "created_at": "2026-09-16T05:53:10.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100100662327718280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100100662327718280",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100086819677417756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 好久没玩了，上次打派还是去年十月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2100017203219509374",
+        "created_at": "2026-09-16T05:53:10.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100100662327718280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100100662327718280",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100086819677417756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 好久没玩了，上次打派还是去年十月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2100017203219509374",
+        "created_at": "2026-09-16T04:58:10.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100086819677417756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100086819677417756",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100068556025237842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini zdjd，一起打白金吗。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我有个屁的新生活，一辈子活在那人的阴影下//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2100100662327718280",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 861,
+          "like_count": 7059,
+          "listed_count": 4,
+          "media_count": 997,
+          "tweet_count": 7673
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "翎\n\n❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/pYdrb2uDT",
+                "end": 23,
+                "expanded_url": "https://discord.gg/pYdrb2uDT",
+                "start": 0,
+                "url": "https://t.co/cRxTMrVAns"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100087188994347285",
+        "name": "A3phys1a",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044319134326964224/1788034398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094588907669315584/Xw_Q-I15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 506,
+          "like_count": 29715,
+          "listed_count": 5,
+          "media_count": 633,
+          "tweet_count": 4715
+        },
+        "url": "https://t.co/cRxTMrVAns",
+        "username": "RETURN8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

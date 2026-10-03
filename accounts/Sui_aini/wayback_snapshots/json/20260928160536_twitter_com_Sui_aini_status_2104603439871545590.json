@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2104570965179138339",
+    "created_at": "2026-09-28T16:05:36.000Z",
+    "display_text_range": [
+      16,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104603439871545590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "845907957434888192",
+          "start": 0,
+          "username": "crystallovecht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104603439871545590",
+    "in_reply_to_user_id": "845907957434888192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104594273417220329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crystallovecht 笑了，我在骂那些退而求其次的人，你应激什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2104570965179138339",
+        "created_at": "2026-09-28T16:05:36.000Z",
+        "display_text_range": [
+          16,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104603439871545590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "845907957434888192",
+              "start": 0,
+              "username": "crystallovecht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104603439871545590",
+        "in_reply_to_user_id": "845907957434888192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104594273417220329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crystallovecht 笑了，我在骂那些退而求其次的人，你应激什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845907957434888192",
+        "conversation_id": "2104570965179138339",
+        "created_at": "2026-09-28T15:29:10.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104594273417220329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104594273417220329",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104570965179138339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 作为一个mtx，我只能说\n我的性别认同并不需要你的认同"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2104603439871545590",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 866,
+          "like_count": 7342,
+          "listed_count": 4,
+          "media_count": 1049,
+          "tweet_count": 7984
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-26T07:59:08.000Z",
+        "description": "清水/Mtx/全世界找朋友ing/孤独的摄影师\n请好好待自己 与自己和解 一生追求平权\n纯绿无门槛/同类互fo，忘fo请提醒我谢谢\n照片发不完 坚持周更 偶尔发发小动物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/crystallovecht",
+                "end": 23,
+                "expanded_url": "https://ngl.link/crystallovecht",
+                "start": 0,
+                "url": "https://t.co/0XiVDaILgo"
+              }
+            ]
+          }
+        },
+        "id": "845907957434888192",
+        "is_identity_verified": false,
+        "location": "需要提问 请点这里👉",
+        "most_recent_tweet_id": "2104599770052591937",
+        "name": "慕心🍊🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2101101417712984099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845907957434888192/1784442704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099463238476070912/Mf0Ht0je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 314,
+          "like_count": 1661,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/0XiVDaILgo",
+        "username": "crystallovecht",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2103738861394518488",
+    "created_at": "2026-09-26T06:50:04.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103738861394518488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008532643202359296",
+          "start": 3,
+          "username": "rosesnokia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103738861394518488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1520
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103635006065135746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosesnokia: i really hate how goth women have been changed into a bimbo stereotype in the public eye"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2103738861394518488",
+        "created_at": "2026-09-26T06:50:04.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103738861394518488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008532643202359296",
+              "start": 3,
+              "username": "rosesnokia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103738861394518488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103635006065135746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosesnokia: i really hate how goth women have been changed into a bimbo stereotype in the public eye"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008532643202359296",
+        "conversation_id": "2103635006065135746",
+        "created_at": "2026-09-25T23:57:23.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T00:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103635006065135746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkchyu/statu…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/pinkchyu/status/2103238968850747590",
+              "start": 89,
+              "url": "https://t.co/ebzEYsl9Uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103635006065135746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 628,
+          "impression_count": 496610,
+          "like_count": 25974,
+          "quote_count": 13,
+          "reply_count": 121,
+          "retweet_count": 1520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103238968850747590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i really hate how goth women have been changed into a bimbo stereotype in the public eye https://t.co/ebzEYsl9Uu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2103738861394518488",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 862,
+          "like_count": 7256,
+          "listed_count": 4,
+          "media_count": 1039,
+          "tweet_count": 7951
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T13:36:33.000Z",
+        "description": "fka: @riubz | priv: @domiroes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 5,
+                "username": "riubz"
+              },
+              {
+                "end": 29,
+                "start": 20,
+                "username": "domiroes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/palestine",
+                "end": 23,
+                "expanded_url": "http://lnk.bio/palestine",
+                "start": 0,
+                "url": "https://t.co/gowQIVfLK4"
+              }
+            ]
+          }
+        },
+        "id": "2008532643202359296",
+        "is_identity_verified": false,
+        "location": "• 20 - 🇯🇵🇳🇱🏳️‍⚧️ - •",
+        "most_recent_tweet_id": "2103654189335285845",
+        "name": "rose 🍓",
+        "pinned_tweet_id": "2008966674658283868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008532643202359296/1784660990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050294424324689920/du76XOMC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 814,
+          "like_count": 27795,
+          "listed_count": 6,
+          "media_count": 185,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/gowQIVfLK4",
+        "username": "rosesnokia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

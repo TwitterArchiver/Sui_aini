@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722396837957632",
+          "name": "Nao Toyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722396837957632",
+          "name": "Nao Toyama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722396837957632",
+          "name": "Nao Toyama"
+        }
+      }
+    ],
+    "conversation_id": "2103437465675817283",
+    "created_at": "2026-09-25T10:52:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T11:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103437465675817283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "東山奈央"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "779185457158467584",
+          "start": 3,
+          "username": "naobou_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103437465675817283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103424270361919567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naobou_official: 🎤コラボ楽曲紹介\n\n4thフルアルバム🌈\n『OVER THE RAINBOW』\n╰┈┈┈┈┈ ୨♡୧ ┈┈┈┈┈╯\n\nコラボCD収録楽曲を\n5日連続でお届け中💫\n\nDAY3\n#羊宮妃那 さん × #東山奈央\n🌕月がきれい✨\n\n明日もお楽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30058,
+        "height": 720,
+        "media_key": "13_2102450787800805376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102450787800805376/img/MFXEAkt8ggfPemVs.jpg",
+        "public_metrics": {
+          "view_count": 5742
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102450787800805376/vid/avc1/480x270/6aSQ9SIYQiU_CTtd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102450787800805376/vid/avc1/640x360/Udq2aNPjhUNmiljT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102450787800805376/vid/avc1/1280x720/MiEWPYMfZd9Fs5JF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102450787800805376/pl/Fwd_kU9PbOqq39DY.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          }
+        ],
+        "conversation_id": "2103437465675817283",
+        "created_at": "2026-09-25T10:52:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103437465675817283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "東山奈央"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "779185457158467584",
+              "start": 3,
+              "username": "naobou_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103437465675817283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103424270361919567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naobou_official: 🎤コラボ楽曲紹介\n\n4thフルアルバム🌈\n『OVER THE RAINBOW』\n╰┈┈┈┈┈ ୨♡୧ ┈┈┈┈┈╯\n\nコラボCD収録楽曲を\n5日連続でお届け中💫\n\nDAY3\n#羊宮妃那 さん × #東山奈央\n🌕月がきれい✨\n\n明日もお楽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102450787800805376"
+          ]
+        },
+        "author_id": "779185457158467584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722396837957632",
+              "name": "Nao Toyama"
+            }
+          }
+        ],
+        "conversation_id": "2103424270361919567",
+        "created_at": "2026-09-25T10:00:00.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103424270361919567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "東山奈央"
+            }
+          ],
+          "urls": [
+            {
+              "description": "これまでの歌手活動を“レインボー”と表現しその向こう側へ歩みを進めていく東山が、支えてくれたすべての人へ感謝と希望を込めた、歌手活動休止前最後のフルアルバム。",
+              "display_url": "jvcmusic.co.jp/flyingdog/toya…",
+              "end": 155,
+              "expanded_url": "https://www.jvcmusic.co.jp/flyingdog/toyamanao/10th/OVER_THE_RAINBOW/",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2102381055705849856/JY8i8SPp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102381055705849856/JY8i8SPp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "東山奈央 4thフルアルバム「OVER THE RAINBOW」特設サイト",
+              "unwound_url": "https://www.jvcmusic.co.jp/flyingdog/toyamanao/10th/OVER_THE_RAINBOW/",
+              "url": "https://t.co/JpqIsz73nw"
+            },
+            {
+              "display_url": "pic.x.com/5yWgTabNnM",
+              "end": 187,
+              "expanded_url": "https://x.com/naobou_official/status/2103424270361919567/video/1",
+              "media_key": "13_2102450787800805376",
+              "start": 164,
+              "url": "https://t.co/5yWgTabNnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103424270361919567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2102450787800805376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 26049,
+          "like_count": 853,
+          "quote_count": 26,
+          "reply_count": 9,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "🎤コラボ楽曲紹介\n\n4thフルアルバム🌈\n『OVER THE RAINBOW』\n╰┈┈┈┈┈ ୨♡୧ ┈┈┈┈┈╯\n\nコラボCD収録楽曲を\n5日連続でお届け中💫\n\nDAY3\n#羊宮妃那 さん × #東山奈央\n🌕月がきれい✨\n\n明日もお楽しみに👀\n\n🛒ご予約受付中\nhttps://t.co/JpqIsz73nw\n\n（スタッフ） https://t.co/5yWgTabNnM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2103437465675817283",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 864,
+          "like_count": 7239,
+          "listed_count": 4,
+          "media_count": 1037,
+          "tweet_count": 7944
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-23T05:07:44.000Z",
+        "description": "声優・歌手 東山奈央の公式アカウント。2027年3月11日(木) 10th Anniv. Final Live「OVER THE RAINBOW」at日本武道館 開催決定🌈 https://t.co/wiyr4scjp7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jvcmusic.co.jp/flyingdog/toya…",
+                "end": 110,
+                "expanded_url": "https://www.jvcmusic.co.jp/flyingdog/toyamanao/10th/",
+                "start": 87,
+                "url": "https://t.co/wiyr4scjp7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toyamanao.com",
+                "end": 23,
+                "expanded_url": "http://toyamanao.com",
+                "start": 0,
+                "url": "https://t.co/6u9GIaJciH"
+              }
+            ]
+          }
+        },
+        "id": "779185457158467584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103424270361919567",
+        "name": "東山奈央 オフィシャル",
+        "pinned_tweet_id": "2100026888324530251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/779185457158467584/1770552784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050864965272387584/HMvMD46f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505932,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 6113,
+          "media_count": 3317,
+          "tweet_count": 13404
+        },
+        "url": "https://t.co/6u9GIaJciH",
+        "username": "naobou_official",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

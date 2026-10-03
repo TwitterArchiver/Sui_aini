@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2102784448932827158",
+    "created_at": "2026-09-23T16:09:22.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102792447231455717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076292469667532800",
+          "start": 0,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102792447231455717",
+    "in_reply_to_user_id": "2076292469667532800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102792171883790546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SankakuFuu3 是我害死的，行了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2102784448932827158",
+        "created_at": "2026-09-23T16:09:22.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102792447231455717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076292469667532800",
+              "start": 0,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102792447231455717",
+        "in_reply_to_user_id": "2076292469667532800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102792171883790546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SankakuFuu3 是我害死的，行了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2102784448932827158",
+        "created_at": "2026-09-23T16:08:16.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102792171883790546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102792171883790546",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102784448932827158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 把亲密关系都给解构了的末人, rei不会是你害死的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2102792447231455717",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 862,
+          "like_count": 7170,
+          "listed_count": 4,
+          "media_count": 1025,
+          "tweet_count": 7878
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "",
+        "id": "2076292469667532800",
+        "is_identity_verified": false,
+        "location": "守恒与虚无之地",
+        "most_recent_tweet_id": "2102792171883790546",
+        "name": "三角　楓🍥#参宿七",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076292469667532800/1783870999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 343,
+          "like_count": 1357,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

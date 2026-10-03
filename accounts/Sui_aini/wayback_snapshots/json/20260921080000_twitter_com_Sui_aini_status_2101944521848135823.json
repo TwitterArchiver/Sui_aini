@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1913084413942145024",
+    "conversation_id": "2101944521848135823",
+    "created_at": "2026-09-21T08:00:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101944521848135823"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 20,
+          "tag": "アワーノーツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1990633723885465602",
+          "start": 3,
+          "username": "bang_dream_on"
+        },
+        {
+          "end": 90,
+          "id": "1622948883382013955",
+          "start": 76,
+          "username": "hanamiya_nina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/iMgpER",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/iMgpER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101944521848135823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 890
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101884124923580737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_on: 📢#アワーノーツ 正式リリースまで後3日！\n\n本日は一家Dumb Rock!のBa.矢倉 蓬咲役、花宮 初奈さん(@hanamiya_nina)のカウントダウン動画を公開✌️\n\n▼事前登録はこちらから\nhttps://t.co/iMgpER…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57306,
+        "height": 1080,
+        "media_key": "13_2101692346933100544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101692346933100544/img/VsesOGvLOxv9F6rA.jpg",
+        "public_metrics": {
+          "view_count": 29830
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101692346933100544/vid/avc1/640x360/Wx9G77vYK8oEgUL2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101692346933100544/pl/9k80DTfGLx4V-QYW.m3u8?v=f47"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101692346933100544/vid/avc1/1280x720/Z03CpRjIjAc6L9Bh.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101692346933100544/vid/avc1/1920x1080/WVZ19EJlyELqEGD9.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101692346933100544/vid/avc1/480x270/Ktl89G4xz-hZPuKs.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2101944521848135823",
+        "created_at": "2026-09-21T08:00:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101944521848135823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "アワーノーツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1990633723885465602",
+              "start": 3,
+              "username": "bang_dream_on"
+            },
+            {
+              "end": 90,
+              "id": "1622948883382013955",
+              "start": 76,
+              "username": "hanamiya_nina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/iMgpER",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/iMgpER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101944521848135823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 890
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101884124923580737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_on: 📢#アワーノーツ 正式リリースまで後3日！\n\n本日は一家Dumb Rock!のBa.矢倉 蓬咲役、花宮 初奈さん(@hanamiya_nina)のカウントダウン動画を公開✌️\n\n▼事前登録はこちらから\nhttps://t.co/iMgpER…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101692346933100544"
+          ]
+        },
+        "author_id": "1990633723885465602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2101884124923580737",
+        "created_at": "2026-09-21T04:00:01.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101884124923580737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 1,
+              "tag": "アワーノーツ"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1622948883382013955",
+              "start": 57,
+              "username": "hanamiya_nina"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！がおくる新作リズムゲーム「BanG Dream! Our Notes（アワーノーツ）」の事前登録ページです。",
+              "display_url": "bang-dream-on.bushimo.jp/pre-register/",
+              "end": 124,
+              "expanded_url": "https://bang-dream-on.bushimo.jp/pre-register/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2101161404552069121/CO4D_owL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101161404552069121/CO4D_owL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "事前登録受付中 - BanG Dream! Our Notes",
+              "unwound_url": "https://bang-dream-on.bushimo.jp/pre-register/",
+              "url": "https://t.co/iMgpERtIyF"
+            },
+            {
+              "display_url": "pic.x.com/EIYUyou2Hu",
+              "end": 155,
+              "expanded_url": "https://x.com/bang_dream_on/status/2101884124923580737/video/1",
+              "media_key": "13_2101692346933100544",
+              "start": 132,
+              "url": "https://t.co/EIYUyou2Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101884124923580737",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2101692346933100544",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 102298,
+          "like_count": 3675,
+          "quote_count": 50,
+          "reply_count": 1,
+          "retweet_count": 890
+        },
+        "reply_settings": "everyone",
+        "text": "📢#アワーノーツ 正式リリースまで後3日！\n\n本日は一家Dumb Rock!のBa.矢倉 蓬咲役、花宮 初奈さん(@hanamiya_nina)のカウントダウン動画を公開✌️\n\n▼事前登録はこちらから\nhttps://t.co/iMgpERtIyF\n\n#バンドリ https://t.co/EIYUyou2Hu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我有个屁的新生活，一辈子活在那人的阴影下//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2101944521848135823",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 870,
+          "like_count": 7156,
+          "listed_count": 4,
+          "media_count": 1012,
+          "tweet_count": 7773
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2082827306335371265/XeH4bms6_bigger.jpg",
+          "description": "バンドリ！ BanG Dream! 公式",
+          "url": "https://twitter.com/bang_dream_info",
+          "user_id": [
+            "3009772568"
+          ]
+        },
+        "created_at": "2025-11-18T04:11:15.000Z",
+        "description": "「バンドリ！アワーノーツ」の公式アカウントです。 #アワーノーツ の最新情報をお届けします。9月24日（木）世界同時リリース決定！事前登録受付中。\n事前登録キャンペーンサイトはこちら▶https://t.co/DfLj6XKtrJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 25,
+                "tag": "アワーノーツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp/pre-register/",
+                "end": 115,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/pre-register/",
+                "start": 92,
+                "url": "https://t.co/DfLj6XKtrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 23,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/",
+                "start": 0,
+                "url": "https://t.co/L3fVZlgyfN"
+              }
+            ]
+          }
+        },
+        "id": "1990633723885465602",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101944527380758931",
+        "name": "バンドリ！アワーノーツ - 事前登録受付中",
+        "pinned_tweet_id": "2099109148063662536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990633723885465602/1789306518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099129792411107328/YXZKvaDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142176,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 312,
+          "media_count": 348,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/L3fVZlgyfN",
+        "username": "bang_dream_on",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-07T13:24:32.000Z",
+        "description": "青二プロダクション新人声優の(はなみやにいな)です。\n #ラブライブ！#蓮ノ空 乙宗梢役 /#バンドリ 矢倉蓬咲役/#逃げ上手の若君 魅摩役 /#コードギアス #ロススト マリーカ役/#ばっどがーる 水鳥亜鳥役/#NIKKE ツバイ役/ラジオ #217find! 写真が苦手です…。\n ※スタッフとの共同運営です。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 28,
+                "tag": "ラブライブ"
+              },
+              {
+                "end": 39,
+                "start": 35,
+                "tag": "蓮ノ空"
+              },
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "逃げ上手の若君"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "コードギアス"
+              },
+              {
+                "end": 85,
+                "start": 80,
+                "tag": "ロススト"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "tag": "ばっどがーる"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "tag": "217find"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp/search/hanamiy…",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp/search/hanamiya-niina.html",
+                "start": 0,
+                "url": "https://t.co/rrzTpD9t1B"
+              }
+            ]
+          }
+        },
+        "id": "1622948883382013955",
+        "is_identity_verified": false,
+        "location": "えびぷと🦐",
+        "most_recent_tweet_id": "2101269391539396741",
+        "name": "花宮初奈",
+        "pinned_tweet_id": "2095829477024796702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622948883382013955/1743477440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906908257375137792/nxHod3pr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116497,
+          "following_count": 106,
+          "like_count": 252,
+          "listed_count": 2332,
+          "media_count": 254,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/rrzTpD9t1B",
+        "username": "hanamiya_nina",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
